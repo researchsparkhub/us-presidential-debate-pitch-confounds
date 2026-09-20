@@ -1,0 +1,35 @@
+# Consolidated dependencies for the full pipeline (01_ingest through
+# 06_analysis, analysis_llm_extension, Sahana Project). Versions match
+# analysis_llm_extension/requirements.txt where both list the same package;
+# packages below that are not version-pinned were not pinned in the
+# original working environment and should be installed at a recent version
+# compatible with the pinned packages above them.
+#
+#   pip install -r requirements.txt
+#   python -m spacy download en_core_web_sm
+
+# Core data/scientific stack
+numpy==2.4.6
+scipy==1.18.0
+scikit-learn==1.9.0
+pandas==3.0.5
+matplotlib==3.11.1
+seaborn
+statsmodels==0.14.6
+
+# Acoustic feature extraction
+praat-parselmouth==0.4.7
+opensmile==2.6.0
+librosa==0.11.0
+soundfile
+
+# Linguistic / semantic / discourse feature extraction
+spacy
+vaderSentiment
+empath
+sentence-transformers
+syllapy
+rapidfuzz
+
+# LLM-based annotation and cross-modal prediction
+anthropic==0.120.2

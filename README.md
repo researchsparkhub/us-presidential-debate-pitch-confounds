@@ -37,23 +37,52 @@ report/                 The paper (journal and IEEE-style versions), figures,
                         bibliography
 ```
 
-## What's not included, and why
+## Getting the data
 
-**Audio is not redistributed.** The debates are broadcast recordings; we do
-not have redistribution rights, and this repository does not include them.
-See `DATA_AVAILABILITY.md` for what that means for reproducing the acoustic
-pipeline from scratch, and where to source the recordings yourself.
+- **Already in this repo**: debate/candidate/outcome metadata
+  (`data/metadata/debates.csv`), official transcripts (`data/transcripts/`),
+  and every derived feature table the paper's statistics actually run on
+  (`outputs/`). If you want to reproduce the *analysis*, you already have
+  everything you need — skip straight to the "Reproducing the analysis"
+  section below.
+- **Not in this repo**: the raw debate audio. These are broadcast
+  recordings we don't hold redistribution rights to. **See
+  [`DATA_AVAILABILITY.md`](DATA_AVAILABILITY.md) for exactly where to
+  download each debate's recording (Commission on Presidential Debates and
+  C-SPAN archive links, matched to the `debate_audio_id`/date columns in
+  `debates.csv`) and where to place it if you want to reproduce the
+  *acoustic pipeline from raw audio*.**
 
-An earlier, superseded draft of this work (a different corpus scope, before
-the analysis settled on the 24-debate window) is not included here to avoid
-two versions of the paper circulating with different numbers.
+## Setup
 
-## Reproducing the pipeline
+```bash
+git clone <this-repo-url>
+cd debate_analysis
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+```
+
+The LLM-based stages (discourse tagging, cross-modal prediction) additionally
+require an `ANTHROPIC_API_KEY` environment variable — see
+`DATA_AVAILABILITY.md`.
+
+## Reproducing the analysis
+
+Everything from `data/metadata/debates.csv` and `outputs/` onward needs no
+audio:
+
+```bash
+python 06_analysis/winner_loser_analysis.py   # the paper's statistical results
+python 06_analysis/generate_report_plots.py   # the paper's figures
+```
+
+## Reproducing the full pipeline from raw audio
 
 Each numbered directory is one pipeline stage; later stages read the
 outputs of earlier ones. Stage 2 (forced alignment) requires the source
 audio described in `DATA_AVAILABILITY.md` and a working Montreal Forced
-Aligner installation. From `data/metadata/debates.csv` onward:
+Aligner installation.
 
 ```bash
 python 01_ingest/build_debates_metadata.py
@@ -68,6 +97,12 @@ Tool versions and parameter settings for every stage are listed in the
 paper's Appendix C; the LLM prompts and schemas used for discourse tagging
 and cross-modal prediction are in `Sahana Project/` and
 `analysis_llm_extension/`, and specified in full in Appendix G.
+
+## Not included
+
+An earlier, superseded draft of this work (a different corpus scope, before
+the analysis settled on the 24-debate window) is not included here to avoid
+two versions of the paper circulating with different numbers.
 
 ## The paper
 
