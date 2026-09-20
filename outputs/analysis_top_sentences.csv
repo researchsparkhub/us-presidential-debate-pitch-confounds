@@ -1,0 +1,21 @@
+sentence_id,direction,winner_direction_score,result,speaker,year,debate_audio_id,sentence_text
+1023_t0093_s001,winner,0.34784296,winner,Barack Obama,2012,1023,"First of all, I think it’s important for Governor Romney to present this plan that he says will only affect folks in the future."
+1023_t0152_s001,winner,0.3324323,winner,Barack Obama,2012,1023,Governor Romney said this has to be done on a bipartisan basis.
+1023_t0151_s010,winner,0.31060386,loser,Mitt Romney,2012,1023,"I think something this big, this important has to be done on a bipartisan basis."
+1026_t0118_s002,winner,0.30681187,winner,Barack Obama,2012,1026,And the — the central question at this point is going to be: Who is going to be credible to all parties involved?
+1034_w0182,winner,0.30466667,winner,Donald Trump,2024,1034,"Okay, and Gregory, what kind of style, what kind of debate style should she present?"
+1022_t0088_s001,winner,0.30460474,winner,Barack Obama,2008,1022,"Bob, I think it’s going to be important to just — I’ll respond to these two particular allegations that Senator McCain has made and that have gotten a lot of attention."
+1018_t0041_s004,winner,0.3037953,winner,George W. Bush,2004,1018,"I understand there’s great differences on this issue of abortion, but I believe reasonable people can come together and put good law in place that will help reduce the number of abortions."
+1014_t0113_s007,winner,0.29977992,winner,George W. Bush,2000,1014,"And what I think needs to happen in order to encourage the young to become involved is to shoot straight, is to set aside the partisan differences, and set an agenda that will make sense."
+1033_t0184_s010,winner,0.29695338,loser,Donald Trump,2020,1033,"It’s near the election, because she thinks it helps her politically."
+1034_w1975,winner,0.29640844,loser,Joe Biden,2024,1034,That's what her plan is until just recently.
+1031_t0333_s001,loser,-0.40064314,winner,Joe Biden,2020,1031,Because you weren’t president-
+1036_w1121,loser,-0.37979844,loser,Kamala Harris,2024,1036,And many presidents had tried to get it back.
+1031_t0337_s001,loser,-0.37818983,winner,Joe Biden,2020,1031,You’re the worst president America has ever had.
+1027_t0206_s010,loser,-0.36483574,winner,Donald Trump,2016,1027,And then you wouldn’t have had them.
+1010_t0084_s002,loser,-0.35820526,winner,Bill Clinton,1996,1010,We lost a lot of manufacturing jobs in the 12 years before I became President.
+1023_t0088_s007,loser,-0.35396153,winner,Barack Obama,2012,1023,My grandparents did.
+1036_w2176,loser,-0.34970167,winner,Donald Trump,2024,1036,I named me a single major country president who didn't trade places with the United States of America for all our problems and all our opportunities.
+1018_t0111_s019,loser,-0.33901465,winner,George W. Bush,2004,1018,There was only four of us there.
+1025_t0265_s020,loser,-0.33201972,winner,Barack Obama,2012,1025,When my grandfather fought in World War II and he came back and he got a G.
+1034_w1934,loser,-0.33137545,loser,Joe Biden,2024,1034,I built one of the greatest economies in the history of the world.

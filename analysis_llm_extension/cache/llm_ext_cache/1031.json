@@ -1,0 +1,7310 @@
+{
+ "debate_id": "1031",
+ "year": "2020",
+ "candidates": [
+  "Joe Biden",
+  "Donald Trump"
+ ],
+ "results": {
+  "Joe Biden": "winner",
+  "Donald Trump": "loser"
+ },
+ "winner": "Joe Biden",
+ "n_sentences": 1805,
+ "descriptors": {
+  "Joe Biden": {
+   "Mean pitch": -0.1964,
+   "Pitch SD (Hz)": -0.0569,
+   "Pitch range (Hz)": 0.0535,
+   "Loudness": -0.2185,
+   "Voice clarity (Praat)": 0.2471,
+   "Pause duration": 0.1357,
+   "Pause count": 0.1511,
+   "Mean pause length": 0.1075,
+   "Speech rate": -0.0972,
+   "Articulation rate (w/s)": -0.0769,
+   "Syllable rate": -0.0477,
+   "Articulation rate (syll/s)": -0.0484,
+   "Semitone pitch SD/mean": 0.035,
+   "Semitone 20-80 pitch range": -0.0395,
+   "Voice clarity (openSMILE)": 0.2033,
+   "Clauses": 0.0791,
+   "Subordinate clauses": 0.0848,
+   "Parse depth": 0.0662,
+   "Dependency length": 0.0024,
+   "Words per sentence": 0.0559,
+   "Word length": -0.0134,
+   "Function words": 0.012,
+   "1st-person pronouns": -0.0868,
+   "2nd-person pronouns": -0.1423,
+   "3rd-person pronouns": 0.022,
+   "Nouns": 0.0712,
+   "Verbs": -0.0511,
+   "Adjectives": 0.0352,
+   "Adverbs": 0.0031,
+   "Reading ease": -0.0295,
+   "Grade level": 0.0644,
+   "Sentiment": 0.0145,
+   "Positive sentiment": 0.0496,
+   "Negative sentiment": 0.0144
+  },
+  "Donald Trump": {
+   "Mean pitch": 0.1637,
+   "Pitch SD (Hz)": 0.0474,
+   "Pitch range (Hz)": -0.0445,
+   "Loudness": 0.1819,
+   "Voice clarity (Praat)": -0.2056,
+   "Pause duration": -0.1129,
+   "Pause count": -0.1258,
+   "Mean pause length": -0.0894,
+   "Speech rate": 0.0809,
+   "Articulation rate (w/s)": 0.064,
+   "Syllable rate": 0.0397,
+   "Articulation rate (syll/s)": 0.0403,
+   "Semitone pitch SD/mean": -0.0291,
+   "Semitone 20-80 pitch range": 0.0329,
+   "Voice clarity (openSMILE)": -0.1692,
+   "Clauses": -0.0654,
+   "Subordinate clauses": -0.0701,
+   "Parse depth": -0.0548,
+   "Dependency length": -0.002,
+   "Words per sentence": -0.0462,
+   "Word length": 0.0111,
+   "Function words": -0.0099,
+   "1st-person pronouns": 0.0718,
+   "2nd-person pronouns": 0.1177,
+   "3rd-person pronouns": -0.0182,
+   "Nouns": -0.0589,
+   "Verbs": 0.0422,
+   "Adjectives": -0.0291,
+   "Adverbs": -0.0026,
+   "Reading ease": 0.0244,
+   "Grade level": -0.0533,
+   "Sentiment": -0.012,
+   "Positive sentiment": -0.041,
+   "Negative sentiment": -0.0119
+  }
+ },
+ "transcript_turns": [
+  {
+   "speaker": "Joe Biden",
+   "text": "How you doing, man?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "How are you doing?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m well."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Thank you very much, Chris."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I will tell you very simply."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We won the election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Elections have consequences."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have the Senate, we have the White House, and we have a phenomenal nominee respected by all."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Top, top academic, good in every way."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Good in every way."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "In fact, some of her biggest endorsers are very liberal people from Notre Dame and other places."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So I think she\u2019s going to be fantastic."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have plenty of time."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Even if we did it after the election itself."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I have a lot of time after the election, as you know."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So I think that she will be outstanding."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "She\u2019s going to be as good as anybody that has served on that court."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We really feel that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have a professor at Notre Dame, highly respected by all, said she\u2019s the single greatest student he\u2019s ever had."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He\u2019s been a professor for a long time at a great school."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And we won the election and therefore we have the right to choose her, and very few people knowingly would say otherwise."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And by the way, the Democrats, they wouldn\u2019t even think about not doing it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The only difference is they\u2019d try and do it faster."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There\u2019s no way they would give it up."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They had Merrick Garland, but the problem is they didn\u2019t have the election so they were stopped."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And probably that would happen in reverse, also."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Definitely would happen in reverse."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So we won the election and we have the right to do it, Chris."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, first of all, thank you for doing this and looking forward to this, Mr."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "President."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Thank you, Joe."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The American people have a right to have a say in who the Supreme Court nominee is and that say occurs when they vote for United States Senators and when they vote for the President of United States."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re not going to get that chance now because we\u2019re in the middle of an election already."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The election has already started."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Tens of thousands of people already voted and so the thing that should happen is we should wait."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We should wait and see what the outcome of this election is because that\u2019s the only way the American people get to express their view is by who they elect as President and who they elect as Vice President."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Now, what\u2019s at stake here is the President\u2019s made it clear, he wants to get rid of the Affordable Care Act."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s been running on that, he ran on that and he\u2019s been governing on that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s in the Supreme Court right now trying to get rid of the Affordable Care Act, which will strip 20 million people from having health insurance now, if it goes into court."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And the justice, I\u2019m not opposed to the justice, she seems like a very fine person."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "But she\u2019s written, before she went in the bench, which is her right, that she thinks that the Affordable Care Act is not Constitutional."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The other thing that\u2019s on the court, and if it\u2019s struck down, what happens?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Women\u2019s rights are fundamentally changed."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Once again, a woman could pay more money because she has a pre-existing condition of pregnancy."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re able to charge women more for the same exact procedure a man gets."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And that ended when we, in fact, passed the Affordable Care Act, and there\u2019s a hundred million people who have pre-existing conditions and they\u2019ll be taken away as well."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Those pre-existing conditions, insurance companies are going to love this."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And so it\u2019s just not appropriate to do this before this election."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If he wins the election and the Senate is Republican, then he goes forward."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If not, we should wait until February."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There aren\u2019t a hundred million people with pre-existing conditions."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "As far as a say is concerned, the people already had their say."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Okay, Justice Ginsburg said very powerfully, very strongly, at some point 10 years ago or so, she said a President and the Senate is elected for a period of time, but a President is elected for four years."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019re not elected for three years."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m not elected for three years."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So we have the Senate, we have a President-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s elected to the next election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "During that period of time, during that period of time, we have an opening."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m not elected for three years."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m elected for four years."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Joe, the hundred million people is totally wrong."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t know where you got that number."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The bigger problem that you have is that you\u2019re going to extinguish 180 million people with their private health care, that they\u2019re very happy with."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s simply not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, you\u2019re certainly going to socialist."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re going to socialist medicine-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Open discussion."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number one, he knows what I proposed."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What I proposed is that we expand Obamacare and we increase it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We do not wipe any."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And one of the big debates we had with 23 of my colleagues trying to win the nomination that I won, were saying that Biden wanted to allow people to have private insurance still."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They can."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They do."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They will under my proposal."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s not what you\u2019ve said and it\u2019s not what your party is saying."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is simply a lie."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Your party doesn\u2019t say it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Your party wants to go socialist medicine and socialist healthcare."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The party is me."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Right now, I am the Democratic Party."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And they\u2019re going to dominate you, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I am the Democratic Party right now."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Not according to Harris."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The platform of the Democratic Party is what I, in fact, approved of, what I approved of."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Now, here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The deal is that it\u2019s going to wipe out pre-existing conditions."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And, by the way, the 200,000 people that have died on his watch, how many of those have survived?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, there\u2019s seven million people that contracted COVID."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What does it mean for them going forward if you strike down the Affordable Care Act?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Joe, you\u2019ve had 308,000 military people dying because you couldn\u2019t provide them proper healthcare in the military."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So don\u2019t tell me about this."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m happy to talk about this."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And if you were here, it wouldn\u2019t be 200, it would be two million people because you were very late on the draw."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You didn\u2019t want me to ban China, which was heavily infected."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You didn\u2019t want me to ban Europe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You would have been much later, Joe, much later."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019re talking about two million people."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You\u2019re not going to be able to shut him up."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Let me finish."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The point is that the President also is opposed to Roe V."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Wade."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s on the ballot as well and the court, in the court, and so that\u2019s also at stake right now."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And so the election is all-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t know what\u2019s on the ballot."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why is it on the ballot?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why is it on the ballot?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s not on the ballot."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s on the ballot in the court."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t think so."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "In the court."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There\u2019s nothing happening there."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Donald would you just be quiet for a minute."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t know her view on Roe V."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Wade?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t know her view."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "All right."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s right."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because they want to give good healthcare."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Good healthcare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Yes, I have."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Of course, I have."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The individual mandate."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Excuse me."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I got rid of the individual mandate, which was a big chunk of Obamacare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That is absolutely a big thing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That was the worst part of Obamacare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Chris, that was the worst part of Obamacare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, I\u2019ll ask Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The individual mandate was the most unpopular aspect of Obamacare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I got rid of it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And we will protect people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Go ahead."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, first of all, I guess I\u2019m debating you, not him, but that\u2019s okay."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m not surprised."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Let me just tell you something."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There\u2019s nothing symbolic."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m cutting drug prices."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m going with Favored Nations, which no President has the courage to do because you\u2019re going against big pharma."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Drug prices will be coming down 80 or 90%."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You could have done it during your 47-year period in government, but you didn\u2019t do it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Nobody\u2019s done it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So we\u2019re cutting healthcare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "All of the things that we\u2019ve done."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He has not done healthcare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ll give you an example."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Insulin, it was destroying families, destroying people, the cost."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m getting it for so cheap it\u2019s like water, you want to know the truth."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So cheap."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Take a look at all of the drugs that what we\u2019re doing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Prescription drug prices, we\u2019re going to allow our Governors now to go to other countries to buy drugs because when they paid just a tiny fraction of what we do."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is big stuff."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yes."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It is not."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s not what your party says, by the way."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It does not."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s only for those people who are so poor they qualify for Medicaid they can get that free in most States, except Governors who want to deny people who are poor Medicaid."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Anyone who qualifies for Medicaid would automatically be enrolled in the public option."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The vast majority of the American people would still not be in that option."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number one."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number two."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Joe, you agreed with Bernie Sanders, who\u2019s far left, on the manifesto, we call it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And that gives you socialized medicine."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look, hey."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Are you saying you didn\u2019t agree?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m not going to listen to him."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The fact of the matter is I beat Bernie Sanders."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Not by much."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I beat him by a whole hell of a lot."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Not by much."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m here standing facing you, old buddy."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If Pocahontas would have left two days early you would have lost every primary."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "All he knows how to do-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "On Super Tuesday, you got very lucky."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look he\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I got very lucky."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m going to get very lucky tonight as well."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "With what?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And tonight I\u2019m going to make sure."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "With what?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because here\u2019s the deal, here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The fact is that everything he\u2019s saying so far is simply a lie."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m not here to call out his lies."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Everybody knows he\u2019s a liar."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But you agree."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Joe, you\u2019re the liar."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You graduated last in your class not first in your class."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "God, I want to make sure-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No, he doesn\u2019t know how to do that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019d be surprised."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019d be surprised."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Go ahead, Joe."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The wrong guy, the wrong night, at the wrong time."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Listen, you agreed with Bernie Sanders and the manifesto."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "There is no manifesto, number one."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number two."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He just lost the left."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number two."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You just lost the left."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You agreed with Bernie Sanders on a plan that you absolutely agreed to and under that plan , they call it socialized medicine."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019ll tell you what, he is not for any help for people needing healthcare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Who is, Bernie?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because he, in fact, already has cost 10 million people their healthcare that they had from their employers because of his recession."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number one."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number two, there are 20 million people getting healthcare through Obamacare now that he wants to take it away."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He won\u2019t ever look you in the eye and say that\u2019s what he wants to do."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Take it away."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "No, I want to give them better healthcare at a much lower price, because Obamacare is no good."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He doesn\u2019t know how."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He doesn\u2019t know how to do that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ve already fixed it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He has never offered a plan."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve already fixed it to an extent."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Obamacare, as you might know but probably don\u2019t, Obamacare is no good."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Obamacare is no good."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We made it better and I had a choice to make very early on."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We took away the individual mandate."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We guaranteed pre-existing conditions, but took away the individual mandate."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Listen, this is the way it is."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And that destroyed \u2026 They shouldn\u2019t even call it Obamacare, then I had a choice to make, do I let my people run it really well or badly?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If I run it badly, they\u2019ll probably blame him, but they\u2019ll blame me."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But more importantly, I want to help people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Okay."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I said, \u201cYou\u2019ve got to run it so well."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d And I just had a meeting with them."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They said the problem is, no matter how well you run Obamacare, it\u2019s a disaster."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s too expensive."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Premiums are too high, that it doesn\u2019t work."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So we do want to get rid of it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Chris, we want to get rid of that and give something that\u2019s cheaper and better."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Go ahead."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Good."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He has no plan for healthcare."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Of course, we do."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He sends out wishful thinking."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He has Executive Orders that have no power."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He hasn\u2019t lowered drug costs for anybody."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s been promising a healthcare plan since he got elected."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He has none, like almost everything else he talks about."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He does not have a plan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He doesn\u2019t have a plan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And the fact is this man doesn\u2019t know what he\u2019s talking about."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Sure."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Whatever position I take on that, that\u2019ll become the issue."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The issue is the American people should speak."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You should go out and vote."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You\u2019re voting now."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Vote and let your Senators know how strongly you feel."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Are you going to pack the court?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Vote now."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Are you going to pack the court?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Make sure you, in fact, let people know, your Senators."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He doesn\u2019t want to answer the question."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m not going to answer the question."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why wouldn\u2019t you answer that question?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You want to put a lot of new Supreme Court Justices."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Radical left."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Will you shut up, man?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Listen, who is on your list, Joe?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Who\u2019s on your list?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is so un-Presidential."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He\u2019s going to pack the court."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He is not going to give a list."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That was really a productive segment, wasn\u2019t it?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Keep yapping, man."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The people understand, Joe."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They sure do."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "47 years, you\u2019ve done nothing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They understand."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Good luck."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "200,000 dead."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "As you said, over seven million infected in the United States."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We, in fact, have 4% of the world\u2019s population, 20% of the deaths."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "40,000 people a day are contracting COVID."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "In addition to that, about between 750 and 1000 people a day are dying."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "When he was presented with that number, he said, \u201cIt is what it is."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u201d Well, it is what it is because you are who you are."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s why it is."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The President has no plan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He hasn\u2019t laid out anything."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He knew all the way back in February how serious this crisis was."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He knew it was a deadly disease."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What did he do?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s on tape as acknowledging he knew it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He said he didn\u2019t tell us or give people a warning of it because he didn\u2019t want to panic the American people."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You don\u2019t panic."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He panicked."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "In addition to that, what did he do?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He went in and we were insisting that the people we had in the ground in China should be able to go to Wuhan and determine for themselves how dangerous this was."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He did not even ask Xi to do that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Wrong."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He told us what a great job Xi was doing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He said we owe him a debt of gratitude for being so transparent with us."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And what did he do then?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He then did nothing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He waited and waited and waited."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He still doesn\u2019t have a plan."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Wrong."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s so wrong."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I laid out back in March, exactly what we should be doing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And I laid out again in July, what we should be doing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We should be providing all the protective gear possible."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We should be providing the money the House has passed in order to be able to go out and get people the help they need to keep their businesses open."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Open schools cost a lot of money."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You should get out of your bunker and get out of the sand trap in your golf course and go in the Oval Office and bring together the Democrats and Republicans and fund what needs to be done now to save lives."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So, if we would have listened to you."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If we would\u2019ve listened to you, the country would have been left wide open, millions of people would have died, not 200,000."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And one person is too much."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s China\u2019s fault."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It should have never happened."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They stopped it from going in, but it was China\u2019s fault."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And, by the way, when you talk about numbers, you don\u2019t know how many people died in China."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t know how many people died in Russia."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t know how many people died in India."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They don\u2019t exactly give you a straight count, just so you understand."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But if you look at what we\u2019ve done, I closed it and you said, \u201cHe\u2019s xenophobic."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He\u2019s a racist and he\u2019s xenophobic,\u201d because you didn\u2019t think I should have closed our country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Wait a minute."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You didn\u2019t think we should have closed our country because you thought it was terrible."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You wouldn\u2019t have closed it for another two months."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "By my doing it early, in fact, Dr."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Fauci said, \u201cPresident Trump saved thousands of lives."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d Many of your Democrat Governors said, \u201cPresident Trump did a phenomenal job."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d We worked with the Governor."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh really, go take a look."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The Governors said I did a phenomenal job."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Most of them said that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "In fact, people that would not be necessarily on my side said that, \u201cPresident Trump did a phenomenal job."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d We did."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We got the gowns."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We got the masks."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We made the ventilators."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You wouldn\u2019t have made ventilators."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And now we\u2019re weeks away from a vaccine."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019re doing therapeutics already."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Fewer people are dying when they get sick."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Far fewer people are dying."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve done a great job."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The only thing I haven\u2019t done a good job, and that\u2019s because of the fake news, no matter what you say to them, they give you a bad press on it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s just fake news."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They give you good press, they give me bad press because that\u2019s the way it is, unfortunately."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But let me just say something."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t care."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ve gotten used to it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But I\u2019ll tell you, Joe, you could never have done the job that we did."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t have it in your blood."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You could\u2019ve never done that, Joe."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I know how to do the job."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I know how to get the job done."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, you didn\u2019t do very well in Swine Flu."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "H1-N1, you were a disaster."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Your own Chief of Staff said you were a disaster."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "14,000 people died, not 200,000."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "A far less lethal disease, by the way."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And there was no one \u2026 We didn\u2019t shut down the economy."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is his economy he shut down."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The reason it\u2019s shut down is because, look, you folks at home."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "How many of you got up this morning and had an empty chair at the kitchen table because someone died of COVID?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "How many of you are in a situation where you lost your mom or dad and you couldn\u2019t even speak to them, you had a nurse holding a phone up so you could in fact say goodbye?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We would have lost far more people, far more people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You would have been months late."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re months behind me, Joe."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "His own CDC Director says we could lose as many as another 200,000 people between now and the end of the year."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And he said, if we just wear a mask, we can save half those numbers."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Just a mask."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And by the way, in terms of the whole notion of a vaccine, we\u2019re for a vaccine, but I don\u2019t trust him at all."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Nor do you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I know you don\u2019t."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What we trust is a scientist."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t trust Johnson & Johnson, Pfizer?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, I\u2019ve spoken to the companies and we can have it a lot sooner."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a very political thing because people like this would rather make it political than save lives."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "God."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It is a very political thing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ve spoken to Pfizer, I\u2019ve spoken to all of the people that you have to speak to, Moderna, Johnson & Johnson, and others."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They can go faster than that by a lot."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s become very political because the left\u2026 Or I don\u2019t know if I call them left, I don\u2019t know what I call them."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I disagree with him."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "No, I disagree with both of them."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And he didn\u2019t say that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He said it could be there, but it could also be much sooner."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I had him in my office two days ago."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because he said it\u2019s a possibility that we\u2019ll have the answer before November 1st."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It could also be after that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, we\u2019re going to deliver it right away."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have the military all set up."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Logistically, they\u2019re all set up."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have our military that delivers soldiers and they can do 200,000 a day."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re going to be delivering-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is the same man who told you-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s all set up."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u2026 by Easter, this would be gone away."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the warm weather, it\u2019d be gone."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Miraculous, like a miracle."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And by the way, maybe you could inject some bleach in your arm, and that would take care of it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is the same man."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That was said sarcastically, and you know that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That was said sarcastically."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "So here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This man is talking about a vaccine."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Every serious company is talking about maybe having a vaccine done by the end of the year, but the distribution of that vaccine will not occur until sometime beginning of the middle of next year to get it out, if we get the vaccine."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And pray God we will."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Pray God we will."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019ll have the vaccine sooner than that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No more than the question you just asked him."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You pointed out he puts pressure and disagrees with his own scientists."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Everybody knows-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, no, no."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You can trust the scientist."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "She didn\u2019t say that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You can trust the-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yes."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, that\u2019s what he\u2019s going to try to do, but there\u2019s thousands of scientists out there, like here at this great hospital that don\u2019t work for him."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Their job doesn\u2019t depend on him."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re the people\u2026 And by the way-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We spoke to the scientists that are in charge-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the way-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 they will have the vaccine very soon."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Do you believe for a moment what he\u2019s telling you in light of all the lies he\u2019s told you about the whole issue relating to COVID?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He still hasn\u2019t even acknowledged that he knew this was happening, knew how dangerous it was going to be back in February, and he didn\u2019t even tell you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s on record as saying it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He panicked or he just looked at the stock market."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "One of the two."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because guess what?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "A lot of people died and a lot more are going to die unless he gets a lot smarter, a lot quicker-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Did you use the word smart?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So you said you went to Delaware State, but you forgot the name of your college."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You didn\u2019t go to Delaware State."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You graduated either the lowest or almost the lowest in your class."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Don\u2019t ever use the word smart with me."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Don\u2019t ever use that word."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Oh, give me a break."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because you know what?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There\u2019s nothing smart about you, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "47 years you\u2019ve done nothing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, let\u2019s have this debate-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Let me just tell you something, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you would have had the charge of what I was put through, I had to close the greatest economy in the history of our country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And by the way, now it\u2019s being built again and it\u2019s going up fast."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s going up fast."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I look forward to talking about it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because he doesn\u2019t have a plan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If I were running it, I\u2019d know what the plan is."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You\u2019ve got to provide these businesses the ability to have the money to be able to reopen with the PPE, as well as with the sanitation they need."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You have to provide them classic-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Tell that to Nancy Pelosi."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Will he just shush for a minute?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Tell that to Nancy Pelosi, and Schumer Chuck."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Nancy Pelosi and Schumer, they have a plan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He won\u2019t even meet with them."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The Republicans won\u2019t meet in the Senate."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He sits in his golf course."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, I mean, literally, think about it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Think about it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You probably play more than I do, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, he wants to shut down this country and I want to keep it open, and we did a great thing by shutting it down-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You just admitted you\u2019d shut it down."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Wait a minute, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Let me shut you down for a second, Joe, just for one second."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He wants to shut down the country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We just went through it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We had to, because we didn\u2019t know anything about the disease."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Now we\u2019ve found that elderly people with heart problems and diabetes and different problems are very, very vulnerable."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We learned a lot."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Young children aren\u2019t, even younger people aren\u2019t."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve learned a lot, but he wants to shut it down."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "More people will be hurt by continuing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you look at Pennsylvania, if you look at certain states that have been shut down, they have Democrat governors, all, one of the reasons they shut down is because they want to keep it shut down until after the election on November 3rd."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because it\u2019s a political thing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I got to respond to that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But those states-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Those states are not doing well that are shut down right now."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I got to respond to that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He wants to shut down the whole country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "No, I think masks are okay."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You have to understand, if you look\u2026 I mean, I have a mask right here."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I put a mask on when I think I need it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Tonight, as an example, everybody\u2019s had a test and you\u2019ve had social distancing and all of the things that you have to, but I wear masks-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Just like your rally."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 when needed."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When needed, I wear masks."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t wear a mask like him."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Every time you see him, he\u2019s got a mask."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He could be speaking 200 feet away from him and he shows up with the biggest mask I\u2019ve ever seen."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I will say this-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look, the way to open businesses is give them the wherewithal to be able to open."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We provided money, the-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, masks make a big difference."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "His own head of the CDC said if we just wore masks between now, if everybody wore a mask and social distanced between now and January, we\u2019d probably save up to 100,000 lives."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It matters."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It matters."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And they\u2019ve also said the opposite."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019ve also said-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No serious person has said the opposite."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No serious person."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Dr."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Fauci."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Dr."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Fauci said the opposite."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He did not say the opposite."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He said very strongly, \u201cMasks are not good."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d Then he changed his mind."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He said, \u201cMasks are good."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m okay with masks."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m not fighting masks."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Outside."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because nobody will show up."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, it\u2019s true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Nobody shows up to his rallies."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because people want to hear what I have to say."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I mean-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 I\u2019ve done a great job as a president, and I\u2019ll have 25, 35,000 people show up at airports."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We use airports and hangers and we have a lot of people-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, so far we have had no problem whatsoever."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s outside."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s a big difference according to the experts."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We do them outside, we have tremendous crowds, as you see, and literally on 24 hours notice."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And Joe does the circles and has three people someplace."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the way, did you see one of the last big rallies he had?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "A reporter came up to him to ask him a question, he said, \u201cNo, no, no."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Stand back, put on your mask, put on a mask."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Have you been tested?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m way far away from those other people."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u201d That\u2019s what he said, \u201cI\u2019m going to be okay."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u201d He\u2019s not worried about you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s not worried about the people out there ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve had no negative effect."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No negative effect."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Come on."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve had no negative effect, and we\u2019ve had 35, 40,000 people at these rallies."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yes, I would."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s been totally irresponsible the way in which he has handled the social distancing and people wearing masks, basically encouraged them not to."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s a fool on this."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you could get the crowds, you would have done the same thing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But you can\u2019t."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Nobody cares."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Nobody cares."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Yes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Much faster."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So we built the greatest economy in history."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We closed it down because of the China plague."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When the plague came in, we closed it down, which was very hard psychologically to do."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He didn\u2019t think we should close it down and he was wrong."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Again, two million people would be dead now instead of\u2026 Still, 204,000 people is too much."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "One person is too much."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Should have never happened from China."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But what happened is we closed it down and now we\u2019re reopening and we\u2019re doing record business."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We had 10."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "4 million people in a four-month period that we\u2019ve put back into the workforce."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s a record the likes of which nobody\u2019s ever seen before."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And he wants to close down the\u2026 He will shut it down again."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He will destroy this country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "A lot of people, between drugs and alcohol and depression, when you start shutting it down, you take a look at what\u2019s happening at some of your Democrat-run states where they have these tough shutdowns."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I\u2019m telling you it\u2019s because they don\u2019t want to open it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "One of them came out last week, you saw that, \u201cOh, we\u2019re going to open up on November 9th."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d Why November 9th?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because it\u2019s after the election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They think they\u2019re hurting us by keeping them closed."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re hurting people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "People know what to do."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They can social distance."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They can wash their hands, they can wear masks."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They can do whatever they want, but they got to open these states up."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When you look at North Carolina, when you look, and these governors are under siege, Pennsylvania, Michigan, and a couple of others, you got to open these states up."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s not fair."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re talking about almost it\u2019s like being in prison."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you look at what\u2019s going on with divorce, look at what\u2019s going on with alcoholism and drugs."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a very, very sad thing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And he\u2019ll close down the whole country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This guy will close down the whole country and destroy our country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Our country is coming back incredibly well, setting records as it does it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We don\u2019t need somebody to come in and say, \u201cLet\u2019s shut it down."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The difference is millionaires and billionaires like him in the middle of the COVID crisis have done very well."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Billionaires have made another $300 billion because of his profligate tax proposal, and he only focused on the market."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "But you folks at home, you folks living in Scranton and Claymont and all the small towns and working class towns in America, how well are you doing?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This guy paid a total of $750 in taxes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s wrong."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Do I get my time back?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The fact is that he has in fact, worked on this in a way that he\u2019s going to be the first president of the United States to leave office, having fewer jobs in his administration than when he became president."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Fewer jobs than when he became president."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "First one in American history."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Secondly, the people who have lost their jobs are those people who have been on the front lines."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Those people who have been saving our lives, those people who have been out there dying."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "People who\u2019ve been putting themselves in the way to make sure that we could all try to make it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And the idea that he is insisting that we go forward and open when you have almost half the states in America with a significant increase in COVID deaths and COVID cases in the United States of America, and he wants to open it up more."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Why is he want to open it up?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Why doesn\u2019t he take care of the\u2026 You can\u2019t fix the economy until you fix the COVID crisis."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And he has no intention of doing anything about making it better for you all at home in terms of your health and your safety."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Schools."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Why aren\u2019t schools open?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because it costs a lot of money to open them safely."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They were going to give, his Administration going to give the teachers and school students masks, and then they decided no, couldn\u2019t do that because it\u2019s not a national emergency."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not a national emergency."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019ve done nothing to help small businesses."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Nothing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re closing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "One in six is now gone."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He ought to get on the job and take care of the needs of the American people so we can open safely."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I have to respond to that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Excuse me, he made a statement."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "No, people want their schools open."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They don\u2019t want to be shut down."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They don\u2019t want their state shut down."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They want their restaurants."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I look at New York."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s so sad what\u2019s happening in New York."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s almost like a ghost town, and I\u2019m not sure it can ever recover what they\u2019ve done to New York."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "People want their places open."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They want to get back to their lives."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "People want to be safe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019ll be careful, but they want their schools open."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "People want to be safe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m the one that brought back football."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "By the way, I brought back Big Ten football."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It was me and I\u2019m very happy to do it-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 and people of Ohio are very proud of me."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you know how I found out?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I paid millions of dollars in taxes, millions of dollars of income tax."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And let me just tell you, there was a story in one of the papers that paid-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Show us your tax returns."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I paid $38 million one year, I paid $27 million one year."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Show us your tax returns."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019ll see it as soon as it\u2019s finished, you\u2019ll see it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know, if you wanted to, go to the Board of Elections."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There\u2019s 118 page or so report that says everything I have, every bank I have, I\u2019m totally under leveraged because the assets are extremely good, and I built a great company."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But let me tell you-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Release your tax return."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Let me-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Millions of dollars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Millions of dollars, yes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Millions of dollars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you\u2019ll get to see it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you\u2019ll get to see it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "When?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But let me just tell you-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "In ?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Chris, let me just say something, that it was the tax laws."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t want to pay tax."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Before I came here, I was a private developer, I was a private business people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Like every other private person, unless they\u2019re stupid, they go through the laws, and that\u2019s what it is."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He passed a tax bill that gave us all these privileges for depreciation and for tax credits."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We built the building and we get tax credits, like the hotel on Pennsylvania Avenue."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Which by the way, was given to me by the Obama Administration, if you can believe that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Now the man got fired right after that happened, but that\u2019s-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yeah, I do want to respond."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look, the tax code that put him in a position that he pays less tax than on the money a school teacher makes is because of him\u2026 He says he\u2019s smart because he can take advantage of the tax code."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And he does take advantage of the tax code."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s why I\u2019m going to eliminate the Trump tax cuts."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And I\u2019m going to eliminate those tax cuts."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s okay."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And make sure that we invest in the people who in fact need the help."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "People out there need help."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But why didn\u2019t you do it over the last 25 years?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because you weren\u2019t president-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why didn\u2019t you do it over the last 25 years?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because you weren\u2019t president and screwing things up."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You were a Senator and -"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You\u2019re the worst president America has ever had."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Come on."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Hey, Joe, let me just tell you, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "In 47 months, I\u2019ve done more than you\u2019ve done in 47 years, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve done things that you never even thought of doing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Including fixing the broken military that you gave me, including taking care of your debts."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He has none."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, just take a look at what is the analysis done by Wall Street firms, points out that my economic plan would create 7 million more jobs than his in four years, number one."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And number two, it would create an additional $1 trillion in economic growth, because it would be about buying American."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The federal government spends $600 billion a year on everything from ships, to steel, to buildings and the like."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And under my proposal, we\u2019re going to make sure that every penny of that has to be made by a company-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the way, I\u2019m going to eliminate a significant number of the taxes."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m going to make the corporate tax 28%."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It shouldn\u2019t be 21%."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You have 91 companies federal, I mean, the fortune 500, who don\u2019t pay a single penny in tax making billions of dollars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why didn\u2019t you do it before, when you were Vice-President with Obama?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because you in fact passed that, that was your tax proposal."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I got it done."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you know what happened?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yeah, you got it done-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Our economy boomed like it\u2019s never boomed before."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The economy-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Let me finish."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not lower tax for the American people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Excuse me."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They had the slowest economic recovery since 1929."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It was the slowest recovery."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Also, they took over something that was down here."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "All you had to do is turn on the lights and you pick up a lot."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But they had the slowest economic recovery since 1929, and let me tell you about the stock market."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When the stock market goes up, that means jobs."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It also means 401ks."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you got in, if you ever became president with your ideas, you want to terminate my taxes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ll tell you what, you\u2019ll lose."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Half of the companies that have poured in here will leave."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And plenty of companies that are already here, they\u2019ll leave for other places."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They will leave and you will have a depression, the likes of which you\u2019ve never seen."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u2026 we inherited the worst recession, short of a depression in American history."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I was asked to bring it back."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We were able to have an economic recovery that created the jobs you\u2019re talking about."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We handed him a booming economy, he blew it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It wasn\u2019t booming."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He blew it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It wasn\u2019t booming."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It was the weakest recovery since 1929."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When COVID came along."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yeah, because what he did, even before COVID, manufacturing went in the hole."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Manufacturing went in a hole-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Excuse me, Chris, wait."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u2026 number one."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number two-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Chris."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number three."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They said it would take\u2026 No, you\u2019re on number two."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Chris, Chris."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They said it would take-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This guy-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 a miracle to bring back manufacturing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I brought back 700,000 jobs."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They brought back nothing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They gave up on manufacturing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We did not."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 standard fare."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m the guy that brought back the automobile industry."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He totally gave up on manufacturing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I was asked to bring back Chrysler and General Motors."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We brought them back right here in the state of Ohio and Michigan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He blew it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re gone."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He blew it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And in fact, they\u2019re gone-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Ohio had the best year it\u2019s ever had last year."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Michigan had the best year they\u2019ve ever had."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Many car companies came in from Germany, from Japan, went to Michigan, went to Ohio and they didn\u2019t come in with you."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And so you take a look at what he\u2019s actually done."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s done very little."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "His trade deals are the same way."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He talks about these great trade deals."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He talks about the art of the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "China\u2019s perfected the art of the steal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We have a higher deficit with China now than we did before."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We have the highest trade deficit-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "China ate your lunch- ."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u2026 with Mexico."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "China ate your lunch, Joe."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And no wonder your son goes in and, wha\u2013, he takes out billions of dollars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He takes out billions of dollars to manage."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He makes millions of dollars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And also, while we\u2019re at it, why is it just out of curiosity, the mayor of Moscow\u2019s wife gave your son three and a half million dollars?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "What did he do to deserve it?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "What did he do with Burisma-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "None of that is true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 to deserve $183,000?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "None of that is true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh really, he didn\u2019t get three and a half million?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Is totally-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Totally discredited."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Totally discredited."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And by the way-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well wait, he didn\u2019t get three and a half million dollars, Joe?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Vice-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He got three and a half million dollars-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 dollars."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh, really?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a fact."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It is not a fact."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s been totally discredited."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Did Burisma pay him 183 thousand a month, with no experience in energy?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "My son did nothing wrong at Burisma-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I think he did."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The only guy that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He doesn\u2019t want to let me answer, because he knows I have the truth."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "His position has been totally thoroughly discredited."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "By who?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And you can-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The media."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "by everybody."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, by the media, by our allies."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "By the media, because they refuse to talk about it-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the World Bank-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 because they\u2019re embarrassed."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By everyone, as discredited."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And matter of fact Matter of fact-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Even the people who testified under oath-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So let me ask you this, Joe- ."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Even the people under-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He got three and a half million dollars from Moscow."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u2026 testified, he testified under oath in his Administration said I did my job and I did it very well."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh, really?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I did it honorably."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019d like to know who they are."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, I\u2019ll give you the list of the people who-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ll fire them."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m sure that you\u2019ve already fired most of them, because they did a good job."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Some people don\u2019t do a good job."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, here\u2019s the-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, it\u2019s hard to get any word in with this clown."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Excuse me, this person."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Hey, hey, let me just say, that"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No, no."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "President-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Three and a half million, Joe."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is simply not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why did he deserve three and a half million from Moscow?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look, here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We want to talk about families and ethics."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I don\u2019t want to do that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I mean, his family, we could talk about all night."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "His family\u2019s already-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "My family-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "My family lost a fortune by coming down and helping us with government."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And that\u2019s such a-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Every single one of them lost a fortune by coming down and helping us with government."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is not about my family or his family."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s about your family, the American people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And he got three and a half million dollars for nothing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s not true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It doesn\u2019t want to talk about what you need."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You, the American people."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s about you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s what we\u2019re talking about here."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He didn\u2019t take that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Chris, can I be honest?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a very important question-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Try to be honest."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He stood up-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 and he threatened Ukraine-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 with a billion dollars-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is absolutely not true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s a good point."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, and him too."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, that\u2019s all right, but he does plenty."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He does plenty."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh yeah, sure."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s about equity and equality."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s about decency."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s about the Constitution."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And we have never walked away from trying to require, acquire equity for everyone, equality for the whole of America."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "But we\u2019ve never accomplished it, but we\u2019ve never walked away from it like he has done."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It is true, the reason I got in the race is when those people."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Close your eyes, remember what those people look like coming out of the fields, carrying torches, their veins bulging, spewing\u2013just spewing anti-Semitic bile and accompanied by the Ku Klux Klan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "A young woman got killed, and they asked the president what he thought."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He said, \u201cThere were very fine people on both sides."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u201d No president\u2019s ever said anything like that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Now-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u2026 second point I\u2019d make to you, is that when Floyd was killed, when Mr."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Floyd was killed, there was a peaceful protest in front of the White House."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What did he do?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He came out of his bunker, had the military use tear gas on them so he could walk across to a church and hold up a Bible."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And then what happened after that?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The Bishop of that very church said that it was a disgrace."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The general who was with him said \u201cAll he ever wants to do is divide people, not unite people at all."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u201d This is a president who has used everything as a dog whistle, to try to generate racist hatred, racist division."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is a man who, in fact, you talk about helping African-Americans, one in 1000 African Americans has been killed because of the coronavirus."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And if he doesn\u2019t do something quickly, by the end of the year, one in 500 will have been killed."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "One in 500 African Americans."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This man, this man is a savior of African-Americans?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This man cares at all?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This man\u2019s done virtually nothing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look, the fact is that you have to look at what he\u2019s talks about."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You have to look at what he did."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And what he did has been disastrous for the African-American community."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You did a crime bill, 1994, where you called them super-predators."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "African-Americans are super-predators and they\u2019ve never forgotten it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019ve never forgotten it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019ve never said-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So you did that, and they call you super-predator and I\u2019m letting people out of jail now, that you have treated the African-American population community, you have treated the black community about as bad as anybody in this country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You did the 1990\u2013and that\u2019s why, if you look at the polls, I\u2019m doing better than any Republican has done in a long time, because they saw what you did."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You call them super-predators, and you\u2019ve called them worse than that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because you look back at your testimony over the years, you\u2019ve called them a lot worse than that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "As far as the church is concerned, and as far as the generals are concerned, we just got the support of 200\u2013250 military leaders and generals, total support."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Law enforcement, almost every law enforcement group in the United States."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I have Florida."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I have Texas."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I have Ohio."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I have every\u2026 Excuse me, Portland, the sheriff just came out today and he said, \u201cI support President Trump."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d I don\u2019t think you have any law enforcement."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You can\u2019t even say the word law enforcement."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because if you say those words, you\u2019re going to lose all of your radical left supporters."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And why aren\u2019t you saying those words, Joe?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why don\u2019t you say the words law enforcement?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because you know what?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If they called us in Portland, we would put out that fire in a half an hour."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But they won\u2019t do it, because they\u2019re run by radical left Democrats."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you look at Chicago, if you look at any place you want to look, Seattle, they heard we were coming in the following day and they put up their hands and we got back Seattle."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Minneapolis, we got it back, Joe, because we believe in law and order, but you don\u2019t."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The top 10 cities and just about the top 40 cities are run by Democrats, and in many cases radical left."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And they\u2019ve got you wrapped around their finger, Joe, to a point where you don\u2019t want to say anything about law and order."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I\u2019ll tell you what, the people of this country want and demand law and order and you\u2019re afraid to even say it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yes, there is."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "There\u2019s systemic injustice in this country, in education and work and in law enforcement and the way in which it\u2019s enforced."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "But look, the vast majority of police officers are good, decent, honorable men and women."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They risk their lives every day to take care of us."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "But there are some bad apples."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And when they occur, when they find them, they have to be sorted out."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They have to be held accountable."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They have to be held accountable."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And what I\u2019m going to do as President of the United States is call a, a, together an entire group of people at the White House, everything from the civil rights groups, to the police officers, to the police chiefs, and we\u2019re going to work this out."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We\u2019re going to work this out."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "So we change the way in which we have more transparency, in when these things happen."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "These cops aren\u2019t happy to see what happened to George Floyd."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "These cops aren\u2019t happy to see what happened to Breonna Taylor."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Most don\u2019t like it, but we have to have a system where people are held accountable when\u2013and by the way, violence in response is never appropriate, never appropriate."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Peaceful protest is, violence is never appropriate."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "What is peaceful protest?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When they run through the middle of the town-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 and burn down your stores and kill people all over the place- ."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not peaceful protest."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "No it\u2019s not, but you say it is."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I did not say it is."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Fine."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I ended it because it\u2019s racist."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I ended it because a lot of people were complaining that they were asked to do things that were absolutely insane."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That it was a radical revolution that was taking place in our military, in our schools, all over the place."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you know it, and so does everybody else."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And he would know it, oh it\u2019s totally racial."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you were a certain person, you had no status in life."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It was sort of a reversal."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And if you look at the people, we would pay people hundreds of thousands of dollars to teach very bad ideas and frankly, very sick ideas."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And, and really, they were teaching people to hate our country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I\u2019m not going to do that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m not going to allow that to happen."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have to go back to the core values of this country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They were teaching people that our country is a horrible place."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a racist place."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And they were teaching people to hate our country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I\u2019m not going to allow that to happen."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Nobody\u2019s doing that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Nobody\u2019s doing that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s the racist."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You just don\u2019t know."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I know a lot more about this- ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You don\u2019t know."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The fact is that there is racial insensitivity."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "People have to be made aware of what other people feel like, uh, what insults them, what is demeaning to them."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s important that people know."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Many people don\u2019t want to hurt other people\u2019s feelings."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "But it\u2019s amazing, it makes a big difference."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It makes a gigantic difference in the way a child is able to grow up and have a self-sense, a sense of self-esteem."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s a little bit like how this guy and, and his friends look down on so many people."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They look down their nose on people like Irish Catholics, like me, and grew up in Scranton."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They look down on people who don\u2019t have money."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They look down on people who are of a different faith."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They look down on people who are a different color."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "In fact, we\u2019re all Americans."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The only way we\u2019re gonna bring this country together is bring everybody together."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "There\u2019s nothing we cannot do, if we do it together."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We can take this on, and we can defeat racism in America."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "During the Obama-Biden Administration, there was tremendous division."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There was hatred."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You look at, uh, Ferguson, you look at, or you go to very\u2026many places."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Look at Oakland."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Look what happened in Oakland."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Look what happened in Baltimore."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Look what happened a ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Frankly, it was more violent than what I\u2019m even seeing now."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Oh my Lord."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But the reason-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is ridiculous."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 is that the Democrats that run these cities-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Absolutely ridiculous."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 don\u2019t want to talk, like you, about law and order."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Violent crime."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you still haven\u2019t mentioned."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Violent crime."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Are you in favor of law and order?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m in favor of law."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You follow a little bit of order- ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Are you in favor of law and order?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yes I\u2019m in favor of."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Law and order with justice, where people get treated fairly."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Okay."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And the fact of the matter is, violent crime went down 17 percent, 15 percent in our Administration."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s gone up on his watch."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It went down much more in ours."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The places we had trouble were Democratic-run cities."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I think it\u2019s a party issue."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You can bring in a couple of examples but if you look at Chicago, what\u2019s going on in Chicago where, uh, 53 people were shot and eight died."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Shot."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you look at New York where it\u2019s going up, like nobody\u2019s ever seen anything."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The numbers are going up a 100, 150, 200 percent, uh, crime, it is crazy what\u2019s going on ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Republican cities, republican cities."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "and he doesn\u2019t want to say law and order because he can\u2019t because he\u2019ll lose his radical left supporters and once he does that, it\u2019s over with."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But if he ever got to run this country, and they ran it the way he would want to run it, we would have."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the way."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "our suburbs would be gone."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "By the way, our suburbs would be gone."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you would see problems like you\u2019ve never seen before."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He wouldn\u2019t know a suburb unless you took a wrong turn."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He was, he was."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh, I know suburbs so much better than you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I was raised in the suburbs."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is not 1950."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "All these dog whistles and racism don\u2019t work anymore."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Suburbs are by and large integrated."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "There\u2019s as many people today driving their kids to soccer practice and/or black and white and Hispanic in the same car as there have been any time in the past."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What\u2019s, what really is a threat to the suburbs and their safety is his failure to deal with COVID."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re dying in the suburbs."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "His failure to deal with the environment, they\u2019re being flooded, they\u2019re being burned out because his refusal to do anything."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s why the suburbs are in trouble."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It means."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look, what I support is the police having the opportunity to deal with the problems they face and I\u2019m totally opposed to defunding the police offices."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "As a matter of fact police, local police, the only one defunding, in his budget calls for a $400 million cut in local law enforcement assistance."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They need more assistance."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They need when they show up for a 9-11 call to have someone with them as a psychologist or psychiatrist to keep them from having to use force and be able to talk people down."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We have to have community policing like we had before, where the officers get to know the people in the communities."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s when crime went down, it didn\u2019t go up."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It went down."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And so we have to be engaged with ."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s not what they are talking about, Chris."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s not what it ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He\u2019s talking about defunding the police."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s exactly."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "that is not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He doesn\u2019t have any law support."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He has no law enforcement support."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Almost nothing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s not true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s not."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Oh, look."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh, really, who do you have?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Name one group that supports you."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Name one group that came out and supported you."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Go ahead."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Think."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have time."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We don\u2019t have time to do anything except ."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "No, no."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Think about it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Name one law enforcement group that came out in support of you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Folks, folks."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There aren\u2019t any."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t think there are any."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I don\u2019t hold public office, now."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I am a former Vice-President."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019ve made it clear."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019ve made it clear in my public statements that the violence should be prosecuted."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It should be prosecuted, and anyone who commits it should be prosecuted."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He\u2019s never done that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They can in fact take care of it if he\u2019d just stay out of the way."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh really?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh really?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I sent in the US Marshals."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Here, here\u2019s the thing."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "to get the killer of a young man in the middle of the street, they shot him."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "For three days Portland didn\u2019t do anything."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I sent in the US Marshals they took care of business."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And by the way his own former spokesperson said, you know, \u201cRiots and chaos and violence help his cause."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u201d That\u2019s what this is all about."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t know who said that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I do."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Who?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I think it\u2013Kellyanne Conway."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t think she said that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "She said that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t think so."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And so here, here\u2019s the point."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The point is that, that\u2019s what he is keep trying to rile everything up."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He doesn\u2019t want to calm things down."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Instead of going in and talking to people and saying, \u201cLet\u2019s get everybody together."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Figure out how to deal with this."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u201d What\u2019s he do?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He just pours gasoline in the fire."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Constantly."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "At every single solitary time."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You mean, I have to answer his stuff?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "His statement?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Wait a second, you made a statement."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I would love to end it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I would love to end it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "we could, very quickly"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ll send in the National Guard, it would be over."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019d be no problem."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But they don\u2019t want to accept the National Guard."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Sure, I\u2019m willing to do that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I would say almost everything I see is from the left-wing not from the right wing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m willing to do anything."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I want to see peace."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Say it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Do it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Say it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You want to call them?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "What do you want to call them?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Give me a name, give me a name, go ahead who would you like me to condemn."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Proud Boys."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Proud Boys."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Proud Boys, stand back and stand by."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But I\u2019ll tell you what, I\u2019ll tell you what: somebody\u2019s got to do something about Antifa and the left because this is not a right wing problem this is a left-wing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is a left-wing problem."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s own FBI Director said unlike white supremacists."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is a left-wing problem."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Antifa is an idea not an organization."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh you gotta be kidding."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "\u2026 not a militia."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s what his FBI Director said."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, then you know what, he\u2019s wrong."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "when a bat hits you over the head, that\u2019s not an idea."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Antifa is bad."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Everybody in your Administration."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Antifa is bad."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Everybody in your Administration tells you the truth, has a bad idea."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You have no idea ."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know what, Antifa is a dangerous radical group."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And you ought to be careful of them, they\u2019ll overthrow you."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because there has never been an administration or president who has done more than I\u2019ve done in a period of three and a half years."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And that\u2019s despite the impeachment hoax and you saw what happened today with Hillary Clinton, where it was a whole big con job."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But despite going through all of these things where I had to fight, both flanks and behind me and above, there has never been an administration that\u2019s done what I\u2019ve done."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The greatest, before COVID came in, the greatest economy in history, lowest employ\u2013unemployment numbers, everything was good."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Everything was going."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And by the way, there was unity going to happen."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "People were calling me for the first time in years, they were calling, and they were saying it\u2019s time maybe and then what happened?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We got hit."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But now we\u2019re building it back up again."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "A rebuilding of the military, including Space Force and all of the other things."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "A fixing of the VA which was a mess under him."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Three hundred and eight thousand people died because they didn\u2019t have proper health care."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It was a mess."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And we now got a 91% approval rating at the VA, our vets."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We take care of our vets."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But we\u2019ve rebuilt our military."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The job that we\u2019ve done."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "and, and I\u2019ll tell you something, some people say maybe the most important."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "By the end of the first term, I\u2019ll have approximately 300 Federal judges and Court of Appeals judges, 300, and hopefully three great Supreme Court judges, justices."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That is a record the likes of which very few people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "and you know, one of the reasons I\u2019ll have so many judges?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because President Obama and him left me 128 judges to fill."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "When you leave office, you don\u2019t leave any judges."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s like, you just don\u2019t do that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They left 128 openings, and if I were a member of his party, because they have a little different philosophy, I\u2019d say, if you left us 128 openings you can\u2019t be a good president."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You can\u2019t be a good Vice President but I want to thank you because it gives us almost, it\u2019ll probably be above that number."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "By the end of this term, 300 judges."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a record."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Under this President, we become weaker, sicker, poorer, more divided and more violent."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "When I was Vice President, we inherited a recession."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I was asked to fix it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I did."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We left him a booming economy, and he caused the recession."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "With regard to being weaker, the fact is that I\u2019ve gone head to head with Putin and made it clear to him we\u2019re not going to take any of his stuff."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s Putin\u2019s puppy."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He still refuses to even say anything to Putin about the bounty on the heads of American soldiers."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Your son got three and a half million dollars."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the way, my son\u2026"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He never keeps his word."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Can I answer."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Can you add back 30 seconds?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "All right."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "So thirdly, we\u2019re poor."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The billionaires have gotten much more wealthy by a tune of over three to four hundred billion dollars more just since COVID."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You in the home, you got less."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You\u2019re in more trouble than you were before."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "In terms of being more violent."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "When we were in office there were 15% less violence in America than there is today."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s President of the United States."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s on his watch."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And with regard to more divided, the nation, it can\u2019t stay divided."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We can\u2019t be this way."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And speaking of my son, the way you talk about the military, the way you talk about them being losers and being, and, and, and just being suckers."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "My son was in Iraq."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He spent a year there."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He got, he got the Bronze Star."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He got the Conspicuous Service Medal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He was not a loser."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He was a patriot and the people left behind, there, were heroes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Really?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And I resent-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Are you talking Hunter, are you talking about Hunter."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m talking about my son, Beau Biden, you\u2019re talking about Hunter?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t know Beau."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I know Hunter."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Hunter got thrown out of the military."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He was thrown out dishonorably discharged."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s not true he wasn\u2019t dishonorably discharged."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "for cocaine use."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And he didn\u2019t have a job until you became Vice-President."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Once you became Vice-President"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "None of that is true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "he made a fortune in Ukraine, in China, in Moscow and various other places."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is simply not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He made a fortune."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "My son."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "my son."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "and he didn\u2019t have a job."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "My son."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "like a lot of people."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Like a lot of people we know at home had a drug problem."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s overtaken it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s, he\u2019s fixed it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s worked on it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And I\u2019m proud of him."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m proud of my son."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But why was he given tens of millions of dollars?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He wasn\u2019t given tens of millions of dollars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He was given tens of millions of dollars?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That was totally discredited."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Totally discredited."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "So do I."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I know but when somebody gets three and a half million dollars from the Mayor of Moscow."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That report is totally discredited."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Why did he get it?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Mitt Romney on that committee said it wasn\u2019t worth taxpayer\u2019s money."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That report was written for political reason."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "So would I."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I want crystal clean water and air."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I want beautiful clean air."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have now the lowest carbon."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you look at our numbers right now, we are doing phenomenally."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But I haven\u2019t destroyed our businesses."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Our businesses aren\u2019t put out of commission."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you look at the Paris Accord, it was a disaster from our standpoint."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And people are actually very happy about what\u2019s going on, because our businesses are doing well."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "As far as the fires are concerned, you need forest management."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "In addition to everything else, the forest floors are loaded up with trees, dead trees that are years old and they\u2019re like tinder and leaves and everything else."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You drop a cigarette in there the whole forest burns down."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019ve got to have forest management."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I believe that we have to do everything we can to have immaculate air, immaculate water, and do whatever else we can that\u2019s good."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know, we\u2019re planting a billion trees\u2013the Billion Tree Project\u2013and it\u2019s very exciting for a lot of people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I think a lot of things do, but I think to an extent, yes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I think to an extent, yes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But I also think we have to do better management of our forests."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Every year I get the call."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "California\u2019s burning, California\u2019s burning."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If that was cleaned, if that were, if you had forest management, good forest management, you wouldn\u2019t be getting those calls."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know, in Europe, they live their forest cities."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They call forest cities."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They maintain their forest."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They manage their forest."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I was with the head of a major country, it\u2019s a forest city."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He said, \u201cSir, we have trees that are far more, they ignite much easier than California."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There shouldn\u2019t be that problem."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d I spoke with the Governor about it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m getting along very well with the governor."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But I said, \u201cAt some point you can\u2019t every year have hundreds of thousands of acres of land just burned to the ground."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s burning down because of a lack of management."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because it was driving energy prices through the sky."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, not really because what\u2019s happening is the car is much less expensive, and it\u2019s a much safer car, and you\u2019re talking about a tiny difference."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And then what would happen because of the cost of the car you would have at least double and triple the number of cars purchased."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have the old slugs out there that are 10, 12 years old."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you did that, the car would be safer."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It would be much cheaper by $3,500."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "No, but you would take a lot of cars off the market because people would be able to afford a car."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Now, so, and by the way, we\u2019re going to see how that turns out."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But a lot of people agree with me, many people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The car has gotten so expensive because they have computers all over the place for an extra little bit of gasoline."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I\u2019m okay with electric cars too."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I think I\u2019m all for electric cars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ve given big incentives for electric cars but what they\u2019ve done in California is just crazy."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s absolutely wrong, number one."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Nobody\u2019s gonna build another, uh, coal fired plant in America."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No one\u2019s going to build another oil fire plant in America."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re going to move to renewable energy, number one, Number two, we\u2019re going to make sure that we are able to take the federal fleet and turn it into a fleet that\u2019s run on, that\u2019re electric vehicles."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Making sure that we can do that, we\u2019re going to put 500,000 charging stations and all of the highways that we\u2019re going to be building in the future."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We\u2019re going to build a economy that in fact is going to provide for the ability us to take 4 million buildings and make sure that they in fact are weatherized in a way that in fact will \u2013they\u2019ll emit significantly less gas and oil because the heat will not be going out."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "There\u2019s so many things that we can do now to create thousands and thousands of jobs."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We can get to net zero, in terms of energy production, by 2035."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not only not costing people jobs, creating jobs."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Creating millions of good-paying jobs."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not 15 bucks an hour, but prevailing wage, by having a new infrastructure that in fact, is green."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And the first thing I will do, I will rejoin the Paris Accord."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I will join the Paris Accord because with us out of it, look what\u2019s happening."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s all falling apart."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And talk about someone who has no, no relationship to, with foreign policy."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Brazil, the rainforests of Brazil are being torn down, are being ripped down."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "More, more carbon is absorbed in that rainforest than every bit of carbon that\u2019s emitted in the United States."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Instead of doing something about that, I would be gathering up and making sure we had the comp\u2013countries of the world coming up with 20 billion dollars, and say, \u201cHere\u2019s $20 billion."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Stop, stop tearing, tearing down the forest."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And if you don\u2019t, then you\u2019re going to have significant economic consequences."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, he hadn\u2019t drawn a line."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He still, for example, makes sure that we, he wants to make sure that methane\u2019s not a problem."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We can, you, you can now emit more methane without it being a problem."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Methane."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is a guy who says that you don\u2019t have to have mileage standards for automobiles that exist now."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "This is the guy who says that, well the fact is."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Not true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s all true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He\u2019s talking about the Green New Deal."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And it\u2019s not 2 billion or 20 billion, as you said."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s 100 trillion dollars."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019m talking about the Biden plan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Where they want to rip down buildings."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And rebuild the building."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s the dumbest-"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not, that is not."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 most ridiculous."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Where airplanes are out of business."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Where two car systems are out."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not true."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "where they want to take out the cows too."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know, that\u2019s not true either, right?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is, this is a 100 trillion."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Simply."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That\u2019s more money than our country could make in a hundred years if it were."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is simply not the case."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It would destroy our country."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What it\u2019s going to do, it\u2019s going to create thousands and millions of jobs."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Good paying jobs."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Hundred trillion dollars."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He doesn\u2019t know how to do that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "100 trillion dollars."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The fact is, it\u2019s going to create millions of good-paying jobs."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And these tax incentives to people, for people to weatherize, which he wants to get, get rid of."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s going to make the economy much safer."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look how much we\u2019re paying now to deal with the hurricanes, with, deal with."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "By the way, he has an answer for hurricanes."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He said, maybe we should drop a nuclear weapon on them, and they may go away."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I never said that at all."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yeah, you did say that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They made it up."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You make up a lot."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "we\u2019re going to be in a position where we can create hard, hard, good jobs by making sure the environment is clean, and we all are in better shape."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We spend billions of dollars now, billions of dollars, on floods, hurricanes, rising seas."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We\u2019re in real trouble."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Look what\u2019s happened just in the Midwest with these storms that come through and wipe out entire sections and counties in Iowa."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They didn\u2019t happen before."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They\u2019re because of global warming."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We make up 15% of the world\u2019s problem."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We in fact, but the rest of the world, we\u2019ve got to get them to come along."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019s why we have to get back into, back into the Paris Accord."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Wait a minute, Chris."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So why didn\u2019t he do it for 47 years?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You were Vice-President?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "For 47?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So why didn\u2019t you get the world\u2014China sends up real dirt into the air."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Russia does."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "India does."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They all do."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019re supposed to be good."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And by the way, he made a couple of statements."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The Green New Deal is a hundred trillion dollars."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not my plan."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "not 20 billion."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The Green New Deal is not my plan."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You want to rebuild every building."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If you knew anything about."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Well, you want to rebuild everything"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If he knew anything about."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He made a statement about the military."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He said I said something about the military."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He and his friends made it up, and then they went with it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I never said it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "What he did is he said."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "is he called the military stupid bastards."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I did not say that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He said it on tape."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Not true."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He said \u201cstupid bastards."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Play it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I would never say that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Play it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re on tape."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The final question is, I can\u2019t remember which of all his rantings was the final question."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yeah."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The economy."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The Green New Deal will pay for itself as we move forward."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We\u2019re not going to build plants that, in fact, are great polluting plants, we\u2019re gonna build."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Pardon me?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No, I don\u2019t support the Green New Deal."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh, you don\u2019t?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh, well, that\u2019s a big statement."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I support ."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You just lost the radical left."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s done."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Oh you don\u2019t?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I support the Biden plan that I put forward."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The Biden plan, which is different than what he calls \u201cThe Radical Green New Deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Prepare to let people vote."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They should go to iwillvote."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Decide how they\u2019re going to vote, when they\u2019re going to vote, and what means by which they\u2019re going to vote."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "His own Homeland Security director, and as well as the FBI director, says that there is no evidence at all that mail-in ballots are a source of being manipulated and cheating."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "They said that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The fact is that there are going to be millions of people because of COVID that are going to be voting by mail-in ballots like he does, by the way."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He sits behind the Resolute Desk and sends his ballot to Florida."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number one."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Number two, we\u2019re going to make sure that those people who want to vote in person are able to vote because there are enough poll watchers are there to make sure they can socially distance."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The polls are open on time, and the polls stay open until the votes are counted."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And this is all about trying to dissuade people from voting because he\u2019s trying to conf\u2013to scare people into thinking that it\u2019s not going to be legitimate."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Show up and vote."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You will determine the outcome of this election."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Vote, vote, vote."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If you\u2019re able to vote early in your state, vote early."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If you\u2019re able to vote in person, vote in person."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Vote whatever way is the best way for you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because you will\u2014he cannot stop you from being able to determine the outcome of this election."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And in terms of whether or not, when the votes are counted and they\u2019re all counted, that will be accepted."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If I win, that will be accepted."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If I lose, that\u2019ll be accepted."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "But by the way, if in fact he says, he\u2019s not sure what he\u2019s going to accept."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Well, let me tell you something, it doesn\u2019t matter, because if we get the votes, it\u2019s going to be all over."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s gonna go."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He can\u2019t stay in power."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It won\u2019t happen."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It won\u2019t happen."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "So vote."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Just make sure you understand, you have it in your control to determine what this country is gonna look like the next four years."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Is it going to change, or are you going to get four more years of these lies?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So when I listen to Joe talking about a transition, there has been no transition from when I won."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I won that election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And if you look at crooked Hillary Clinton, if you look at all of the different people, there was no transition, because they came after me trying to do a coup."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They came after me spying on my campaign."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They started from the day I won, and even before I won."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "From the day I came down the escalator with our first lady, they were a disaster."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They were a disgrace to our country, and we\u2019ve caught \u2019em."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve caught \u2019em all."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve got it all on tape."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We\u2019ve caught \u2019em all."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And by the way, you gave the idea for the Logan Act against General Flynn."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You better take a look at that, because we caught you in a sense, and President Obama was sitting in the office."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "He knew about it too."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "So don\u2019t tell me about a free transition."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "As far as the ballots are concerned, it\u2019s a disaster."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "A solicited ballot, okay, solicited, is okay."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re soliciting."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re asking."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They send it back."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You send it back."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I did that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If you have an unsolicited\u2013they\u2019re sending millions of ballots all over the country."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "There\u2019s fraud."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They found \u2019em in creeks."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They found some, with the name Trump, just happened to have the name Trump, just the other day in a wastepaper basket."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re being sent all over the place."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They sent two in a Democrat area."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They sent out a thousand ballots."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Everybody got two ballots."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is going to be a fraud like you\u2019ve never seen."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "The other thing, it\u2019s nice."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "On November 3rd, you\u2019re watching, and you see who won the election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I think we\u2019re going to do well because people are really happy with the job we\u2019ve done."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But you know what?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We won\u2019t know."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We might not know for months because these ballots are going to be all over."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Take a look at what happened in Manhattan."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Take a look at what happened in New Jersey."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Take a look at what happened in Virginia and other places."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re not losing 2%, 1%, which by the way is too much."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "An election could be won or lost with that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re losing 30 and 40%."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a fraud, and it\u2019s a shame."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And can you imagine where they say, uh, \u201cYou have to have your ballot in by November 10th."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u201d November 10th."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That means, that\u2019s seven days after the election, in theory, should\u2019ve been announced."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We have major states with that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 all run by Democrats-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "All run by Democrats."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s a rigged election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Yeah."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I think I\u2019m counting on them to look at the ballots, definitely."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I don\u2019t think\u2014I hope we don\u2019t need them, in terms of the election itself."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But for the ballots, I think so, because what\u2019s happening is incredible."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I just heard, I read today where at least 1% of the ballots for 2016 were invalidated."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They take \u2019em."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We don\u2019t like \u2019em."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "We don\u2019t like \u2019em."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They throw \u2019em out."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "\u2026 left and right."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "What you do is you go and vote."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You do a solicited ballot, and that\u2019s okay."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You go and vote."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You go and vote."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "like they used to in the old."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You either do, Chris, a solicited ballot, where you\u2019re sending it in, they\u2019re sending it back and you\u2019re sending."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They have mailmen with lots of it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Did you see what\u2019s going on?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Take a look at West Virginia, mailman selling the ballots."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re being sold."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re being dumped in rivers."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is a horrible thing for our country."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "There is no\u2013there is no evidence of that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is not going to end well."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "There is no evidence of that."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "This is not going to end well."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Five states have had mail-in ballots for the last decade or more."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Five, including two Republican states."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And you don\u2019t have to solicit the ballot."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s sent to you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s sent to your home."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "What we\u2019re saying is, they\u2019re saying is that it has to be a postmark by the time, by election day."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If it doesn\u2019t get in until the seventh, eighth, ninth, it still should be counted."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He\u2019s just afraid of counting the votes because."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re wrong."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re wrong."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I love counting the votes."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "he knows what the outcome will be."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Chris, he\u2019s so wrong when he makes a statement like that-"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "That could be fraud."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I am concerned that any court would settle this, because here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "When you file\u2014when you get a ballot and you fill it out, you\u2019re supposed to have an affidavit."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If you didn\u2019t know, you have someone say that, this is me."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You should be able to, if in fact you can verify that\u2019s you when, before the ballot is thrown out, that\u2019s sufficient to be able to count the ballot because someone made a mistake and not dotting the correct i."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Who they voted for, testify, say who they voted for, say it\u2019s you."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That is totally legitimate."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Excuse me, Chris, when you have eighty million ballots."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "sent in and swamping the system."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know it can\u2019t be done."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know it can\u2019t, and already, there\u2019s been fraud deception and ."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Mail service delivers 185 million pieces of mail a day."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Eighty million ballots."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Could be months."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019m urging my supporters to go into the polls and watch very carefully, because that\u2019s what has to happen."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I am urging them to do it."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "As you know, today there was a big problem."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "In Philadelphia, they went in to watch."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re called poll watchers, a very safe, very nice thing."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They were thrown out."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They weren\u2019t allowed to watch."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You know why?"
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Because bad things happen in Philadelphia."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Bad things."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I am urging, I am urging my people."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I hope it\u2019s going to be a fair election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "If it\u2019s a fair election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I am 100% on board."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "But if I see tens of thousands of ballots being manipulated, I can\u2019t go along with that."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I\u2019ll tell you what."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": ".."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "from a common sense."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I\u2019ll tell you what it means."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It means you have a fraudulent election."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You\u2019re sending out 80 million ballots."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They\u2019re not equipped."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "These people aren\u2019t equipped to handle it, number one."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Number two, they cheat."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They cheat."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Hey, they found ballots in a wastepaper basket three days ago, and they all had the name military ballots."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They were military."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They all had the name Trump on them."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "You think that\u2019s good?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Yes."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "We count the ballots, as you pointed out."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Some of these ballots in some states can\u2019t even be opened until election day."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And if there\u2019s thousands of ballots, it\u2019s going to take time to do it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And by the way, our military\u2013they\u2019ve been voting by ballots for since the end of the Civil War, in effect."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And that\u2019s, and that\u2019s what\u2019s going to happen."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Why was it not, why is it for them, somehow not fraudulent."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s the same process."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "It\u2019s honest."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "No one has established at all that there is fraud related to mail-in ballots, that the, somehow it\u2019s a fraudulent process."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "It\u2019s already been established."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Take a look at Carolyn Maloney\u2019s race."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "Look at Carolyn Maloney\u2019s race."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "They have no idea what happened."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "He has no idea what he\u2019s talking about."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Here\u2019s the deal."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "The fact is, I will accept it, and he will too."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "You know why?"
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "Because once the winner is declared after all the ballots are counted, all the votes are counted, that\u2019ll be the end of it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "That\u2019ll be the end of it."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And if it\u2019s me, in fact, fine."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "If it\u2019s not me, I\u2019ll support the outcome."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And I\u2019ll be a president, not just for the Democrats."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "I\u2019ll be a president for Democrats and Republicans."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "And this guy if in fact."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Joe Biden",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I want to see an honest ballot count."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "I want to see an honest ballot count."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "And I think he does too."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  },
+  {
+   "speaker": "Donald Trump",
+   "text": "."
+  }
+ ]
+}

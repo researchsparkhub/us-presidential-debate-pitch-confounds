@@ -1,0 +1,122 @@
+{
+ "1001": {
+  "year": "1988",
+  "n_candidates": 2,
+  "n_sentences": 832
+ },
+ "1003": {
+  "year": "1988",
+  "n_candidates": 2,
+  "n_sentences": 759
+ },
+ "1004": {
+  "year": "1992",
+  "n_candidates": 3,
+  "n_sentences": 913
+ },
+ "1006": {
+  "year": "1992",
+  "n_candidates": 3,
+  "n_sentences": 998
+ },
+ "1007": {
+  "year": "1992",
+  "n_candidates": 3,
+  "n_sentences": 979
+ },
+ "1008": {
+  "year": "1996",
+  "n_candidates": 2,
+  "n_sentences": 1049
+ },
+ "1010": {
+  "year": "1996",
+  "n_candidates": 2,
+  "n_sentences": 1037
+ },
+ "1011": {
+  "year": "2000",
+  "n_candidates": 2,
+  "n_sentences": 979
+ },
+ "1013": {
+  "year": "2000",
+  "n_candidates": 2,
+  "n_sentences": 934
+ },
+ "1014": {
+  "year": "2000",
+  "n_candidates": 2,
+  "n_sentences": 904
+ },
+ "1015": {
+  "year": "2004",
+  "n_candidates": 2,
+  "n_sentences": 976
+ },
+ "1017": {
+  "year": "2004",
+  "n_candidates": 2,
+  "n_sentences": 1117
+ },
+ "1018": {
+  "year": "2004",
+  "n_candidates": 2,
+  "n_sentences": 934
+ },
+ "1019": {
+  "year": "2008",
+  "n_candidates": 2,
+  "n_sentences": 885
+ },
+ "1021": {
+  "year": "2008",
+  "n_candidates": 2,
+  "n_sentences": 784
+ },
+ "1022": {
+  "year": "2008",
+  "n_candidates": 2,
+  "n_sentences": 822
+ },
+ "1023": {
+  "year": "2012",
+  "n_candidates": 2,
+  "n_sentences": 936
+ },
+ "1025": {
+  "year": "2012",
+  "n_candidates": 2,
+  "n_sentences": 1052
+ },
+ "1026": {
+  "year": "2012",
+  "n_candidates": 2,
+  "n_sentences": 972
+ },
+ "1027": {
+  "year": "2016",
+  "n_candidates": 2,
+  "n_sentences": 1191
+ },
+ "1029": {
+  "year": "2016",
+  "n_candidates": 2,
+  "n_sentences": 1022
+ },
+ "1030": {
+  "year": "2016",
+  "n_candidates": 2,
+  "n_sentences": 1072
+ },
+ "1031": {
+  "year": "2020",
+  "n_candidates": 2,
+  "n_sentences": 1805
+ },
+ "1033": {
+  "year": "2020",
+  "n_candidates": 2,
+  "n_sentences": 1241
+ }
+}

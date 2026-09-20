@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Speaking to Win — How We Built It</title>
+<style>
+  :root {
+    --primary: #1565C0;
+    --primary-light: #E3F2FD;
+    --winner: #2E7D32;
+    --winner-bg: #E8F5E9;
+    --loser: #C62828;
+    --loser-bg: #FDE9E7;
+    --gray-50: #FAFAFA;
+    --gray-100: #F5F5F5;
+    --gray-200: #EEEEEE;
+    --gray-300: #E0E0E0;
+    --gray-700: #424242;
+    --gray-900: #212121;
+    --kid-bg: #FFF8E1;
+    --kid-border: #FFB300;
+    --research-bg: #F3E5F5;
+    --research-border: #8E24AA;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.55;
+    color: var(--gray-900);
+    margin: 0;
+    background: var(--gray-50);
+  }
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+  header {
+    background: linear-gradient(135deg, var(--primary) 0%, #1976D2 100%);
+    color: white;
+    padding: 48px 24px;
+    text-align: center;
+  }
+  header h1 { margin: 0 0 8px 0; font-size: 32px; font-weight: 700; }
+  header .subtitle { font-size: 16px; opacity: 0.95; max-width: 720px; margin: 0 auto; }
+
+  .quickstats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 14px;
+    margin: 32px auto;
+    max-width: 1000px;
+  }
+  .stat-card {
+    background: white;
+    padding: 18px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+    text-align: center;
+    border-left: 4px solid var(--primary);
+  }
+  .stat-card .number { font-size: 26px; font-weight: 700; color: var(--primary); }
+  .stat-card .label { font-size: 12px; color: var(--gray-700); text-transform: uppercase; letter-spacing: 0.5px; }
+
+  nav.toc {
+    background: white;
+    padding: 18px 24px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+    margin: 24px 0;
+  }
+  nav.toc h3 { margin: 0 0 12px 0; font-size: 13px; text-transform: uppercase; color: var(--gray-700); letter-spacing: 1px; }
+  nav.toc ol { margin: 0; padding-left: 22px; column-count: 2; }
+  nav.toc a { color: var(--primary); text-decoration: none; font-size: 14px; }
+  nav.toc a:hover { text-decoration: underline; }
+
+  section.stage {
+    background: white;
+    margin: 24px 0;
+    padding: 24px 28px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  section.stage h2 {
+    margin: 0 0 4px 0;
+    font-size: 22px;
+    color: var(--gray-900);
+    border-bottom: 2px solid var(--primary-light);
+    padding-bottom: 8px;
+  }
+  section.stage .stage-number {
+    display: inline-block;
+    background: var(--primary);
+    color: white;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  section.stage .what-we-did {
+    background: var(--gray-100);
+    padding: 12px 16px;
+    border-left: 4px solid var(--primary);
+    margin: 14px 0;
+    font-style: italic;
+    color: var(--gray-700);
+  }
+
+  .dual {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin: 16px 0;
+  }
+  @media (max-width: 740px) {
+    .dual { grid-template-columns: 1fr; }
+    nav.toc ol { column-count: 1; }
+  }
+  .panel {
+    padding: 16px 18px;
+    border-radius: 8px;
+  }
+  .panel.kid {
+    background: var(--kid-bg);
+    border-left: 4px solid var(--kid-border);
+  }
+  .panel.research {
+    background: var(--research-bg);
+    border-left: 4px solid var(--research-border);
+  }
+  .panel h3 {
+    margin: 0 0 8px 0;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .panel.kid h3 { color: #F57C00; }
+  .panel.research h3 { color: #6A1B9A; }
+  .panel p { margin: 6px 0; font-size: 14px; line-height: 1.55; }
+  .panel code { background: white; padding: 1px 5px; border-radius: 3px; font-size: 12px; }
+
+  .results-table {
+    margin: 14px 0;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  .results-table th, .results-table td {
+    padding: 6px 10px;
+    text-align: left;
+    border-bottom: 1px solid var(--gray-200);
+  }
+  .results-table th {
+    background: var(--gray-100);
+    font-weight: 600;
+    color: var(--gray-700);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .results-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .winner-row { background: var(--winner-bg); }
+  .winner-row td:first-child { color: var(--winner); font-weight: 600; }
+  .loser-row { background: var(--loser-bg); }
+  .loser-row td:first-child { color: var(--loser); font-weight: 600; }
+
+  .pill {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .pill.win { background: var(--winner-bg); color: var(--winner); }
+  .pill.lose { background: var(--loser-bg); color: var(--loser); }
+  .pill.info { background: var(--primary-light); color: var(--primary); }
+
+  .arrow { color: var(--primary); margin: 0 4px; font-weight: 700; }
+
+  details {
+    margin-top: 10px;
+    border: 1px solid var(--gray-300);
+    border-radius: 6px;
+    padding: 8px 12px;
+    background: var(--gray-50);
+  }
+  details summary {
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--primary);
+    font-weight: 500;
+  }
+  details[open] summary { margin-bottom: 8px; }
+
+  .findings-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 14px;
+    margin: 18px 0;
+  }
+  .finding {
+    background: white;
+    padding: 16px;
+    border-radius: 8px;
+    border-top: 4px solid var(--primary);
+  }
+  .finding.win { border-top-color: var(--winner); }
+  .finding.lose { border-top-color: var(--loser); }
+  .finding h4 { margin: 0 0 6px 0; font-size: 14px; }
+  .finding .effect { font-size: 22px; font-weight: 700; }
+  .finding .effect.win { color: var(--winner); }
+  .finding .effect.lose { color: var(--loser); }
+  .finding .desc { font-size: 12px; color: var(--gray-700); margin-top: 4px; }
+
+  .file-list {
+    background: var(--gray-100);
+    padding: 14px 18px;
+    border-radius: 8px;
+    margin: 12px 0;
+    font-family: "SF Mono", Menlo, monospace;
+    font-size: 12px;
+  }
+  .file-list div { padding: 2px 0; }
+  .file-list .comment { color: var(--gray-700); }
+
+  footer {
+    text-align: center;
+    padding: 32px 16px;
+    color: var(--gray-700);
+    font-size: 13px;
+    border-top: 1px solid var(--gray-200);
+    margin-top: 40px;
+  }
+
+  .toggle-bar {
+    text-align: center;
+    margin: 16px 0 8px;
+  }
+  .toggle-bar button {
+    background: white;
+    border: 1.5px solid var(--gray-300);
+    padding: 8px 16px;
+    margin: 0 4px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--gray-700);
+    transition: all 0.15s;
+  }
+  .toggle-bar button.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+  }
+  body.kid-only .panel.research { display: none; }
+  body.kid-only .dual { grid-template-columns: 1fr; }
+  body.research-only .panel.kid { display: none; }
+  body.research-only .dual { grid-template-columns: 1fr; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Speaking to Win — How We Built It</h1>
+  <p class="subtitle">
+    Step-by-step walkthrough of the Debate Analysis Pipeline (DAP).
+    Two explanations per step — for a curious 5th grader AND for a researcher.
+  </p>
+</header>
+
+<div class="container">
+
+  <div class="toggle-bar">
+    <button id="btn-both" class="active" onclick="setMode('both')">Show both views</button>
+    <button id="btn-kid" onclick="setMode('kid')">Only 5th-grade view</button>
+    <button id="btn-research" onclick="setMode('research')">Only research view</button>
+  </div>
+
+  <div class="quickstats">
+    <div class="stat-card"><div class="number">26</div><div class="label">Debates analyzed</div></div>
+    <div class="stat-card"><div class="number">1988&ndash;2024</div><div class="label">Years covered</div></div>
+    <div class="stat-card"><div class="number">35,459</div><div class="label">Sentences in master table</div></div>
+    <div class="stat-card"><div class="number">270</div><div class="label">Features per sentence</div></div>
+    <div class="stat-card"><div class="number">28</div><div class="label">Statistically significant winner/loser differences</div></div>
+    <div class="stat-card"><div class="number">68%</div><div class="label">Audio-only winner/loser classification accuracy</div></div>
+  </div>
+
+  <nav class="toc">
+    <h3>📋 Table of Contents</h3>
+    <ol>
+      <li><a href="#stage0">Why we started over</a></li>
+      <li><a href="#stage1">Stage 1 &mdash; Collect metadata</a></li>
+      <li><a href="#stage2">Stage 2 &mdash; Align audio with text</a></li>
+      <li><a href="#stage3">Stage 3 &mdash; Build the master sentence table</a></li>
+      <li><a href="#stage4">Stage 4 &mdash; Extract acoustic features</a></li>
+      <li><a href="#stage4b">Stage 4b &mdash; openSMILE features &amp; syllables</a></li>
+      <li><a href="#stage4c">Stage 4c &mdash; Roll up to turns</a></li>
+      <li><a href="#stage5">Stage 5 &mdash; Extract linguistic features</a></li>
+      <li><a href="#stage5b">Stage 5b &mdash; Tag discourse acts &amp; bias</a></li>
+      <li><a href="#stage6">Stage 6 &mdash; Compare winners vs losers</a></li>
+      <li><a href="#findings">Headline findings</a></li>
+      <li><a href="#files">Outputs catalog</a></li>
+    </ol>
+  </nav>
+
+  <!-- ============ STAGE 0 ============ -->
+  <section class="stage" id="stage0">
+    <h2><span class="stage-number">0</span>Why we started over</h2>
+    <div class="what-we-did">An older project tried to study debates but had a fundamental problem: only 41.7% of its transcript text actually matched the audio. We rebuilt from scratch in a fresh directory.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Imagine you have a recording of someone giving a speech and the written-down version of that speech. They <em>should</em> match word for word, but sometimes the written one is "cleaned up" &mdash; it skips the "um"s and "uh"s and even changes some words to sound nicer.</p>
+        <p>We tried to use those cleaned-up versions before but they didn't match the recording very well. So we threw out everything and started fresh with a better plan.</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>The previous pipeline relied on fuzzy text matching between Whisper ASR output and an official transcript that turned out to be heavily edited. Median match score: 57/100; only 24% of segments scored ≥80. This precluded reliable sentence-level timing for downstream prosodic analysis.</p>
+        <p>We restarted in <code>~/debate_analysis/</code> with three commitments: (1) forced alignment as the timing backbone, (2) verbatim ASR text as a fallback canonical source, and (3) per-debate fixed effects to control for era/speaker confounds.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STAGE 1 ============ -->
+  <section class="stage" id="stage1">
+    <h2><span class="stage-number">1</span>Collect metadata: who debated, who won</h2>
+    <div class="what-we-did">For each of 26 presidential debates from 1988 to 2024, list the candidates and label each one as "winner" or "loser" based on whether their party won the subsequent election.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Made a list: every presidential debate from 1988 (when George H. W. Bush was running) all the way to 2024 (Trump vs Harris). For each debate, we wrote down who was talking, their party, and whether they ended up winning the election.</p>
+        <p>So Bush is a "winner" in 1988 (he won), but a "loser" in 1992 (Clinton won that one).</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Built <code>data/metadata/debates.csv</code> from the inventory xlsx. One row per (debate, candidate); fields: <code>debate_audio_id</code>, <code>debate_id</code>, <code>year</code>, <code>debate_type</code>, <code>date</code>, <code>speaker</code>, <code>party</code>, <code>election_winner</code>, <code>result</code>.</p>
+        <p>The <code>result</code> field is binary {winner, loser}, with the winner being whichever candidate's ticket won the presidency that election cycle. Third-party candidates (Perot, Stockdale) → loser. 76 candidate-rows across 36 debates total (26 Presidential are the focus; 10 VP debates lacked transcripts and were excluded).</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STAGE 2 ============ -->
+  <section class="stage" id="stage2">
+    <h2><span class="stage-number">2</span>Align audio with text</h2>
+    <div class="what-we-did">Figure out, for every word in the transcript, when exactly it was spoken in the audio recording. Done using three different methods depending on transcript quality.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Think of subtitles on a YouTube video. Someone has to mark exactly when each word starts and ends. We had to do that for every word in every debate &mdash; about 400,000 words.</p>
+        <p>We tried 3 ways:</p>
+        <ul>
+          <li>🥇 <strong>The careful way</strong> (MFA): Worked for 20 debates. Very precise.</li>
+          <li>🥈 <strong>The clever way</strong> (text matching with Whisper's auto-transcription): Worked for 4 more.</li>
+          <li>🥉 <strong>The honest way</strong> (just use Whisper's auto-transcription as truth): For 2 debates from 2024 where the "official" transcript was actually a summary and didn't match the audio at all.</li>
+        </ul>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Hybrid 3-tier alignment cascade:</p>
+        <p><strong>Tier A (20 debates)</strong>: Montreal Forced Aligner (MFA) with the <code>english_us_arpa</code> acoustic model and lexicon. Beam parameters tuned to 400/1000 after pilot debates showed default beams (100/400) timing out on 90-min audio. Sequential per-debate execution with 150-min watchdog (caffeinate-wrapped to prevent macOS sleep-induced false timeouts).</p>
+        <p><strong>Tier A-equiv (4 debates)</strong>: Text-based alignment via Python <code>difflib.SequenceMatcher</code> over normalized atom sequences. Whisper ASR words carry the timing; matching transcript words inherit those timestamps; unmatched stretches receive linearly-interpolated timing between flanks. Match rates 88.4–91.2%.</p>
+        <p><strong>Tier B (2 debates)</strong>: For 2024 broadcasts (1034, 1036) whose "transcripts" are paraphrased summaries (~5% verbatim overlap), Whisper's own ASR is treated as canonical text. Speaker labels recovered via pyannote.audio diarization clusters mapped to candidates by duration ranking within the trimmed debate window.</p>
+      </div>
+    </div>
+    <details>
+      <summary>📊 Coverage by tier</summary>
+      <table class="results-table">
+        <tr><th>Tier</th><th>Method</th><th># debates</th><th>Match quality</th></tr>
+        <tr><td>A</td><td>MFA forced alignment</td><td>20</td><td>word-level, publication quality</td></tr>
+        <tr><td>A-equiv</td><td>Text-via-Whisper</td><td>4</td><td>88–91% verbatim match</td></tr>
+        <tr><td>B</td><td>Whisper-canonical</td><td>2</td><td>sentence-level via Whisper text</td></tr>
+      </table>
+    </details>
+  </section>
+
+  <!-- ============ STAGE 3 ============ -->
+  <section class="stage" id="stage3">
+    <h2><span class="stage-number">3</span>Build the master sentence table</h2>
+    <div class="what-we-did">Join all the alignment outputs with the metadata into one big table: one row per sentence, with speaker, party, winner/loser label, and exact start/end times in the audio.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Made the world's biggest debate spreadsheet. Every row = one sentence someone said in a debate. Columns: who said it, when they started and stopped, the actual words, and whether they were a winner or a loser.</p>
+        <p>35,459 sentences in all. That's like reading a thick book of nothing but debate quotes.</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Canonical sentence-level table at <code>outputs/master_sentences.csv</code>: 35,459 rows × 22 columns. Schema: <code>debate_audio_id, debate_id, year, debate_type, date, turn_id, sentence_id, sentence_index_in_turn, start_sec, end_sec, duration_sec, speaker_raw, speaker, party, result, speaker_role, sentence_text, n_words, n_words_matched, alignment_tier, alignment_source, in_debate_window</code>.</p>
+        <p>Speaker classification heuristic: candidate names matched against per-debate roster from <code>debates.csv</code>; moderators matched against a curated list of 50+ panelists; audience members detected via MS./MR./DR. prefix or via a town-hall heuristic (≥7 unique speakers, ≤5 turns/speaker = audience). 91 header artifacts (e.g., <code>SPEAKERS:</code> lines) filtered out.</p>
+      </div>
+    </div>
+    <details>
+      <summary>📊 Sentence breakdown</summary>
+      <table class="results-table">
+        <tr><th>Speaker role</th><th>Result</th><th class="num"># sentences</th></tr>
+        <tr class="winner-row"><td>candidate</td><td>winner</td><td class="num">12,228</td></tr>
+        <tr class="loser-row"><td>candidate</td><td>loser</td><td class="num">14,507</td></tr>
+        <tr><td>moderator</td><td>(moderator)</td><td class="num">5,874</td></tr>
+        <tr><td>audience</td><td>(audience)</td><td class="num">1,449</td></tr>
+        <tr><td>unknown</td><td>—</td><td class="num">1,401</td></tr>
+      </table>
+    </details>
+  </section>
+
+  <!-- ============ STAGE 4 ============ -->
+  <section class="stage" id="stage4">
+    <h2><span class="stage-number">4</span>Extract acoustic features (the voice measurements)</h2>
+    <div class="what-we-did">For every sentence, measure properties of the voice: how high or low the pitch is, how loud, how clear, how fast, how many pauses, etc.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Listened to every single sentence and measured the voice. Like a doctor checking your throat &mdash; but for 35,459 sentences. We measured things like:</p>
+        <ul>
+          <li>🎵 <strong>Pitch</strong>: how high or low the voice sounds</li>
+          <li>🔊 <strong>Loudness</strong>: how loud they were</li>
+          <li>✨ <strong>Voice clarity</strong>: clean and clear, or scratchy and rough?</li>
+          <li>⏸️ <strong>Pauses</strong>: how many quiet moments and how long</li>
+          <li>⚡ <strong>Speech rate</strong>: how fast they spoke</li>
+        </ul>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Per-sentence acoustic feature extraction via <code>parselmouth</code> (Praat backend) and <code>librosa</code>:</p>
+        <ul>
+          <li><strong>F0 (pitch)</strong>: mean, std, min, max, range, slope (Hz/s); 75–500 Hz pitch ceiling, voiced frames only</li>
+          <li><strong>Intensity</strong>: mean dB, std dB, range dB</li>
+          <li><strong>Voice quality</strong>: local jitter, local shimmer, harmonics-to-noise ratio (HNR mean dB)</li>
+          <li><strong>Spectral (librosa)</strong>: spectral centroid, rolloff (85% energy), zero-crossing rate, RMS energy</li>
+          <li><strong>Pauses</strong>: intensity-threshold detection at &minus;25 dB below 90th-percentile loudness, &ge; 150 ms duration. Counts, mean duration, total duration, speech-time, speech-rate (wps), articulation-rate (wps excluding pauses)</li>
+        </ul>
+        <p>Coverage: 33,311 / 35,459 sentences (93.9%) — non-coverage due to too-short clips (&lt;0.3s) or parselmouth ValueErrors on edge cases.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STAGE 4b ============ -->
+  <section class="stage" id="stage4b">
+    <h2><span class="stage-number">4b</span>Add syllable rate &amp; openSMILE features</h2>
+    <div class="what-we-did">Layer in syllable counts (a more accurate way to measure speaking speed than words/second) and add the openSMILE eGeMAPSv02 feature set — 88 standard voice measurements used in speech-science research.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Two upgrades:</p>
+        <p>1️⃣ <strong>Syllable rate</strong>: "rabbit" has 2 syllables, "I" has 1. Counting syllables tells you speed better than counting words — because "I" and "responsibility" both count as 1 word but they're very different mouthfuls.</p>
+        <p>2️⃣ <strong>openSMILE</strong>: a fancy free tool researchers use that measures 88 different voice things at once — pitch in semitones, loudness curves, vocal smoothness, formants (the shape of your mouth makes different vowel sounds). We let openSMILE measure all 35,459 sentences.</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Syllable counting via <code>syllapy</code> (CMU dictionary lookup with vowel-group fallback for OOV words). Computed <code>syllable_rate_per_sec</code> (over total sentence duration) and <code>articulation_rate_syll_per_sec</code> (over speech-only duration), giving a finer-grained tempo measure than word rate (controls for word-length variation, e.g., "I" vs "responsibility").</p>
+        <p>openSMILE eGeMAPSv02 Functionals (Eyben et al., IEEE TAC 2016): 88 features per sentence covering semitone-scaled F0 statistics, loudness/spectral-flux functionals, jitter, shimmer, HNR, F1–F3 formant frequencies + bandwidths + relative amplitudes, alpha ratio, MFCC means, voiced-segment ratios. De facto standard for affective-computing research.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STAGE 4c ============ -->
+  <section class="stage" id="stage4c">
+    <h2><span class="stage-number">4c</span>Roll up to per-turn metrics</h2>
+    <div class="what-we-did">Combine sentence-level measurements into per-turn measurements. A "turn" is one continuous speaking opportunity — useful for things like total floor time or pauses-per-100-words.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>If someone gets called on and talks for 3 minutes — that's one "turn." We measured stuff at the turn level: how long they held the floor, total time spent paused, how often they paused per 100 words.</p>
+        <p>We filtered to "substantial" turns (≥10 words and ≥5 seconds) because tiny interjections like "Yes." mess up the averages.</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Aggregation script joins <code>master_sentences</code> + <code>acoustic_features</code> + <code>supplementary</code>, then groups by <code>(debate_audio_id, turn_id)</code>. Derived metrics include <code>turn_floor_time_sec</code> (end − start), <code>turn_speech_density</code> (speech_sec / floor_time), <code>pauses_per_100_words</code>, <code>turn_speech_rate_wps</code> (using floor time as denominator, not summed sentence-speech, to avoid pause-detection over-subtraction bias).</p>
+        <p>Filter for analysis: substantial turns (<code>n_words &ge; 10 AND turn_floor_time_sec &ge; 5</code>) = 1,855 candidate turns; both mean and median reported to flag outlier sensitivity.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STAGE 5 ============ -->
+  <section class="stage" id="stage5">
+    <h2><span class="stage-number">5</span>Extract linguistic features (the words and grammar)</h2>
+    <div class="what-we-did">For every sentence, analyze the words and grammar: sentence type, complexity, sentiment, vocabulary diversity, psycholinguistic categories, and a 384-dimensional semantic embedding.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Looked at the words — not just listened to the voice. For each sentence we asked:</p>
+        <ul>
+          <li>📝 Is it a statement, a question, or a command?</li>
+          <li>🌳 Is the grammar simple ("I won") or complex ("Although we faced many challenges, we ultimately succeeded")?</li>
+          <li>😊 Does it use happy words or angry words?</li>
+          <li>🗣️ Does it say "I", "we", "you", or "they" more?</li>
+          <li>🎯 What topics does it bring up — power, family, fear, patriotism?</li>
+        </ul>
+        <p>We also turned each sentence into a magic 384-number code that captures its "meaning" — so we can later find sentences that mean similar things.</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Per-sentence linguistic features via:</p>
+        <ul>
+          <li><strong>spaCy</strong> (<code>en_core_web_sm</code>): sentence form (declarative / interrogative / imperative / exclamatory), parse-tree depth, clause counts, subordinate clause counts (deps: <code>ccomp/xcomp/advcl/acl/relcl</code>), mean dependency length, negations, 13 POS-tag rates, function/content word ratios, pronoun rates (first/second/third person)</li>
+          <li><strong>textstat</strong>: Flesch reading ease, Flesch-Kincaid grade, SMOG, Gunning Fog</li>
+          <li><strong>VADER</strong>: lexicon-based compound, positive, negative, neutral sentiment</li>
+          <li><strong>Empath</strong> (Fast et al., CHI 2016): 35 psycholinguistic categories — power, government, negative_emotion, aggression, optimism, pride, certainty, achievement, patriotism, war, family, religion, etc.</li>
+          <li><strong>Sentence-BERT</strong> (<code>all-MiniLM-L6-v2</code>): 384-dim sentence embeddings, normalized; stored as parquet for embedding-centroid analyses</li>
+        </ul>
+        <p>Output: <code>linguistic_features.csv</code> 35,459 × 76 + <code>linguistic_embeddings.parquet</code> 35,459 × 385.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STAGE 5b ============ -->
+  <section class="stage" id="stage5b">
+    <h2><span class="stage-number">5b</span>Tag discourse acts &amp; bias</h2>
+    <div class="what-we-did">For every sentence, tag what discourse act it performs (statement, agreement, rejection, command, etc.) AND whether it contains specific bias patterns (fear appeal, patriotism, personal attack, etc.). Multi-label, rule-based.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Gave each sentence labels for what kind of thing it does. One sentence might get many labels at once:</p>
+        <ul>
+          <li>"I agree" → label: <span class="pill info">AGREEMENT</span></li>
+          <li>"No, that's not true!" → labels: <span class="pill lose">REJECTION</span></li>
+          <li>"If we don't act now, disaster!" → labels: <span class="pill lose">FEAR APPEAL</span></li>
+          <li>"Look, we made America stronger." → labels: <span class="pill info">STATEMENT</span> + <span class="pill lose">PATRIOTISM</span></li>
+        </ul>
+        <p>This lets us count, for example, how many times winners vs losers used fear appeals or made personal attacks.</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Rule-based multi-label tagger over the BEADS-TAGS schema (extends DAMSL with project-specific bias categories). 23 discourse acts + 21 bias categories implemented as Python regex/keyword detectors. Detectors combine:</p>
+        <ul>
+          <li>Sentence-form cues (from stage 5 spaCy classification)</li>
+          <li>Auxiliary-verb / wh-word patterns for question type</li>
+          <li>Lexical patterns for greetings, apologies, thanks, acknowledgments</li>
+          <li>Stance markers ("I believe...") for personal-stance bias</li>
+          <li>First-person achievement verbs ("I built / created / rebuilt...") for self-promotion bias</li>
+          <li>Named-entity + blame-verb combinations for attribution</li>
+        </ul>
+        <p>Six tags marked <em>text-untracked</em> (gender bias, cognitive bias, gender dismissal, issue avoidance, selective evidence, cultural bias) require contextual or world-knowledge reasoning beyond rule-based detection — reserved for future human/LLM annotation.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STAGE 6 ============ -->
+  <section class="stage" id="stage6">
+    <h2><span class="stage-number">6</span>Compare winners vs losers (the analysis)</h2>
+    <div class="what-we-did">Test every feature we extracted to see which ones reliably differ between winners and losers. Use proper statistics with per-debate controls and multiple-comparison correction.</div>
+    <div class="dual">
+      <div class="panel kid">
+        <h3>👶 5th-grade version</h3>
+        <p>Now the fun part. We took everything we measured and asked: <em>does this differ between winners and losers?</em></p>
+        <p>To be fair, we did three things:</p>
+        <ol>
+          <li>For each measurement, compare winners vs losers across all 26 debates</li>
+          <li>Control for which debate it came from (so Trump's voice doesn't unfairly dominate 4 debates)</li>
+          <li>Correct for the fact that we tested LOTS of measurements (otherwise some would look "significant" just by random chance)</li>
+        </ol>
+        <p>We also trained a "winner detector" using only the voice (no words) — to see if winners <em>sound</em> different.</p>
+      </div>
+      <div class="panel research">
+        <h3>🔬 Research version</h3>
+        <p>Three analyses:</p>
+        <p><strong>A. Univariate effects + per-debate fixed effects.</strong> For each of 39 candidate features, fit OLS model: <code>feat ~ is_winner + C(debate_audio_id)</code>. Report Cohen's d, Mann-Whitney U p-value, fixed-effects coefficient + p-value. Benjamini-Hochberg correction across the 39 tests at α=0.05. <strong>28 features survive correction.</strong></p>
+        <p><strong>B. LDA on openSMILE eGeMAPSv02.</strong> 88-feature Linear Discriminant Analysis, candidate sentences only. Reported: training accuracy, 5-fold random-split CV (overoptimistic), and leave-one-debate-out CV (honest estimate, controls for speaker confounds). Result: 0.681 ± 0.041 LODOCV.</p>
+        <p><strong>C. Embedding-based semantic comparison.</strong> Compute centroids μ_winner, μ_loser in 384-dim sentence-BERT space; direction vector d = μ_winner − μ_loser; project every sentence onto d; report most "winner-direction" and most "loser-direction" sentences.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FINDINGS ============ -->
+  <section class="stage" id="findings">
+    <h2><span class="stage-number">★</span>Headline findings</h2>
+    <div class="findings-grid">
+      <div class="finding win">
+        <h4>Voice clarity (HNR)</h4>
+        <div class="effect win">+0.24</div>
+        <div class="desc">Winners have clearer voices. <em>Cohen's d, p &lt; 10⁻¹⁷³.</em> The single strongest discriminator.</div>
+      </div>
+      <div class="finding lose">
+        <h4>Pitch variability</h4>
+        <div class="effect lose">&minus;0.17</div>
+        <div class="desc">Winners have <em>less</em> pitch variation — more controlled prosody. <em>p &lt; 10⁻⁶⁰.</em></div>
+      </div>
+      <div class="finding win">
+        <h4>Pause time</h4>
+        <div class="effect win">+0.17</div>
+        <div class="desc">Winners pause more (0.40s vs 0.29s per sentence). <em>p &lt; 10⁻⁴⁴.</em></div>
+      </div>
+      <div class="finding win">
+        <h4>Subordinate clauses</h4>
+        <div class="effect win">+0.09</div>
+        <div class="desc">Winners use more syntactically complex sentences.</div>
+      </div>
+      <div class="finding lose">
+        <h4>Patriotism appeals</h4>
+        <div class="effect lose">&minus;0.04</div>
+        <div class="desc">Losers invoke patriotic language <em>more</em> often, not less. Counter-intuitive.</div>
+      </div>
+      <div class="finding info" style="border-top-color: var(--primary);">
+        <h4>Audio-only winner detector</h4>
+        <div class="effect" style="color: var(--primary);">68%</div>
+        <div class="desc">LDA on 88 openSMILE features predicts winner vs loser at 68% accuracy in leave-one-debate-out CV (chance = 50%).</div>
+      </div>
+    </div>
+    <p style="margin-top: 16px; font-size: 14px;">
+      <strong>The pattern</strong>: winners project authority through <em>controlled phonation and deliberate pausing</em> rather than through volume, pitch elevation, or patriotic language. They construct grammatically more complex sentences while keeping vocabulary at the same level of accessibility (Flesch ~72 for both groups). Linguistic findings often run against folk intuition — losers, not winners, are the heavier users of patriotism, fear appeals, and historical references.
+    </p>
+  </section>
+
+  <!-- ============ FILES ============ -->
+  <section class="stage" id="files">
+    <h2><span class="stage-number">📁</span>Outputs catalog</h2>
+    <div class="file-list">
+      <div><span class="comment"># Master tables</span></div>
+      <div>master_sentences.csv              <span class="comment"># 35,459 sentences × 22 cols</span></div>
+      <div></div>
+      <div><span class="comment"># Acoustic</span></div>
+      <div>acoustic_features.csv             <span class="comment"># 35,459 × 29 (Praat + librosa)</span></div>
+      <div>acoustic_features_supplementary.csv <span class="comment"># 35,459 × 94 (openSMILE + syllables)</span></div>
+      <div>acoustic_features_turn_level.csv  <span class="comment"># 5,496 turns × 36 cols</span></div>
+      <div></div>
+      <div><span class="comment"># Linguistic</span></div>
+      <div>linguistic_features.csv           <span class="comment"># 35,459 × 76</span></div>
+      <div>linguistic_embeddings.parquet     <span class="comment"># 35,459 × 385 (sentence-BERT)</span></div>
+      <div>damsl_bias_tags.csv               <span class="comment"># 35,459 × 47 (multi-label tags)</span></div>
+      <div></div>
+      <div><span class="comment"># Analysis</span></div>
+      <div>analysis_effects.csv              <span class="comment"># 39 features × Cohen's d + p-values</span></div>
+      <div>analysis_lda_coefficients.csv     <span class="comment"># 88 openSMILE LDA weights</span></div>
+      <div>analysis_lda_summary.txt          <span class="comment"># LDA accuracy report</span></div>
+      <div>analysis_top_sentences.csv        <span class="comment"># Most winner-like / loser-like</span></div>
+      <div></div>
+      <div><span class="comment"># Report</span></div>
+      <div>report/dap_report.pdf             <span class="comment"># 6-page IEEE conference paper</span></div>
+      <div>report/dap_report.tex             <span class="comment"># LaTeX source</span></div>
+      <div>report/figures/*.{pdf,png}        <span class="comment"># 5 publication figures</span></div>
+    </div>
+    <p style="font-size: 13px; color: var(--gray-700); margin-top: 14px;">
+      Total: ~140 MB on disk. All CSVs are joinable on <code>sentence_id</code> or <code>turn_id</code> for downstream analysis.
+    </p>
+  </section>
+
+</div>
+
+<footer>
+  <p>Debate Analysis Pipeline (DAP) — built across 16+ working sessions, May 2026.</p>
+  <p>Source code at <code>~/debate_analysis/</code> · Report at <code>~/debate_analysis/report/dap_report.pdf</code></p>
+</footer>
+
+<script>
+  function setMode(mode) {
+    document.body.classList.remove("kid-only", "research-only");
+    document.querySelectorAll(".toggle-bar button").forEach(b => b.classList.remove("active"));
+    if (mode === "kid") {
+      document.body.classList.add("kid-only");
+      document.getElementById("btn-kid").classList.add("active");
+    } else if (mode === "research") {
+      document.body.classList.add("research-only");
+      document.getElementById("btn-research").classList.add("active");
+    } else {
+      document.getElementById("btn-both").classList.add("active");
+    }
+  }
+</script>
+
+</body>
+</html>

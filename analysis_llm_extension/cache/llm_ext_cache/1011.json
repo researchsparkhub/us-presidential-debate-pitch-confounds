@@ -1,0 +1,4006 @@
+{
+ "debate_id": "1011",
+ "year": "2000",
+ "candidates": [
+  "Al Gore",
+  "George W. Bush"
+ ],
+ "results": {
+  "Al Gore": "loser",
+  "George W. Bush": "winner"
+ },
+ "winner": "George W. Bush",
+ "n_sentences": 979,
+ "descriptors": {
+  "Al Gore": {
+   "Mean pitch": -0.3609,
+   "Pitch SD (Hz)": 0.0256,
+   "Pitch range (Hz)": 0.1152,
+   "Loudness": -0.1677,
+   "Voice clarity (Praat)": -0.247,
+   "Pause duration": -0.0294,
+   "Pause count": -0.0027,
+   "Mean pause length": -0.0225,
+   "Speech rate": -0.2635,
+   "Articulation rate (w/s)": -0.2727,
+   "Syllable rate": -0.2364,
+   "Articulation rate (syll/s)": -0.3224,
+   "Semitone pitch SD/mean": 0.2993,
+   "Semitone 20-80 pitch range": 0.231,
+   "Voice clarity (openSMILE)": -0.6633,
+   "Clauses": -0.0563,
+   "Subordinate clauses": -0.0039,
+   "Parse depth": 0.0501,
+   "Dependency length": 0.136,
+   "Words per sentence": 0.1546,
+   "Word length": -0.001,
+   "Function words": 0.0089,
+   "1st-person pronouns": 0.0768,
+   "2nd-person pronouns": -0.067,
+   "3rd-person pronouns": -0.0226,
+   "Nouns": -0.0368,
+   "Verbs": -0.122,
+   "Adjectives": 0.0232,
+   "Adverbs": 0.1907,
+   "Reading ease": -0.0668,
+   "Grade level": 0.1241,
+   "Sentiment": -0.015,
+   "Positive sentiment": -0.0378,
+   "Negative sentiment": 0.0783
+  },
+  "George W. Bush": {
+   "Mean pitch": 0.2869,
+   "Pitch SD (Hz)": -0.0204,
+   "Pitch range (Hz)": -0.0916,
+   "Loudness": 0.1333,
+   "Voice clarity (Praat)": 0.1963,
+   "Pause duration": 0.0233,
+   "Pause count": 0.0021,
+   "Mean pause length": 0.0179,
+   "Speech rate": 0.2094,
+   "Articulation rate (w/s)": 0.2167,
+   "Syllable rate": 0.1875,
+   "Articulation rate (syll/s)": 0.2562,
+   "Semitone pitch SD/mean": -0.2379,
+   "Semitone 20-80 pitch range": -0.1836,
+   "Voice clarity (openSMILE)": 0.5272,
+   "Clauses": 0.0446,
+   "Subordinate clauses": 0.0031,
+   "Parse depth": -0.0397,
+   "Dependency length": -0.1078,
+   "Words per sentence": -0.1226,
+   "Word length": 0.0008,
+   "Function words": -0.007,
+   "1st-person pronouns": -0.0609,
+   "2nd-person pronouns": 0.0532,
+   "3rd-person pronouns": 0.0179,
+   "Nouns": 0.0292,
+   "Verbs": 0.0968,
+   "Adjectives": -0.0184,
+   "Adverbs": -0.1512,
+   "Reading ease": 0.0529,
+   "Grade level": -0.0984,
+   "Sentiment": 0.0119,
+   "Positive sentiment": 0.03,
+   "Negative sentiment": -0.0621
+  }
+ },
+ "transcript_turns": [
+  {
+   "speaker": "Al Gore",
+   "text": "Well, Jim, first of all, I would like to thank the sponsors of this debate and the people of Boston for hosting the debate."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I would like to thank Governor Bush for participating, and I would like to say I\u2019m happy to be here with Tipper and our family."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I have actually not questioned Governor Bush\u2019s experience."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I have questioned his proposals."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And here is why."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think this is a very important moment for our country."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have achieved extraordinary prosperity."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And in this election, America has to make an important choice."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Will we use our prosperity to enrich not just the few, but all of our families?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I believe we have to make the right and responsible choices."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If I\u2019m entrusted with the presidency, here are the choices that I will make."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I will balance the budget every year."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I will pay down the national debt."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I will put Medicare and Social Security in a lockbox and protect them."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I will cut taxes for middle-class families."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I believe it\u2019s important to resist the temptation to squander our surplus."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If we make the right choices, we can have a prosperity that endures and enriches all of our people."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If I\u2019m entrusted with the presidency, I will help parents and strengthen families because, you know, if we have prosperity that grows and grows, we still won\u2019t be successful unless we strengthen families by, for example, ensuring that children can always go to schools that are safe."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "By giving parents the tools to protect their children against cultural pollution."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I will make sure that we invest in our country and our families."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I mean investing in education, health care, the environment, and middle-class tax cuts and retirement security."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That is my agenda and that is why I think that it\u2019s not just a question of experience."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, we do come from different places."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I come from West Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The governor is the chief executive officer."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We know how to set agendas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think you\u2019ll find the difference reflected in our budgets."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to take one-half of the surplus and dedicate it to Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "One-quarter of the surplus for important projects, and I want to send one-quarter of the surplus back to the people who pay the bills."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want everybody who pays taxes to have their tax rates cut."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that stands in contrast to my worthy opponent\u2019s plan, which will increase the size of government dramatically."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "His plan is three times larger than President Clinton\u2019s proposed plan eight years ago."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It is a plan that will have 200 new programs \u2014 expanded programs and creates 20,000 new bureaucrats."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It it empowers Washington."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Tonight you\u00e2\u20ac\u2122re going to hear that my passion and my vision is to empower Americans to be able to make decisions for themselves in their own lives."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Yes, Jim."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I said that his tax cut plan, for example, raises the question of whether it\u2019s the right choice for the country."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And let me give you an example of what I mean."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Under Governor Bush\u2019s tax cut proposal, he would spend more money on tax cuts for the wealthiest 1% than all of the new spending that he proposes for education, health care, prescription drugs and national defense all combined."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, I think those are the wrong priorities."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, under my proposal, for every dollar that I propose in spending for things like education and health care, I will put another dollar into middle class tax cuts."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And for every dollar that I spend in those two categories, I\u2019ll put $2 toward paying down the national debt."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think it\u2019s very important to keep the debt going down and completely eliminate it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I also think it\u2019s very important to go to the next stage of welfare reform."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Our country has cut the welfare rolls in half."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I fought hard from my days in the Senate and as vice president to cut the welfare rolls and we\u2019ve moved millions of people in America into good jobs."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But it\u2019s now time for the next stage of welfare reform, and include fathers and not only mothers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me just say that obviously tonight we\u2019re going to hear some phony numbers about what I think and what we ought to do."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "People need to know that over the next ten years it is going to be $25 trillion of revenue that comes into our treasurey and we anticipate spending $21 trillion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And my plan say why don\u2019t we pass 1."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "3 trillion of that back to the people who pay the bills?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Surely we can afford 5% of the $25 trillion that are coming into the treasury to the hard working people that pay the bills."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a difference of opinion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent thinks the government \u2014 the surplus is the government\u2019s money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s not what I think."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think it\u2019s the hard-working people of America\u2019s money and I want to share some of that money with you so you have more money to build and save and dream for your families."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a difference of opinion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a difference between government making decisions for you and you getting more of your money to make decisions for yourself."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Yes."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I take him for his word."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Look, I fully recognize I\u2019m not of Washington."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m from Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And he\u2019s got a lot of experience, but so do I."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And I\u2019ve been the chief executive officer of the second biggest state in the union."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I have a proud record of working with both Republicans and Democrats, which is what our nation needs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Somebody that can come to Washington and say let\u2019s forget all the finger pointing and get positive things done on Medicare, prescription drugs, Social Security, and so I take him for his word."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Jim, if I could just respond."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I know that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor used the phrase phony numbers, but if you look at the plan and add the numbers up, these numbers are correct."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "He spends more money for tax cuts for the wealthiest 1% than all of his new spending proposals for health care, prescription drugs, education and national defense all combined."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I agree that the surplus is the American people\u2019s money, it\u2019s your money."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That\u2019s why I don\u2019t think we should give nearly half of it to the wealthiest 1%, because the other 99% have had an awful lot to do with building the surplus in our prosperity."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I hope it\u00e2\u20ac\u2122s about wealthy people."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Actually what I\u2019ve said, Jim."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve said that eight years ago they campaigned on prescription drugs for seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And four years ago they campaigned on getting prescription drugs for seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And now they\u2019re campaigning on getting prescription drugs for seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It seems like they can\u2019t get it done."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Now, they may blame other folks, but it\u2019s time to get somebody in Washington who is going to work with both Republicans and Democrats to get some positive things done when it comes to our seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so what I\u2019ve said is that there\u2019s been some missed opportunities."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They\u2019ve had a chance."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They\u2019ve had a chance to form consensus."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve got a plan on Medicare, for example, that\u2019s a two-stage plan that says we\u2019ll have immediate help for seniors and what I call immediate Helping Hand, a $48 billion program."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But I also want to say to seniors, if you\u2019re happy with Medicare the way it is, fine, you can stay in the program."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But we\u2019re going to give you additional choices like they give federal employees in the federal employee health plan."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They have a variety of choices to choose, so should seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And my point has been, as opposed to politicizing an issue like Medicare, in other words, holding it up as an issue, hoping somebody bites it and try to clobber them over the head with it for political purposes, this year, in the year 2000, it\u2019s time to get it done once and for all."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s what I\u2019ve been critical about the administration for."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Same with Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think there was a good opportunity to bring Republicans and Democrats together to reform the Social Security system so seniors will never go without."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Those on Social Security today will have their promise made, but also to give younger workers the option at their choice of being able to manage some of their own money in the private sector to make sure there\u2019s a Social Security system around tomorrow."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There are a lot of young workers at our rallies we go to that when they hear I\u2019ll trust them at their option to be able to manage, under certain guidelines, some of their own money to get a better rate of return so that they\u2019ll have a retirement plan in the future, they begin to nod their heads and they want a different attitude in Washington."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Well, Jim, under my plan all seniors will get prescription drugs under Medicare."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor has described Medicare as a government HMO."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s not, and let me explain the difference."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Under the Medicare prescription drug proposal I\u2019m making, here is how it works, you go to your own doctor."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Your doctor chooses your prescription."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "No HMO or insurance company can take those choices away from you."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Then you go to your own pharmacy."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "You fill the prescription and Medicare pays half the cost."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you\u2019re in a very poor family or if you have very high costs, Medicare will pay all the costs, a $25 premium, and much better benefits than you can possibly find in the private sector."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now here is the contrast."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "95% of all seniors would get no help whatsoever under my opponent\u2019s plan for the first four or five years."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, one thing I don\u2019t understand, Jim, is why is it that the wealthiest 1% get their tax cuts the first year, but 95% of seniors have to wait four to five years before they get a single penny?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I guess my answer to that is the man is running on Medi-scare."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Trying to frighten people in the voting booth."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s just not the way I think and it\u2019s not my intentions and not my plan."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want all seniors to have prescription drugs in Medicare."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to reform Medicare."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u00e2\u20ac\u2122s been opportunity to do so but this administration has failed to do it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so seniors will have not only a Medicare plan where the poor seniors will have prescription drugs paid for, but there will be a variety of options."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The current system today has meant a lot for a lot of seniors, and I really appreciate the intentions of the current system as I mentioned."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you\u2019re happy with the system you can stay in it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But there are a lot of procedures that haven\u2019t kept up in Medicare with the current times."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No prescription drug benefits, no drug therapy, no preventative medicines, no vision care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to have a modern system to help seniors, and the idea of supporting a federally controlled 132,000-page document bureaucracy as being a compassionate way for seniors, and the only compassionate source of care for seniors is not my vision."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe we ought to give seniors more options."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe we ought to make the system work better."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I know this."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I know it will require a different kind of leader to go to Washington to say to both Republicans and Democrats, let\u2019s come together."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You\u2019ve had your chance, Vice President, you\u2019ve been there for eight years and nothing has been done."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My point is, is that my plan not only trusts seniors with options, my plan sets aside $3."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "4 trillion for Medicare over the next ten years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My plan also says it requires a new approach in Washington, D."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s going to require somebody who can work across the partisan divide."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If I could respond to that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Under my plan I will put Medicare in an iron clad lockbox and prevent the money from being used for anything other than Medicare."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor has declined to endorse that idea even though the Republican as well as Democratic leaders in Congress have endorsed it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I would be interested to see if he would say this evening he\u2019ll put Medicare in a lockbox."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I don\u00e2\u20ac\u2122t think he will because under his plan if you work out the numbers \u00c2 $100 billion comes out of Medicare just for the wealthiest 1% in the tax cut."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now here is the difference."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Some people who say the word reform actually mean cuts."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Under the governor\u2019s plan, if you kept the same fee for service that you have now under Medicare, your premiums would go up by between 18% and 47%, and that is the study of the Congressional plan that he\u2019s modeled his proposal on by the Medicare actuaries."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me give you one quick example."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "There is a man here tonight named George McKinney from Milwaukee."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "He\u2019s 70 years old, has high blood pressure, his wife has heart trouble."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They have an income of $25,000 a year."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They can\u2019t pay for their prescription drugs and so they\u2019re some of the ones that go to Canada regularly in order to get their prescription drugs."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Under my plan, half of their costs would be paid right away."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Under Governor Bush\u2019s plan, they would get not one penny for four to five years and then they would be forced to go into an HMO or to an insurance company and ask them for coverage, but there would be no limit on the premiums or the deductibles or any of the terms and conditions."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I cannot let this go by, the old-style Washington politics, of we\u2019re going to scare you in the voting booth."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Under my plan the man gets immediate help with prescription drugs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s called Immediate Helping Hand."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Instead of squabbling and finger pointing, he gets immediate help."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me say something."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Can I make another point?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They get $25,000 a year income, that makes them ineligible."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Look, this is a man who has great numbers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He talks about numbers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m beginning to think not only did he invent the Internet, but he invented the calculator."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s fuzzy math."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a scaring \u2014 he\u2019s trying to scare people in the voting booth."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Under my tax plan that he continues to criticize, I set one-third."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The federal government should take no more than a third of anybody\u2019s check."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But I also dropped the bottom rate from 15% to 10%."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Because by far the vast majority of the help goes to people at the bottom end of the economic ladder."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you\u2019re a family of four in Massachusetts, making $50,000, you get a 50% cut in the federal income taxes you pay."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s from $4000 to about $2000."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Now, the difference in our plans is I want that $2,000 to go to you, and the vice president would like to be spending the $2,000 on your behalf."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s just clear you can go to the website and look."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you make more than $25,000 a year you don\u2019t get a penny of help under the Bush prescription drug proposal for at least four to five years, and then you\u2019re pushed into a Medicare \u2014 into an HMO or insurance company plan, and there\u2019s no limit on the premiums or the deductibles or any of the conditions."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And the insurance companies say it won\u2019t work and they won\u2019t offer these plans."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Correct."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Correct."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The difference is I want to bring it to 100% and he wants to bring it to 5%."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s totally false for him to stand up here and say that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me make sure the seniors hear me loud and clear."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They have had their chance to get something done."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m going to work with Democrats and Republicans to reform the system."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "All seniors will be covered, all poor seniors will have their prescription drugs paid for, and in the meantime, we\u2019ll have a plan to help poor seniors and in the meantime it could be one year or two years."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me call your attention to the key word there."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "He said all poor seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Wait a minute."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "All seniors are covered under prescription drugs in my plan."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "In the first year?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If we can get it done in the first year, you bet."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Yours is phased in in eight years."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s a two-phase plan."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "For the first four years \u2014 it takes a year to pass it and for the first four years only the poor are covered."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Middle class seniors like George McKinney and his wife are not covered for four to five years."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Excellent question."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And here is the simple difference."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "My plan has not only a short-term component, but also a long-term component."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And it focuses not only on increasing the supply, which I think we have to do, but also on working on the consumption side."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, in the short-term we have to free ourselves from the domination of the big oil companies that have the ability to manipulate the price from OPEC when they want to raise the price."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And in the long-term we have to give new incentives for the development of domestic resources like deep gas in the western Gulf, like stripper wells for oil, but also renewable sources of energy."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And domestic sources that are cleaner and better."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I\u2019m proposing a plan that will give tax credits and tax incentives for the rapid development of new kinds of cars and trucks and buses and factories and boilers and furnaces that don\u2019t have as much pollution, that don\u2019t burn as much energy, and that help us get out on the cutting edge of the new technologies that will create millions of new jobs."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Because, when we sell these new products here, we\u2019ll then be able to sell them overseas."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "There is a ravenous demand for them overseas."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, another big difference is Governor Bush is proposing to open up some of our most precious environmental treasures, like the Arctic National Wildlife Refuge for the big oil companies to go in and start producing oil there."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think that is the wrong choice."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It would only give us a few months\u2019 worth of oil and the oil wouldn\u2019t start flowing for many years into the future."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I don\u2019t think it\u2019s a fair price to pay to destroy precious parts of America\u2019s environment."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have to bet on the future and move beyond the current technologies to have a whole new generation of more efficient, cleaner, energy technology."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s an issue I know a lot about."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I was a small oil person for a while in west Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is an administration that\u2019s had no plan."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And all of a sudden the results of having no plan have caught up with America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "First and foremost we have to fully fund LIHEAP which is a way to help low income folks, particularly here in the east to pay for high fuel bills."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Secondly, we need an active exploration program in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The only way to become less dependent on foreign sources of crude oil is to explore at home."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You bet I want to open up a small part of Alaska."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "When that field is online it will produce one million barrels a day."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Today we import one million barrels from Saddam Hussein."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would rather that a million come from our own hemisphere, our own country as opposed to Saddam Hussein."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to build more pipelines to move natural gas throughout this hemisphere."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to develop the coal resources in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Have clean coal technologies."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u00e2\u20ac\u2122ve got abundant supplies of energy here in America and we\u00e2\u20ac\u2122d better get after it, we better start exploring it or otherwise we\u2019ll be in deep trouble in the future because of our dependency upon foreign sources of crude."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me clarify."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m for doing something both on the supply side and production side and on the consumption side."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me say, that I found one thing in Governor Bush\u2019s answer that we certainly agree on, and that\u2019s the low income heating assistance program."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I commend you for supporting that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I worked to get $400 million just a couple of weeks ago."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And to establish a permanent home heating oil reserve here in the northeast."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, as for the proposals that I\u2019ve worked for for renewables and conservation and efficiencies and new technologies."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The fact is for the last few years in the Congress, we\u2019ve faced a lot of opposition to them."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They\u2019ve only approved about 10% of the agenda I\u2019ve helped to send up there."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we need to get serious about this energy crisis, both in the Congress and in the White House, and if you entrust me with the presidency, I will tackle this problem and focus on new technologies that will make us less dependent on big oil or foreign oil."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well I would first say he should have been tackling it for the last seven years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Secondly the difference is we need to explore at home."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And the vice president doesn\u2019t believe in exploration in Alaska."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u2019s a lot of shut-in gas that we need to be moving out of Alaska by pipeline."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u2019s an interesting issue up in the northwest as well."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Do we remove dams that produce hydroelectric energy?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m against removing dams in the northwest."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u00e2\u20ac\u2122t know where the vice president stands but that\u00e2\u20ac\u2122s a renewable energy source of energy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to keep that in line."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I was in coal country in West Virginia yesterday."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is an abundant supply of coal in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I know we can do a better job of clean coal technologies."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m going to ask the Congress for $2 billion to make sure we have the cleanest coal technologies in the world."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My answer to you is in the short-term we need to get after it here in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to explore our resources and we need to develop our reservoirs of domestic production."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We also need to have a hemispheric energy policy where Canada, Mexico and the United States come together."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I brought this up recently with Vincent Fox the newly elected president in Mexico, he\u2019s a man I know from Mexico."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I talked to him about how best to expedite the exploration of natural gas in Mexico and transport it up to the United States so we become less dependent on foreign sources of crude oil."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is a major problem facing America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The administration did not deal with it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time for a new administration to deal with the energy problem."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If I may just briefly, Jim, note."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I found a couple of other things we agree upon."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We may not find that many this evening, so I wanted to emphasize."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I strongly support new investments in clean coal technology."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I made a proposal three months ago on this."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And also domestic exploration yes, but not in the environmental treasures of our country."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We don\u2019t have to do that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That\u2019s the wrong choice."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I know the oil companies have been itching to do that, but it is not the right thing for the future."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s the right thing for the consumers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Less dependency upon foreign sources of crude is good for consumers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we can do so in an environmentally friendly way."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Well can I have the last word on this?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t think a president can do that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I was disappointed in the ruling because I think abortions ought to be more rare in America, and I\u2019m worried that that pill will create more abortions and cause more people to have abortions."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is a very important topic and it\u2019s a very sensitive topic, because a lot of good people disagree on the issue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think what the next president ought to do is to promote a culture of life in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Life of the elderly and life of those living all across the country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Life of the unborn."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "As a matter of fact, I think a noble goal for this country is that every child, born or unborn, need to be protected by law and welcomed to life."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I know we need to change a lot of minds before we get there in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "What I do believe is that we can find good, common ground on issues of parental consent or parental notification."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I know we need to ban partial birth abortions."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is a place where my opponent and I have strong disagreement."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe banning partial birth abortions would be a positive step to reducing the number of abortions in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is an issue that will require a new attitude."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve been battling over abortion for a long period of time."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Surely this nation can come together to promote the value of life."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Surely we can fight off these laws that will encourage doctors to \u2014 to allow doctors to take the lives of our seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Surely we can work together to create a cultural life so some of these youngsters who feel like they can take a neighbor\u2019s life with a gun will understand that that\u2019s not the way America is meant to be."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Surely we can find common ground to reduce the number of abortions in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "As to the drug itself, I mentioned I was disappointed."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I hope the FDA took its time to make sure that American women will be safe who use this drug."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Well, Jim, the FDA took 12 years, and I do support that decision."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They determined it was medically safe for the women who use that drug."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "This is indeed a very important issue."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "First of all on the issue of partial birth or so-called late-term abortion, I would sign a law banning that procedure, provided that doctors have the ability to save a woman\u2019s life or to act if her health is severely at risk."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That\u2019s not the main issue."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The main issue is whether or not the Roe v."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Wade decision is going to be overturned."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I support a woman\u2019s right to choose."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "My opponent does not."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It is important because the next president is going to appoint three and maybe even four justices of the Supreme Court."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And Governor Bush has declared to the anti-choice groups that he will appoint justices in the mold of Scalia and Clarence Thomas, who are known for being the most vigorous opponents of a woman\u2019s right to choose."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Here is the difference."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "He trusts the government to order a woman to do what it thinks she ought to do."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I trust women to make the decisions that affect their lives, their destinies and their bodies."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I think a woman\u2019s right to choose ought to be protected and defended."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t think a president can unilaterally overturn it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The FDA has made its decision."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think once a decision has been made, it\u2019s been made unless it\u2019s proven to be unsafe to women."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Jim, the question you asked, if I heard you correctly, was would he support legislation to overturn it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And if I heard the statement day before yesterday, you said you would order \u2014 he said he would order his FDA appointee to review the decision."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now that sounds to me a little bit different."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I just think that we ought to support the decision."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I said I would make sure that women would be safe who used the drug."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I am pro-life."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The voters should assume I have no litmus test on that issue or any other issue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Voters will know I\u2019ll put competent judges on the bench."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "People who will strictly interpret the Constitution and not use the bench to write social policy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That is going to be a big difference between my opponent and me."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe that the judges ought not to take the place of the legislative branch of government."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That they\u2019re appointed for life and that they ought to look at the Constitution as sacred."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They shouldn\u2019t misuse their bench."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t believe in liberal activist judges."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe in strict constructionists."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Those are the kind of judges I will appoint."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve named four supreme court justices in the State of Texas and would ask the people to check out their qualifications, their deliberations."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They\u2019re good, solid men and women who have made good, sound judgments on behalf of the people of Texas."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We both use similar language to reach an exactly opposite outcome."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I don\u2019t favor a litmus test, but I know that there are ways to assess how a potential justice interprets the Constitution."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And in my view, the Constitution ought to be interpreted as a document that grows with our country and our history."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I believe, for example, that there is a right of privacy in the Fourth Amendment."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And when the phrase a strict constructionist is used and when the names of Scalia and Thomas are used as the benchmarks for who would be appointed, those are code words, and nobody should mistake this, for saying the governor would appoint people who would overturn Roe v."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Wade."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s very clear to me."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I would appoint people that have a philosophy that I think would have it quite likely they would uphold Roe v."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Wade."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It sounds like the vice president\u00e2\u20ac\u2122s not right very many times tonight."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I just told you the criteria on which I\u2019ll appoint judges."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I have a record of appointing judges in the State of Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s what a governor gets to do."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A governor gets to name supreme court judges."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He also reads all kinds of things into my tax plan and into my Medicare plan."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want the viewers out there to listen to what I have to say about it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It would be likely that they would uphold Roe v."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Wade."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I do believe it\u2019s wrong to use a litmus test."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you look at the history of a lower court judge\u2019s rulings, you can get a pretty good idea of how they\u2019ll interpret questions."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "A lot of questions are first impression, and these questions that have been seen many times come up in a new context and so \u2014 but, you know, this is a very important issue."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Because a lot of young women in this country take this right for granted and it could be lost."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It is on the ballot in this election, make no mistake about it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ll tell you what kind of judges he\u2019ll put on."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He\u2019ll put liberal activists justices who will use their bench to subvert the legislature, that\u2019s what he\u2019ll do."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That\u00e2\u20ac\u2122s not right."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Well, Milosevic has lost the election."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "His opponent, Kostunica, has won the election."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s overwhelming."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Milosevic\u2019s government refuses to release the vote count."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "There\u2019s now a general strike going on."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They\u2019re demonstrating."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we should support the people of Serbia and Yugoslavia, as they call the Serbia plus Montenegro, and put pressure in every way possible to recognize the lawful outcome of the election."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The people of Serbia have acted very bravely in kicking this guy out of office."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now he is trying to not release the votes and then go straight to a so-called runoff election without even announcing the results of the first vote."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, we\u2019ve made it clear, along with our allies, that when Milosevic leaves, then Serbia will be able to have a more normal relationship with the rest of the world."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That is a very strong incentive that we\u2019ve given them to do the right thing."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Bear in mind also, Milosevic has been indicted as a war criminal and he should be held accountable for his actions."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, we have to take measured steps because the sentiment within Serbia is, for understandable reasons, against the United States because their nationalism \u2014 even if they don\u2019t like Milosevic, they still have some feelings lingering from the NATO action there."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "So we have to be intelligent in the way we go about it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But make no mistake about it, we should do everything we can to see that the will of the Serbian people expressed in this extraordinary election is done."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I hope that he\u2019ll be out of office very shortly."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, I\u2019m pleased with the results of the election."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "As the vice president is."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time for the man to go."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It means that the United States must have a strong diplomatic hand with our friends in NATO."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s why it\u2019s important to make sure our alliances are as strong as they possibly can be to keep the pressure on Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Milosevic."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But this will be an interesting moment for the Russians to step up and lead as well."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Be a wonderful time for the Russians to step into the Balkans and convince Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Milosevic that it\u2019s in his best interest and his country\u2019s best interest to leave office."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The Russians have a lot of sway in that part of the world."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We would like to see the Russians use that sway to encourage democracy to take hold."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s an encouraging election."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time for the man to leave."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "In this particular situation, no."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Bear in mind that we have a lot of sanctions in force against Serbia right now."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And the people of Serbia know that they can escape all those sanctions if this guy is turned out of power."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, I understand what the governor has said about asking the Russians to be involved, and under some circumstances that might be a good idea."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But being as they have not yet been willing to recognize Kostunica as the lawful winner of the election, I\u2019m not sure it\u2019s right for us to invite the president of Russia to mediate this \u2014 this dispute there because we might not like the results that comes out of that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They currently favor going forward with a runoff election."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think that\u2019s the wrong thing."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think the governor\u2019s instinct is not necessarily bad because we have worked with the Russians in a constructive way in Kosovo, for example, to end the conflict there."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But I think we need to be very careful in the present situation before we invite the Russians to play the lead role in mediating."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well obviously we wouldn\u2019t use the Russians if they didn\u2019t agree with our answer, Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Vice President."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They don\u00e2\u20ac\u2122t."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me say this to you, I wouldn\u2019t use force."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I wouldn\u2019t use force."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s not in our national interest to use force in this case."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would use pressure and diplomacy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a difference with what the president did in Kosovo which I supported and this."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s up to the people in this region to take control of their country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, if it\u2019s in our vital national interests, and that means whether our territory is threatened or people could be harmed, whether or not the alliances are \u2014 our defense alliances are threatened, whether or not our friends in the Middle East are threatened."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That would be a time to seriously consider the use of force."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Secondly, whether or not the mission was clear."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Whether or not it was a clear understanding as to what the mission would be."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Thirdly, whether or not we were prepared and trained to win."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Whether or not our forces were of high morale and high standing and well-equipped."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And finally, whether or not there was an exit strategy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would take the use of force very seriously."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would be guarded in my approach."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t think we can be all things to all people in the world."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think we\u2019ve got to be very careful when we commit our troops."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The vice president and I have a disagreement about the use of troops."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He believes in nation building."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would be very careful about using our troops as nation builders."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe the role of the military is to fight and win war and therefore prevent war from happening in the first place."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "So I would take my responsibility seriously."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And it starts with making sure we rebuild our military power."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Morale in today\u2019s military is too low."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re having trouble meeting recruiting goals."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We met the goals this year, but in the previous years we have not met recruiting goals."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Some of our troops are not well-equipped."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe we\u2019re overextended in too many places."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And therefore I want to rebuild the military power."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It starts with a billion dollar pay raise for the men and women who wear the uniform."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A billion dollars more than the president recently signed into law."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s to make sure our troops are well-housed and well-equipped."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Bonus plans to keep some of our high-skilled folks in the services and a commander in chief who clearly sets the mission."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The mission is to fight and win war and therefore prevent war from happening in the first place."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me tell you what I\u00e2\u20ac\u2122ll do."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "First of all \u00c2 I want to make it clear, our military is the strongest, best-trained, best-equipped, best-led fighting force in the world and in the history of the world."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Nobody should have any doubt about that, least of all our adversaries or potential adversaries."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you entrust me with the presidency, I will do whatever is necessary in order to make sure our forces stay the strongest in the world."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "In fact, in my ten-year budget proposal I\u2019ve set aside more than twice as much for this purpose as Governor Bush has in his proposal."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, I think we should be reluctant to get involved in someplace in a foreign country."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But if our national security is at stake, if we have allies, if we\u2019ve tried every other course, if we\u2019re sure military action will succeed, and if the costs are proportionate to the benefits, we should get involved."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, just because we don\u2019t want to get involved everywhere doesn\u2019t mean we should back off anywhere it comes up."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I disagree with the proposal that maybe only when oil supplies are at stake that our national security is at risk."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think that there are situations like in Bosnia or Kosovo where there\u2019s a genocide, where our national security is at stake there."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I agree our military is the strongest in the world today, that\u2019s not the question."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The question is will it be the strongest in the years to come?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The warning signs are real."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Everywhere I go on the campaign trail I see moms and dads whose son or daughter may wear the uniform and they tell me about how discouraged their son or daughter may be."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A recent poll was taken among 1,000 enlisted personnel, as well as officers, over half of whom will leave the service when their time of enlistment is up."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The captains are leaving the service."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a problem."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And it\u2019s going to require a new commander in chief to rebuild the military power."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The other day I was honored to be flanked by Colin Powell and General Norman Schwartzkopf recently stood by me side and agreed with me."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They said even if we are the strongest if we don\u00e2\u20ac\u2122t do something if we don\u2019t have a clear vision of the military, if we don\u2019t stop extending our troops all around the world and nation building missions, then we\u2019re going to have a serious problem coming down the road, and I\u2019m going to prevent that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m going to rebuild our military power."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s one of the major priorities of my administration."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Well, they should look at our proposals and look at us as people and make up their own minds."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "When I was a young man, I volunteered for the Army."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I served my country in Vietnam."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "My father was a senator who strongly opposed the Vietnam War."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I went to college in this great city, and most of my peers felt against the war as I did."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But I went anyway because I knew if I didn\u2019t, somebody else in the small town of Carthage, Tennessee, would have to go in my place."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I served for eight years in the House of Representatives and I served on the Intelligence Committee, specialized in looking at arms control."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I served for eight years in the United States Senate and served on the Armed Services Committee."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "For the last eight years I\u2019ve served on the National Security Council, and when the conflict came up in Bosnia, I saw a genocide in the heart of Europe with the most violent war on the continent of Europe since World War II."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Look, that\u2019s where World War I started in the Balkans."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "My uncle was a victim of poisonous gas there."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Millions of Americans saw the results of that conflict."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have to be willing to make good, sound judgments."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Incidentally, I know the value of making sure our troops have the latest technology."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor has proposed skipping the next generation of weapons."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think that\u2019s a big mistake, because I think we have to stay at the cutting edge."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think you\u2019ve got to look at how one has handled responsibility in office."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Whether or not it\u2019s \u2014 the same in domestic policy as well."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Whether or not you have the capacity to convince people to follow?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Whether or not one makes decisions based on sound principles or whether or not you rely upon polls and focus groups on how to decide what the course of action is."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We have too much polling and focus groups going on in Washington today."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need decisions made on sound principles."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve been the governor of a big state."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think one of the hallmarks of my relationship in Austin, Texas, is that I\u2019ve had the capacity to work with both Republicans and Democrats."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think that\u2019s an important part of leadership."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think what it means to build consensus."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve shown I know how to do so."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Tonight in the audience there\u2019s one elected state senator who is a Democrat, a former state-wide officer who is a Democrat, a lot of Democrats who are here in the debate to \u2014 because they want to show their support that shows I know how to lead."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so the fundamental answer to your question, who can lead and who\u2019s shown the ability to get things done?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If I could say one thing."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "One of the key points in foreign policy and national security policy is the need to re-establish the old-fashioned principle that politics ought to stop at the water\u2019s edge."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "When I was in the United States Congress, I worked with former President Reagan to modernize our strategic weaponry and to pursue arms control in a responsible way."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "When I was in the United States Senate I worked with former President Bush, your father."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I was one of only a few Democrats in the Senate to support the Persian Gulf War."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think bipartisanship is a national asset."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have to find ways to reestablish it in foreign policy and national security policy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Yeah."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Why haven\u2019t they done it in seven years?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Oh, absolutely."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "This is a very important moment in the history of our country."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Look, we\u2019ve got the biggest surpluses in all of American history."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The key question that has to be answered in this election is will we use that prosperity wisely in a way that benefits all of our people and doesn\u2019t go just to the few."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Almost half of all the tax cut benefits, as I said under Governor Bush\u2019s plan, go to the wealthiest 1%."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we have to make the right and responsible choices."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we have to invest in education, protecting the environment, health care, a prescription drug benefit that goes to all seniors, not just to the poor, under Medicare, not relying on HMOs and insurance companies."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think that we have to help parents and strengthen families by dealing with the kind of inappropriate entertainment material that families are just heart sick that their children are exposed to."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we\u2019ve got to have welfare reform taken to the next stage."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think that we have got to balance the budget every single year, pay down the national debt and, in fact, under my proposal the national debt will be completely eliminated by the year 2012."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we need to put Medicare and Social Security in a lockbox."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor will not put Medicare in a lockbox."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I don\u2019t think it should be used as a piggy bank for other programs."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think it needs to be moved out of the budget and protected."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019ll veto anything that takes money out of Social Security or Medicare for anything other than Social Security or Medicare."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, the priorities are just very different."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019ll give you a couple of examples."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "For every new dollar that I propose for spending on health care, Governor Bush spends $3 for a tax cut for the wealthiest 1%."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, for every dollar that I propose to spend on education, he spends $5 on a tax cut for the wealthiest 1%."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Those are very clear differences."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The man is practicing fuzzy math again."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u2019s differences."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Under Vice President Gore\u2019s plan, he is going to grow the federal government in the largest increase since Lyndon Baines Johnson in 1965."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re talking about a massive government, folks."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re talking about adding to or increasing 200 programs, 20,000 new bureaucrats."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Imagine how many IRS agents it is going to take to be able to figure out his targeted tax cut for the middle class that excludes 50 million Americans."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a huge difference in this campaign."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He says he\u2019s going to give you tax cuts."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "50 million of you won\u2019t receive it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He said in his speech he wants to make sure the right people get tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s not the role of a president to decide right and wrong."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Everybody who pays taxes ought to get tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "After my plan is in place, the wealthiest Americans will pay a higher percentage of taxes then they do today, the poorest of Americans, six million families, won\u2019t pay any tax at all."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a huge difference."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A difference between big exploding federal government that wants to think on your behalf and a plan that meets priorities and liberates working people to be able to make decisions on your own."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me just say, Jim, you haven\u2019t heard the governor deny these numbers."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "He\u2019s called them phony and fuzzy."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The fact remains almost 30% of his proposed tax cut goes to \u2014 only to Americans that make more than $1 million per year."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "More money goes to the \u2014 can I have a rebuttal here?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me tell you what the facts are."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The facts are after my plan, the wealthiest of Americans pay more taxes of the percentage of the whole than they do today."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Secondly, if you\u2019re a family of four making $50,000 in Massachusetts, you get a 50% tax cut."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me give you one example."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The Strunk family in Allentown, Pennsylvania, I campaigned with them the other day."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They make $51,000 combined income, they pay about $3500 in taxes."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Under my plan, they get $1800 of tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Under Vice President Gore\u2019s plan, they get $145 of tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Now you tell me who stands on the side of the fence."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You ask the Strunks whose plan makes more sense."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a difference of opinion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He would rather spend the family\u2019s $1800 and I would rather the Strunks spend their own money."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "No, I don\u2019t, and I\u2019m not going to go to calling names on his facts."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m just gonna tell you what the real facts are."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The analysis that he\u2019s talking about leaves out more than half of the tax cuts that I have proposed."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And if you just add the numbers up, he still hasn\u2019t denied it, he spends more money on a tax cut for the wealthiest 1% than all his new proposals for prescription drugs, healthcare, education, and national defense combined."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now those are the wrong priorities."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "$665 billion over ten years for the wealthiest 1%."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "As I said, almost 30% of it goes to Americans that make more than $1 million per year."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Every middle class family is eligible for a tax cut under my proposal."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me give you some specific examples."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I believe college tuition up to $10,000 per year ought to be tax deductible so middle-class families can choose to send their children to college."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I believe all senior citizens should be able to choose their own doctors and get prescription drugs from their own pharmacists with Medicare paying half the bill."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I believe parents ought to be able to make more choices need more public and charter school choice to send their kids always to a safe school."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We need to make education the number one priority in our country and treat teachers like the professionals that they are."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And that\u2019s why I have made it a number one priority in my budget, not a tax cut for the wealthy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me talk about tax cuts one more time."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is a man whose plan excludes 50 million Americans."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Not so."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Take for example the marriage penalty."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you itemize your tax return, you get no marriage penalty relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He picks and chooses."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He decides who the right people are."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a fundamental difference of opinion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want my fellow Americans to hear one more time."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ll spend $25 trillion \u2014 we\u2019ll collect $25 trillion in revenue in the next 10 years and spend $21 trillion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Surely we can send 5% back to you that pay the bills."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u00e2\u20ac\u2122s a problem wait."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to say something, Jim."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This man has been disparaging my plan with all this Washington fuzzy math."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want you to hear a problem we\u00e2\u20ac\u2122ve got here in the USA."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you\u2019re a single mother making $22,000 a year and you have two children, under this tax code, for every additional dollar you make, you pay a higher marginal rate on that dollar than someone making more than $200,000 a year, and that is not right."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My plan drops the rate from 15% to 10% and increases the child credit from $500 to $1,000 to make the code more fair for everybody, not just a few, not just a handful."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Everybody who pays taxes ought to get some relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We can make a huge difference by saying if you receive federal money we expect you to show results."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me give you a story about public education, if I might."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s about Kipp Academy in Houston, Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A charter school run by some people from Teach For America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Young folks saying I\u2019m going to do something good for my country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to teach."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A guy named Michael runs the school."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It is a school full of so-called at-risk children."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s how we unfortunately label certain children."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Basically it means they can\u2019t learn."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a school of strong discipline and high standards."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s one of the best schools in Houston."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Here are the key ingredients."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "High expectations, strong accountabily."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "What Michael says, don\u2019t put all these rules on us, just let us teach and hold us accountable for every grade."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s what we do."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And as a result, these mainly Hispanic youngsters are some of the best learners in Houston, Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s my vision for public education all around America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Many of you viewers don\u2019t know, but Laura and I sent our girls to public school."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They went to Austin High School."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And many of the public schools are meeting the call."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But, unfortunately, a lot of schools are trapping children in schools that just won\u2019t teach and won\u2019t change."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Here is the role of the federal government."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "One is to change Head Start to a reading program."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Two is to say if you want to access reading money, you can do so."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The goal is for every single child to learn to Read."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "there must by K-2 diagnostic teaching tools, teacher training money, available."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Three, we have to consolidate the federal programs to free districts to free the schools and encourage innovators like Michael."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let them reach out beyond the confines of the current structure to recruit teach-for-the-children type teachers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Four, we\u2019re going to say if you receive federal money, measure third, fourth, fifth, sixth, seventh and eighth grade."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Show us if they are learning to read, write, add and subtract and if so there will be bonus plans."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But if not, instead of continuing to subsidize failure, the money will go to \u2014 the federal money will go to the parents for public school or charter school or tutorial or Catholic school."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "What I care about is children."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so does Michael Feinberg."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And you know what?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It can happen in America with the right kind of leadership."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We agree on a couple of things on education."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I strongly support new accountability, so does Governor Bush."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I strongly support local control, so does Governor Bush."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m in favor of testing as a way of measuring performance."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Every school and every school district, have every state test the children."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019ve also proposed a voluntary national test in the fourth grade and eighth grade, and a form of testing the governor has not endorsed."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think that all new teachers ought to be tested in the subjects that they teach."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We\u2019ve got to recruit 100,000 new teachers."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I have budgeted for that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We\u2019ve got to reduce the class size so that the student who walks in has more one-on-one time with the teacher."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We ought to have universal pre-school and we ought to make college tuition tax deductible, up to $10,000 a year."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I would like to tell you a quick story."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I got a letter today as I left Sarasota, Florida."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m here with a group of 13 people from around the country who helped me prepare."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We had a great time."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Two days ago we ate lunch at a restaurant."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The guy that served us lunch gave me a letter today."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "His name is Randy Ellis."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "He has a 15-year-old daughter named Caley, who is in Sarasota High School."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Her science class was supposed to be for 24 students."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "She\u2019s the 36th student in that classroom."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They sent me a picture of her in the classroom."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They can\u2019t squeeze another desk in for her, so she has to stand during class."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I want the federal government, consistent with local control and new accountability, to make improvement of our schools the number one priority so Caley will have a desk and can sit down in a classroom where she can learn."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The first is, the difference is there is no new accountability measures in Vice President Gore\u2019s plan."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He says he\u2019s for voluntary testing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You can\u2019t have voluntary testing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You must have mandatory testing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You must say that if you receive money you must show us whether or not children are learning to read and write and add and subtract."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s the difference."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You may claim you\u2019ve got mandatory testing but you don\u2019t, Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Vice President."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s a huge difference."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Testing is the cornerstone of reform."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know how I know?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Because it\u2019s the cornerstone of reform in the State of Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Republicans and Democrats came together and said what can we do to make our public education the best in the country?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve done a long way working together to do so."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The cornerstone is to have strong accountability in return for money and in return for flexibility."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re going to ask you to show us whether or not \u2014 we ask you to post the results on the Internet."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We encourage parents to take a look at the comparative results of schools."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We have a strong charter school movement that I signed the legislation to get started in the State of Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe if we find poor children trapped in schools that won\u2019t teach, we need to free the parents."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to expand education savings accounts."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Something that the vice president\u00e2\u20ac\u2122s running mate supports."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u2019s big differences."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He won\u2019t support freeing local districts from the strings of federal money."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "First of all, I do have mandatory testing."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think the governor may not have heard what I said clearly."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The voluntary national testing is in addition to the mandatory testing that we require of states."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "All schools, all school districts, students themselves, and required teacher testing, which goes a step farther than Governor Bush has been willing to go."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Here are a couple of differences, though, Jim."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Governor Bush is in favor of vouchers which take taxpayer money away from public schools and give them to private schools that are not accountable for how the money is used and don\u2019t have to take all applicants."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, private schools play a great role in our society."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "All of our children have gone to both public schools and private schools."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But I don\u2019t think private schools should have a right to take taxpayer money away from public schools at a time when Caley Ellis is standing in that classroom."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Let me give you another example."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I went to a school in Dade County, Florida where the facilities are so overcrowded the children have to eat lunch in shifts with the first shift for lunch starting at 9:30 in the morning."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Look, this is a funding crisis all around the country."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "There are fewer parents of school-age children as a percentage of the voting population and there is the largest generation of students ever."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We\u2019re in an information age when learning is more important than ever."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "90% of our kids go to public schools."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have to make it the number one priority."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Modernize our schools, reduce class size, recruit new teachers, give every child a chance to learn with one-on-one time in a quality \u2014 high-quality, safe school."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If it\u2019s a failing school, shut it down and reopen it under a new principal with a turnaround team of specialists the way Governor Jim Hunt does in North Carolina."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Here is another difference."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor, if it\u2019s a failing school, would leave the children in that failing school for three years and then give a little bit of money to the parents, a down payment on a down payment for private school tuition, and pretend that that would be enough for them to go out and go to a private school."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s an illusion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Okay."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "First of all, most of good governance is at the state level."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "See, here is the mentality."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m going to make the state do this and make the state do that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "All I\u2019m saying is if you spend money, show us results and test every year, which you do not do, Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Vice President."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You don\u2019t test every year."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You can say you do to the cameras but you don\u2019t, unless you\u2019ve changed your plan here on the stage."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I didn\u2019t say that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You need to test every year."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s how you determine if children are progressing to excellence."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Secondly, one of the things that we have to be careful about in politics is throwing money at a system that has not yet been reformed."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "More money is needed and I spend more money, but step one is to make sure we reform the system to have the system in place that leaves no child behind."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Stop this business about asking gosh, how old are you?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you\u2019re 10 we\u2019ll put you here, 12 you put here."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Start asking the question, what do you know?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you don\u2019t know what you\u2019re supposed to know, we\u2019ll make sure you do early before it\u2019s too late."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "When the action in Kosovo was dragging on and we were searching for a solution to the problem, our country had defeated the adversary on the battlefield without a single American life being lost in combat."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But the dictator Milosevic was hanging on."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I invited the former prime minister of Russia to my house and took a risk in asking him to get personally involved, along with the head of Finland, to go to Belgrade and to take a set of proposals from the United States that would constitute basically a surrender by Serbia."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But it was a calculated risk that paid off."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, I could probably give you some other examples of decisions over the last 24 years."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I have been in public service for 24 years, Jim."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And throughout all that time the people I have fought for have been the middle-class families, and I have been willing to stand up to powerful interests like the big insurance companies, the drug companies, the HMOs, the oil companies."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They have good people and they play constructive roles sometimes, but sometimes they get too much power."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I cast my lot with the people even when it means that you have to stand up to some powerful interests who are trying to turn the \u2014 the policies and the laws to their advantage."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "You can see it in this campaign."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The big drug companies support Governor Bush\u2019s prescription drug proposal."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "They oppose mine because they don\u2019t want to get Medicare involved because they\u2019re afraid that Medicare will negotiate lower prices for seniors who currently pay the highest prices of all."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve been standing up to big Hollywood, big trial lawyers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Was \u00e2\u20ac\u201c what was the question?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It was about emergencies, wasn\u2019t it?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, as governor, one of the things you have to deal with is catastrophe."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I can remember the fires that swept Parker County, Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I remember the floods that swept our state."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I remember going down to Del Rio, Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I have to pay the administration a compliment."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "James Lee Witt of FEMA has done a really good job of working with governors during times of crisis."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But that\u2019s the time when you\u2019re tested not only \u2014 it\u2019s the time to test your mettle, a time to test your heart when you see people whose lives have been turned upside down."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It broke my heart to go to the flood scene in Del Rio where a fellow and his family got completely uprooted."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The only thing I knew to do was to get aid as quickly as possible with state and federal help, and to put my arms around the man and his family and cry with them."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s what governors do."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They are often on the front line of catastrophic situations."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, it depends, obviously."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But what I would do first and foremost, is I would get in touch with the Federal Reserve Chairman, Alan Greenspan, to find out all the facts and all the circumstances."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would have my Secretary of the Treasury be in touch with the financial centers not only here, but at home."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would make sure that key members of Congress were called in to discuss the gravity of the situation."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And I would come up with a game plan to deal with it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s what governors end up doing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We end up being problem solvers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We come up with practical, common sense solutions for problems that we\u2019re confronted with."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In this case, in the case of a financial crisis, I would gather all the facts before I made the decision as to what the government ought or ought not to do."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "First I want to compliment the governor on his response to those fires and floods in Texas."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I accompanied James Lee Witt down to Texas when those fires broke out."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And FEMA has been a major flagship project of our reinventing government efforts."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I agree, it works extremely well now."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "On the international financial crises that come up, my friend, Bob Rubin, the former Secretary of Treasury is here, he\u2019s a close advisor to me and great friend in all respects."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I have had a chance to work with him and Alan Greenspan and others on the crisis following the collapse of the Mexican peso."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "When the Asian financial crisis raised the risk of world-wide recession that could affect our economy, And now, of course, the euro\u2019s value has been dropping, but seems to be under control."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But it started for me in the last eight years when I had the honor of casting the tie-breaking vote to end the old economic plan here at home and put into place a new economic plan that has helped us to make some progress, 22 million new jobs, the greatest prosperity ever."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But it\u2019s not good enough."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "My attitude is you ain\u2019t seen nothing yet."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We need to do more and better."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No, there\u2019s no difference on that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a difference, though, as to what the economy has meant."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think the economy has meant more for the Gore and Clinton folks than the Gore and Clinton folks have meant for the economy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think most of the economic growth that has taken place is a result of ingenuity and hard work and entrepreneurship and that\u2019s the role of goverment to encourage that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In terms of in response to the question, no."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Can I comment on that?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "You know, I think the American people deserve credit for the great economy that we have."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s their ingenuity, I agree with that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But you know, they were working pretty hard eight years ago."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And now they had ingenuity eight years ago."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The difference is we\u2019ve got a new policy."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And instead of concentrating on tax cuts mostly for the wealthy, we want \u2014 I want tax cuts for the middle-class families and I want to continue the prosperity and make sure that it enriches not just a few but all of our families."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have gone from the biggest deficits to the biggest surpluses."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have gone from a triple-dip recession during the previous 12 years to a tripling of the stock market."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Instead of a high unemployment, we have the lowest African-American and Latin American unemployment rates in history and 22 million new jobs."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It\u2019s not good enough."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Too many people have been left behind."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have got to do much more."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The key is job training, education, investments in health care and education, environment, retirement security."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And incidentally, we have got to preserve Social Security."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m totally opposed to diverting one out of every six dollars out of the Social Security trust fund, as the Governor has proposed, into the stock market."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I want new incentives for savings and investment for the young couples who are working hard so they can save and invest on their own on top of Social Security, not at the expense of Social Security, as the governor proposes."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Two points."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "One, a lot of folks are still waiting for that 1992 middle-class tax cut."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I remember the vice president saying, \u201cJust give us a chance to get up there, we\u2019re going to make sure you get tax cuts."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201d It didn\u2019t happen."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Now he\u2019s having to say that again."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They\u2019ve had their chance to deliver a tax cut to you."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Secondly, the surest way to bust this economy is to increase the role and size of the federal budget."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The Senate Budget Committee did a study of the vice president\u2019s expenditures."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s been projected that they could conceivably bust the budget by $900 billion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That means he\u2019ll either have to raise your taxes by $900 billion or go into the Social Security surplus for $900 billion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is a plan that is going to increase the bureaucracy by 20,000 people."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "His targeted tax cut is so detailed, so much fine print that it is going to require numerous IRS agents."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need somebody to simplify the code, to be fair, to continue prosperity by sharing some of the surplus with the people who pay the bills, particularly those at the bottom end of the economic ladder."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If I could respond, Jim."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "What he\u2019s quoting is not the Senate Budget Commiitte, it is a partisan press release by the Republicans on the Senate Budget Committee that\u2019s not worth the government \u2014 the taxpayer-paid paper that it\u2019s printed on."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, as for 20,000 new bureaucrats, as you call them, you know, the size of the federal government will go down in a Gore administration."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "In the reinventing government program you just look at the numbers."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It is 300,000 people smaller today than it was eight years ago."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, the fact is you\u2019re going to have a hard time convincing folks that we were a whole lot better off eight years ago than we are today."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But that\u2019s not the question."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The question is, will we be better off four years from now than we are today?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And as for the surest way to threaten our prosperity, having a $1."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "9 trillion tax cut, almost half of which goes to the wealthy, and a $1 trillion Social Security privatization proposal is the surest way to put our budget into deficit \u00e2\u20ac\u201c raise interest rates and put our prosperity at risk."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I can\u2019t let the man continue with fuzzy math."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It is 1."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "3 trillion Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Vice President."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It will go to everybody who pays taxes."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m not going to be the kind of president that says you get tax relief and you don\u2019t."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m not going to be a picker and chooser."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "What is fair is everybody who pays taxes ought to get relief."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Suits me."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I do disagree."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Because if we can keep our prosperity going, if we can continue balancing the budget and paying down the debt, then the strong economy keeps generating surpluses."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Here is my plan."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I will keep Social Security in a lockbox and that pays down the national debt."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And the interest savings I would put right back into Social Security."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That extends the life of Social Security for 55 years."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, I think that it\u2019s very important to understand that cutting benefits under Social Security means that people like Winifred Skinner from Des Moines, Iowa, who is here, would really have a much harder time."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Because there are millions of seniors who are living almost hand to mouth."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And you talk about cutting benefits."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I don\u2019t go along with it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I am opposed to it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m also opposed to a plan that diverts 1 out of every $6 away from the Social Security Trust Fund."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Social Security is a trust fund that pays the checks this year with the money that is paid into Social Security this year."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor wants to divert 1 out of every $6 off into the stock market, which means that he would drain a trillion dollars out of the Social Security Trust Fund in this generation over the next ten years, and Social Security under that approach would go bankrupt within this generation."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "His leading advisor on this plan actually said that would be okay, because then the Social Security Trust Fund could start borrowing."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "It would borrow up to $3 trillion."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Now, Social Security has never done that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I don\u2019t think it should do that."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think it should stay in a lockbox, and I\u2019ll tell you this."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I will veto anything that takes money out of Social Security for privatization or anything else other than Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I thought it was interesting that on the two minutes he spent about a million-and-a-half on my plan, which means he doesn\u2019t want you to know what he\u2019s doing is loading up IOUs for future generations."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He puts no real assets into the Social Security system."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The revenues exceed the expenses in Social Security until the year 2015 which means all retirees are going to get the promises made."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "For those of you who he wants to scare into the voting booth to vote for him, hear me loud and clear."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A promise made will be a promise kept."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You bet we want to allow younger workers to take some of their own money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s the difference of opinion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The vice president thinks it\u2019s the government\u2019s money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The payroll taxes are your money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You ought to put it in prudent, safe investments so that $1 trillion over the next ten years grows to be $3 trillion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The money stays within the Social Security system."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a part of the Social Security system."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He claims it will be out of Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s your money, it\u2019s a part of your retirement benefit."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a fundamental difference between what we believe."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want you to have your own asset that you can call your own."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That you can pass on from one generation to the next."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to get a better rate of return for your own money than the paltry 2% that the current Social Security Trust gets today."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Greenspan I thought missed an opportunity to say there\u2019s a third way, and that is to get a better rate of return on the Social Security monies coming into the trust."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is $2."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "3 trillion of surplus that we can use to make sure that younger workers have a Social Security plan in the future."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If we\u2019re smart and if we trust workers and if we understand the power of the compounding rate of interest."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Here is the difference."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I give a new incentive for younger workers to save their own money and invest their own money, but not at the expense of Social Security, on top of Social Security."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "My plan is Social Security plus."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "The governor\u2019s plan is Social Security minus."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Your future benefits would be cut by the amount that\u2019s diverted into the stock market."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you make bad investments, that\u2019s too bad."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "But even before then the problem hits because the money contributed to Social Security this year is an entitlement."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "That\u2019s how it works."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And the money is used to pay the benefits for seniors this year."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you cut the amount going in 1 out of every $6, then you have to cut the value of each check by 1 out of every $6 unless you come up with the money from somewhere else."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I would like to know from the governor \u2014 I know we\u2019re not supposed to ask each other questions \u2014 but I\u2019d be interested in knowing, does that trillion dollars come from the trust fund, or does it come from the rest of the budget?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u2019s enough money to pay seniors today in the current affairs of Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The trillion comes from the surplus."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Surplus is money \u2014 more money than needed."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me tell you what your plan is."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s not Social Security plus, it\u2019s Social Security plus huge debt."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That is what it is."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You leave future generations with tremendous IOUs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time to have a leader that doesn\u2019t put off tomorrow what we should do today."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time to have somebody to step up and say look, let\u2019s let younger workers take some of their own money and under certain guidelines invest it in the private markets."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The safest of federal investments yields 4%."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s twice the amount of rate of return than the current Social Security Trust."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a fundamental difference of opinion here, folks."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Younger worker after younger worker hears my call that says I trust you."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And you know what, the issue is changing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Seniors now understand that the promise made will be a promise kept, but younger workers now understand we better have a government that trusts them and that\u2019s exactly what I\u2019m going to do."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Could I respond to that, Jim?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "This is a big issue."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Could we do another round on it?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Just briefly."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "When FDR established Social Security, they didn\u2019t call them IOUs, they called it the full faith and credit of the United States."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you don\u2019t have trust in that, I do."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "If you take it out of the surplus in the trust fund, that means the trust fund goes bankrupt in this generation within 20 years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is a government that thinks a 2% rate of return on your money is satisfactory."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s not."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This is a government that says younger workers can\u2019t possibly have their own assets."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to think differently about the issue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to make sure our seniors get the promise made."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If we don\u2019t trust younger workers to manage some of their own money with the Social Security surplus, to grow from $1 trillion to $3 trillion, it will be impossible to bridge the gap without it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "What Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Gore\u2019s plan will do causing huge payroll taxes or major benefit reductions."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The man loves his wife and I appreciate that a lot."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And I love mine."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The man loves his family a lot, and I appreciate that, because I love my family."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think the thing that discouraged me about the vice president was uttering those famous words, \u201cNo controlling legal authority."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201d I felt like there needed to be a better sense of responsibility of what was going on in the White House."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe that \u2014 I believe they\u2019ve moved that sign, \u201cThe buck stops here\u201d from the Oval Office desk to \u201cThe buck stops here\u201d on the Lincoln bedroom."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s not good for the country and it\u2019s not right."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to have a new look about how we conduct ourselves in office."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u2019s a huge trust."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I see it all the time when people come up to me and say, I don\u2019t want you to let me down again."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we can do better than the past administration has done."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time for a fresh start."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time for a new look."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s time for a fresh start after a season of cynicism."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so I don\u2019t know the man well, but I\u2019ve been disappointed about how he and his administration have conducted the fundraising affairs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, going to a Buddhist temple and then claiming it wasn\u2019t a fundraiser isn\u2019t my view of responsibility."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we ought to attack our country\u2019s problems, not attack each other."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I want to spend my time making this country even better than it is, not trying to make you out to be a bad person."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "You may want to focus on scandal."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I want to focus on results."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "As I said a couple of months ago, I stand here as my own man and I want you to see me for who I really am."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Tipper and I have been married for 30 years."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We became grandparents a year-and-a-half ago."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We\u2019ve got four children."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I have devoted 24 years of my life to public service and I\u2019ve said this before and I\u2019ll say it again, if you entrust me with the presidency, I may not be the most exciting politician, but I will work hard for you every day."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I will fight for middle-class families and working men and women and I will never let you down."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They ought to factor in it when they go to the voting booth."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think people need to be held responsible for the actions they take in life."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think that \u2014 well, I think that\u2019s part of the need for a cultural change."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We need to say we each need to be responsible for what we do."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "People in the highest office of the land must be responsible for decisions they make in life."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s the way I\u2019ve conducted myself as Governor of Texas and that\u2019s the way I\u2019ll conduct myself as President of the United States, should I be fortunate enough to earn your vote."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "No."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think the American people should take into account who we are as individuals, what our experience is, what our positions are on the issues and proposals are."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m asking you to see me for who I really am."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m offering you my own vision, my own experience, my own proposals."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And incidentally, one of them is this."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "This current campaign financing system has not reflected credit on anybody in either party."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And that\u2019s one of the reasons I\u2019ve said before, and I\u2019ll pledge here tonight, if I\u2019m president, the very first bill that Joe Lieberman and I will send to the United States Congress is the McCain-Feingold campaign finance reform bill."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And the reason it\u2019s that important is that all of the other issues, whether prescription drugs for all seniors that are opposed by the drug companies or the patient\u2019s bill of rights to take the decisions away from the HMOs and give them to the doctors and nurses, opposed by the HMOs and insurance companies, all these other proposals are going to be a lot easier to get passed for the American people if we limit the influence of special interest money and give democracy back to the American people."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And I wish Governor Bush would join me this evening in endorsing the McCain-Feingold Campaign Finance Reform Bill."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, this man has no credibility on the issue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "As a matter of fact, I read in the \u201cNew York Times\u201d where he said he co-sponsored the McCain-Feingold Campaign Fundraising Bill."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But he wasn\u2019t in the Senate with Senator Feingold."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so, look, I\u2019m going to \u2014 what you need to know about me is I will uphold the law, I\u2019m going to have an attorney general that enforces the law."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The time for campaign funding reform is after the election."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "This man has outspent me and the special interests are outspending me."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And I am not going to lay down my arms in the middle of the campaign for somebody who has got no credibility on the issue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would support an effort to ban corporate soft money and labor union soft money so long as there was dues check-off."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve campaigned on this since the primaries."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe there needs to be instant disclosure on the Internet as to who has given to who."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think we need to fully enforce the law."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think we need to have an attorney general that says if a law is broken, we\u2019ll enforce it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Be strict and firm about it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Look, Governor Bush, you have attacked my character and credibility and I am not going to respond in kind."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I think we ought to focus on the problems and not attack each other."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "One of the serious problems, hear me well, is that our system of government is being undermined by too much influence coming from special interest money."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have to get a handle on it."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And like John McCain, I have learned from experience, and it\u2019s not a new position for me."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "24 years ago I supported full public financing of all federal elections."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And anybody who thinks I\u2019m just saying it, it will be the first bill I send to the Congress."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I want you to know I care passionately about this and I will fight until it becomes law."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want people to hear what he just said."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He is for full public financing of Congressional elections."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m absolutely, adamently opposed to that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t want the government financing congressional elections."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Thank you, Jim."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Thank the University of Massachusetts and Mr."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Vice President, thank you."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It has been a good, lively exchange."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a huge difference of opinion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Mine is I want to empower people in their own lives."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I also want to go to Washington to get some positive things done."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It is going to require a new spirit."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A spirit of cooperation."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It will require the ability of a Republican president to reach out across the partisan divide and to say to Democrats, let\u2019s come together to do what is right for America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s been my record as Governor of Texas, it will be how I conduct myself if I\u2019m fortunate enough to earn your vote as President of the United States."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to finally get something done on Medicare."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to make sure prescription drugs are available for all seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And I want seniors to have additional choices when it comes to choosing their health care plans."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to finally get something done on Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to make sure the seniors have the promise made will be a promise kept, but I want younger workers to be able to manage some of their own money, some of their own payroll taxes in the private sector under certain guidelines to get a better rate of return on your own money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to rebuild our military to keep the peace."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to have a strong hand when it comes to the United States in world affairs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t want to try to put our troops in all places at all times."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t want to be the world\u2019s policeman, I want to be the world\u2019s peacemaker by having a military of high morale and a military that is well-equipped."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want anti-ballistic missile systems to protect ourselves and our allies from a rogue nation that may try to hold us hostage or blackmail our allies and friends."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to make sure the education system fulfills its hope and promise."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ve had a strong record of working with Democrats and Republicans in Texas to make sure no child is left behind."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I understand the limited role of the federal government, but it could be a constructive role when it comes to reform, by insisting that there be a strong accountability systems."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My intentions are to earn your vote and earn your confidence."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m asking for your vote."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want you to be on my team."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And for those of you working, thanks from the bottom of my heart."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "For those of you making up your mind, I would be honored to have your support."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I want to thank everybody who watched and listened tonight because this is indeed a crucial time in American history."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We\u2019re at a fork in the road."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "We have this incredible prosperity, but a lot of people have been left behind."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And we have a very important decision to make."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Will we use the prosperity to enrich all of our families and not just a few?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "One important way of looking at this is to ask who are you going to fight for?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Throughout my career in public service, I have fought for the working men and women of this country, middle-class families."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Why?"
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Because you are the ones who have the hardest time paying taxes, the hardest time making ends meet."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "You are the ones who are making car payments and mortgage payments and doing right by your kids."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "And a lot of times there are powerful forces that are against you."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "Make no mistake about it, they do have undue influence in Washington, D."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "and it makes a difference if you have a president who will fight for you."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I know one thing about the position of president, it\u2019s the only position in our Constitution that is filled by an individual who is given the responsibility to fight not just for one state or one district or the well-connected or wealthy, but to fight for all of the people, including especially those who most need somebody who will stand up and take on whatever powerful forces might stand in the way."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "There is a woman named Winifred Skinner here tonight from Iowa."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I mentioned her earlier."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "She\u2019s 79 years old."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "She has Social Security."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I\u2019m not going to cut her benefits or support any proposal that would."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "She gets a small pension, but in order to pay for her prescription drug benefits, she has to go out seven days a week several hours a day picking up cans."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "She came all the way from Iowa in a Winnebago with her poodle in order attend here tonight."
+  },
+  {
+   "speaker": "Al Gore",
+   "text": "I want to tell her, I\u2019ll fight for a prescription drug benefit for all seniors and fight for the people of this country for a prosperity that benefits all."
+  }
+ ]
+}

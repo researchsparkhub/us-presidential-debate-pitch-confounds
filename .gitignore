@@ -1,0 +1,50 @@
+# ---- Raw and intermediate audio (not redistributable; see DATA_AVAILABILITY.md) ----
+*.wav
+*.m4a
+*.mp3
+*.mp4
+*.flac
+*.mov
+data/audio
+data/whisper_aligned
+02_alignment/mfa_corpus/
+02_alignment/mfa_corpus_pilot/
+02_alignment/mfa_corpus_1003_retry/
+02_alignment/mfa_output/
+02_alignment/retry_workdir/
+02_alignment/retry_workdir_v2/
+02_alignment/retry_workdir_v3/
+02_alignment/verification_packets/
+
+# ---- Internal working notes (not part of the public release) ----
+HANDOFF.md
+report/decisions.md
+report/findings.md
+report/reviews.md
+report/spec.md
+backups/
+
+# ---- Stale archives (superseded by report/) ----
+report.tar.gz
+report.zip
+report_v1.tar.gz
+report/*.bak
+
+# ---- Superseded/alternate draft (different corpus scope; see HANDOFF/memory) ----
+Lavanya_version/
+
+# ---- Tooling / OS / build clutter ----
+.claude/
+**/.claude/
+__pycache__/
+*.pyc
+.DS_Store
+texput.log
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz

@@ -1,0 +1,50 @@
+phase,code,name,definition,machine_detectable
+Phase A (DAMSL),Q-W,Wh-question,"Question opening with what/where/when/why/how/who/which/whom/whose.",yes
+Phase A (DAMSL),YNQ,Yes-no question,"Question opening with an auxiliary verb (is/are/do/can/would...), expecting yes or no.",yes
+Phase A (DAMSL),Q-RHET,Rhetorical question,"Question not seeking an answer; often a declarative with a tag (""..., right?"" / ""isn't it?"").",yes
+Phase A (DAMSL),OQ,Open-ended question,"Invites an extended answer (""what do you think/propose/suggest?"").",yes
+Phase A (DAMSL),SEEP,Seek explanation,"Asks for reasoning or elaboration (""why is..."", ""please explain/elaborate/clarify"").",yes
+Phase A (DAMSL),S,Statement,"Plain declarative assertion; default act for a declarative sentence.",yes
+Phase A (DAMSL),S-Inform,Informative statement,"Statement carrying new factual content — numbers, percentages, dollar/year figures.",yes
+Phase A (DAMSL),IAFA,Action directive / command,"Imperative telling the listener to do something.",yes
+Phase A (DAMSL),IAFA-OF,Offer,"Offers to do or provide something (""would you like..."", ""let me help"", ""I can offer"").",yes
+Phase A (DAMSL),ACK,Acknowledgment,"Backchannel signalling receipt (""I see"", ""right"", ""okay"", ""mm-hmm"", ""got it"").",yes
+Phase A (DAMSL),AGR,Agreement,"Explicit agreement (""I agree"", ""exactly"", ""you're right"", ""that's a good point"").",yes
+Phase A (DAMSL),DIS,Disagreement,"Explicit disagreement (""I disagree"", ""that's not right"", ""I beg to differ"").",yes
+Phase A (DAMSL),REJ,Rejection,"Flat rejection (""no"", ""absolutely not"", ""that's false"", ""never"").",yes
+Phase A (DAMSL),ANS,Answer,"Direct answer, typically opening with yes/no.",yes
+Phase A (DAMSL),GR,Greeting,"Greeting or welcome (""good evening"", ""welcome"", ""thank you for joining"").",yes
+Phase A (DAMSL),APO,Apology,"Apology (""I'm sorry"", ""my apologies"", ""I regret"").",yes
+Phase A (DAMSL),THK,Thanks,"Expression of thanks (""thank you"", ""thanks"").",yes
+Phase A (DAMSL),EXPL,Explanation,"Gives reasoning or restatement (""because"", ""the reason is"", ""in other words"").",yes
+Phase A (DAMSL),CORR,Correction / self-clarification,"Corrects or clarifies own prior statement (""let me clarify"", ""to be clear"", ""I misspoke"").",yes
+Phase A (DAMSL),CH,Challenge / fact-check,"Challenges accuracy of a claim (""that's incorrect/misleading/a distortion/false"").",yes
+Phase A (DAMSL),TT,Take/hold turn,"Bids to take or hold the floor (""let me say"", ""if I may"", ""may I"", ""excuse me"").",yes
+Phase A (DAMSL),TG,Turn-give,"Hands the floor to another (""what do you think?"", ""your turn"", ""over to you"").",yes
+Phase A (DAMSL),T-REQ,Turn request,"Requests permission to speak (""am I allowed"", ""can I respond/finish"").",yes
+Phase A (DAMSL),R-REQ,Repeat request,"Asks for repetition (""can you repeat"", ""could you say that again"").",yes
+Phase A (DAMSL),MS,Maintain / steer topic,"Steers back to or holds a topic (""but let me ask"", ""as I was saying"", ""I'll come back to"").",yes
+Phase A (DAMSL),HS,Historical / self reference,"References a year, historical figure, or event (Reagan, civil war, founding fathers, ""in 1994"").",yes
+Phase A (DAMSL),INT,Interrupt,"Cuts off another speaker. Needs timing/floor context — model leaves this 0; human judgement required.",no
+Phase A (DAMSL),TA,Turn-accept,"Accepts an offered turn. Context-dependent — model leaves this 0; human judgement required.",no
+Phase B (Beads),AF,Appeal to fear,"Uses fear/threat language (disaster, catastrophe, crisis, danger, invasion, collapse).",yes
+Phase B (Beads),AE,Appeal to emotion,"Emotional appeal (""if you care"", ""imagine if"", ""the children"", ""our families"").",yes
+Phase B (Beads),AP,Appeal to pride,"Appeals to national/group pride (""great country"", ""American values"", ""proud to be"").",yes
+Phase B (Beads),APAT,Appeal to patriotism,"Patriotic framing (america, freedom, liberty, constitution, flag, ""God bless America"").",yes
+Phase B (Beads),UF,Unity framing,"Frames as collective unity (""together we"", ""we as a nation"", ""common good"", ""united"").",yes
+Phase B (Beads),DF,Deflection,"Redirects away from the question (""the real question is"", ""what I'm focused on"", ""let's not forget"").",yes
+Phase B (Beads),PB,Political-outgroup bias,"Negative framing of a political outgroup (""Democrats are"", ""the radical left"", ""the swamp"", ""liberal elites"").",yes
+Phase B (Beads),PER,Personal attack,"Attacks a person's character (opponent + liar/corrupt/incompetent/crooked/disgrace).",yes
+Phase B (Beads),IT,Self-promotion / taking credit,"Claims personal credit (""I created"", ""I built"", ""I delivered"", ""I cut/reduced"").",yes
+Phase B (Beads),IP,Injecting personal stance,"Frames as personal opinion/stance (""I believe"", ""in my view"", ""I contend"").",yes
+Phase B (Beads),BQ,Biased / loaded question,"A question containing loaded terms (liar, corrupt, fraud, criminal, coward).",yes
+Phase B (Beads),ATTR,Blame attribution,"Assigns blame to a named opponent (opponent + destroyed/ruined/failed us/was responsible for).",yes
+Phase B (Beads),AEX,Adversarial exchange,"Personal attack combined with a question or emphatic jab (""again"", ""just"", ""simply"").",yes
+Phase B (Beads),REB,Rebuttal,"Challenge or disagreement that references the opponent.",yes
+Phase B (Beads),RB,Race-related content,"Mentions race/ethnicity (black/hispanic/asian/white community, racial, ethnic).",yes
+Phase B (Beads),GB,Gender bias,"Bias based on gender. Needs semantic judgement — model leaves this 0; human required.",no
+Phase B (Beads),GD,Gender dismissal,"Dismissing someone on gendered grounds. Contextual — model leaves this 0; human required.",no
+Phase B (Beads),CB,Cognitive bias,"A reasoning bias (anchoring, false dilemma, etc.). Needs meaning — model leaves this 0; human required.",no
+Phase B (Beads),IA,Issue avoidance,"Avoids answering the substantive issue. Needs question/answer pairing — model leaves this 0; human required.",no
+Phase B (Beads),SE,Selective evidence,"Cherry-picks facts. Needs world knowledge — model leaves this 0; human required.",no
+Phase B (Beads),CBias,Cultural bias,"Bias tied to culture/group. Needs context — model leaves this 0; human required.",no

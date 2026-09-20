@@ -1,0 +1,4120 @@
+{
+ "debate_id": "1006",
+ "year": "1992",
+ "candidates": [
+  "Ross Perot",
+  "George H. W. Bush",
+  "Bill Clinton"
+ ],
+ "results": {
+  "Ross Perot": "loser",
+  "George H. W. Bush": "loser",
+  "Bill Clinton": "winner"
+ },
+ "winner": "Bill Clinton",
+ "n_sentences": 998,
+ "descriptors": {
+  "Ross Perot": {
+   "Mean pitch": 0.9771,
+   "Pitch SD (Hz)": 0.1841,
+   "Pitch range (Hz)": -0.0216,
+   "Loudness": 0.2681,
+   "Voice clarity (Praat)": 0.7629,
+   "Pause duration": -0.1611,
+   "Pause count": -0.1811,
+   "Mean pause length": -0.1003,
+   "Speech rate": 0.0863,
+   "Articulation rate (w/s)": 0.0647,
+   "Syllable rate": -0.0398,
+   "Articulation rate (syll/s)": 0.0284,
+   "Semitone pitch SD/mean": -0.4985,
+   "Semitone 20-80 pitch range": -0.1003,
+   "Voice clarity (openSMILE)": 0.8944,
+   "Clauses": -0.1844,
+   "Subordinate clauses": -0.1185,
+   "Parse depth": -0.1657,
+   "Dependency length": -0.1376,
+   "Words per sentence": -0.1213,
+   "Word length": -0.0045,
+   "Function words": -0.1096,
+   "1st-person pronouns": -0.0995,
+   "2nd-person pronouns": 0.1303,
+   "3rd-person pronouns": 0.0006,
+   "Nouns": 0.034,
+   "Verbs": -0.1103,
+   "Adjectives": -0.0332,
+   "Adverbs": 0.0604,
+   "Reading ease": 0.0711,
+   "Grade level": -0.11,
+   "Sentiment": -0.1119,
+   "Positive sentiment": -0.1172,
+   "Negative sentiment": 0.0436
+  },
+  "George H. W. Bush": {
+   "Mean pitch": -0.887,
+   "Pitch SD (Hz)": -0.0698,
+   "Pitch range (Hz)": -0.0867,
+   "Loudness": -0.1765,
+   "Voice clarity (Praat)": -0.6439,
+   "Pause duration": 0.0035,
+   "Pause count": -0.0065,
+   "Mean pause length": -0.0073,
+   "Speech rate": -0.1853,
+   "Articulation rate (w/s)": -0.2154,
+   "Syllable rate": -0.019,
+   "Articulation rate (syll/s)": -0.2342,
+   "Semitone pitch SD/mean": 0.6443,
+   "Semitone 20-80 pitch range": 0.4436,
+   "Voice clarity (openSMILE)": -0.9449,
+   "Clauses": 0.1247,
+   "Subordinate clauses": 0.0433,
+   "Parse depth": -0.0411,
+   "Dependency length": -0.0344,
+   "Words per sentence": -0.0761,
+   "Word length": -0.0149,
+   "Function words": 0.0672,
+   "1st-person pronouns": 0.0499,
+   "2nd-person pronouns": -0.098,
+   "3rd-person pronouns": 0.0363,
+   "Nouns": -0.1715,
+   "Verbs": 0.1426,
+   "Adjectives": -0.0434,
+   "Adverbs": -0.0453,
+   "Reading ease": 0.0529,
+   "Grade level": -0.0779,
+   "Sentiment": 0.055,
+   "Positive sentiment": 0.158,
+   "Negative sentiment": -0.0071
+  },
+  "Bill Clinton": {
+   "Mean pitch": -0.2169,
+   "Pitch SD (Hz)": -0.1596,
+   "Pitch range (Hz)": 0.1344,
+   "Loudness": -0.142,
+   "Voice clarity (Praat)": -0.2314,
+   "Pause duration": 0.2104,
+   "Pause count": 0.2492,
+   "Mean pause length": 0.1425,
+   "Speech rate": 0.1109,
+   "Articulation rate (w/s)": 0.1764,
+   "Syllable rate": 0.0762,
+   "Articulation rate (syll/s)": 0.2476,
+   "Semitone pitch SD/mean": -0.1214,
+   "Semitone 20-80 pitch range": -0.4071,
+   "Voice clarity (openSMILE)": -0.0397,
+   "Clauses": 0.0932,
+   "Subordinate clauses": 0.105,
+   "Parse depth": 0.2708,
+   "Dependency length": 0.2252,
+   "Words per sentence": 0.2543,
+   "Word length": 0.0241,
+   "Function words": 0.0639,
+   "1st-person pronouns": 0.0715,
+   "2nd-person pronouns": -0.0538,
+   "3rd-person pronouns": -0.0452,
+   "Nouns": 0.1641,
+   "Verbs": -0.0273,
+   "Adjectives": 0.0971,
+   "Adverbs": -0.0251,
+   "Reading ease": -0.1592,
+   "Grade level": 0.2415,
+   "Sentiment": 0.0818,
+   "Positive sentiment": -0.0368,
+   "Negative sentiment": -0.0494
+  }
+ },
+ "transcript_turns": [
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s right at the top of my agenda."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019ve shipped millions of jobs overseas and we have a strange situation because we have a process in Washington where after you\u2019ve served for a while you cash in, become a foreign lobbyist, make $30,000 a month, then take a leave, work on presidential campaigns, make sure you\u2019ve got good contacts and then go back out."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, if you just want to get down to brass tacks, first thing you ought to do is get all these folks who\u2019ve got these 1-way trade agreements that we\u2019ve negotiated over the years and say fellas, we\u2019ll take the same deal we gave you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And they\u2019ll gridlock right at that point because for example, we\u2019ve got international competitors who simply could not unload their cars off the ships if they had to comply \u2014 you see, if it was a 2-way street, just couldn\u2019t do it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We have got to stop sending jobs overseas."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "To those of you in the audience who are business people: pretty simple."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If you\u2019re paying $12, $13, $14 an hour for a factory worker, and you can move your factory south of the border, pay $1 an hour for labor, hire a young \u2014 let\u2019s assume you\u2019ve been in business for a long time."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You\u2019ve got a mature workforce."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Pay $1 an hour for your labor, have no health care \u2014 that\u2019s the most expensive single element in making the car."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Have no environmental controls, no pollution controls and no retirement."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And you don\u2019t care about anything but making money."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "There will be a job-sucking sound going south."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If the people send me to Washington the first thing I\u2019ll do is study that 2000-page agreement and make sure it\u2019s a 2-way street."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "One last point here."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I decided I was dumb and didn\u2019t understand it so I called a \u201cWho\u2019s Who\u201d of the folks that have been around it, and I said why won\u2019t everybody go south; they said it will be disruptive; I said for how long."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I finally got \u2019em for 12 to 15 years."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And I said, well, how does it stop being disruptive?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And that is when their jobs come up from a dollar an hour to $6 an hour, and ours go down to $6 an hour; then it\u2019s leveled again, but in the meantime you\u2019ve wrecked the country with these kind of deals."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We got to cut it out."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Carole, the thing that saved us in this global economic slowdown has been our exports, and what I\u2019m trying to do is increase our exports."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And if indeed all the jobs were going to move south because there are lower wages, there are lower wages now and they haven\u2019t done that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so I have just negotiated with the president of Mexico the North American Free Trade Agreement \u2014 and the prime minister of Canada, I might add \u2014 and I want to have more of these free trade agreements, because export jobs are increasing far faster than any jobs that may have moved overseas."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s a scare tactic, because it\u2019s not that many."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But any one that\u2019s here, we want to have more jobs here."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And the way to do that is to increase our exports."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Some believe in protection."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t; I believe in free and fair trade, and that\u2019s the thing that saved us."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So I will keep on as president trying to get a successful conclusion to the GATT Round, the big Uruguay Round of trade which will really open up markets for our agriculture particularly."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to continue to work after we get this NAFTA agreement ratified this coming year."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to get one with Eastern Europe; I want to get one with Chile."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And free and fair trade is the answer, not protection."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And, as I say, we\u2019ve had tough economic times, and it\u2019s exports that have saved us, exports that have built."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019d like to answer the question, because I\u2019ve actually been a governor for 12 years, so I\u2019ve known a lot of people who have lost their jobs because of jobs moving overseas, and I know a lot of people whose plants have been strengthened by increasing exports."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The trick is to expand our export base and to expand trade on terms that are fair to us."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It is true that our exports to Mexico, for example, have gone up and our trade deficit has gone down; it\u2019s also true that just today a record high trade deficit was announced with Japan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So what is the answer?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me just mention three things very quickly."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number one, make sure that other countries are as open to our markets as our markets are to them, and, if they\u2019re not, have measures on the books that don\u2019t take forever and a day to implement."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number two, change the tax code."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There are more deductions in the tax code for shutting plants down and moving overseas than there are for modernizing plant and equipment here."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Our competitors don\u2019t do that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Emphasize and subsidize modernizing plant and equipment here, not moving plants overseas."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number three, stop the federal government\u2019s program that now gives low-interest loans and job training funds to companies that will actually shut down and move to other countries, but we won\u2019t do the same thing for plants that stay here."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So more trade but on fair terms \u2014 and favor investment in America."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "No, and here\u2019s why."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I\u2019ll tell you exactly why."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Because the deficit now has been building up for 12 years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ll tell you exactly what I think can be done."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think we can bring it down by 50% in 4 years and grow the economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, I could get rid of it in 4 years in theory on the books now, but to do it you\u2019d have to raise taxes too much and cut benefits too much to people who need them and it would even make the economy worse."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Perot will tell you, for example, that the expert he hired to analyze his plan says that it will bring the deficit down in 5 years but it will make unemployment bad for 4 more years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So my view is, sir, you have to increase investment, grow the economy and reduce the deficit by controlling health care costs, prudent reductions in defense, cuts in domestic programs and asking the wealthiest Americans and foreign corporations to pay their fair share of taxes and investing and growing this economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I ask everybody to look at my economic ideas and 9 Nobel prize winners and over 500 economists and hundreds of business people, including a lot of Republicans said, this is the way you\u2019ve got to go."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If you don\u2019t grow the economy you can\u2019t get it done."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But I can\u2019t foresee all the things that will happen, and I don\u2019t think a president should be judged solely on the deficit."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me also say, we\u2019re having an election today."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You\u2019ll have a shot at me in 4 years and you can vote me right out if you think I\u2019ve done a lousy job and I would welcome you to do that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, I\u2019m a little confused here, because I don\u2019t see how you can grow the deficit down by raising people\u2019s taxes."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You see, I don\u2019t think the American people are taxed too little."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think they\u2019re taxed too much."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I went for one tax increase and when I make a mistake I admit it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I said that wasn\u2019t the right thing to do."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Governor Clinton\u2019s program wants to tax more and spend more \u2014 $150 billion in new taxes, spend another $220."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t believe that\u2019s the way to do it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Here\u2019s some thing that\u2019ll help."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Give us a balanced budget amendment."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He always talks about Arkansas having a balanced budget and they do, but he has a balanced budget amendment."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Have to do it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019d like the government to have that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think it would discipline not only the Congress, which needs it, but also the executive branch."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019d like to have what 43 governors have \u2014 the line item veto, so if the Congress can\u2019t cut, and we\u2019ve got a reckless spending Congress, let the president have a shot at it by wiping out things that are pork barrel or something of that nature."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019ve proposed another one."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Some sophisticates think it may be a little gimmicky."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think it\u2019s good."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s a check- off."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It says to you as a taxpayer \u2014 say you\u2019re going to pay a tax of 1000 bucks or something."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You can check 10% of that if you want to, in the 1 box, and that 10%, $100, or if you\u2019re paying $10,000, whatever it is, $1000, check it off and make the government, make it lower the deficit by that amount."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And if the Congress won\u2019t do it, if they can\u2019t get together and negotiate how to do that, then you\u2019d have a sequester across the board."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You\u2019d exempt Social Security \u2014 I don\u2019t want to tax or touch Social Security."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m the president that said hey, don\u2019t mess with Social Security, and we haven\u2019t."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So I believe that we need to control the growth of mandatory spending, back to this gentleman\u2019s question."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s the main growing thing in the budget."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The program that the president \u2014 two-thirds of the budget, I as president never get to look at, never get to touch."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve got to control that growth to inflation and population increase, but not raise taxes on the American people now."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I just don\u2019t believe that would stimulate any kind of growth at all."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Well, we\u2019re $4 trillion in debt."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019re going into debt an additional $1 billion, little more than $1 billion every working day of the year."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, the thing I love about it \u2014 I\u2019m just a businessman."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I was down in Texas taking care of business, tending to my family."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "This situation got so bad that I decided I\u2019d better get into it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The American people asked me to get into it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But I just find it fascinating that while we sit here tonight we will go into debt an additional $50 million in an hour and a half."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, it\u2019s not the Republicans\u2019 fault, of course, and it\u2019s not the Democrats\u2019 fault."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And what I\u2019m looking for is who did it?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, they\u2019re the 2 folks involved so maybe if you put them together, they did it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, the facts are we have to fix it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019m here tonight for these young people up here in the balcony from this college."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "When I was a young man, when I got out of the Navy I had multiple job offers."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Young people with high grades can\u2019t get a job."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "People \u2014 the 18- to 24-year-old high school graduates 10 years ago were making more than they are now."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "In other words, we were down to 18% of them were making \u2014 18- to 24-year- olds were making less than $12,000."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now that\u2019s up to 40%."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And what\u2019s happened in the meantime?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The dollar\u2019s gone through the floor."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, whose fault is that?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Not the Democrats."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Not the Republicans."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Somewhere out there there\u2019s an extraterrestrial that\u2019s doing this to us, I guess."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And everybody says they take responsibility."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Somebody somewhere has to take responsibility for this."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Put it to you bluntly, American people."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If you want me to be your president, we\u2019re going to face our problems."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u00e2\u20ac\u2122ll deal with our problems, we\u00e2\u20ac\u2122ll solve our problems."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019ll down our debt."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019ll pass on the American dream to our children, and I will not leave our children a situation that they have today."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "When I was a boy it took 2 generations to double the standard of living."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Today it will take 12 generations."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Our children will not see the American dream because of this debt that somebody somewhere dropped on us."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "No, I don\u2019t have an answer for everything."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "As you all know, I\u2019ve been buying 30-minute segments to talk about issues."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And tomorrow night on NBC, from 10:30 to 11 Eastern, we\u2019re going to talk about how you pay the debt down, so we\u2019re going to come right down to that one."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019ll be on again Saturday night, 8 to 9 o\u2019clock on ABC."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "So the point is \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Like Jerry Brown, the 800 number."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "\u2014 I couldn\u2019t agree with you more, couldn\u2019t agree with you more."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And I have said again and again and again let\u2019s get off mud wrestling, let\u2019s get off personalities and let\u2019s talk about jobs, health care, crime, the things that concern the American people."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019m spending my money \u2014 not PAC money, not foreign money, my money \u2014 to take this message to the people."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, in the first place, I believe that character is a part of being president."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think you have to look at it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think that has to be a part of a candidate for president or being president."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "In terms of programs, I\u2019ve submitted, what, 4 different budgets to the US Congress in great detail."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s so heavy they\u2019d give you a broken back."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And everything in there says what I am for."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now I\u2019ve come out with a new agenda for America\u2019s renewal, a plan that I believe really will help stimulate the growth of this economy."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "My record on world affairs is pretty well known because I\u2019ve been president for 4 years, so I feel I\u2019ve been talking issues."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You know, nobody likes who shot John, but I think the first negative campaign run in this election was by Governor Clinton, and I\u2019m not going to sit there and be a punching bag; I\u2019m going to stand up and say, hey, listen, here\u2019s my side of it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But character is an important part of the equation."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The other night Governor Clinton raised my \u2014 I don\u2019t know if you saw the debate the other night."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You did \u2014 suffered through that?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, he raised the question of my father \u2014 it was a good line, well rehearsed and well delivered."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But he raised the question of my father and said, well, your father, Prescott Bush, was against McCarthy, you should be ashamed of yourself, McCarthyism."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I remember something my dad told me \u2014 I was 18 years old going to Penn Station to go on into the Navy, and he said write your mother \u2014 which I faithfully did; he said serve your country \u2014 my father was an honor, duty and country man; and he said tell the truth."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I\u2019ve tried to do that in public life, all through it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That says something about character."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "My argument with Governor Clinton \u2014 you can call it mud wrestling, but I think it\u2019s fair to put it in focus is \u2014 I am deeply troubled by someone who demonstrates and organizes demonstration in a foreign land when his country\u2019s at war."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Probably a lot of kids here disagree with me."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But that\u2019s what I feel."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s what I feel passionately about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m thinking of Ross Perot\u2019s running mate sitting in the jail."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "How would he feel about it?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But maybe that\u2019s generational."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t know."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But the big argument I have with the governor on this is this taking different positions on different issues \u2014 trying to be one thing to one person here that\u2019s opposing the NAFTA agreement and then for it \u2014 what we call waffling."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I do think that you can\u2019t turn the White House into the Waffle House."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You\u2019ve got to say what you\u2019re for and you\u2019ve got to \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Excuse me."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want to \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want to \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I get wound up because I feel strongly \u2014"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me say first of all to you that I believe so strongly in the question you asked that I suggested this format tonight."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I started doing these formats a year ago in New Hampshire and I found that we had huge crowds because all I did was let people ask questions and I tried to give very specific answers."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I also had a program starting last year."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ve been disturbed by the tone and the tenor of this campaign."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank goodness the networks have a fact check so I don\u2019t have to just go blue in the face anymore."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Bush said once again I was going to have $150 billion tax increase."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Quayle said that all the networks said, that\u2019s not true."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "He\u2019s got over $100 billion of tax cuts and incentives."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I\u2019m not going to take up your time tonight, but let me just say this."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ll have a debate in 4 days and we can talk about this character thing again."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But the Washington Post ran a long editorial today saying they couldn\u2019t believe Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Bush was making character an issue and they said he was the greatest quote \u201cpolitical chameleon\u201d for changing his positions of all times."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, I don\u2019t want to get into that \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Please don\u2019t get into the Washington Post."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Wait a minute."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let\u2019s don\u2019t \u2014 you don\u2019t have to believe it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Here\u2019s my point."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m not interested in his character."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I want to change the character of the presidency."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I\u2019m interested in what we can trust him to do and what you can trust me to do and what you can trust Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Perot to do for the next 4 years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I think you\u2019re right and I hope the rest of the night belongs to you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I agree with him."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let\u2019s do it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let\u2019s do it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let\u2019s talk about programs for children."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think it depends how you define it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I mean, I think in general, let\u2019s talk about these issues."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let\u2019s talk about the programs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But in the presidency, a lot goes into it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Caring goes into it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s not particularly specific."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Strength goes into it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s not specific."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Standing up against aggression."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s not specific in terms of a program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "This is what a president has to do."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So in principle, though, I\u2019ll take your point and think we ought to discuss child care or whatever else it is."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Ross had his hand up."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Just no hedges, no ifs, ands and buts."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ll take the pledge because I know the American people want to talk about issues and not tabloid journalism."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "So I\u2019ll take the pledge and will stay on the issues."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, just for the record, I don\u2019t have any spin doctors."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I don\u2019t have any speechwriters."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Probably shows."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I make those charts you see on television."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But you don\u2019t have to wonder if it\u2019s me talking."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "See, what you see is what you get and if you don\u2019t like it, you got two other choices, right?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Wait a minute."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I want to say just one thing now, Ross, in fairness."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The ideas I express are mine."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ve worked on these things for 12 years and I\u2019m the only person up here who hasn\u2019t been part of Washington in any way for the last 20 years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I don\u2019t want the implication to be that somehow everything we say is just cooked up and put in our head by somebody else."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I worked 12 years very hard as a governor on the real problems of real people."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m just as sick as you are by having to wake up and figure out how to defend myself every day."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I never thought I\u2019d ever be involved in anything like this."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "May I finish?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Very briefly?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And I don\u2019t have any foreign money in my campaign."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I don\u2019t have any foreign lobbyists on leave in my campaign."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I don\u2019t have any PAC money in my campaign."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ve got 5."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "5 million hard-working people who put me on the ballot, and I belong to them."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And they\u2019re interested in what you\u2019re interested in."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I take the pledge."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ve already taken the pledge on cutting the deficit in half."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I never got to say that."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "There\u2019s a great young group, Lead or Leave, college students, young people, who don\u2019t want us to spend their money."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I took the pledge we\u2019d cut it out."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019ll be glad to take a shot at it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m not sure that \u2014 and I can understand if you haven\u2019t seen this, because there\u2019s been a lot of hue and cry."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We passed this year the most furthest looking transportation bill in the history of this country since Eisenhower started the interstate highways \u2014 $150 billion for improving the infrastructure."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That happened when I was president."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so I\u2019m very proud of the way that came about and I think it\u2019s a very, very good beginning."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Like Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Perot, I am concerned about the deficits and $150 billion is a lot of money, but it\u2019s awful hard to say we\u2019re going to go out and spend more money when we\u2019re trying to get the deficit down."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I would cite that as a major accomplishment."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We hear all the negatives."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "When you\u2019re president you expect this."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Everybody\u2019s running against the incumbent."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "They can do better."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Everyone knows that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But here\u2019s something that we can take great pride in because it really does get to what you\u2019re talking about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Our home initiative \u2014 our home ownership initiative \u2014 HOPE \u2014 that passed the Congress is a good start for having people own their own homes instead of living in these deadly tenements."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Our enterprise zones, that we hear a lot of lip service about in Congress, would bring jobs into the inner city."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "There\u2019s a good program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I need the help of everybody across this country to get it passed in a substantial way by the Congress."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "When we went out to south central in Los Angeles \u2014 some of you may remember the riots there."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I went out there."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I went to a boys\u2019 club."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And everyone of them \u2014 the boys\u2019 club leaders, the ministers \u2014 all of them were saying pass enterprise zones."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We go back to Washington and very difficult to get it through the Congress."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But there\u2019s going to be a new Congress."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "No one likes gridlock."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "There\u2019s going to be a new Congress because the old one \u2014 I don\u2019t want to get this man made at me \u2014 but there was a post office scandal and a bank scandal."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You\u2019re going to have a lot of new members of Congress."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And then you can sit down and say, help me do what we should for the cities."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Help me pass these programs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Sure, but the problem is, you get so many things included in a great big bill that you have to look at the overall good."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s the problem with our system."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "If you had a line item veto you could knock out the pork."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You could knock out the tax increases and you could do what the people want, and that\u2019s create enterprise zones."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That bill pays for these urban enterprise zones by asking the wealthiest Americans to pay a little more."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And that\u2019s why he wants to veto it, just like he vetoed an earlier bill this year."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This is not mud slinging."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This is fact slinging \u2014 a bill earlier this year."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This is facts \u2014 that would have given investment tax credits and other incentives to reinvest in our cities, in our country."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But it asked the wealthiest Americans to pay a little more."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Perot wants to do the same thing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I agree with him."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I mean, we agree with that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But let me tell you specifically what my plan does."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "My plan would dedicate $20 billion a year in each of the next 4 years for investments in new transportation, communications, environmental clean-ups and new technologies for the 21st century."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And we would target it especially in areas that have been either depressed or which have lost a lot of defense related jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There are 200,000 people in California, for example, who have lost their defense related jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They ought to be engaged in making high speed rail."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They ought to be engaged in breaking ground in other technologies, doing waste recycling, clean water technology and things of that kind."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We can create millions of jobs in these new technologies- -more than we\u2019re going to lose in defense \u2014 if we target it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But we\u2019re investing a much smaller percentage of our income in the things you just asked about than all of our major competitors, and our wealth growth is going down as a result of it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s making the country poorer, which is why I answered the gentleman the way I did before."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have to both bring down the deficit and get our economy going through these kinds of investments in order to get the kind of wealth and jobs and incomes we need in America."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "First you\u2019ve got to have money to pay for these things."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "So you\u2019ve got to create jobs."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "There are all kinds of ways to create jobs in the inner city."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019m not a politician, but I think I could go to Washington in a week and get everybody holding hands and get this bill signed because I talk to the Democratic leaders and they want it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I talk to the Republican leaders and they want it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But since they\u2019re bred from childhood to fight with one another rather than get results, you know, I would be glad to drop out and spend a little time and see if we couldn\u2019t build some bridges."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, results is what counts."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The president can\u2019t order Congress around."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Congress can\u2019t order the president around."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s not bad for a guy that\u2019s never been there, right?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But you have to work together."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, I have talked to the chairmen of the committees that want this."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "They\u2019re Democrats."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The president wants it, but we can\u2019t get it because we sit here in gridlock because it\u2019s a campaign year."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We didn\u2019t fund a lot of other things this year, like the savings and loan mess."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s another story that we\u2019re going to pay a big price for right after the election."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The facts are though \u2014 the facts are \u2014 the American people are hurting."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "These people are hurting in the inner cities."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019re shipping the quote, \u201clow paying jobs\u201d overseas."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "What are low paying jobs?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Textiles, shoes, things like that that we say are yesterday\u2019s industries."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "They\u2019re tomorrow\u2019s industries in the inner cities."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Let me say in my case, if I\u2019m out of work, I\u2019ll cut grass tomorrow to take care of my family; I\u2019ll be happy to make shoes, I\u2019ll be happy to make clothing, I\u2019ll make sausage."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You just give me a job."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Put those jobs in the inner cities instead of doing diplomatic deals and shipping them to China where prison labor does the work."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If you ask me if I could fly a fighter plane or be an astronaut, I can\u2019t."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ve spent my life creating jobs."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s something I know how to do."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And, very simply, in the inner city, they\u2019re starved \u2014 you see, small business is the way to jump start the inner city, not \u2014"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You want jobs in the inner city?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Do you want jobs in the inner city?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Is that your question?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Oh, I\u2019m sorry."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Well, I\u2019ve listened to both sides, and if they would talk to one another instead of throwing rocks, I think we could get a lot done."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And, among other things, I would say, okay, over here in this Senate committee to the chairman who is anxious to get this bill passed, the president who is anxious, I\u2019d say rather than just yelling at one another, why don\u2019t we find out where we\u2019re apart, try to get together, get the bill passed and give the people the benefits and not play party politics right now."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And I think the press would follow that so closely that probably they would get it done."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s the way I would do it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I doubt if they\u2019ll give me the chance, but I will drop everything and go work on it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I support the right to keep and bear arms."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I live in a state where over half the adults have hunting or fishing licenses, or both."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But I believe we have to have some way of checking hand guns before they\u2019re sold, to check the criminal history, the mental health history, and the age of people who are buying them."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Therefore I support the Brady bill which would impose a national waiting period unless and until a state did what only Virginia has done now, which is to automate its records."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Once you automate your records, then you don\u2019t have to have a waiting period, but at least you can check."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I also think we should have frankly restrictions on assault weapons whose only purpose is to kill."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We need to give the police a fighting chance in our urban areas where the gangs are building up."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The third thing I would say \u2014 it doesn\u2019t bear directly on gun control, but it\u2019s very important \u2014 we need more police on the street."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There is a crime bill which would put more police on the street, which was killed for this session by a filibuster in the Senate, mostly be Republican senators, and I think it\u2019s a shame it didn\u2019t pass, I think it should be made the law \u2014 but it had the Brady bill in it, the waiting period."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I also believe that we should offer college scholarships to people who will agree to work them off as police officers, and I think, as we reduce our military forces, we should let people earn military retirement by coming out and working as police officers."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thirty years ago there were three police officers on the street for every crime; today there are three crimes for every police officer."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In the communities which have had real success putting police officers near schools where kids carry weapons, to get the weapons out of the schools, are on the same blocks, you\u2019ve seen crime go down."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In Houston there\u2019s been a 15- percent drop in the crime rate in the last year because of the work the mayor did there in increasing the police force."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I know it can work; I\u2019ve seen it happen."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think you put your finger on a major problem."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I talk about strengthening the American family and it\u2019s very hard to strengthen the family if people are scared to walk down to the corner store and, you know, send their kid down to get a loaf of bread."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s very hard."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I have been fighting for very strong anti-crime legislation \u2014 habeas corpus reform, so you don\u2019t have these endless appeals, so when somebody gets sentenced, hey, this is for real."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019ve been fighting for changes in the exclusionary rule so if an honest cop stops somebody and makes a technical mistake, the criminal doesn\u2019t go away."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019ll probably get into a fight in this room with some but I happen to think that we need stronger death penalties for those that kill police officers."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Virginia\u2019s in the lead in this, as Governor Clinton properly said, on this identification system for firearms."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I am not for national registration of firearms."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Some of the states that have the toughest anti-gun laws have the highest levels of crime."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I am for the right, as the governor says- -I\u2019m a sportsman and I don\u2019t think you ought to eliminate all kinds of weapons."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I was not for the bill that he was talking about because it was not tough enough on the criminal."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m very pleased that the Fraternal Order of Police in Little Rock, Arkansas endorsed me because I think they see I\u2019m trying to strengthen the anti-crime legislation."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve got more money going out for local police than any previous administration."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So we\u2019ve got to get it under control and there\u2019s one last point I\u2019d make."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Drugs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We have got to win our national strategy against drugs, the fight against drugs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we\u2019re making some progress, doing a little better on interdiction."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019re not doing as well amongst the people that get to be habitual drug-users."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The good news is, and I think it\u2019s true in Richmond, teenage use is down of cocaine, substantially, 60% in the last couple of years."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So we\u2019re making progress but until we get that one done, we\u2019re not going to solve the neighborhood crime problem."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I didn\u2019t get to make a comment on this."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Oh, you\u2019re going to let me."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Excuse me."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "On any program, and this includes crime, you\u2019ll find we have all kinds of great plans lying around that never get enacted into law and implemented."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I don\u2019t care what it is \u2014 competitiveness, health care, crime, you name it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Brady Bill, I agree that it\u2019s a timid step in the right direction but it won\u2019t fix it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "So why pass a law that won\u2019t fix it?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, what it really boils down to is can you live \u2014 we become so preoccupied with the rights of the criminal that we\u2019ve forgotten the rights of the innocent."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And in our country we have evolved to a point where we\u2019ve put millions of innocent people in jail because you go to the poor neighborhoods and they\u2019ve put bars on their windows and bars on their doors and put themselves in jail to protect the things that they acquired legitimately."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s where we are."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We have got to become more concerned about people who play by the rules and get the balance we require."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "This is going to take first, building a consensus at grassroots America."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Right from the bottom up, the American people have got to say they want it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And at that point, we can pick from a variety of plans and develop new plans."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And the way you get things done is bury yourselves in the room with one another, put together the best program, take it to the American people, use the electronic town hall, the kind of thing you\u2019re doing here tonight, build a consensus and then do it and then go on to the next one."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But don\u2019t just sit here slow dancing for 4 years doing nothing."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Any order?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019ll be glad to respond."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I strongly support term limits for members of the US Congress."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I believe it would return the government closer to the people, the way that Ross Perot is talking about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The president\u2019s terms are limited to 2, a total of 8 years."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "What\u2019s wrong with limiting the terms of members of Congress to 12?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Congress has gotten kind of institutionalized."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "For 38 years one party has controlled the House of Representatives, and the result, a sorry little post office that can\u2019t do anything right and a bank that has more overdrafts than all the Chase Bank and Citibank put together."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve got to do something about it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think you get a certain arrogance, bureaucratic arrogance, if people stay there too long."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so I favor, strongly favor, term limits."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And how to get them passed?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Send us some people that will pass the idea."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think you will."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think the American people want it now."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Every place I go I talk about it, and I think they want it done."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Actually, you\u2019d have to have some amendments to the Constitution because of the way the Constitution reads."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I know they\u2019re popular, but I\u2019m against them."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ll tell you why."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I believe, number one, it would pose a real problem for a lot of smaller states in the Congress who have enough trouble now making sure their interests are heard."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 2, I think it would increase the influence of unelected staff members in the Congress who have too much influence already."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I want to cut the size of the congressional staffs, but I think you\u2019re going to have too much influence there with people who were never elected, who have lots of expertise."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 3, if the people really have a mind to change, they can."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You\u2019re going to have 120 to 150 new members of Congress."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, let me tell you what I favor instead."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I favor strict controls on how much you can spend running for Congress, strict limits on political action committees, requirements that people running for Congress appear in open public debates like we\u2019re doing now."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If you did that you could take away the incumbents\u2019 advantage because challengers like me would have a chance to run against incumbents like him for House races and Senate races, and then the voters could make up their own mind without being subject to an unfair fight."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So that\u2019s how I feel about it, and I think if we had the right kind of campaign reform, we\u2019d get the changes you want."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Yes."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Let me do first on a personal level."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If the American people send me up to do this job, I intend to be there one term."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I do not intend to spend one minute of one day thinking about re-election."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And as a matter of principle \u2014 and my situation is unique, and I understand it \u2014 I would take absolutely no compensation; I go as their servant."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, I have set as strong an example as I can, then at that point when we sit down over at Capitol Hill \u2014 tomorrow night I\u2019m going to be talking about government reform \u2014 it\u2019s a long subject, you wouldn\u2019t let me finish tonight."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If you want to hear it, you get it tomorrow night \u2014 you\u2019ll hear it tomorrow night."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But we have got to reform government."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If you put term limits in and don\u2019t reform government, you won\u2019t get the benefits you thought."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "It takes both."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "So we need to do the reforms and the term limits."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And after we reform it, it won\u2019t be a lifetime career opportunity; good people will go serve and then go back to their homes and not become foreign lobbyists and cash in at 30,000 bucks a month and then take time off to run some president\u2019s campaign."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "They\u2019re all nice people, they\u2019re just in a bad system."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I don\u2019t think there are any villains, but, boy, is the system rotten."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ve had more people talk to me about their health care problems I guess than anything else, all across America \u2014 you know, people who\u2019ve lost their jobs, lost their businesses, had to give up their jobs because of sick children."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So let me try to answer you in this way."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let\u2019s start with a premise."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We spend 30% more of our income than any nation on earth on health care, and yet we insure fewer people."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have 35 million people without any insurance at all \u2014 and I see them all the time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "A hundred thousand Americans a month have lost their health insurance just in the last 4 years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So if you analyze where we\u2019re out of line with other countries, you come up with the following conclusions."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number one, we spend at least $60 billion a year on insurance, administrative cost, bureaucracy, and government regulation that wouldn\u2019t be spent in any other nation."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So we have to have, in my judgment, a drastic simplification of the basic health insurance policies of this country, be very comprehensive for everybody."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Employers would cover their employees, government would cover the unemployed."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 2, I think you have to take on specifically the insurance companies and require them to make some significant change in the way they rate people in the big community pools."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think you have to tell the pharmaceutical companies they can\u2019t keep raising drug prices at three times the rate of inflation."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think you have to take on medical fraud."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think you have to help doctors stop practicing defensive medicine."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ve recommended that our doctors be given a set of national practice guidelines and that if they follow those guidelines that raises the presumption that they didn\u2019t do anything wrong."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think you have to have a system of primary and preventive clinics in our inner cities and our rural areas so people can have access to health care."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The key is to control the cost and maintain the quality."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "To do that you need a system of managed competition where all of us are covered in big groups and we can choose our doctors and our hospitals, a wide range, but there is an incentive to control costs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I think there has to be \u2014 I think Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Perot and I agree on this, there has to be a national commission of health care providers and health care consumers that set ceilings to keep health costs in line with inflation, plus population growth."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, let me say, some people say we can\u2019t do this but Hawaii does it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They cover 98% of their people and their insurance premiums are much cheaper than the rest of America, and so does Rochester, New York."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They now have a plan to cover everybody and their premiums are two-thirds of the rest of the country."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This is very important."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s a big human problem and a devastating economic problem for America, and I\u2019m going to send a plan to do this within the first 100 days of my presidency."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s terribly important."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I just have to say something."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want to stampede."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Ross was very articulate across the country."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want anybody to stampede to cut the president\u2019s salary off altogether."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Barbara\u2019s sitting over here and I \u2014 but what I have proposed, 10% cut, downsize the government, and we can get that done."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "She asked a question, I think, is whether the health care profession was to blame."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "No."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "One thing to blame is these malpractice lawsuits."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "They\u2019re breaking the system."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It costs $20-25 billion a year, and I want to see those outrageous claims capped."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Doctors don\u2019t dare to deliver babies sometimes because they\u2019re afraid that somebody\u2019s going to sue them."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "People don\u2019t dare \u2014 medical practitioners, to help somebody along the highway that are hurt because they\u2019re afraid that some lawyer\u2019s going to come along and get a big lawsuit."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So you can\u2019t blame the practitioners for the health problem."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And my program is this."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Keep the government as far out of it as possible, make insurance available to the poorest of the poor, through vouchers, next range in the income bracket, through tax credits, and get on about the business of pooling insurance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "A great big company can buy \u2014 Ross has got a good-sized company, been very successful."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He can buy insurance cheaper than Mom and Pop\u2019s store on the corner."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But if those Mom and Pop stores all get together and pool, they too can bring the cost of insurance down."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So I want to keep the quality of health care."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That means keep government out of it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to do \u2014 I don\u2019t like this idea of these boards."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It all sounds to me like you\u2019re going to have some government setting price."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want competition and I want to pool the insurance and take care of it that way and have \u2014 oh, here\u2019s the other point."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think medical care should go with the person."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "If you leave a business, I think your insurance should go with you to some other business."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You shouldn\u2019t be worrying if you get a new job as to whether that\u2019s gonna \u2014 and part of our plan is to make it what they call portable \u2014 big word, but that means if you\u2019re working for the Jones Company and you go to the Smith Company, your insurance goes with you."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think it\u2019s a good program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m really excited about getting it done, too."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We have the most expensive health care system in the world."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Twelve percent of our gross national product goes to health care."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Our industrial competitors, who are beating us in competition, spend less and have better health care."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Japan spends a little over 6% of its gross national product."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Germany spends 8%."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "It\u2019s fascinating."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You\u2019ve bought a front row box seat and you\u2019re not happy with your health care and you\u2019re saying tonight we\u2019ve got bad health care but very expensive health care."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Folks, here\u2019s why."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Go home and look in the mirror."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You own this country but you have no voice in it the way it\u2019s organized now, and if you want to have a high risk experience, comparable to bungee jumping, go into Congress some time when they\u2019re working on this kind of legislation, when the lobbyists are running up and down the halls."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Wear your safety toe shoes when you go."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And as a private citizen, believe me, you are looked on as a major nuisance."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The facts are you now have a government that comes at you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You\u2019re supposed to have a government that comes from you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, there are all kinds of good ideas, brilliant ideas, terrific ideas on health care."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "None of them ever get implemented because \u2014 let me give you an example."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "A senator runs every 6 years."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "He\u2019s got to raise 20,000 bucks a week to have enough money to run."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Who\u2019s he gonna listen to \u2014 us or the folks running up and down the aisles with money, the lobbyists, the PAC money?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "He listens to them."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Who do they represent?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Health care industry."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Not us."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, you\u2019ve got to have a government that comes from you again."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You\u2019ve got to reassert your ownership in this country and you\u2019ve got to completely reform our government."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And at that point they\u2019ll just be like apples falling out of a tree."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The programs will be good because the elected officials will be listening to \u2014 I said the other night I was all ears and I would listen to any good idea."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I think we ought to do plastic surgery on a lot of these guys so that they\u2019re all ears, too, and listen to you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Then you get what you want, and shouldn\u2019t you?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You paid for it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Why shouldn\u2019t you get what you want, as opposed to what some lobbyist cuts a deal, writes a little piece in the law and he goes through."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s the way the game\u2019s played now."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Till you change it you\u2019re gonna be unhappy."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "SIMPSON : You wanted one brief point in there."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One brief point."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have elections so people can make decisions about this."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The point I want to make to you is, a bipartisan commission reviewed my plan and the Bush plan and there were as many Republicans as Democratic health care experts on it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They concluded that my plan would cover everybody and his would leave 27 million behind by the year 2000 and that my plan in the next 12 years would save $2."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "2 trillion in public and private money to reinvest in this economy and the average family would save $1200 a year under the plan that I offered without any erosion in the quality of health care So I ask you to look at that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And you have to vote for somebody with a plan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s what you have elections for."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If people would say, well, he got elected to do this and then the Congress says, okay, I\u2019m going to do it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s what the election was about."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "END of first half of 1992 Debate 2 October 15, 1992 Second Half Debate Transcript October 15, 1992 The Second Clinton-Bush-Perot Presidential Debate This is the second half of the transcript of the Richmond debate."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The October 15th \u201ctown hall\u201d format debate was moderated by Carole Simpson."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The length of this printed transcript is approximately 20 pages."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "May I answer that?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Who do you want to start with?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "It caused me to disrupt my private life and my business to get involved in this activity."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s how much I care about it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And believe me, if you knew my family and if you knew the private life I have, you would agree in a minute that that\u2019s a whole lot more fun than getting involved in politics."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But I have lived the American dream."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I came from very modest background."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Nobody\u2019s been luckier than I\u2019ve been, all the way across the spectrum, and the greatest riches of all are my wife and children."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s true of any family."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But I want all the children \u2014 I want these young people up here to be able to start with nothing but an idea like I did and build a business."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But they\u2019ve got to have a strong basic economy and if you\u2019re in debt, it\u2019s like having a ball and chain around you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I just figure, as lucky as I\u2019ve been, I owe it to them and I owe it to the future generations and on a very personal basis, I owe it to my children and grandchildren."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, I think the national debt affects everybody."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Obviously it has a lot to do with interest rates \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m sure it has."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I love my grandchildren \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to think that they\u2019re going to be able to afford an education."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think that that\u2019s an important part of being a parent."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "If the question \u2014 maybe I \u2014 get it wrong."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Are you suggesting that if somebody has means that the national debt doesn\u2019t affect them?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m not sure I get \u2014 help me with the question and I\u2019ll try to answer it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Yeah."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, listen, you ought to be in the White House for a day and hear what I hear and see what I see and read the mail I read and touch the people that I touch from time to time."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I was in the Lomax AME Church."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s a black church just outside of Washington, DC."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I read in the bulletin about teenage pregnancies, about the difficulties that families are having to make ends meet."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I talk to parents."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I mean, you\u2019ve got to care."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Everybody cares if people aren\u2019t doing well."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I don\u2019t think it\u2019s fair to say, you haven\u2019t had cancer."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Therefore, you don\u2019t know what\u2019s it like."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t think it\u2019s fair to say, you know, whatever it is, that if you haven\u2019t been hit by it personally."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But everybody\u2019s affected by the debt because of the tremendous interest that goes into paying on that debt everything\u2019s more expensive."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Everything comes out of your pocket and my pocket."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So it\u2019s that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I think in terms of the recession, of course you feel it when you\u2019re president of the US."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And that\u2019s why I\u2019m trying to do something about it by stimulating the export, vesting more, better education systems."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m glad you clarified it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Tell me how it\u2019s affected you again."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You know people who\u2019ve lost their jobs and lost their homes?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Well, I\u2019ve been governor of a small state for 12 years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ll tell you how it\u2019s affected me."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Every year Congress and the president sign laws that make us do more things and gives us less money to do it with."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I see people in my state, middle class people \u2014 their taxes have gone up in Washington and their services have gone down while the wealthy have gotten tax cuts."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I have seen what\u2019s happened in this last 4 years when \u2014 in my state, when people lose their jobs there\u2019s a good chance I\u2019ll know them by their names."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When a factory closes, I know the people who ran it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When the businesses go bankrupt, I know them."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I\u2019ve been out here for 13 months meeting in meetings just like this ever since October, with people like you all over America, people that have lost their jobs, lost their livelihood, lost their health insurance."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What I want you to understand is the national debt is not the only cause of that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It is because America has not invested in its people."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It is because we have not grown."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It is because we\u2019ve had 12 years of trickle down economics."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve gone from first to twelfth in the world in wages."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve had 4 years where we\u2019ve produced no private sector jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Most people are working harder for less money than they were making ten years ago."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It is because we are in the grip of a failed economic theory."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And this decision you\u2019re about to make better be about what kind of economic theory you want, not just people saying I\u2019m going to go fix it but what are we going to do?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think we have to do is invest in American jobs, American education, control American health care costs and bring the American people together again."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, the Social Security \u2014 you\u2019re an expert and I could, I\u2019m sure, learn from you the details of the Pension Guarantee Fund and the Social Security Fund."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The Social Security system was fixed about 5 years, and I think it\u2019s projected out to be sound beyond that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So at least we have time to work with it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But on all of these things, a sound economy is the only way to get it going."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Growth in the economy is gonna add to the overall prosperity and wealth."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I can\u2019t give you a specific answer on Pension Guarantee Fund."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "All I know is that we have firm government credit to guarantee the pensions."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And that is very important."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But it\u2019s \u2014 the full faith and credit of the US, in spite of our difficulties, is still pretty good."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s still the most respected credit."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So I would simply say, as these dates get close, you\u2019re going to have to reorganize and refix as we did with the Social Security Fund."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think that\u2019s the only answer."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But the more immediate answer is to do what this lady was suggesting we do, and that is to get this deficit down and get on without adding to the woes, and then restructure."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "One thing I\u2019ve called for that has been stymied, and I\u2019ll keep on working for it, is a whole financial reform legislation."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It is absolutely essential in terms of bringing our banking system and credit system into the new age instead of having it living back in the dark ages."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And it\u2019s a big fight."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I don\u2019t want to give my friend Ross another shot at me here but I am fighting with the Congress to get this through."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And you can\u2019t just go up and say I\u2019m going to fix it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You\u2019ve got some pretty strong-willed guys up there that argue with you."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But that\u2019s what the election\u2019s about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I agree with the governor."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That\u2019s what the election\u2019s about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And sound fiscal policy is the best answer, I think, to all the three problems you mentioned."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "On the broad issue here, when you\u2019re trying to solve a problem, you get the best plans."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You have a raging debate about those plans."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Then out of that debate, with leadership, comes consensus."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Then, if the plans are huge and complex like health care, I would urge you to implement pilot programs."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Like the old carpenter says measure twice, cut once."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Let\u2019s make sure this thing\u2019s as good as we all think it is at the end of the meeting."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Then finally, our government passes laws and freezes the plan in concrete."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Anybody that\u2019s ever built a successful business will tell you you optimize, optimize, optimize after you\u2019ve put something into effect."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The reason Medicare and Medicaid are a mess is we froze them."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Everybody knows how to fix them."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "There are people all over the federal government, if they could just touch it with a screwdriver, could fix it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, back over here."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "See, we\u2019ve got a $4 trillion debt and only in America would you have $2."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "8 trillion of it or 70% of it financed 5 years or less."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, that\u2019s another thing for you to think about when you go home tonight."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You don\u2019t finance long-term debt with short-term money."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Why did our government do it?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "To get the interest rates down."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "A 1% increase in interest rates in that $2."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "8 trillion is $28 billion a year."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, when you look at what Germany pays for money and what we don\u2019t pay for money, you realize there\u2019s quite a spread, right, and you realize this is a temporary thing and there\u2019s going to be another sucking sound that runs our deficit through the roof."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You know, and everybody\u2019s ducking it so I\u2019m gonna say it, that we are not letting that surplus stay in the bank."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We are not investing that surplus like a pension fund."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We are spending that surplus to make the deficit look smaller to you than it really is."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, that \u2014 put you in jail in corporate America if you kept books that way but in government it\u2019s just kind of the way things are."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s because it comes at you, not from you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now then, that money needs to be \u2014 they don\u2019t even pay interest on it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "They just write a note for the interest."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Do you want to fix the problem or sound-bite it?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I understand the importance of time but see, here\u2019s how we get to this mess we\u2019re in."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "This is just 1 of 1000."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now then, to nail it, there\u2019s one way out \u2014 a growing, expanding job base."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "A growing, expanding job base to generate the funds and the tax revenues to pay off the mess and rebuild America."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019ve got to double-hit."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If we\u2019re $4 trillion down, we should have everything perfect, but we don\u2019t."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019ve got to pay it off and build money to renew it- -spend money to renew it, and that\u2019s going to take a growing, expanding job base."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That is priority one in this country."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Put everybody that\u2019s breathing to work."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And I\u2019d love to be out of workers and have to import them, like some of our international competitors."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Sorry."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Okay."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Absolutely."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I apologize."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think I remember the question."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me say first of all, I want to answer your specific question but first of all, we all agree that there should be a growing economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What you have to decide is who\u2019s got the best economic plan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And we all have ideas out there, and Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Bush has a record."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I don\u2019t want you to read my lips and I sure don\u2019t want you to read his."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I do hope you will read our plans."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, specifically, one, on Medicare, it is not true that everyone knows how to fix it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There are different ideas \u2014 the Bush plan, the Perot plan, the Clinton \u2014 we have different ideas."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I am convinced, having studied health care for a year hard and talking to hundreds and hundreds of people all across America, that you cannot control the cost of Medicare until you control the cost of private health care and public health care, with managed competition, ceiling on cost, and radical reorganization of the insurance markets."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You\u2019ve got to do that; we got to get those costs down."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 2, with regard to Social Security, that program \u2014 a lot of you may not know this \u2014 it produces a $70 billion surplus a year."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Social Security is in surplus $70 billion."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Six increases in the payroll tax \u2014 that means people with incomes of $51,000 a year or less pay a disproportionally high share of the federal tax burden, which is why I want some middle-class tax relief."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What do we have to do?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "By the time the century turns, we have got to have our deficit under control, we have to work out of so that surplus is building up so when the baby boomers like me retire, we\u2019re okay."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 3, on the pension funds, I don\u2019t know as much about it, but I will say this."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What I would do is to bring in the pension experts of the country, take a look at it, and strengthen the pension requirements further, because it\u2019s not just enough to have the guarantee."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We had a guarantee on the S&Ls, right?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We had a guarantee \u2014 and what happened?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You picked up a $500-billion bill because of the dumb way the federal government deregulated it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I think we are going to have to change and strengthen the pension requirements on private retirement plans."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, we have come to that position."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Since I became president, 43, 44 countries have gone democratic, no longer totalitarian, no longer living under dictatorship or communist rule."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "This is exciting."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "New world order to me means freedom and democracy."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think we will have a continuing responsibility, as the only remaining superpower, to stay involved."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "If we pull back in some isolation and say we don\u2019t have to do our share, or more than our share, anymore, I believe you are going to just ask for conflagration that we\u2019ll get involved in the future."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "NATO, for example, has kept the peace for many, many years, and I want to see us keep fully staffed in NATO so we\u2019ll continue to guarantee the peace in Europe."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But the exciting thing is, the fear of nuclear war is down."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And you hear all the bad stuff that\u2019s happened on my watch; I hope people will recognize that this is something pretty good for mankind."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I hope they\u2019ll think it\u2019s good that democracy and freedom is on the move."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we\u2019re going to stay engaged, as long as I\u2019m president, working to improve things."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You know, it\u2019s so easy now to say, hey, cut out foreign aid, we got a problem at home."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think the US has to still have the Statue of Liberty as a symbol, caring for others."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Right this very minute we\u2019re sending supplies in to help these little starving kids in Somalia."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s the US that\u2019s taken the lead in humanitarian aid into Bosnia."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019re doing this all around the world."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Yes, we got problems at home."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think I got a good plan to help fix those problems at home."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But because of our leadership, because we didn\u2019t listen to the freeze \u2014 the nuclear-freeze group, do you remember \u2014 freeze it, back in the late 70s \u2014 freeze, don\u2019t touch it; we\u2019re going to lock it in now or else we\u2019ll have war."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "President Reagan said no, peace through strength."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It worked."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The Soviet Union is no more, and now we\u2019re working to help them become totally democratic through the Freedom Support Act that I led on, a great Democratic ambassador, Bob Strauss, over there, Jim Baker, all of us got this thing passed \u2014 through cooperation, Ross \u2014 it worked with cooperation, and you\u2019re for that, I\u2019m sure, helping Russia become democratic."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So the new world order to me means freedom and democracy, keep engaged, do not pull back into isolation."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we are the US, and we have a responsibility to lead and to guarantee the security."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "If it hadn\u2019t been for us, Saddam Hussein would be sitting on top of three-fifths of the oil supply of the world and he\u2019d have nuclear weapons."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And only the US could do this."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Excuse me, Carole."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Well, it\u2019s cost-effective to help Russia succeed in its revolution; it\u2019s pennies on the dollar compared to going back to the Cold War."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Russia is still very unstable; they could go back to square one, and worse."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "All the nuclear weapons are not dismantled."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I am particularly concerned about the intercontinental weapons, the ones that can hit us."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We\u2019ve got agreements, but they are still there."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "With all this instability and breaking into republics, and all the Middle Eastern countries going over there and shopping for weapons, we\u2019ve got our work cut out for us."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "So we need to stay right on top of that and constructively help them move toward democracy and capitalism."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We have to have money to do that."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We have to have our people at work."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "See, for 45 years we were preoccupied with the Red Army."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I suggest now that our number one preoccupation is red ink and our country and we\u2019ve got to put our people back to work so that we can afford to do these things we want to do in Russia."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We cannot be the policeman for the world any longer."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We spent $300 billion a year defending the world."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Germany and Japan spend around $30 billion a piece."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If I can get you to defend me and I can spend all my money building industry that\u2019s a home run for me."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Coming out of World War II it made sense."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, the other superpowers need to do their part."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ll close on this point."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You can\u2019t be a superpower unless you\u2019re an economic superpower."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If we\u2019re not an economic superpower, we\u2019re a used to be and we will no longer be a force for good throughout the world."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And if nothing else gets you excited about rebuilding our industrial base maybe that will because job one is to put our people back to work."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019d rather answer her question first and then I\u2019ll be glad to."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Because the question you ask is important."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The end of the Cold War brings an incredible opportunity for change."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Winds of freedom blowing around the world, Russia demilitarizing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And it also requires us to maintain some continuity \u2014 some bipartisan American commitment to certain principles."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I would just say there are three things that I would like to say \u2014 number one \u2014 we do have to maintain the world\u2019s strongest defense."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We may differ about what the elements of that are."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think that defense needs to be \u2014 with fewer people in permanent armed services but with greater mobility on the land, in the air and on the sea, with a real dedication to continuing development of high technology weaponry and well trained people."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think we\u2019re going to have to work to stop the proliferation of weapons of mass destruction."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Got to keep going until all those nuclear weapons in Russia are gone and the other republics."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 2, if you don\u2019t rebuild the economic strength of this country at home, we won\u2019t be a superpower."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We can\u2019t have any more instances like what happened when Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Bush went to Japan and the Japanese prime minister said he felt sympathy for our country."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have to be the strongest economic power in the world."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s what got me into this race, so we could rebuild the American economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And number three, we need to be a force for freedom and democracy and we need to use our unique position to support freedom, whether it\u2019s in Haiti or in China or in any other place, wherever the seeds of freedom are sprouting."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We can\u2019t impose it, but we need to nourish it and that\u2019s the kind of thing that I would do as president \u2014 follow those three commitments into the future."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Go ahead, sir."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Yeah, go ahead."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019d be delighted to, because you can\u2019t do it the old way."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You can\u2019t do it with the school bureaucracy controlling everything and that\u2019s why we have a new program that I hope people have heard about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s being worked now in 1700 communities \u2014 bypassed Congress on this one, Ross \u2014 1700 communities across the country."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s called America 2000."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And it literally says to the communities, re-invent the schools, not just the bricks and mortar but the curriculum and everything else."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Think anew."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We have a concept called the New American School Corporation where we\u2019re doing exactly that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so I believe that we\u2019ve got to get the power in the hands of the teachers, not the teachers\u2019 union."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "What\u2019s happening up there?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so our America 2000 program also says this."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It says let\u2019s give parents the choice of a public, private or public school \u2014 public, private or religious school."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And it works- -it works in Milwaukee."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Democratic woman up there \u2014 taking the lead in this."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The mayor up there, on the program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And the schools that are not chosen are improved \u2014 competition does that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So we\u2019ve got to innovate through school choice."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve got to innovate through this America 2000 program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But she is absolutely right."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The programs that we\u2019ve been trying where you control everything and mandate it from Washington don\u2019t work."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The governors \u2014 and I believe Governor Clinton was in on this \u2014 but maybe \u2014 I don\u2019t want to invoke him here."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But they come to me and they say, please get the Congress to stop passing so many mandates telling us how to control things."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We know better how to do it in California or Texas or wherever it is."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So this is what our program is all about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I believe you\u2019re right on to something, that if we don\u2019t change the education we\u2019re not going to be able to compete."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Federal funding for education is up substantially \u2014 Pell grants are up."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But it isn\u2019t going to get the job done if we don\u2019t change K through 12."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "First of all, let me say that I\u2019ve spent more of my time and life on this in the last 12 years than any other issue."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Seventy percent of my state\u2019s money goes to the public schools, and I was really honored when Time magazine said that our schools have shown more improvement than any other state in the country except one other \u2014 they named 2 states showing real strides forward in the 80s."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I care a lot about this, and I\u2019ve spent countless hours in schools."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But let me start with what you said."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I agree with some of what Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Bush said, but it\u2019s nowhere near enough."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We live in a world where what you earn depends on what you can learn, where the average 18- year-old will change jobs 8 times in a lifetime and where none of us can promise any of you that what you now do for a living is absolutely safe from now on."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Nobody running can promise that, there\u2019s too much change in the world."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So what should we do?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me reel some things off real quick, because you said you wanted specifics."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number one, under my program we would provide matching funds to states to teach everybody with a job to read in the next 5 years and give everybody with a job the chance to get a high school diploma, in big places on the job."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 2, we would provide 2-year apprenticeship programs to high school graduates who don\u2019t go to college."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And community colleges are on the job."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number three, we\u2019d open the doors to college education to high school graduates without regard to income."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They could borrow the money and pay it back as a percentage of their income or with a couple of years of service to our nation here at home."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number 4, we would fully fund the Head Start program to get little kids off to a good start."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And, 5, I would have an aggressive program of school reform, more choices \u2014 I favor public schools or these new charter schools \u2014 we can talk about that if you want."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I don\u2019t think we should spend tax money on private schools."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But I favor public school choice, and I favor radical decentralization in giving more power to better-trained principals and teachers with parent councils to control their schools."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Those things would revolutionize American education and take us to the top economically."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In 6 years \u2014 I budget all this in my budget, and in 6 years the college program would cost 8 billion dollars over and above what \u2014 the present student loan program costs 4; you pay 3 billion dollars for busted loans, because we don\u2019t have an automatic recovery system, and a billion dollars in bank fees."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So the net cost would be 8 billion 6 years from now in a trillion-plus budget \u2014 not very much."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The other stuff \u2014 all the other stuff I mentioned \u2014 costs much less than that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The Head Start program full funding would cost about 5 billion more."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And it\u2019s all covered in my budget from \u2014 the plans that I\u2019ve laid out \u2014 from raising taxes on families with incomes above $200,000 and asking foreign corporations to pay the same tax that American corporations do on the same income, from $140 billion in budget cuts, including what I think are very prudent cuts in the defense budget."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s all covered in the plan."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Yes, I\u2019ve got scars to show for being around education reform."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And the first word you need to say in every city and state, and just draw a line in the sand, is public schools exist for the benefit of the children."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You\u2019re going to see a lot of people fall over it, because any time you\u2019re spending $199 billion dollars a year, somebody\u2019s getting it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And the children get lost in the process."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "So that\u2019s step one."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Keep in mind in 1960, when our schools were the envy of the world, we were spending $16 billion on them; now we spend more than any other nation in the world \u2014 199 billion a year \u2014 and rank at the bottom of the industrialized world in terms of education achievement."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "One more time you\u2019ve bought a front-row box seat and got a third-rate performance."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "This is a government that is not serving you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "By and large it should be local \u2014 the more local, the better."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Interesting phenomenon: small towns have good schools, big cities have terrible schools."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "The best people in a small town will serve on the school board; you get into big cities, it\u2019s political patronage, stepping stones \u2014 you get the job, give your relatives a janitor\u2019s job at $57,000 a year, more than the teachers make, and with luck they clean the cafeteria once a week."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, you\u2019re paying for that."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Those schools belong to you."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And we put up with that."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, as long as we put up with that, that\u2019s what you\u2019re going to get."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And these folks are just dividing up 199 billion bucks and the children get lost."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If I could wish for one thing for great public schools, it would be a strong family unit in every home \u2014 nothing will ever replace that."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You say, well, gee, what are you going to do about that?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Well, the White House is a bully pulpit, and I think we ought to be pounding on the table every day."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "There\u2019s nothing \u2014 the most efficient unit of government the world will ever know is a strong loving family unit."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Next thing."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You need small schools, not big schools."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "In a little school everybody is somebody; individualism is very important."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "These big factories?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Everybody told me they were cost-effective."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I did a study on it; they\u2019re cost- ineffective."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "5000 students \u2014 why is a high school that big?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "One reason."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Sooner or later you get 11 more boys that can run like the devil that weigh 250 pounds and they might win district."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, that has nothing to do with learning."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Secondly, across Texas, typically half of the school day was non-academic pursuits \u2014 in one place it was 35%."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "In Texas you could have unlimited absences to go to livestock shows."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Found a boy \u2014 excuse me, but this gives the flavor \u2014 a boy in Houston kept a chicken in the bathtub in downtown Houston and missed 65 days going to livestock shows."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Finally had to come back to school, the chicken lost its feathers."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That\u2019s the only way we got him back."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, that\u2019s your tax money being wasted."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, neighborhood schools."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "It is terrible to bus tiny little children across town."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And it is particularly terrible to take poor tiny little children and wait until the first grade and bus them across town to Mars, where the children know their numbers, know their letters, have had every advantage."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "At the end of the first day, that little child wants out."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ll close on this."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "You\u2019ve got to have world class teachers, world class books."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If you ever got close to how textbooks were selected, you wouldn\u2019t want to go back the second day."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I don\u2019t have time to tell you the stories."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Finally, if we don\u2019t fix this, you\u2019re right."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We can\u2019t have the industries of tomorrow unless we have the best educated workforce."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And here you\u2019ve got, for the disadvantaged children, you\u2019ve got to have early childhood development."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Cheapest money you\u2019ll ever spend."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "First contact should be with the money when she\u2019s pregnant."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "That little child needs to be loved and hugged and nurtured and made to feel special, like your children were."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "They learn to think well or poorly of themselves in the first 18 months."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And in the first few years they either learn how to learn or don\u2019t learn how to learn."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And if they don\u2019t, they wind up in prison."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And it costs more to keep them in prison than it does to send them to Harvard."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I rest my case."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I just had a word of clarification because of something Governor Clinton said."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "My school choice program, GI Bill for Kids, does not take public money and give it to private schools."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It does what the GI Bill itself did when I came out of World War II."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It takes public money and gives it to families or individuals to choose the school they want."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And where it\u2019s been done, those schools, like in Rochester, those schools that weren\u2019t chosen find that they then compete and do better."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So I think it\u2019s worth a shot."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve got a pilot program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It ought to be tried."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "School choice \u2014 public, private or religious."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Not to the schools but to \u2014 you know, 46% of the teachers in Chicago, public school teachers, send their kids to private school."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, I think we ought to try to help families and see if it will do what I think \u2014 make all schools better."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I just want to mention if I could \u2014"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Very briefly."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Including the parents in the preschool education of their kids, even if they\u2019re poor and uneducated, can make a huge difference."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have a big program in my state that teaches mothers or fathers to teach their kids to get ready for school."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s the most successful thing we\u2019ve ever done."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Just a fact clarification real quickly."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We do not spend a higher percentage of our income on public education than every other country."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There are 9 countries that spend more than we do on public education."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We spend more on education \u2019cause we spend so much more on colleges."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But if you look at public education alone and you take into account the fact that we have more racial diversity and more poverty, it makes a big difference."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There are great public schools where there\u2019s public school choice, accountability and brilliant principals."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ll just mention one \u2014 the Beasley Academic Center in Chicago."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I commend it to anybody."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s as good as any private school in the country."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Well, I don\u2019t have any idea but I hope it will happen some time in my lifetime."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I believe that this country is electing more and more African Americans and Latinos and Asian Americans who are representing districts that are themselves not necessarily of a majority of their race."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The American people are beginning to vote across racial lines, and I hope it will happen more and more."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "More and more women are being elected."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Look at all these women Senate candidates we have here."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And you know, according to my mother and my wife and my daughter, this world would be a lot better place if women were running it most of the time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I do think there are special experiences and judgments and backgrounds and understandings that women bring to this process, by the way."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This lady said here, how have you been affected by the economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I mean, women know what\u2019s it like to be paid an unequal amount for equal work."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They know what it\u2019s like not to have flexible working hours."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They know what it\u2019s like not to have family leave or childcare."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I think it would be a good thing for America if it happened."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I think it will happen in my lifetime."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think if Barbara Bush were running this year she\u2019d be elected."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But it\u2019s too late."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You don\u2019t want us to mention appointees, but when you see the quality of people in our administration, see how Colin Powell performed \u2014 I say administration \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You weren\u2019t impressed with the fact that he \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Yeah, but wouldn\u2019t that suggest to the American people, then, here\u2019s a quality person, if he decided that he could automatically get the nomination of either party?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Huh?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Oh, I see."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You mean, time?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t know \u2014 starting after 4 years."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "No, I think you\u2019ll see \u2014"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think you\u2019ll see more minority candidates and women candidates coming forward."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "This is supposed to be the year of the women in the Senate."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let\u2019s see how they do."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I hope a lot of \u2014"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I have a fearless forecast."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "A message just won\u2019t do it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Colin Powell will be on somebody\u2019s ticket 4 years from now \u2014 right?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Right?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "He wanted that said \u2014 4 years."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, if won\u2019t be, General Waller would be \u2014 you say, why do you keep picking military people."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "These are people that I just happen to know and have a high regard for."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019m sure there are hundreds of others."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "How about Dr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Lou Sullivan?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Absolutely."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Yeah, a good man."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Oh, oh."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "totally agree."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "My candidate\u2019s back there."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Okay."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I can think of many."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Absolutely."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "All right."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "How about Sandra Day O\u2019Connor as an example?"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Dr."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Bernadine Healy \u2014"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "National Institutes of Health."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ll yield the floor."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "All good Republicans."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Name some more."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "May I ask for an exception because I think we owe Carole Simpson \u2014 anybody who can stand in between these three characters here and get the job done \u2014 we owe her a round of applause."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But don\u2019t take it out of my time!"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I feel strongly about it because I don\u2019t want it to come out of my time."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "No, but let me just stay to the American people in 2 and a half weeks we\u2019re going to choose who should sit in this Oval Office, who to lead the economic recovery, who to be the leader of the free world, who to get the deficit down."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "three ways to do that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "One is to raise taxes."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "One is to reduce spending \u2014 controlling that mandatory spending."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Another one is to invest and save and to stimulate growth."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I do not want to raise taxes."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I differ with the 2 here on that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m just not going to do that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I do believe that we need to control mandatory spending."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think we need to invest and save more."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I believe that we need to educate better and retrain better."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I believe that we need to export more so I\u2019ll keep working for export agreements where we can sell more abroad and I believe that we must strengthen the family."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve got to strengthen the family."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, let me pose this question to America."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "If in the next 5 minutes a television announcer came on and said, there is a major international crisis \u2014 there is a major threat to the world or in this country a major threat \u2014 my question is, who, if you were appointed to name 1 of the 3 of us, who would you choose?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Who has the perseverance, the character, the integrity, the maturity, to get the job done?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I hope I\u2019m that person."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Thank you very, very much."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If the American people want to do it and not talk about it, then they ought to \u2014 you know, I\u2019m one person they ought to consider."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "If they just want to keep slow dancing and talk about it and not do it, I\u2019m not your man."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I am results oriented."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I am action oriented."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ve dealt my businesses."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Getting things done in three months that my competitors took 18 months to do."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Everybody says you can\u2019t do that with Congress."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Sure, you can do that with Congress."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Congress \u2014 they\u2019re all good people."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "They\u2019re all patriots but you\u2019ve got to link arms and work with them."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Sure, you\u2019ll have arguments."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Sure, you\u2019ll have fights."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "We have them all day every day."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But we get the job done."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, I have to come back in my clothes to one thing because I am passionate about education."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I was talking about early childhood education for disadvantaged little children."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And let me tell you one specific pilot program where children who don\u2019t have a chance go to this program when they\u2019re 3."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now we\u2019re going back to when the mother\u2019s pregnant and they\u2019ll start right after they\u2019re born."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Starting when they\u2019re 3 and going to this school until they\u2019re 9 and then going into the public school in the 4th grade."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Ninety percent are on the honor role."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now that will change America."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Those children will all go to college."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "They will live the American dream."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And I beg the American people, any time they think about reforming education to take this piece of society that doesn\u2019t have a chance and take these little pieces of clay that can be shaped and molded and give them the same love and nurture and affection and support you give your children and teach them that they\u2019re unique and that they\u2019re precious and that there\u2019s only one person in the world like them and you will see this nation bloom."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And we will have so many people who are qualified for the top job that it will be terrific."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, finally, if you can\u2019t pay the bills you\u2019re dead in the water."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And we have got to put our nation back to work."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, if you don\u2019t want to really do that I\u2019m not your man."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019d go crazy sitting up there slow dancing that one."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "In other words, unless we\u2019re going to do it, then pick somebody who likes to talk about it."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "Now, just remember when you think about me \u2014 I didn\u2019t create this mess."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ve been paying taxes just like you and Lord knows, I\u2019ve paid my share \u2014 over a billion in taxes."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "And for a guy that started out with everything he owned in the trunk of his car \u2014"
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "\u2014 that ain\u2019t bad."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "But it\u2019s in your hands."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I wish you well."
+  },
+  {
+   "speaker": "Ross Perot",
+   "text": "I\u2019ll see you tomorrow night \u2014 on NBC \u2014 10:30 to 11:00 Eastern Time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you, Carole, and thank you, ladies and gentlemen."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Since I suggested this format I hope it\u2019s been good for all of you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I really tried to be faithful to your request that we answer the questions specifically and pointedly."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I thought I owed that to you and I respect you for being here and for the impact you\u2019ve had on making this a more positive experience."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "These problems are not easy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They\u2019re not going to be solved overnight."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But I want you to think about just 2 or 3 things."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "First of all, the people of my state have let me be their governor for 12 years because I made commitments to 2 things \u2014 more jobs and better schools."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Our schools are now better."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Our children get off to a better start from pre-school programs and smaller classes in the early grades, and we have one of the most aggressive adult education programs in the country."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We talked about that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This year my state ranks first in the country in job growth, 4th in manufacturing in job growth, 4th in income growth, 4th in the decline of poverty."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m proud of that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It happened because I could work with people \u2014 Republicans and Democrats."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s why we\u2019ve had 24 retired generals and admirals, hundreds of business people, many of them Republican, support this campaign."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You have to decide whether you want to change or not."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We do not need 4 more years of an economic theory that doesn\u2019t work."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve had 12 years of trickle down economics."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s time to put the American people first, to invest and grow this economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m the only person here who\u2019s ever balanced a government budget and I\u2019ve presented 12 of them and cut spending repeatedly."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But you cannot just get there by balancing the budget."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve got to grow the economy by putting people first \u2014 real people like you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I got into this race because I did not want my child to grow up to be part of the first generation of Americans to do worse than her parents."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019re better than that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We can do better than that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I want to make America as great as it can be and I ask for your help in doing it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you very much."
+  }
+ ]
+}

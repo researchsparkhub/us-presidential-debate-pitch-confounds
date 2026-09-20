@@ -1,0 +1,3826 @@
+{
+ "debate_id": "1018",
+ "year": "2004",
+ "candidates": [
+  "John Kerry",
+  "George W. Bush"
+ ],
+ "results": {
+  "John Kerry": "loser",
+  "George W. Bush": "winner"
+ },
+ "winner": "George W. Bush",
+ "n_sentences": 934,
+ "descriptors": {
+  "John Kerry": {
+   "Mean pitch": 0.0923,
+   "Pitch SD (Hz)": 0.1631,
+   "Pitch range (Hz)": 0.1167,
+   "Loudness": -0.1383,
+   "Voice clarity (Praat)": 0.4121,
+   "Pause duration": 0.1103,
+   "Pause count": 0.1279,
+   "Mean pause length": 0.0963,
+   "Speech rate": 0.0325,
+   "Articulation rate (w/s)": 0.0678,
+   "Syllable rate": -0.0123,
+   "Articulation rate (syll/s)": 0.0168,
+   "Semitone pitch SD/mean": 0.1483,
+   "Semitone 20-80 pitch range": 0.0991,
+   "Voice clarity (openSMILE)": 0.248,
+   "Clauses": -0.0387,
+   "Subordinate clauses": -0.0344,
+   "Parse depth": -0.0523,
+   "Dependency length": 0.0028,
+   "Words per sentence": 0.0019,
+   "Word length": -0.1022,
+   "Function words": 0.0875,
+   "1st-person pronouns": 0.0344,
+   "2nd-person pronouns": 0.0078,
+   "3rd-person pronouns": 0.037,
+   "Nouns": -0.1187,
+   "Verbs": -0.0478,
+   "Adjectives": -0.0646,
+   "Adverbs": 0.0061,
+   "Reading ease": 0.0457,
+   "Grade level": -0.0338,
+   "Sentiment": -0.0977,
+   "Positive sentiment": -0.083,
+   "Negative sentiment": 0.0624
+  },
+  "George W. Bush": {
+   "Mean pitch": -0.1164,
+   "Pitch SD (Hz)": -0.2056,
+   "Pitch range (Hz)": -0.1472,
+   "Loudness": 0.1744,
+   "Voice clarity (Praat)": -0.5197,
+   "Pause duration": -0.1391,
+   "Pause count": -0.1613,
+   "Mean pause length": -0.1215,
+   "Speech rate": -0.0409,
+   "Articulation rate (w/s)": -0.0856,
+   "Syllable rate": 0.0156,
+   "Articulation rate (syll/s)": -0.0212,
+   "Semitone pitch SD/mean": -0.187,
+   "Semitone 20-80 pitch range": -0.125,
+   "Voice clarity (openSMILE)": -0.3127,
+   "Clauses": 0.0493,
+   "Subordinate clauses": 0.0438,
+   "Parse depth": 0.0665,
+   "Dependency length": -0.0035,
+   "Words per sentence": -0.0024,
+   "Word length": 0.1301,
+   "Function words": -0.1113,
+   "1st-person pronouns": -0.0438,
+   "2nd-person pronouns": -0.0099,
+   "3rd-person pronouns": -0.047,
+   "Nouns": 0.151,
+   "Verbs": 0.0609,
+   "Adjectives": 0.0823,
+   "Adverbs": -0.0078,
+   "Reading ease": -0.0582,
+   "Grade level": 0.043,
+   "Sentiment": 0.1243,
+   "Positive sentiment": 0.1057,
+   "Negative sentiment": -0.0793
+  }
+ },
+ "transcript_turns": [
+  {
+   "speaker": "John Kerry",
+   "text": "Well, first of all, Bob, thank you for moderating tonight."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Thank you, Arizona State, for welcoming us."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And thank you to the Presidential Commission for undertaking this enormous task."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re proud to be here."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Mr."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "President, I\u2019m glad to be here with you again to share similarities and differences with the American people."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Will we ever be safe and secure again?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Yes."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We absolutely must be."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s the goal."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, how do we achieve it is the most critical component of it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe that this president, regrettably, rushed us into a war, made decisions about foreign policy, pushed alliances away."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And, as a result, America is now bearing this extraordinary burden where we are not as safe as we ought to be."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The measurement is not: Are we safer?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The measurement is: Are we as safe as we ought to be?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And there are a host of options that this president had available to him, like making sure that at all our ports in America containers are inspected."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Only 95 percent of them \u2014 95 percent come in today uninspected."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s not good enough."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "People who fly on airplanes today, the cargo hold is not X-rayed, but the baggage is."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s not good enough."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Firehouses don\u2019t have enough firefighters in them."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Police officers are being cut from the streets of America because the president decided to cut the COPS program."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "So we can do a better job of homeland security."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I can do a better job of waging a smarter, more effective war on terror and guarantee that we will go after the terrorists."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I will hunt them down, and we\u2019ll kill them, we\u2019ll capture them."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019ll do whatever is necessary to be safe."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I pledge this to you, America: I will do it in the way that Franklin Roosevelt and Ronald Reagan and John Kennedy and others did, where we build the strongest alliances, where the world joins together, where we have the best intelligence and where we are able, ultimately, to be more safe and secure."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Bob, thank you very much."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to thank Arizona State as well."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Yes, we can be safe and secure, if we stay on the offense against the terrorists and if we spread freedom and liberty around the world."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I have got a comprehensive strategy to not only chase down the Al Qaida, wherever it exists \u2014 and we\u2019re making progress; three-quarters of Al Qaida leaders have been brought to justice \u2014 but to make sure that countries that harbor terrorists are held to account."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "As a result of securing ourselves and ridding the Taliban out of Afghanistan, the Afghan people had elections this weekend."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And the first voter was a 19-year-old woman."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Think about that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Freedom is on the march."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We held to account a terrorist regime in Saddam Hussein."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In other words, in order to make sure we\u2019re secure, there must be a comprehensive plan."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent just this weekend talked about how terrorism could be reduced to a nuisance, comparing it to prostitution, illegal gambling."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think that attitude and that point of view is dangerous."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t think you can secure America for the long run if you don\u2019t have a comprehensive view as to how to defeat these people."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "At home, we\u2019ll do everything we can to protect the homeland."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I signed the homeland security bill to better align our assets and resources."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent voted against it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re doing everything we can to protect our borders and ports."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But absolutely we can be secure in the long run."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It just takes good, strong leadership."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Yes."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "When the president had an opportunity to capture or kill Osama bin Laden, he took his focus off of them, outsourced the job to Afghan warlords, and Osama bin Laden escaped."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Six months after he said Osama bin Laden must be caught dead or alive, this president was asked, \u201cWhere is Osama bin Laden?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201d He said, \u201cI don\u2019t know."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I don\u2019t really think about him very much."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m not that concerned."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201c We need a president who stays deadly focused on the real war on terror."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Gosh, I just don\u2019t think I ever said I\u2019m not worried about Osama bin Laden."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s kind of one of those exaggerations."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Of course we\u2019re worried about Osama bin Laden."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re on the hunt after Osama bin Laden."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re using every asset at our disposal to get Osama bin Laden."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent said this war is a matter of intelligence and law enforcement."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No, this war is a matter of using every asset at our disposal to keep the American people protected."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Bob, we relied upon a company out of England to provide about half of the flu vaccines for the United States citizen, and it turned out that the vaccine they were producing was contaminated."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so we took the right action and didn\u2019t allow contaminated medicine into our country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re working with Canada to hopefully \u2014 that they\u2019ll produce a \u2014 help us realize the vaccine necessary to make sure our citizens have got flu vaccinations during this upcoming season."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My call to our fellow Americans is if you\u2019re healthy, if you\u2019re younger, don\u2019t get a flu shot this year."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Help us prioritize those who need to get the flu shot, the elderly and the young."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The CDC, responsible for health in the United States, is setting those priorities and is allocating the flu vaccine accordingly."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I haven\u2019t gotten a flu shot, and I don\u2019t intend to because I want to make sure those who are most vulnerable get treated."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We have a problem with litigation in the United States of America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Vaccine manufacturers are worried about getting sued, and therefore they have backed off from providing this kind of vaccine."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "One of the reasons I\u2019m such a strong believer in legal reform is so that people aren\u2019t afraid of producing a product that is necessary for the health of our citizens and then end up getting sued in a court of law."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But the best thing we can do now, Bob, given the circumstances with the company in England is for those of us who are younger and healthy, don\u2019t get a flu shot."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This really underscores the problem with the American health-care system."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It\u2019s not working for the American family."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And it\u2019s gotten worse under President Bush over the course of the last years."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Five million Americans have lost their health insurance in this country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You\u2019ve got about a million right here in Arizona, just shy, 950,000, who have no health insurance at all."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "82,000 Arizonians lost their health insurance under President Bush\u2019s watch."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "223,000 kids in Arizona have no health insurance at all."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "All across our country \u2014 go to Ohio, 1."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "4 million Ohioans have no health insurance, 114,000 of them lost it under President Bush; Wisconsin, 82,000 Wisconsinites lost it under President Bush."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This president has turned his back on the wellness of America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And there is no system."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "In fact, it\u2019s starting to fall apart not because of lawsuits \u2014 though they are a problem, and John Edwards and I are committed to fixing them \u2014 but because of the larger issue that we don\u2019t cover Americans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Children across our country don\u2019t have health care."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re the richest country on the face of the planet, the only industrialized nation in the world not to do it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I have a plan to cover all Americans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re going to make it affordable and accessible."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re going to let everybody buy into the same health-care plan senators and congressmen give themselves."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I would."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to remind people listening tonight that a plan is not a litany of complaints, and a plan is not to lay out programs that you can\u2019t pay for."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He just said he wants everybody to be able to buy in to the same plan that senators and congressmen get."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That costs the government $7,700 per family."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If every family in America signed up, like the senator suggested, if would cost us $5 trillion over 10 years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s an empty promise."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s called bait and switch."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Actually, it\u2019s not an empty promise."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It\u2019s really interesting, because the president used that very plan as a reason for seniors to accept his prescription drug plan."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He said, if it\u2019s good enough for the congressmen and senators to have choice, seniors ought to have choice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "What we do is we have choice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I choose Blue Cross/Blue Shield."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Other senators, other congressmen choose other programs."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But the fact is, we\u2019re going to help Americans be able to buy into it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Those that can afford it are going to buy in themselves."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re not giving this away for nothing."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ll tell you exactly how I can do it: by reinstating what President Bush took away, which is called pay as you go."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "During the 1990s, we had pay-as-you-go rules."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If you were going to pass something in the Congress, you had to show where you are going to pay for it and how."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "President Bush has taken \u2014 he\u2019s the only president in history to do this."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He\u2019s also the only president in 72 years to lose jobs \u2014 1."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "6 million jobs lost."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He\u2019s the only president to have incomes of families go down for the last three years; the only president to see exports go down; the only president to see the lowest level of business investment in our country as it is today."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, I\u2019m going to reverse that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m going to change that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re going to restore the fiscal discipline we had in the 1990s."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Every plan that I have laid out \u2014 my health-care plan, my plan for education, my plan for kids to be able to get better college loans \u2014 I\u2019ve shown exactly how I\u2019m going to pay for those."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we start \u2014 we don\u2019t do it exclusively \u2014 but we start by rolling back George Bush\u2019s unaffordable tax cut for the wealthiest people, people earning more than $200,000 a year, and we pass, hopefully, the McCain-Kerry Commission which identified some $60 billion that we can get."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We shut the loophole which has American workers actually subsidizing the loss of their own job."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They just passed an expansion of that loophole in the last few days: $43 billion of giveaways, including favors to the oil and gas industry and the people importing ceiling fans from China."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m going to stand up and fight for the American worker."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I am going to do it in a way that\u2019s fiscally sound."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I show how I pay for the health care, how we pay for the education."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I have a manufacturing jobs credit."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We pay for it by shutting that loophole overseas."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We raise the student loans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I pay for it by changing the relationship with the banks."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This president has never once vetoed one bill; the first president in a hundred years not to do that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, his rhetoric doesn\u2019t match his record."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He been a senator for 20 years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He voted to increase taxes 98 times."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "When they tried to reduce taxes, he voted against that 127 times."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He talks about being a fiscal conservative, or fiscally sound, but he voted over \u2014 he voted 277 times to waive the budget caps, which would have cost the taxpayers $4."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "2 trillion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He talks about PAYGO."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ll tell you what PAYGO means, when you\u2019re a senator from Massachusetts, when you\u2019re a colleague of Ted Kennedy, pay go means: You pay, and he goes ahead and spends."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He\u2019s proposed $2."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "2 trillion of new spending, and yet the so-called tax on the rich, which is also a tax on many small-business owners in America, raises $600 million by our account \u2014 billion, $800 billion by his account."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a tax gap."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And guess who usually ends up filling the tax gap?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The middle class."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I propose a detailed budget, Bob."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I sent up my budget man to the Congress, and he says, here\u2019s how we\u2019re going to reduce the deficit in half by five years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It requires pro-growth policies that grow our economy and fiscal sanity in the halls of Congress."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019d say, Bob, I\u2019ve got policies to continue to grow our economy and create the jobs of the 21st century."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And here\u2019s some help for you to go get an education."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Here\u2019s some help for you to go to a community college."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve expanded trade adjustment assistance."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We want to help pay for you to gain the skills necessary to fill the jobs of the 21st century."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, there\u2019s a lot of talk about how to keep the economy growing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We talk about fiscal matters."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But perhaps the best way to keep jobs here in America and to keep this economy growing is to make sure our education system works."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I went to Washington to solve problems."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And I saw a problem in the public education system in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They were just shuffling too many kids through the system, year after year, grade after grade, without learning the basics."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so we said: Let\u2019s raise the standards."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re spending more money, but let\u2019s raise the standards and measure early and solve problems now, before it\u2019s too late."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No, education is how to help the person who\u2019s lost a job."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Education is how to make sure we\u2019ve got a workforce that\u2019s productive and competitive."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Got four more years, I\u2019ve got more to do to continue to raise standards, to continue to reward teachers and school districts that are working, to emphasize math and science in the classrooms, to continue to expand Pell Grants to make sure that people have an opportunity to start their career with a college diploma."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so the person you talked to, I say, here\u2019s some help, here\u2019s some trade adjustment assistance money for you to go a community college in your neighborhood, a community college which is providing the skills necessary to fill the jobs of the 21st century."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s what I would say to that person."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I want you to notice how the president switched away from jobs and started talking about education principally."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Let me come back in one moment to that, but I want to speak for a second, if I can, to what the president said about fiscal responsibility."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Being lectured by the president on fiscal responsibility is a little bit like Tony Soprano talking to me about law and order in this country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This president has taken a $5."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "6 trillion surplus and turned it into deficits as far as the eye can see."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Health-care costs for the average American have gone up 64 percent; tuitions have gone up 35 percent; gasoline prices up 30 percent; Medicare premiums went up 17 percent a few days ago; prescription drugs are up 12 percent a year."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But guess what, America?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The wages of Americans have gone down."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The jobs that are being created in Arizona right now are paying about $13,700 less than the jobs that we\u2019re losing."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And the president just walks on by this problem."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that he\u2019s cut job-training money."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "$1 billion was cut."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They only added a little bit back this year because it\u2019s an election year."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They\u2019ve cut the Pell Grants and the Perkins loans to help kids be able to go to college."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They\u2019ve cut the training money."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They\u2019ve wound up not even extending unemployment benefits and not even extending health care to those people who are unemployed."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m going to do those things, because that\u2019s what\u2019s right in America: Help workers to transition in every respect."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I don\u2019t blame them entirely for it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I blame the president for the things the president could do that has an impact on it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Outsourcing is going to happen."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve acknowledged that in union halls across the country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve had shop stewards stand up and say, \u201cWill you promise me you\u2019re going to stop all this outsourcing?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201cAnd I\u2019ve looked them in the eye and I\u2019ve said, \u201cNo, I can\u2019t do that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201c What I can promise you is that I will make the playing field as fair as possible, that I will, for instance, make certain that with respect to the tax system that you as a worker in America are not subsidizing the loss of your job."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Today, if you\u2019re an American business, you actually get a benefit for going overseas."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You get to defer your taxes."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "So if you\u2019re looking at a competitive world, you say to yourself, \u201cHey, I do better overseas than I do here in America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201c That\u2019s not smart."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I don\u2019t want American workers subsidizing the loss of their own job."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And when I\u2019m president, we\u2019re going to shut that loophole in a nanosecond and we\u2019re going to use that money to lower corporate tax rates in America for all corporations, 5 percent."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we\u2019re going to have a manufacturing jobs credit and a job hiring credit so we actually help people be able to hire here."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The second thing that we can do is provide a fair trade playing field."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This president didn\u2019t stand up for Boeing when Airbus was violating international rules and subsidies."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He discovered Boeing during the course of this campaign after I\u2019d been talking about it for months."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that the president had an opportunity to stand up and take on China for currency manipulation."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "There are companies that wanted to petition the administration."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They were told: Don\u2019t even bother; we\u2019re not going to listen to it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that there have been markets shut to us that we haven\u2019t stood up and fought for."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m going to fight for a fair trade playing field for the American worker."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I will fight for the American worker just as hard as I fight for my own job."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s what the American worker wants."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And if we do that, we can have an impact."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Plus, we need fiscal discipline."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Restore fiscal discipline, we\u2019ll do a lot better."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Whew!"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me start with the Pell Grants."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In his last litany of misstatements."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He said we cut Pell Grants."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve increased Pell Grants by a million students."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s a fact."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, he talks to the workers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Let me talk to the workers."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You\u2019ve got more money in your pocket as a result of the tax relief we passed and he opposed."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you have a child, you got a $1,000 child credit."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s money in your pocket."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you\u2019re married, we reduced the marriage penalty."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The code ought to encourage marriage, not discourage marriage."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We created a 10 percent bracket to help lower-income Americans."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "A family of four making $40,000 received about $1,700 in tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s your money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The way my opponent talks, he said, \u201cWe\u2019re going to spend the government\u2019s money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201cNo, we\u2019re spending your money."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And when you have more money in your pocket, you\u2019re able to better afford things you want."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe the role of government is to stand side by side with our citizens to help them realize their dreams, not tell citizens how to live their lives."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent talks about fiscal sanity."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "His record in the United States Senate does not match his rhetoric."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He voted to increase taxes 98 times and to bust the budget 277 times."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Bob, anybody can play with these votes."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Everybody knows that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I have supported or voted for tax cuts over 600 times."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I broke with my party in order to balance the budget, and Ronald Reagan signed into law the tax cut that we voted for."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I voted for IRA tax cuts."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I voted for small-business tax cuts."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But you know why the Pell Grants have gone up in their numbers?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Because more people qualify for them because they don\u2019t have money."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But they\u2019re not getting the $5,100 the president promised them."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They\u2019re getting less money."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We have more people who qualify."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s not what we want."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Senator, no one\u2019s playing with your votes."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You voted to increase taxes 98 times."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "When they voted \u2014 when they proposed reducing taxes, you voted against it 126 times."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He voted to violate the budget cap 277 times."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, there\u2019s a main stream in American politics and you sit right on the far left bank."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "As a matter of fact, your record is such that Ted Kennedy, your colleague, is the conservative senator from Massachusetts."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, Bob, I don\u2019t know."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I just don\u2019t know."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I do know that we have a choice to make in America and that is to treat people with tolerance and respect and dignity."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s important that we do that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And I also know in a free society people, consenting adults can live the way they want to live."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s to be honored."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But as we respect someone\u2019s rights, and as we profess tolerance, we shouldn\u2019t change \u2014 or have to change \u2014 our basic views on the sanctity of marriage."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe in the sanctity of marriage."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think it\u2019s very important that we protect marriage as an institution, between a man and a woman."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I proposed a constitutional amendment."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The reason I did so was because I was worried that activist judges are actually defining the definition of marriage, and the surest way to protect marriage between a man and woman is to amend the Constitution."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It has also the benefit of allowing citizens to participate in the process."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "After all, when you amend the Constitution, state legislatures must participate in the ratification of the Constitution."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m deeply concerned that judges are making those decisions and not the citizenry of the United States."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You know, Congress passed a law called DOMA, the Defense of Marriage Act."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent was against it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It basically protected states from the action of one state to another."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It also defined marriage as between a man and woman."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But I\u2019m concerned that that will get overturned."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And if it gets overturned, then we\u2019ll end up with marriage being defined by courts, and I don\u2019t think that\u2019s in our nation\u2019s interests."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re all God\u2019s children, Bob."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I think if you were to talk to Dick Cheney\u2019s daughter, who is a lesbian, she would tell you that she\u2019s being who she was, she\u2019s being who she was born as."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think if you talk to anybody, it\u2019s not choice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve met people who struggled with this for years, people who were in a marriage because they were living a sort of convention, and they struggled with it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I\u2019ve met wives who are supportive of their husbands or vice versa when they finally sort of broke out and allowed themselves to live who they were, who they felt God had made them."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think we have to respect that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The president and I share the belief that marriage is between a man and a woman."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe marriage is between a man and a woman."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I also believe that because we are the United States of America, we\u2019re a country with a great, unbelievable Constitution, with rights that we afford people, that you can\u2019t discriminate in the workplace."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You can\u2019t discriminate in the rights that you afford people."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You can\u2019t disallow someone the right to visit their partner in a hospital."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You have to allow people to transfer property, which is why I\u2019m for partnership rights and so forth."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, with respect to DOMA and the marriage laws, the states have always been able to manage those laws."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And they\u2019re proving today, every state, that they can manage them adequately."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I respect their views."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I completely respect their views."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I am a Catholic."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I grew up learning how to respect those views."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I disagree with them, as do many."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe that I can\u2019t legislate or transfer to another American citizen my article of faith."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "What is an article of faith for me is not something that I can legislate on somebody who doesn\u2019t share that article of faith."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe that choice is a woman\u2019s choice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It\u2019s between a woman, God and her doctor."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And that\u2019s why I support that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, I will not allow somebody to come in and change Roe v."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Wade."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The president has never said whether or not he would do that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But we know from the people he\u2019s tried to appoint to the court he wants to."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I will not."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I will defend the right of Roe v."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Wade."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, with respect to religion, you know, as I said, I grew up a Catholic."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I was an altar boy."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I know that throughout my life this has made a difference to me."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And as President Kennedy said when he ran for president, he said, \u201cI\u2019m not running to be a Catholic president."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m running to be a president who happens to be Catholic."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201c My faith affects everything that I do, in truth."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "There\u2019s a great passage of the Bible that says, \u201cWhat does it mean, my brother, to say you have faith if there are no deeds?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Faith without works is dead."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201c And I think that everything you do in public life has to be guided by your faith, affected by your faith, but without transferring it in any official way to other people."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s why I fight against poverty."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s why I fight to clean up the environment and protect this earth."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s why I fight for equality and justice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "All of those things come out of that fundamental teaching and belief of faith."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I know this, that President Kennedy in his inaugural address told all of us that here on Earth, God\u2019s work must truly be our own."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And that\u2019s what we have to \u2014 I think that\u2019s the test of public service."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think it\u2019s important to promote a culture of life."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think a hospitable society is a society where every being counts and every person matters."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe the ideal world is one in which every child is protected in law and welcomed to life."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I understand there\u2019s great differences on this issue of abortion, but I believe reasonable people can come together and put good law in place that will help reduce the number of abortions."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Take, for example, the ban on partial birth abortion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a brutal practice."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "People from both political parties came together in the halls of Congress and voted overwhelmingly to ban that practice."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It made a lot of sense."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent, in that he\u2019s out of the mainstream, voted against that law."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "What I\u2019m saying is, is that as we promote life and promote a culture of life, surely there are ways we can work together to reduce the number of abortions: continue to promote adoption laws \u2014 it\u2019s a great alternative to abortion \u2014 continue to fund and promote maternity group homes; I will continue to promote abstinence programs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The last debate, my opponent said his wife was involved with those programs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s great."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I appreciate that very much."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "All of us ought to be involved with programs that provide a viable alternative to abortion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Gosh, I sure hope it\u2019s not the administration."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There\u2019s a \u2014 no, look, there\u2019s a systemic problem."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Health-care costs are on the rise because the consumers are not involved in the decision-making process."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Most health-care costs are covered by third parties."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And therefore, the actual user of health care is not the purchaser of health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And there\u2019s no market forces involved with health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s one of the reasons I\u2019m a strong believer in what they call health savings accounts."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "These are accounts that allow somebody to buy a low-premium, high-deductible catastrophic plan and couple it with tax-free savings."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Businesses can contribute, employees can contribute on a contractual basis."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But this is a way to make sure people are actually involved with the decision-making process on health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Secondly, I do believe the lawsuits \u2014 I don\u2019t believe, I know \u2014 that the lawsuits are causing health-care costs to rise in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s why I\u2019m such a strong believer in medical liability reform."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In the last debate, my opponent said those lawsuits only caused the cost to go up by 1 percent."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, he didn\u2019t include the defensive practice of medicine that costs the federal government some $28 billion a year and costs our society between $60 billion and $100 billion a year."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Thirdly, one of the reasons why there\u2019s still high cost in medicine is because this is \u2014 they don\u2019t use any information technology."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s like if you looked at the \u2014 it\u2019s the equivalent of the buggy and horse days, compared to other industries here in America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so, we\u2019ve got to introduce high technology into health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re beginning to do it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re changing the language."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We want there to be electronic medical records to cut down on error, as well as reduce cost."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "People tell me that when the health-care field is fully integrated with information technology, it\u2019ll wring some 20 percent of the cost out of the system."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And finally, moving generic drugs to the market quicker."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so, those are four ways to help control the costs in health care."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The reason health-care costs are getting higher, one of the principal reasons is that this administration has stood in the way of common-sense efforts that would have reduced the costs."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Let me give you a prime example."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "In the Senate we passed the right of Americans to import drugs from Canada."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But the president and his friends took it out in the House, and now you don\u2019t have that right."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The president blocked you from the right to have less expensive drugs from Canada."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We also wanted Medicare to be able to negotiate bulk purchasing."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The VA does that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The VA provides lower-cost drugs to our veterans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We could have done that in Medicare."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Medicare is paid for by the American taxpayer."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Medicare belongs to you."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Medicare is for seniors, who many of them are on fixed income, to lift them out of poverty."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But rather than help you, the taxpayer, have lower cost, rather than help seniors have less expensive drugs, the president made it illegal \u2014 illegal \u2014 for Medicare to actually go out and bargain for lower prices."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Result: $139 billion windfall profit to the drug companies coming out of your pockets."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s a large part of your 17 percent increase in Medicare premiums."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "When I\u2019m president, I\u2019m sending that back to Congress and we\u2019re going to get a real prescription drug benefit."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, we also have people sicker because they don\u2019t have health insurance."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "So whether it\u2019s diabetes or cancer, they come to hospitals later and it costs America more."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We got to have health care for all Americans."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think it\u2019s important, since he talked about the Medicare plan, has he been in the United States Senate for 20 years?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He has no record on reforming of health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No record at all."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He introduced some 300 bills and he\u2019s passed five."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "No record of leadership."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I came to Washington to solve problems."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I was deeply concerned about seniors having to choose between prescription drugs and food."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so I led."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And in 2006, our seniors will get a prescription drug coverage in Medicare."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Once again, the president is misleading America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve actually passed 56 individual bills that I\u2019ve personally written and, in addition to that, and not always under my name, there is amendments on certain bills."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But more importantly, with respect to the question of no record, I helped write \u2014 I did write, I was one of the original authors of the early childhood health care and the expansion of health care that we did in the middle of the 1990s."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I\u2019m very proud of that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "So the president\u2019s wrong."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Well, two leading national news networks have both said the president\u2019s characterization of my health-care plan is incorrect."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "One called it fiction."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The other called it untrue."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that my health-care plan, America, is very simple."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It gives you the choice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I don\u2019t force you to do anything."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It\u2019s not a government plan."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The government doesn\u2019t require you to do anything."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You choose your doctor."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You choose your plan."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If you don\u2019t want to take the offer of the plan that I want to put forward, you don\u2019t have do."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You can keep what you have today, keep a high deductible, keep high premiums, keep a high co-pay, keep low benefits."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I got a better plan."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I don\u2019t think a lot of people are going to want to keep what they have today."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Here\u2019s what I do: We take over Medicaid children from the states so that every child in America is covered."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And in exchange, if the states want to \u2014 they\u2019re not forced to, they can choose to \u2014 they cover individuals up to 300 percent of poverty."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It\u2019s their choice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think they\u2019ll choose it, because it\u2019s a net plus of $5 billion to them."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We allow you \u2014 if you choose to, you don\u2019t have to \u2014 but we give you broader competition to allow you to buy into the same health care plan that senators and congressmen give themselves."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If it\u2019s good enough for us, it\u2019s good enough for every American."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe that your health care is just as important as any politician in Washington, D."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "C."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You want to buy into it, you can."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We give you broader competition."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That helps lower prices."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "In addition to that, we\u2019re going to allow people 55 to 64 to buy into Medicare early."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And most importantly, we give small business a 50 percent tax credit so that after we lower the costs of health care, they also get, whether they\u2019re self-employed or a small business, a lower cost to be able to cover their employees."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, what happens is when you begin to get people covered like that \u2014 for instance in diabetes, if you diagnose diabetes early, you could save $50 billion in the health care system of America by avoiding surgery and dialysis."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It works."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I\u2019m going to offer it to America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In all due respect, I\u2019m not so sure it\u2019s credible to quote leading news organizations about \u2014 oh, never mind."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Anyway, let me quote the Lewin report."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The Lewin report is a group of folks who are not politically affiliated."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They analyzed the senator\u2019s plan."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It cost $1."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "2 trillion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The Lewin report accurately noted that there are going to be 20 million people, over 20 million people added to government-controlled health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It would be the largest increase in government health care ever."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you raise the Medicaid to 300 percent, it provides an incentive for small businesses not to provide private insurance to their employees."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Why should they insure somebody when the government\u2019s going to insure it for them?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s estimated that 8 million people will go from private insurance to government insurance."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We have a fundamental difference of opinion."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think government- run health will lead to poor-quality health, will lead to rationing, will lead to less choice."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Once a health-care program ends up in a line item in the federal government budget, it leads to more controls."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And just look at other countries that have tried to have federally controlled health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They have poor-quality health care."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Our health-care system is the envy of the world because we believe in making sure that the decisions are made by doctors and patients, not by officials in the nation\u2019s capital."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The president just said that government-run health care results in poor quality."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, maybe that explains why he hasn\u2019t fully funded the VA and the VA hospital is having trouble and veterans are complaining."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Maybe that explains why Medicare patients are complaining about being pushed off of Medicare."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He doesn\u2019t adequately fund it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But let me just say to America: I am not proposing a government-run program."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s not what I have."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I have Blue Cross/Blue Shield."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Senators and congressmen have a wide choice."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Americans ought to have it too."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Talk about the VA: We\u2019ve increased VA funding by $22 billion in the four years since I\u2019ve been president."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s twice the amount that my predecessor increased VA funding."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Of course we\u2019re meeting our obligation to our veterans, and the veterans know that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re expanding veterans\u2019 health care throughout the country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re aligning facilities where the veterans live now."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Veterans are getting very good health care under my administration, and they will continue to do so during the next four years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "First, let me make sure that every senior listening today understands that when we\u2019re talking about reforming Social Security, that they\u2019ll still get their checks."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I remember the 2000 campaign, people said if George W."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "gets elected, your check will be taken away."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, people got their checks, and they\u2019ll continue to get their checks."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There is a problem for our youngsters, a real problem."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And if we don\u2019t act today, the problem will be valued in the trillions."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so I think we need to think differently."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ll honor our commitment to our seniors."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But for our children and our grandchildren, we need to have a different strategy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And recognizing that, I called together a group of our fellow citizens to study the issue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It was a committee chaired by the late Senator Daniel Patrick Moynihan of New York, a Democrat."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And they came up with a variety of ideas for people to look at."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe that younger workers ought to be allowed to take some of their own money and put it in a personal savings account, because I understand that they need to get better rates of return than the rates of return being given in the current Social Security trust."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And the compounding rate of interest effect will make it more likely that the Social Security system is solvent for our children and our grandchildren."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I will work with Republicans and Democrats."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019ll be a vital issue in my second term."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It is an issue that I am willing to take on, and so I\u2019ll bring Republicans and Democrats together."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we\u2019re of course going to have to consider the costs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But I want to warn my fellow citizens: The cost of doing nothing, the cost of saying the current system is OK, far exceeds the costs of trying to make sure we save the system for our children."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You just heard the president say that young people ought to be able to take money out of Social Security and put it in their own accounts."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, my fellow Americans, that\u2019s an invitation to disaster."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The CBO said very clearly that if you were to adopt the president\u2019s plan, there would be a $2 trillion hole in Social Security, because today\u2019s workers pay in to the system for today\u2019s retirees."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And the CBO said \u2014 that\u2019s the Congressional Budget Office; it\u2019s bipartisan \u2014 they said that there would have to be a cut in benefits of 25 percent to 40 percent."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, the president has never explained to America, ever, hasn\u2019t done it tonight, where does the transitional money, that $2 trillion, come from?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He\u2019s already got $3 trillion, according to The Washington Post, of expenses that he\u2019s put on the line from his convention and the promises of this campaign, none of which are paid for."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Not one of them are paid for."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that the president is driving the largest deficits in American history."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He\u2019s broken the pay-as-you-go rules."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I have a record of fighting for fiscal responsibility."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "In 1985, I was one of the first Democrats \u2014 broke with my party."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We balanced the budget in the \u201990s."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We paid down the debt for two years."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And that\u2019s what we\u2019re going to do."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re going to protect Social Security."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I will not privatize it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I will not cut the benefits."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we\u2019re going to be fiscally responsible."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we will take care of Social Security."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Not at all."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Absolutely not, Bob."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This is the same thing we heard \u2014 remember, I appeared on \u201cMeet the Press\u201d with Tim Russert in 1990-something."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We heard the same thing."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We fixed it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "In fact, we put together a $5."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "6 trillion surplus in the \u201990s that was for the purpose of saving Social Security."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If you take the tax cut that the president of the United States has given \u2014 President Bush gave to Americans in the top 1 percent of America \u2014 just that tax cut that went to the top 1 percent of America would have saved Social Security until the year 2075."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The president decided to give it to the wealthiest Americans in a tax cut."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, Alan Greenspan, who I think has done a terrific job in monetary policy, supports the president\u2019s tax cut."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I don\u2019t."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I support it for the middle class, not that part of it that goes to people earning more than $200,000 a year."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And when I roll it back and we invest in the things that I have talked about to move our economy, we\u2019re going to grow sufficiently, it would begin to cut the deficit in half, and we get back to where we were at the end of the 1990s when we balanced the budget and paid down the debt of this country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, we can do that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, if later on after a period of time we find that Social Security is in trouble, we\u2019ll pull together the top experts of the country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019ll do exactly what we did in the 1990s."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we\u2019ll make whatever adjustment is necessary."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But the first and most important thing is to start creating jobs in America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The jobs the president is creating pay $9,000 less than the jobs that we\u2019re losing."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And this is the first president in 72 years to preside over an economy in America that has lost jobs, 1."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "6 million jobs."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Eleven other presidents \u2014 six Democrats and five Republicans \u2014 had wars, had recessions, had great difficulties; none of them lost jobs the way this president has."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I have a plan to put America back to work."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And if we\u2019re fiscally responsible and put America back to work, we\u2019re going to fix Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He forgot to tell you he voted to tax Social Security benefits more than one time."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I didn\u2019t hear any plan to fix Social Security."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I heard more of the same."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He talks about middle-class tax cuts."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s exactly where the tax cuts went."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Most of the tax cuts went to low- and middle-income Americans."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And now the tax code is more fair."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Twenty percent of the upper-income people pay about 80 percent of the taxes in America today because of how we structured the tax cuts."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "People listening out there know the benefits of the tax cuts we passed."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you have a child, you got tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you\u2019re married, you got tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you pay any tax at all, you got tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "All of which was opposed by my opponent."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And the tax relief was important to spur consumption and investment to get us out of this recession."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "People need to remember: Six months prior to my arrival, the stock market started to go down."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And it was one of the largest declines in our history."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And then we had a recession and we got attacked, which cost us 1 million jobs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But we acted."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I led the Congress."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We passed tax relief."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And now this economy is growing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We added 1."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "9 million new jobs over the last 13 months."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Sure, there\u2019s more work to do."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But the way to make sure our economy grows is not to raise taxes on small-business owners."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s not to increase the scope of the federal government."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s to make sure we have fiscal sanity and keep taxes low."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I see it as a serious problem."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I see it as a security issue, I see it as an economic issue, and I see it as a human-rights issue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re increasing the border security of the United States."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve got 1,000 more Border Patrol agents on the southern border."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re using new equipment."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re using unmanned vehicles to spot people coming across."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we\u2019ll continue to do so over the next four years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s a subject I\u2019m very familiar with."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "After all, I was a border governor for a while."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Many people are coming to this country for economic reasons."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They\u2019re coming here to work."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If you can make 50 cents in the heart of Mexico, for example, or make $5 here in America, $5."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "15, you\u2019re going to come here if you\u2019re worth your salt, if you want to put food on the table for your families."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s what\u2019s happening."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And so in order to take pressure off the borders, in order to make the borders more secure, I believe there ought to be a temporary worker card that allows a willing worker and a willing employer to mate up, so long as there\u2019s not an American willing to do that job, to join up in order to be able to fulfill the employers\u2019 needs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That has the benefit of making sure our employers aren\u2019t breaking the law as they try to fill their workforce needs."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It makes sure that the people coming across the border are humanely treated, that they\u2019re not kept in the shadows of our society, that they\u2019re able to go back and forth to see their families."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "See, the card, it\u2019ll have a period of time attached to it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It also means it takes pressure off the border."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If somebody is coming here to work with a card, it means they\u2019re not going to have to sneak across the border."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It means our border patrol will be more likely to be able to focus on doing their job."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Now, it\u2019s very important for our citizens to also know that I don\u2019t believe we ought to have amnesty."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I don\u2019t think we ought to reward illegal behavior."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There are plenty of people standing in line to become a citizen."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we ought not to crowd these people ahead of them in line."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "If they want to become a citizen, they can stand in line, too."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And here is where my opponent and I differ."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In September 2003, he supported amnesty for illegal aliens."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Let me just answer one part of the last question quickly, and then I\u2019ll come to immigration."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The American middle-class family isn\u2019t making it right now, Bob."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And what the president said about the tax cuts has been wiped out by the increase in health care, the increase in gasoline, the increase in tuitions, the increase in prescription drugs."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is, the take-home pay of a typical American family as a share of national income is lower than it\u2019s been since 1929."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And the take-home pay of the richest ."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "1 percent of Americans is the highest it\u2019s been since 1928."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Under President Bush, the middle class has seen their tax burden go up and the wealthiest\u2019s tax burden has gone down."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now that\u2019s wrong."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, with respect to immigration reform, the president broke his promise on immigration reform."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He said he would reform it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Four years later he is now promising another plan."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Here\u2019s what I\u2019ll do: Number one, the borders are more leaking today than they were before 9/11."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is, we haven\u2019t done what we need to do to toughen up our borders, and I will."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Secondly, we need a guest-worker program, but if it\u2019s all we have, it\u2019s not going to solve the problem."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The second thing we need is to crack down on illegal hiring."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It\u2019s against the law in the United States to hire people illegally, and we ought to be enforcing that law properly."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And thirdly, we need an earned-legalization program for people who have been here for a long time, stayed out of trouble, got a job, paid their taxes, and their kids are American."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We got to start moving them toward full citizenship, out of the shadows."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "SCHIEFFER: Do you want to respond, Mr."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "President?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, to say that the borders are not as protected as they were prior to September the 11th shows he doesn\u2019t know the borders."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They\u2019re much better protected today than they were when I was the governor of Texas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We have much more manpower and much more equipment there."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He just doesn\u2019t understand how the borders work, evidently, to say that."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That is an outrageous claim."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we\u2019ll continue to protect our borders."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re continuing to increase manpower and equipment."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Four thousand people a day are coming across the border."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that we now have people from the Middle East, allegedly, coming across the border."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we\u2019re not doing what we ought to do in terms of the technology."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We have iris-identification technology."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We have thumbprint, fingerprint technology today."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We can know who the people are, that they\u2019re really the people they say they are when they cross the border."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We could speed it up."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "There are huge delays."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is our borders are not as secure as they ought to be, and I\u2019ll make them secure."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Well, I\u2019m glad you raised that question."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It\u2019s long overdue time to raise the minimum wage."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And, America, this is one of those issues that separates the president and myself."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We have fought to try to raise the minimum wage in the last years."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But the Republican leadership of the House and Senate won\u2019t even let us have a vote on it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019re not allowed to vote on it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They don\u2019t want to raise the minimum wage."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The minimum wage is the lowest minimum wage value it has been in our nation in 50 years."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If we raise the minimum wage, which I will do over several years to $7 an hour, 9."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "2 million women who are trying to raise their families would earn another $3,800 a year."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The president has denied 9."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "2 million women $3,800 a year, but he doesn\u2019t hesitate to fight for $136,000 to a millionaire."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "One percent of America got $89 billion last year in a tax cut, but people working hard, playing by the rules, trying to take care of their kids, family values, that we\u2019re supposed to value so much in America \u2014 I\u2019m tired of politicians who talk about family values and don\u2019t value families."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "What we need to do is raise the minimum wage."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We also need to hold on to equal pay."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Women work for 76 cents on the dollar for the same work that men do."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s not right in America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we had an initiative that we were working on to raise women\u2019s pay."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They\u2019ve cut it off."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They\u2019ve stopped it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They don\u2019t enforce these kinds of things."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, I think that it\u2019s a matter of fundamental right that if we raise the minimum wage, 15 million Americans would be positively affected."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019d put money into the hands of people who work hard, who obey the rules, who play for the American dream."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And if we did that, we\u2019d have more consumption ability in America, which is what we need right now in order to kick our economy into gear."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I will fight tooth and nail to pass the minimum wage."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Actually, Mitch McConnell had a minimum-wage plan that I supported that would have increased the minimum wage."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But let me talk about what\u2019s really important for the worker you\u2019re referring to."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s to make sure the education system works."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s to make sure we raise standards."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Listen, the No Child Left Behind Act is really a jobs act when you think about it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The No Child Left Behind Act says, \u201cWe\u2019ll raise standards."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ll increase federal spending."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But in return for extra spending, we now want people to measure \u2014 states and local jurisdictions to measure to show us whether or not a child can read or write or add and subtract."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201c You cannot solve a problem unless you diagnose the problem."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we weren\u2019t diagnosing problems."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And therefore just kids were being shuffled through the school."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And guess who would get shuffled through?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Children whose parents wouldn\u2019t speak English as a first language just move through."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Many inner-city kids just move through."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve stopped that practice now by measuring early."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And when we find a problem, we spend extra money to correct it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I remember a lady in Houston, Texas, told me, \u201cReading is the new civil right,\u201d and she\u2019s right."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In order to make sure people have jobs for the 21st century, we\u2019ve got to get it right in the education system, and we\u2019re beginning to close a minority achievement gap now."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "You see, we\u2019ll never be able to compete in the 21st century unless we have an education system that doesn\u2019t quit on children, an education system that raises standards, an education that makes sure there\u2019s excellence in every classroom."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "What he\u2019s asking me is, will I have a litmus test for my judges?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And the answer is, no, I will not have a litmus test."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I will pick judges who will interpret the Constitution, but I\u2019ll have no litmus test."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Is that a new question or a 30-second question?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Which time limit."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Thank you very much."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Well, again, the president didn\u2019t answer the question."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ll answer it straight to America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m not going to appoint a judge to the Court who\u2019s going to undo a constitutional right, whether it\u2019s the First Amendment, or the Fifth Amendment, or some other right that\u2019s given under our courts today \u2014 under the Constitution."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I believe that the right of choice is a constitutional right."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "So I don\u2019t intend to see it undone."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Clearly, the president wants to leave in ambivalence or intends to undo it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But let me go a step further."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We have a long distance yet to travel in terms of fairness in America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I don\u2019t know how you can govern in this country when you look at New York City and you see that 50 percent of the black males there are unemployed, when you see 40 percent of Hispanic children \u2014 of black children in some cities \u2014 dropping out of high school."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And yet the president who talks about No Child Left Behind refused to fully fund \u2014 by $28 billion \u2014 that particular program so you can make a difference in the lives of those young people."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now right here in Arizona, that difference would have been $131 million to the state of Arizona to help its kids be able to have better education and to lift the property tax burden from its citizens."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The president reneged on his promise to fund No Child Left Behind."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He\u2019ll tell you he\u2019s raised the money, and he has."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But he didn\u2019t put in what he promised, and that makes a difference in the lives of our children."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Two things."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "One, he clearly has a litmus test for his judges, which I disagree with."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And secondly, only a liberal senator from Massachusetts would say that a 49 percent increase in funding for education was not enough."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve increased funds."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But more importantly, we\u2019ve reformed the system to make sure that we solve problems early, before they\u2019re too late."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He talked about the unemployed."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Absolutely we\u2019ve got to make sure they get educated."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He talked about children whose parents don\u2019t speak English as a first language?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Absolutely we\u2019ve got to make sure they get educated."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s what the No Child Left Behind Act does."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You don\u2019t measure it by a percentage increase."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Mr."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "President, you measure it by whether you\u2019re getting the job done."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Five hundred thousand kids lost after-school programs because of your budget."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, that\u2019s not in my gut."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s not in my value system, and certainly not so that the wealthiest people in America can walk away with another tax cut."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "$89 billion last year to the top 1 percent of Americans, but kids lost their after-school programs."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "You be the judge."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Well, I think the fact that they\u2019re facing these repeated call-ups, some of them two and three deployments, and there\u2019s a stop- loss policy that prevents people from being able to get out when their time was up, is a reflection of the bad judgment this president exercised in how he has engaged in the world and deployed our forces."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Our military is overextended."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Nine out of 10 active-duty Army divisions are either in Iraq, going to Iraq or have come back from Iraq."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "One way or the other, they\u2019re wrapped up in it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, I\u2019ve proposed adding two active-duty divisions to the armed forces of the United States \u2014 one combat, one support."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "In addition, I\u2019m going to double the number of Special Forces so that we can fight a more effective war on terror, with less pressure on the National Guard and Reserve."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And what I would like to do is see the National Guard and Reserve be deployed differently here in our own country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "There\u2019s much we can do with them with respect to homeland security."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We ought to be doing that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And that would relieve an enormous amount of pressure."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But the most important thing to relieve the pressure on all of the armed forces is frankly to run a foreign policy that recognizes that America is strongest when we are working with real alliances, when we are sharing the burdens of the world by working through our statesmanship at the highest levels and our diplomacy to bring other nations to our side."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve said it before, I say it again: I believe the president broke faith with the American people in the way that he took this nation to war."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He said he would work through a real alliance."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He said in Cincinnati we would plan carefully, we would take every precaution."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Well, we didn\u2019t."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And the result is our forces today are overextended."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that he did not choose to go to war as a last result."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And America now is paying, already $120 billion, up to $200 billion before we\u2019re finished and much more probably."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And that is the result of this president taking his eye off of Osama bin Laden."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The best way to take the pressure off our troops is to succeed in Iraq, is to train Iraqis so they can do the hard work of democracy, is to give them a chance to defend their country, which is precisely what we\u2019re doing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ll have 125,000 troops trained by the end of this year."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I remember going on an airplane in Bangor, Maine, to say thanks to the reservists and Guard that were headed overseas from Tennessee and North Carolina, Georgia."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Some of them had been there before."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The people I talked to their spirits were high."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They didn\u2019t view their service as a back-door draft."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "They viewed their service as an opportunity to serve their country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent, the senator, talks about foreign policy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In our first debate he proposed America pass a global test."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In order to defend ourselves, we\u2019d have to get international approval."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s one of the major differences we have about defending our country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ll work with allies."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ll work with friends."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ll continue to build strong coalitions."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But I will never turn over our national- security decisions to leaders of other countries."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ll be resolute, we\u2019ll be strong, and we\u2019ll wage a comprehensive war against the terrorists."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I have never suggested a test where we turn over our security to any nation."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "In fact, I\u2019ve said the opposite: I will never turn the security of the United States over to any nation."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "No nation will ever have a veto over us."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I think it makes sense, I think most Americans in their guts know, that we ought to pass a sort of truth standard."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s how you gain legitimacy with your own countrypeople, and that\u2019s how you gain legitimacy in the world."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I\u2019ll never fail to protect the United States of America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In 1990, there was a vast coalition put together to run Saddam Hussein out of Kuwait."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The international community, the international world said this is the right thing to do, but when it came time to authorize the use of force on the Senate floor, my opponent voted against the use of force."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Apparently you can\u2019t pass any test under his vision of the world."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Actually, I made my intentions \u2014 made my views clear."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I did think we ought to extend the assault weapons ban, and was told the fact that the bill was never going to move, because Republicans and Democrats were against the assault weapon ban, people of both parties."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe law-abiding citizens ought to be able to own a gun."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe in background checks at gun shows or anywhere to make sure that guns don\u2019t get in the hands of people that shouldn\u2019t have them."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But the best way to protect our citizens from guns is to prosecute those who commit crimes with guns."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s why early in my administration I called the attorney general and the U."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "S."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "attorneys and said: Put together a task force all around the country to prosecute those who commit crimes with guns."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And the prosecutions are up by about 68 percent \u2014 I believe \u2014 is the number."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Neighborhoods are safer when we crack down on people who commit crimes with guns."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "To me, that\u2019s the best way to secure America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe it was a failure of presidential leadership not to reauthorize the assault weapons ban."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I am a hunter."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m a gun owner."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve been a hunter since I was a kid, 12, 13 years old."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I respect the Second Amendment and I will not tamper with the Second Amendment."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I\u2019ll tell you this."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019m also a former law enforcement officer."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I ran one of the largest district attorney\u2019s offices in America, one of the ten largest."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I put people behind bars for the rest of their life."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve broken up organized crime."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I know something about prosecuting."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And most of the law enforcement agencies in America wanted that assault weapons ban."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They don\u2019t want to go into a drug bust and be facing an AK-47."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I was hunting in Iowa last year with a sheriff from one of the counties there, and he pointed to a house in back of us, and said, \u201cSee the house over?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We just did a drug bust a week earlier, and the guy we arrested had an AK-47 lying on the bed right beside him."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201c Because of the president\u2019s decision today, law enforcement officers will walk into a place that will be more dangerous."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Terrorists can now come into America and go to a gun show and, without even a background check, buy an assault weapon today."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And that\u2019s what Osama bin Laden\u2019s handbook said, because we captured it in Afghanistan."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It encouraged them to do it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "So I believe America\u2019s less safe."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If Tom DeLay or someone in the House said to me, \u201cSorry, we don\u2019t have the votes,\u201d I\u2019d have said, \u201cThen we\u2019re going to have a fight."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201c And I\u2019d have taken it out to the country and I\u2019d have had every law enforcement officer in the country visit those congressmen."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We\u2019d have won what Bill Clinton won."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "No, Bob, regrettably, we have not moved far enough along."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I regret to say that this administration has even blocked steps that could help us move further along."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ll give you an example."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I served on the Small Business Committee for a long time."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I was chairman of it once."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now I\u2019m the senior Democrat on it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We used to \u2014 you know, we have a goal there for minority set-aside programs, to try to encourage ownership in the country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They don\u2019t reach those goals."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They don\u2019t even fight to reach those goals."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They\u2019ve tried to undo them."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "The fact is that in too many parts of our country, we still have discrimination."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And affirmative action is not just something that applies to people of color."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Some people have a mistaken view of it in America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "It also is with respect to women, it\u2019s with respect to other efforts to try to reach out and be inclusive in our country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think that we have a long way to go, regrettably."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If you look at what\u2019s happened \u2014 we\u2019ve made progress, I want to say that at the same time."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "During the Clinton years, as you may recall, there was a fight over affirmative action."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And there were many people, like myself, who opposed quotas, who felt there were places where it was overreaching."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "So we had a policy called \u201cMend it, don\u2019t end it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201cWe fixed it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we fixed it for a reason: because there are too many people still in this country who feel the stark resistance of racism, and so we have a distance to travel."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "As president, I will make certain we travel it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Now, let me just share something."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This president is the first president ever, I think, not to meet with the NAACP."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This is a president who hasn\u2019t met with the Black Congressional Caucus."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "This is a president who has not met with the civil rights leadership of our country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "If a president doesn\u2019t reach out and bring people in and be inclusive, then how are we going to get over those barriers?"
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I see that as part of my job as president, and I\u2019ll make my best effort to do it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Well, first of all, it is just not true that I haven\u2019t met with the Black Congressional Caucus."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I met with the Black Congressional Caucus at the White House."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And secondly, like my opponent, I don\u2019t agree we ought to have quotas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I agree, we shouldn\u2019t have quotas."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But we ought to have an aggressive effort to make sure people are educated, to make sure when they get out of high school there\u2019s Pell Grants available for them, which is what we\u2019ve done."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve expanded Pell Grants by a million students."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Do you realize today in America, we spend $73 billion to help 10 million low- and middle-income families better afford college?"
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "That\u2019s the access I believe is necessary, is to make sure every child learns to read, write, add and subtract early, to be able to build on that education by going to college so they can start their careers with a college diploma."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe the best way to help our small businesses is not only through small-business loans, which we have increased since I\u2019ve been the president of the United States, but to unbundle government contracts so people have a chance to be able to bid and receive a contract to help get their business going."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Minority ownership of businesses are up, because we created an environment for the entrepreneurial spirit to be strong."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I believe part of a hopeful society is one in which somebody owns something."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Today in America more minorities own a home than ever before."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And that\u2019s hopeful, and that\u2019s positive."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Well, I respect everything that the president has said and certainly respect his faith."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think it\u2019s important and I share it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think that he just said that freedom is a gift from the Almighty."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Everything is a gift from the Almighty."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And as I measure the words of the Bible \u2014 and we all do; different people measure different things \u2014 the Koran, the Torah, or, you know, Native Americans who gave me a blessing the other day had their own special sense of connectedness to a higher being."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And people all find their ways to express it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I was taught \u2014 I went to a church school and I was taught that the two greatest commandments are: Love the Lord, your God, with all your mind, your body and your soul, and love your neighbor as yourself."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And frankly, I think we have a lot more loving of our neighbor to do in this country and on this planet."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We have a separate and unequal school system in the United States of America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "There\u2019s one for the people who have, and there\u2019s one for the people who don\u2019t have."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And we\u2019re struggling with that today."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And the president and I have a difference of opinion about how we live out our sense of our faith."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I talked about it earlier when I talked about the works and faith without works being dead."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think we\u2019ve got a lot more work to do."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And as president, I will always respect everybody\u2019s right to practice religion as they choose \u2014 or not to practice \u2014 because that\u2019s part of America."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Very much so."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Let me pay a compliment to the president, if I may."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think in those days after 9/11, I thought the president did a terrific job."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I really was moved, as well as impressed, by the speech that he gave to the Congress."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I think the hug Tom Daschle gave him at that moment was about as genuine a sense of there being no Democrats, no Republicans, we were all just Americans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s where we were."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "That\u2019s not where we are today."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I regret to say that the president who called himself a uniter, not a divider, is now presiding over the most divided America in the recent memory of our country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve never seen such ideological squabbles in the Congress of the United States."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve never seen members of a party locked out of meetings the way they\u2019re locked out today."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We have to change that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And as president, I am committed to changing that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I don\u2019t care if the idea comes from the other side or this side."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think we have to come together and work to change it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I\u2019ve done that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Over 20 years in the United States Senate, I\u2019ve worked with John McCain, who\u2019s sitting here, I\u2019ve worked with other colleagues."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve reached across the aisle."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve tried to find the common ground, because that\u2019s what makes us strong as Americans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And if Americans trust me with the presidency, I can pledge to you, we will have the most significant effort, openly \u2014 not secret meetings in the White House with special interests, not ideologically driven efforts to push people aside \u2014 but a genuine effort to try to restore America\u2019s hope and possibilities by bringing people together."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And one of the ways we\u2019re going to do it is, I\u2019m going to work with my friend, John McCain, to further campaign finance reform so we get these incredible amounts of money out of the system and open it up to average people, so America is really represented by the people who make up America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My biggest disappointment in Washington is how partisan the town is."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I had a record of working with Republicans and Democrats as the governor of Texas, and I was hopeful I\u2019d be able to do the same thing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we made good progress early on."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "The No Child Left Behind Act, incredibly enough, was good work between me and my administration and people like Senator Ted Kennedy."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we worked together with Democrats to relieve the tax burden on the middle class and all who pay taxes in order to make sure this economy continues to grow."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But Washington is a tough town."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And the way I view it is there\u2019s a lot of entrenched special interests there, people who are, you know, on one side of the issue or another and they spend enormous sums of money and they convince different senators to taut their way or different congressmen to talk about their issue, and they dig in."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019ll continue, in the four years, to continue to try to work to do so."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My opponent said this is a bitterly divided time."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Pretty divided in the 2000 election."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "So in other words, it\u2019s pretty divided during the 1990s as well."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019re just in a period \u2014 we\u2019ve got to work to bring it \u2014 my opponent keeps mentioning John McCain, and I\u2019m glad he did."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "John McCain is for me for president because he understands I have the right view in winning the war on terror and that my plan will succeed in Iraq."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And my opponent has got a plan of retreat and defeat in Iraq."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "To listen to them."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "To stand up straight and not scowl."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I love the strong women around me."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I can\u2019t tell you how much I love my wife and our daughters."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I am \u2014 you know it\u2019s really interesting."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I tell the people on the campaign trail, when I asked Laura to marry me, she said, \u201cFine, just so long as I never have to give a speech."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201cI said, \u201cOK, you\u2019ve got a deal."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201cFortunately, she didn\u2019t hold me to that deal."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And she\u2019s out campaigning along with our girls."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And she speaks English a lot better than I do."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think people understand what she\u2019s saying."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "But they see a compassionate, strong, great first lady in Laura Bush."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I can\u2019t tell you how lucky I am."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "When I met her in the backyard at Joe and Jan O\u2019Neill\u2019s in Midland, Texas, it was the classic backyard barbecue."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "O\u2019Neill said, \u201cCome on over."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I think you\u2019ll find somebody who might interest you."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201cSo I said all right."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Bopped over there."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "There was only four of us there."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And not only did she interest me, I guess you would say it was love at first sight."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Well, I guess the president and you and I are three examples of lucky people who married up."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And some would say maybe me more so than others."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "But I can take it."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Can I say, if I could just say a word about a woman that you didn\u2019t ask about, but my mom passed away a couple years ago, just before I was deciding to run."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And she was in the hospital, and I went in to talk to her and tell her what I was thinking of doing."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And she looked at me from her hospital bed and she just looked at me and she said, \u201cRemember: integrity, integrity, integrity."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "\u201cThose are the three words that she left me with."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And my daughters and my wife are people who just are filled with that sense of what\u2019s right, what\u2019s wrong."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They also kick me around."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They keep me honest."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They don\u2019t let me get away with anything."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I can sometimes take myself too seriously."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "They surely don\u2019t let me do that."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I\u2019m blessed, as I think the president is blessed, as I said last time."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I\u2019ve watched him with the first lady, who I admire a great deal, and his daughters."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "He\u2019s a great father."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I think we\u2019re both very lucky."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "My fellow Americans, as you heard from Bob Schieffer a moment ago, America is being tested by division."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "More than ever, we need to be united as a country."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And, like Franklin Roosevelt, I don\u2019t care whether an idea is a Republican idea or a Democrat idea."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I just care whether it works for America and whether it\u2019s going to make us stronger."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "These are dangerous times."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe I offer tested, strong leadership that can calm the waters of the troubled world."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I believe that we can together do things that are within the grasp of Americans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We can lift our schools up."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We can create jobs that pay more than the jobs we\u2019re losing overseas."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We can have health care for all Americans."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "We can further the cause of equality in our nation."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Let me just make it clear: I will never allow any country to have a veto over our security."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Just as I fought for our country as a young man, with the same passion I will fight to defend this nation that I love."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And, with faith in God and with conviction in the mission of America, I believe that we can reach higher."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I believe we can do better."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I think the greatest possibilities of our country, our dreams and our hopes, are out there just waiting for us to grab onto them."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And I ask you to embark on that journey with me."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I ask you for your trust."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I ask you for your help."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "I ask you to allow me the privilege of leading this great nation of ours, of helping us to be stronger here at home and to be respected again in the world and, most of all, to be safer forever."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "Goodnight."
+  },
+  {
+   "speaker": "John Kerry",
+   "text": "And God bless the United States of America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "In the Oval Office, there\u2019s a painting by a friend of Laura and mine named \u2014 by Tom Lee."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And it\u2019s a West Texas painting, a painting of a mountain scene."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And he said this about it."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "He said, \u201cSarah and I live on the east side of the mountain."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s the sunrise side, not the sunset side."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "It\u2019s the side to see the day that is coming, not to see the day that is gone."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "\u201c I love the optimism in that painting, because that\u2019s how I feel about America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And we\u2019ve been through a lot together during the last 3 3/4 years."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We\u2019ve come through a recession, a stock market decline, an attack on our country."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And yet, because of the hard work of the American people and good policies, this economy is growing."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Over the next four years, we\u2019ll make sure the economy continues to grow."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We reformed our school system, and now there\u2019s an achievement gap in America that\u2019s beginning to close."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Over the next four years, we\u2019ll continue to insist on excellence in every classroom in America so that our children have a chance to realize the great promise of America."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Over the next four years, we\u2019ll continue to work to make sure health care is available and affordable."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "Over the next four years, we\u2019ll continue to rally the armies of compassion, to help heal the hurt that exists in some of our country\u2019s neighborhoods."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m optimistic that we\u2019ll win the war on terror, but I understand it requires firm resolve and clear purpose."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We must never waver in the face of this enemy that \u2014 these ideologues of hate."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "And as we pursue the enemy wherever it exists, we\u2019ll also spread freedom and liberty."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "We got great faith in the ability of liberty to transform societies, to convert a hostile world to a peaceful world."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "My hope for America is a prosperous America, a hopeful America and a safer world."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I want to thank you for listening tonight."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "I\u2019m asking for your vote."
+  },
+  {
+   "speaker": "George W. Bush",
+   "text": "God bless you."
+  }
+ ]
+}

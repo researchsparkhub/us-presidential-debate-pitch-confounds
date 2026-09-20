@@ -1,0 +1,24 @@
+openSMILE LDA: winners vs losers
+  N = 25,648 sentences (11,738 winners, 13,910 losers)
+  Features: 88 eGeMAPSv02 functionals
+  Training accuracy:          0.772
+  5-fold CV accuracy (random): 0.771 ± 0.007
+  Leave-one-debate-out CV acc: 0.681 ± 0.041
+    (chance = 0.500; debate-grouped CV is the unbiased estimate)
+
+Top 15 features by |LDA coefficient| (positive = louder in winners):
+  -2.030   loudness_sma3_amean
+  +1.669   mfcc3V_sma3nz_amean
+  +1.328   spectralFluxV_sma3nz_amean
+  +1.315   loudness_sma3_percentile50.0
+  +1.255   F1frequency_sma3nz_amean
+  +1.151   mfcc2V_sma3nz_amean
+  +1.118   F2amplitudeLogRelF0_sma3nz_amean
+  -1.113   F3amplitudeLogRelF0_sma3nz_amean
+  -1.049   mfcc4V_sma3nz_amean
+  -1.020   mfcc1_sma3_amean
+  -0.919   F2frequency_sma3nz_amean
+  -0.870   mfcc3_sma3_amean
+  +0.824   alphaRatioV_sma3nz_amean
+  +0.823   mfcc4_sma3_amean
+  -0.805   F0semitoneFrom27.5Hz_sma3nz_amean

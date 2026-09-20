@@ -1,0 +1,262 @@
+{
+  "n_debates": 24,
+  "n_candidates_per_debate": {
+    "1008": 2,
+    "1004": 3,
+    "1013": 2,
+    "1029": 2,
+    "1025": 2,
+    "1033": 2,
+    "1014": 2,
+    "1022": 2,
+    "1018": 2,
+    "1019": 2,
+    "1023": 2,
+    "1015": 2,
+    "1003": 2,
+    "1021": 2,
+    "1001": 2,
+    "1017": 2,
+    "1026": 2,
+    "1030": 2,
+    "1010": 2,
+    "1006": 3,
+    "1007": 3,
+    "1011": 2,
+    "1031": 2,
+    "1027": 2
+  },
+  "conditions": {
+    "transcript": {
+      "trial_correct": 72,
+      "trial_n": 72,
+      "trial_accuracy": 1.0,
+      "trial_p_vs_half": 2.117582368135751e-22,
+      "debate_majority_correct": 24,
+      "debate_n": 24,
+      "debate_majority_accuracy": 1.0,
+      "debate_majority_p_vs_chance": 1.766063548900463e-08,
+      "expected_chance_accuracy": 0.4791666666666667,
+      "unanimous_debates": 24,
+      "unanimity_rate": 1.0,
+      "calls": {
+        "1001": "George H. W. Bush",
+        "1003": "George H. W. Bush",
+        "1004": "Bill Clinton",
+        "1006": "Bill Clinton",
+        "1007": "Bill Clinton",
+        "1008": "Bill Clinton",
+        "1010": "Bill Clinton",
+        "1011": "George W. Bush",
+        "1013": "George W. Bush",
+        "1014": "George W. Bush",
+        "1015": "George W. Bush",
+        "1017": "George W. Bush",
+        "1018": "George W. Bush",
+        "1019": "Barack Obama",
+        "1021": "Barack Obama",
+        "1022": "Barack Obama",
+        "1023": "Barack Obama",
+        "1025": "Barack Obama",
+        "1026": "Barack Obama",
+        "1027": "Donald Trump",
+        "1029": "Donald Trump",
+        "1030": "Donald Trump",
+        "1031": "Joe Biden",
+        "1033": "Joe Biden"
+      },
+      "debate_majority_p_bh": 2.6490953233506943e-08
+    },
+    "descriptors": {
+      "trial_correct": 45,
+      "trial_n": 72,
+      "trial_accuracy": 0.625,
+      "trial_p_vs_half": 0.022185460004012846,
+      "debate_majority_correct": 13,
+      "debate_n": 24,
+      "debate_majority_accuracy": 0.5416666666666666,
+      "debate_majority_p_vs_chance": 0.3401174898500797,
+      "expected_chance_accuracy": 0.4791666666666667,
+      "unanimous_debates": 16,
+      "unanimity_rate": 0.6666666666666666,
+      "calls": {
+        "1001": "Michael Dukakis",
+        "1003": "Michael Dukakis",
+        "1004": "Bill Clinton",
+        "1006": "Bill Clinton",
+        "1007": "Bill Clinton",
+        "1008": "Bob Dole",
+        "1010": "Bill Clinton",
+        "1011": "George W. Bush",
+        "1013": "George W. Bush",
+        "1014": "George W. Bush",
+        "1015": "George W. Bush",
+        "1017": "John Kerry",
+        "1018": "John Kerry",
+        "1019": "Barack Obama",
+        "1021": "John McCain",
+        "1022": "John McCain",
+        "1023": "Mitt Romney",
+        "1025": "Mitt Romney",
+        "1026": "Barack Obama",
+        "1027": "Donald Trump",
+        "1029": "Donald Trump",
+        "1030": "Donald Trump",
+        "1031": "Donald Trump",
+        "1033": "Donald Trump"
+      },
+      "debate_majority_p_bh": 0.34011748985007967
+    },
+    "both": {
+      "trial_correct": 71,
+      "trial_n": 72,
+      "trial_accuracy": 0.9861111111111112,
+      "trial_p_vs_half": 1.545835128739098e-20,
+      "debate_majority_correct": 24,
+      "debate_n": 24,
+      "debate_majority_accuracy": 1.0,
+      "debate_majority_p_vs_chance": 1.766063548900463e-08,
+      "expected_chance_accuracy": 0.4791666666666667,
+      "unanimous_debates": 23,
+      "unanimity_rate": 0.9583333333333334,
+      "calls": {
+        "1001": "George H. W. Bush",
+        "1003": "George H. W. Bush",
+        "1004": "Bill Clinton",
+        "1006": "Bill Clinton",
+        "1007": "Bill Clinton",
+        "1008": "Bill Clinton",
+        "1010": "Bill Clinton",
+        "1011": "George W. Bush",
+        "1013": "George W. Bush",
+        "1014": "George W. Bush",
+        "1015": "George W. Bush",
+        "1017": "George W. Bush",
+        "1018": "George W. Bush",
+        "1019": "Barack Obama",
+        "1021": "Barack Obama",
+        "1022": "Barack Obama",
+        "1023": "Barack Obama",
+        "1025": "Barack Obama",
+        "1026": "Barack Obama",
+        "1027": "Donald Trump",
+        "1029": "Donald Trump",
+        "1030": "Donald Trump",
+        "1031": "Joe Biden",
+        "1033": "Joe Biden"
+      },
+      "debate_majority_p_bh": 2.6490953233506943e-08
+    }
+  },
+  "pairwise_agreement": {
+    "transcript_vs_descriptors": {
+      "agree": 13,
+      "n": 24,
+      "rate": 0.5416666666666666
+    },
+    "transcript_vs_both": {
+      "agree": 24,
+      "n": 24,
+      "rate": 1.0
+    },
+    "descriptors_vs_both": {
+      "agree": 13,
+      "n": 24,
+      "rate": 0.5416666666666666
+    }
+  },
+  "position_bias": {
+    "both": {
+      "A": 35,
+      "B": 33,
+      "C": 4
+    },
+    "descriptors": {
+      "B": 43,
+      "C": 4,
+      "A": 25
+    },
+    "transcript": {
+      "A": 36,
+      "B": 32,
+      "C": 4
+    }
+  },
+  "contamination_probe": {
+    "transcript": {
+      "n": 24,
+      "self_reported_recognized": 24,
+      "year_correct": 24,
+      "at_least_one_candidate_named": 24,
+      "both_candidates_named": 24
+    },
+    "descriptors": {
+      "n": 24,
+      "self_reported_recognized": 0,
+      "year_correct": 0,
+      "at_least_one_candidate_named": 0,
+      "both_candidates_named": 0
+    }
+  },
+  "grounding_check": {
+    "descriptors": {
+      "checked": 400,
+      "consistent": 303,
+      "consistency_rate": 0.7575
+    },
+    "both": {
+      "checked": 413,
+      "consistent": 348,
+      "consistency_rate": 0.8426150121065376
+    }
+  },
+  "fabrication_scan": {
+    "n_transcript_explanations": 72,
+    "n_flagged": 0,
+    "examples": []
+  },
+  "transcript_theme_frequency": {
+    "attacks on opponent": 72,
+    "policy substance": 72,
+    "specific facts or numbers": 70,
+    "confidence or composure": 67,
+    "emotional appeal": 61,
+    "clarity or articulation": 50,
+    "likability or warmth": 22,
+    "pacing or delivery": 5,
+    "other": 1
+  },
+  "descriptor_citation_frequency": {
+    "Loudness": 77,
+    "Words per sentence": 69,
+    "Voice clarity (openSMILE)": 61,
+    "Grade level": 57,
+    "Speech rate": 55,
+    "Subordinate clauses": 49,
+    "Parse depth": 47,
+    "Positive sentiment": 45,
+    "Articulation rate (syll/s)": 44,
+    "Voice clarity (Praat)": 37,
+    "Pause count": 35,
+    "Mean pitch": 32,
+    "Sentiment": 30,
+    "Reading ease": 28,
+    "Negative sentiment": 19,
+    "Pause duration": 18,
+    "1st-person pronouns": 17,
+    "Semitone pitch SD/mean": 14,
+    "2nd-person pronouns": 13,
+    "Nouns": 9,
+    "Pitch SD (Hz)": 9,
+    "Articulation rate (w/s)": 8,
+    "Pitch range (Hz)": 7,
+    "Dependency length": 7,
+    "Clauses": 6,
+    "Mean pause length": 6,
+    "Word length": 5,
+    "3rd-person pronouns": 3,
+    "Adjectives": 3,
+    "Verbs": 2,
+    "Semitone 20-80 pitch range": 1
+  }
+}

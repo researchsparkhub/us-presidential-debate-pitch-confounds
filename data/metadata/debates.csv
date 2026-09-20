@@ -1,0 +1,77 @@
+debate_audio_id,debate_id,year,debate_type,debate_number,date,speaker,party,election_winner,winning_party,result
+1001,1988P1,1988,Presidential,1,1988-09-25,Michael Dukakis,Democratic,George H. W. Bush,Republican,loser
+1001,1988P1,1988,Presidential,1,1988-09-25,George H. W. Bush,Republican,George H. W. Bush,Republican,winner
+1002,1988VP1,1988,Vice Presidential,1,1988-10-05,Lloyd Bentsen,Democratic,George H. W. Bush,Republican,loser
+1002,1988VP1,1988,Vice Presidential,1,1988-10-05,Dan Quayle,Republican,George H. W. Bush,Republican,winner
+1003,1988P2,1988,Presidential,2,1988-10-13,Michael Dukakis,Democratic,George H. W. Bush,Republican,loser
+1003,1988P2,1988,Presidential,2,1988-10-13,George H. W. Bush,Republican,George H. W. Bush,Republican,winner
+1004,1992P1,1992,Presidential,1,1992-10-11,George H. W. Bush,Republican,Bill Clinton,Democratic,loser
+1004,1992P1,1992,Presidential,1,1992-10-11,Ross Perot,Independent,Bill Clinton,Democratic,loser
+1004,1992P1,1992,Presidential,1,1992-10-11,Bill Clinton,Democratic,Bill Clinton,Democratic,winner
+1005,1992VP1,1992,Vice Presidential,1,1992-10-13,Dan Quayle,Republican,Bill Clinton,Democratic,loser
+1005,1992VP1,1992,Vice Presidential,1,1992-10-13,James Stockdale,Independent,Bill Clinton,Democratic,loser
+1005,1992VP1,1992,Vice Presidential,1,1992-10-13,Al Gore,Democratic,Bill Clinton,Democratic,winner
+1006,1992P2,1992,Presidential,2,1992-10-15,George H. W. Bush,Republican,Bill Clinton,Democratic,loser
+1006,1992P2,1992,Presidential,2,1992-10-15,Ross Perot,Independent,Bill Clinton,Democratic,loser
+1006,1992P2,1992,Presidential,2,1992-10-15,Bill Clinton,Democratic,Bill Clinton,Democratic,winner
+1007,1992P3,1992,Presidential,3,1992-10-19,George H. W. Bush,Republican,Bill Clinton,Democratic,loser
+1007,1992P3,1992,Presidential,3,1992-10-19,Ross Perot,Independent,Bill Clinton,Democratic,loser
+1007,1992P3,1992,Presidential,3,1992-10-19,Bill Clinton,Democratic,Bill Clinton,Democratic,winner
+1008,1996P1,1996,Presidential,1,1996-10-06,Bob Dole,Republican,Bill Clinton,Democratic,loser
+1008,1996P1,1996,Presidential,1,1996-10-06,Bill Clinton,Democratic,Bill Clinton,Democratic,winner
+1009,1996VP1,1996,Vice Presidential,1,1996-10-09,Jack Kemp,Republican,Bill Clinton,Democratic,loser
+1009,1996VP1,1996,Vice Presidential,1,1996-10-09,Al Gore,Democratic,Bill Clinton,Democratic,winner
+1010,1996P2,1996,Presidential,2,1996-10-16,Bob Dole,Republican,Bill Clinton,Democratic,loser
+1010,1996P2,1996,Presidential,2,1996-10-16,Bill Clinton,Democratic,Bill Clinton,Democratic,winner
+1011,2000P1,2000,Presidential,1,2000-10-03,Al Gore,Democratic,George W. Bush,Republican,loser
+1011,2000P1,2000,Presidential,1,2000-10-03,George W. Bush,Republican,George W. Bush,Republican,winner
+1012,2000VP1,2000,Vice Presidential,1,2000-10-05,Joe Lieberman,Democratic,George W. Bush,Republican,loser
+1012,2000VP1,2000,Vice Presidential,1,2000-10-05,Dick Cheney,Republican,George W. Bush,Republican,winner
+1013,2000P2,2000,Presidential,2,2000-10-11,Al Gore,Democratic,George W. Bush,Republican,loser
+1013,2000P2,2000,Presidential,2,2000-10-11,George W. Bush,Republican,George W. Bush,Republican,winner
+1014,2000P3,2000,Presidential,3,2000-10-17,Al Gore,Democratic,George W. Bush,Republican,loser
+1014,2000P3,2000,Presidential,3,2000-10-17,George W. Bush,Republican,George W. Bush,Republican,winner
+1015,2004P1,2004,Presidential,1,2004-09-30,John Kerry,Democratic,George W. Bush,Republican,loser
+1015,2004P1,2004,Presidential,1,2004-09-30,George W. Bush,Republican,George W. Bush,Republican,winner
+1016,2004VP1,2004,Vice Presidential,1,2004-10-05,John Edwards,Democratic,George W. Bush,Republican,loser
+1016,2004VP1,2004,Vice Presidential,1,2004-10-05,Dick Cheney,Republican,George W. Bush,Republican,winner
+1017,2004P2,2004,Presidential,2,2004-10-08,John Kerry,Democratic,George W. Bush,Republican,loser
+1017,2004P2,2004,Presidential,2,2004-10-08,George W. Bush,Republican,George W. Bush,Republican,winner
+1018,2004P3,2004,Presidential,3,2004-10-13,John Kerry,Democratic,George W. Bush,Republican,loser
+1018,2004P3,2004,Presidential,3,2004-10-13,George W. Bush,Republican,George W. Bush,Republican,winner
+1019,2008P1,2008,Presidential,1,2008-09-26,John McCain,Republican,Barack Obama,Democratic,loser
+1019,2008P1,2008,Presidential,1,2008-09-26,Barack Obama,Democratic,Barack Obama,Democratic,winner
+1020,2008VP1,2008,Vice Presidential,1,2008-10-02,Sarah Palin,Republican,Barack Obama,Democratic,loser
+1020,2008VP1,2008,Vice Presidential,1,2008-10-02,Joe Biden,Democratic,Barack Obama,Democratic,winner
+1021,2008P2,2008,Presidential,2,2008-10-07,John McCain,Republican,Barack Obama,Democratic,loser
+1021,2008P2,2008,Presidential,2,2008-10-07,Barack Obama,Democratic,Barack Obama,Democratic,winner
+1022,2008P3,2008,Presidential,3,2008-10-15,John McCain,Republican,Barack Obama,Democratic,loser
+1022,2008P3,2008,Presidential,3,2008-10-15,Barack Obama,Democratic,Barack Obama,Democratic,winner
+1023,2012P1,2012,Presidential,1,2012-10-03,Mitt Romney,Republican,Barack Obama,Democratic,loser
+1023,2012P1,2012,Presidential,1,2012-10-03,Barack Obama,Democratic,Barack Obama,Democratic,winner
+1024,2012VP1,2012,Vice Presidential,1,2012-10-11,Paul Ryan,Republican,Barack Obama,Democratic,loser
+1024,2012VP1,2012,Vice Presidential,1,2012-10-11,Joe Biden,Democratic,Barack Obama,Democratic,winner
+1025,2012P2,2012,Presidential,2,2012-10-16,Mitt Romney,Republican,Barack Obama,Democratic,loser
+1025,2012P2,2012,Presidential,2,2012-10-16,Barack Obama,Democratic,Barack Obama,Democratic,winner
+1026,2012P3,2012,Presidential,3,2012-10-22,Mitt Romney,Republican,Barack Obama,Democratic,loser
+1026,2012P3,2012,Presidential,3,2012-10-22,Barack Obama,Democratic,Barack Obama,Democratic,winner
+1027,2016P1,2016,Presidential,1,2016-09-26,Hillary Clinton,Democratic,Donald Trump,Republican,loser
+1027,2016P1,2016,Presidential,1,2016-09-26,Donald Trump,Republican,Donald Trump,Republican,winner
+1028,2016VP1,2016,Vice Presidential,1,2016-10-04,Tim Kaine,Democratic,Donald Trump,Republican,loser
+1028,2016VP1,2016,Vice Presidential,1,2016-10-04,Mike Pence,Republican,Donald Trump,Republican,winner
+1029,2016P2,2016,Presidential,2,2016-10-09,Hillary Clinton,Democratic,Donald Trump,Republican,loser
+1029,2016P2,2016,Presidential,2,2016-10-09,Donald Trump,Republican,Donald Trump,Republican,winner
+1030,2016P3,2016,Presidential,3,2016-10-19,Hillary Clinton,Democratic,Donald Trump,Republican,loser
+1030,2016P3,2016,Presidential,3,2016-10-19,Donald Trump,Republican,Donald Trump,Republican,winner
+1031,2020P1,2020,Presidential,1,2020-09-29,Donald Trump,Republican,Joe Biden,Democratic,loser
+1031,2020P1,2020,Presidential,1,2020-09-29,Joe Biden,Democratic,Joe Biden,Democratic,winner
+1032,2020VP1,2020,Vice Presidential,1,2020-10-07,Mike Pence,Republican,Joe Biden,Democratic,loser
+1032,2020VP1,2020,Vice Presidential,1,2020-10-07,Kamala Harris,Democratic,Joe Biden,Democratic,winner
+1033,2020P2,2020,Presidential,2,2020-10-22,Donald Trump,Republican,Joe Biden,Democratic,loser
+1033,2020P2,2020,Presidential,2,2020-10-22,Joe Biden,Democratic,Joe Biden,Democratic,winner
+1034,2024P1,2024,Presidential,1,2024-06-27,Joe Biden,Democratic,Donald Trump,Republican,loser
+1034,2024P1,2024,Presidential,1,2024-06-27,Donald Trump,Republican,Donald Trump,Republican,winner
+1035,2024VP1,2024,Vice Presidential,1,2024-10-01,Tim Walz,Democratic,Donald Trump,Republican,loser
+1035,2024VP1,2024,Vice Presidential,1,2024-10-01,J.D. Vance,Republican,Donald Trump,Republican,winner
+1036,2024P2,2024,Presidential,2,2024-09-10,Kamala Harris,Democratic,Donald Trump,Republican,loser
+1036,2024P2,2024,Presidential,2,2024-09-10,Donald Trump,Republican,Donald Trump,Republican,winner

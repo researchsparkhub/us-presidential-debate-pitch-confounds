@@ -1,0 +1,4238 @@
+{
+ "debate_id": "1010",
+ "year": "1996",
+ "candidates": [
+  "Bob Dole",
+  "Bill Clinton"
+ ],
+ "results": {
+  "Bob Dole": "loser",
+  "Bill Clinton": "winner"
+ },
+ "winner": "Bill Clinton",
+ "n_sentences": 1037,
+ "descriptors": {
+  "Bob Dole": {
+   "Mean pitch": -0.4853,
+   "Pitch SD (Hz)": 0.1271,
+   "Pitch range (Hz)": 0.0168,
+   "Loudness": -0.0079,
+   "Voice clarity (Praat)": -0.5163,
+   "Pause duration": -0.0437,
+   "Pause count": -0.0665,
+   "Mean pause length": -0.0237,
+   "Speech rate": 0.0045,
+   "Articulation rate (w/s)": 0.0502,
+   "Syllable rate": 0.0287,
+   "Articulation rate (syll/s)": 0.1084,
+   "Semitone pitch SD/mean": 0.2617,
+   "Semitone 20-80 pitch range": 0.0872,
+   "Voice clarity (openSMILE)": -0.6961,
+   "Clauses": -0.129,
+   "Subordinate clauses": -0.1745,
+   "Parse depth": -0.2132,
+   "Dependency length": -0.1634,
+   "Words per sentence": -0.2025,
+   "Word length": 0.0435,
+   "Function words": -0.0885,
+   "1st-person pronouns": -0.0291,
+   "2nd-person pronouns": 0.0042,
+   "3rd-person pronouns": 0.0327,
+   "Nouns": -0.0066,
+   "Verbs": -0.0078,
+   "Adjectives": -0.0466,
+   "Adverbs": -0.0061,
+   "Reading ease": 0.0123,
+   "Grade level": -0.1138,
+   "Sentiment": -0.0668,
+   "Positive sentiment": 0.0089,
+   "Negative sentiment": 0.0177
+  },
+  "Bill Clinton": {
+   "Mean pitch": 0.7185,
+   "Pitch SD (Hz)": -0.1882,
+   "Pitch range (Hz)": -0.0248,
+   "Loudness": 0.0118,
+   "Voice clarity (Praat)": 0.7645,
+   "Pause duration": 0.0647,
+   "Pause count": 0.0985,
+   "Mean pause length": 0.0351,
+   "Speech rate": -0.0067,
+   "Articulation rate (w/s)": -0.0743,
+   "Syllable rate": -0.0426,
+   "Articulation rate (syll/s)": -0.1605,
+   "Semitone pitch SD/mean": -0.3875,
+   "Semitone 20-80 pitch range": -0.1291,
+   "Voice clarity (openSMILE)": 1.0306,
+   "Clauses": 0.1917,
+   "Subordinate clauses": 0.2595,
+   "Parse depth": 0.317,
+   "Dependency length": 0.2429,
+   "Words per sentence": 0.3011,
+   "Word length": -0.0647,
+   "Function words": 0.1316,
+   "1st-person pronouns": 0.0432,
+   "2nd-person pronouns": -0.0062,
+   "3rd-person pronouns": -0.0486,
+   "Nouns": 0.0099,
+   "Verbs": 0.0116,
+   "Adjectives": 0.0693,
+   "Adverbs": 0.009,
+   "Reading ease": -0.0183,
+   "Grade level": 0.1692,
+   "Sentiment": 0.0993,
+   "Positive sentiment": -0.0133,
+   "Negative sentiment": -0.0263
+  }
+ },
+ "transcript_turns": [
+  {
+   "speaker": "Bob Dole",
+   "text": "Thank you very much, Jim."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Let me first give you a sports update."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The Braves, one; the Cardinals, nothing, early on."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I want to thank you and I want to thank everybody here tonight."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I want to give a special thanks to my wife Elizabeth, my daughter Robin for their love and support, and thank the people who are listening and watching all over America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "In 20 days, you will help decide who will lead this country into the next century."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s an awesome responsibility."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And you must ask yourself, do you know enough about the candidates?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You should know as much as possible about each of us."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Sometimes the views have been distorted."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There\u2019s been millions and millions of dollars of negative advertising spent distorting my views."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I hope tonight you will get a better feel of who Bob Dole is and what he\u2019s all about."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I think first you should \u2014 I should understand that the question on your mind is do I understand your problem."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Would I understand it if it occurred to me, and I might just say I\u2019m from a large family."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I got lots of relatives and they\u2019re good, average, middle-class, hardworking Americans."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They live all across the country."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re not all Republicans."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Maybe all but one."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But in any event, I understand the problems."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Whether it\u2019s two parents working because one has to pay the taxes and one has to provide for the family, whether it\u2019s a single parent who just barely pays the pressing bills or whether you\u2019re worried about an education for your children going to the best schools, or whether you\u2019re worried about safe playgrounds, drug-free schools, crime-free schools."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is what this election is all about."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And hopefully tonight when we conclude this debate you will have a better understanding and the viewing and listening audience will have a better understanding."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I was going to applaud, too."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Well, thank you, Jim."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And thanks to the people of San Diego for giving us this opportunity to have another discussion about the decision we all face in front of people who will make the decision."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Again, I will say I will do my best to make this a discussion of ideas and issues, not insults."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What really matters is what happens to your future and what happens to our country as we stand on the brink of a new century, a time of extraordinary possibility."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I have a simple philosophy that I tried to follow for the last four years: Do what creates opportunity for all, what reinforces responsibility from all of us, and what will help us build a community where everybody\u2019s got a role to play and a place at the table."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Compared to four years ago, we\u2019re clearly better off."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve got ten and a half million more jobs, the deficit\u2019s been reduced by 60 percent."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Incomes are rising for the first time in a decade, the crime rates, the welfare rolls are falling, we\u2019re putting , 100,000 more police on the street."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "60,000 felons, fugitives and stalkers have been denied handguns."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But that progress is only the beginning."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What we really should focus on tonight is what we still have to do to help the American people make the most of this future that\u2019s out there."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think what really matters is what we can do to build strong families."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Strong families need a strong economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "To me that means we have to go on and balance this budget while we protect Medicare and Medicaid and education and the environment."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We should give a tax cut, targeted to child rearing and education, to buying a first home and paying for health care."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We ought to help protect our kids from drugs and guns and gangs and tobacco."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We ought to help move a million people from welfare to work and we ought to create the finest education system in the world where every 18-year-old can go on to college and all of our younger children have great educational opportunities."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If we do those things, we can build that bridge to the 21st century."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s what I hope to get to talk about tonight."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Hi."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "MS."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "McAFEE: My name is Shannon McAfee."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m a beginning educator in this country, and I really think it\u2019s important what children have to say."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re still very idealistic."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And they \u2014 everything they say comes from the heart."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I have a quote for you from \u201cIf I Were President,\u201d compiled by Peggy Gavin."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "A sixth grader says, \u201cIf I were president, I would think about Abraham Lincoln and George Washington and what they did to make our country great."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We should unite the white and black people and people of all cultures."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Democrats and Republicans should unite also."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We should all come together and think of the best ways to solve the economic problems of our country."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "\u201cI believe that when we are able to come together and stop fighting amongst ourselves we will get along a lot better."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "\u201d These are the ideals and morals that we are teach \u2014 we are trying to teach our children in these days."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Yet we don\u2019t seem to be practicing them in our government, in anything."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If you are president, how will you begin to practice what we are preaching to our children, the future of our nation?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, I would say first of all, I think, it\u2019s a very good question."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I appreciate the quote from the young man."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There\u2019s no doubt about it that many American people have lost their faith in government."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They see scandals almost on a daily basis."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They see ethical problems in the Whitehouse today."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They see 900 FBI files, private person, being gathered up by somebody in the Whitehouse."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Nobody knows who hired this man."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So there\u2019s a great deal of cynicism out there."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I\u2019ve always tried in whatever I\u2019ve done is to bring people together."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I said in my acceptance speech in San Diego about two months ago that the exits are clearly marked."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If you think the Republican party is some place for you to come if you\u2019re narrow minded or bigoted or don\u2019t like certain people in America, the exits are clearly marked for you to walk out of as I stand here without compromise, because this is the party of Lincoln."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I think we have a real obligation, obviously public officials."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m no longer a public official."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I left public life on June the 11th of this year."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But it is very important."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Young people are looking to us."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re looking to us for leadership."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re watching what we do, what we say, what we promise and what we finally deliver."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I would think, it seems to me that there are opportunities here."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "When I\u2019m President of the United States, I will keep my word."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "My word is my bond."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One of the reasons that I ran for president, Sandy, is because not just children, a lot of grownups felt that way."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And if you remember four years ago, we had not only rising unemployment, but a lot of rising cynicism."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I had never worked in Washington as an elected official."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It seemed to me that most of the arguments were partisan, Republican, Democrat, left, right, liberal, conservative."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s why I said tonight I\u2019m for opportunity, responsibility and community."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And we\u2019ve gotten some real progress in the last four years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ve also done everything I could at every moment of division in this country, after Oklahoma City, when these churches were burned, to bring people together and remind people that we are stronger because of our diversity."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have to respect one another."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You mentioned Washington and Lincoln."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They were presidents at historic times."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This is an historic time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s important we go beyond those old partisan arguments and focus on people and their future."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When we do that, instead of shutting the government down over a partisan fight over the budget, we\u2019re a better country and that\u2019s why we\u2019re making progress now."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, bringing people together, again, is obviously a responsibility we all have."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I know you do it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Everybody here does it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You do a lot of things nobody knows about."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I have a little foundation for the disabled called the Dole Foundation."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ve raised about $10 million."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We don\u2019t talk about it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We try to help people with disabilities."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Bring them back into the mainstream of public life."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So it seems to me that there\u2019s also a public trust."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "When you\u2019re the president of the United States, you have a public trust and you have to keep that public trust, as George Washington, as Abraham Lincoln did."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I think now that trust is being violated and it seems to me we ought to face up to it, and the president ought to say tonight that he\u2019s not going to pardon anybody that he was involved in business with who might implicate him later on."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I will."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "First of all, let me say what we have done."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In the last four years we\u2019ve worked hard to promote more competition to bring down the rate of inflation in health care costs without eroding health care quality."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The government pays for Medicare and Medicaid, as you know, and that\u2019s very important."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Secondly, we\u2019ve added a million more children to the ranks of the insured through the Medicaid program."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have protected 25 million people through the passage of the Kennedy-Kassebaum bill that says you can use your health insurance if you change jobs or someone in your family has been sick."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We just recently ended those drive-by deliveries saying people can\u2019t be kicked out of the hospital by insurance companies when they\u2019ve just had babies."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So this is, that\u2019s a good start."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In the next four years, I want to focus on the following things."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number one, add another million children to the insured ranks through the Medicaid program."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number two, keep working with the states, as we are now, to add 2."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "2 million more people to the insurance system."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number three, cover people who are between jobs for up to six months."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That could protect 3 million families, 700,000 kids."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Number four, make sure we protect the integrity with the Medicare program and Medicaid program and not do anything in cutting costs which would cause hundreds of hospitals to close which could have been the case if the 270billion dollar Medicare cut that I vetoed, had been enacted in the law."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, first, let me say there you go again, Mr."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "President, talking about a Medicare cut."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I have heard you say this time after time."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I have heard you say on one TV appearance, \u201cthe media made me do it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "\u201d You were trying to defend your cut which was not a cut either, Reduction in the growth of spending."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ve always had at least 7 percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You\u2019ve said publicly that it\u2019s now three times the rate of inflation."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We ought to cut the growth to twice the rate of inflation."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s about where we are now."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So let\u2019s stop talking about cutting Medicare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "In my economic plan we increase it 39percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Don\u2019t forget what he tried to do with health care."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "17 new taxes, spend 1."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "5 trillion dollars, 50 new bureaucracies."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Can you believe that?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You couldn\u2019t even have been a cardiologist because he had quotas."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You\u2019re a cardiologist, it wouldn\u2019t affect you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But if somebody wanted to be a cardiologist, ten years from now, you\u2019d have to be certain you complied with some of the rules in this extreme medical plan the government was going to take over for all Americans."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are things we can do like the Kassebaum bill."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We changed many provisions I authored, cover preexisting conditions, portability, and there are other things we can do."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We still need to cover about 20million people and a lot of children."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I don\u2019t have time in 30 seconds to respond to fix all that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But let me just say the American Hospital Association said that the budget I vetoed could have closed 700 hospitals."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Not me."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "On a per-person basis, it did cut way below the rate of inflation in medical costs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But the important thing is what are we going to do now?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We need to help people who are between jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We need to cover more kids."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Provide more preventative care."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "My balanced budget covers mammograms for ladies, women on Medicare and also gives respite care to the million-plus families who have someone with Alzheimer\u00e2\u20ac\u2122s."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "These things are paid for in the balanced budget plan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019ll move us forward."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Jason, I appreciate that very much, being a former military man myself."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You know, we have 17,000 men and women today wearing our uniform that receive food stamps."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It shouldn\u2019t happen in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We have men and women wearing our uniform in substandard housing."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It shouldn\u2019t happen in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And it\u2019s time we take a look at the pay scales."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Did get a 3 percent increase this year, but that\u2019s not enough."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If we\u2019re going to ask young men and young women to protect us and defend us around the world, and we\u2019ve had more deployments under this administration than any time in history."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Fifty times we deployed troops around the world."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Every time you do that you take a risk."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Somebody, you know, maybe your son, maybe your grandson, maybe somebody else."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I think anybody who wears a uniform is a great American."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Remember Vietnam?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Remember when people almost used to walk across the street rather than have a contact with somebody who was in Vietnam?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s all behind us now, and it should be behind us, and the forgotten war, the Korean War, but I guess I can just answer you very plainly, Jason."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Thank you for doing what you\u2019re doing."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "America owes you a debt of gratitude."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "May I ask you a question?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What service are you in?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And what kind of small business do you have?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Good for you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me say, if Senator Dole mentioned this, I just signed a bill that we got through Congress to increase the amount of pay increase we could give for military personnel and to make sure the pay increase this year was above the rate of inflation."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I also presented to the Congress and they adopted a large package of quality-of-life improvements, which are very important."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I spent a lot of time talking to military families as well as military members all over the world and in bases all across the United States, and I became convinced after talking to the families and the personnel in uniform that we needed to not only have the pay raise but we needed to invest more in child care, housing, and other things to support families, especially when there are longer deployments because of the downsizing of the military."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I, we\u2019re going to do better, and we\u2019ll do better still, but this is a commitment I think that all Americans share without regard to party."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I don\u2019t disagree with anything that the President said, except he waited four years to do these things, and my view is it ought to be, it will be done on Day 1."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ll start working on Day 1 in the Dole- Kemp administration."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is important."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We only have ten divisions now."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We used to have 18."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had 25 fighter wings."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re down to 13."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had 536 ships."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re down to 336 ships."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I mean, we\u2019ve cut defense spending too much in the first place."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The President told you in \u201992 he would cut it 67 billion."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He cut 112 billion dollars, so we\u2019re right on the edge right now."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But the last thing we ought to do is make those who wear the uniforms sacrifice."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me just take two seconds of my time because I\u2019m the Commander-in-Chief to respond to one thing that was said."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I propose to spend 1."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "6 trillion dollars on defense between now and the year 2002 and there\u2019s less than 1 percent difference between my budget and the Republican budget on defense."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, on the Middle East, as you know, I worked very hard for peace in the Middle East."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The agreement between the Palestinians and the Israelis was signed at the White House and the agreement \u2014 the peace treaty with Jordan, I was \u2014 I went to Jordan to sign that \u2014 to be there."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But \u2014 and I think the United States can do whatever we reasonably can."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I can say this: I do not believe Yassir Arafat wants us to send troops to the West Bank."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have never been asked to send troops to the West Bank."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I saw the agreement that Prime Minister Rabin and Yassir Arafat signed on the West Bank."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It had 26 separate maps they had to sign, literally thousands of delineations of who would do what on the West Bank, and I believe if the parties will get together and in a good-faith manner make that agreement, that they\u2019ll be able to do it if we cannot impose a peace on the Middle East."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "My position has always been that the job of the United States was to minimize the risks of peace."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You know, if they asked me to be part of some monitoring force \u2014 as we are in the Sinai and have been since 1978 \u2014 to monitor the peace between Egypt and Israel, frankly, I would have to think about it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I would have to see what they wanted to do, but I don\u2019t believe that will be the request."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think what Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Arafat wants us to do is to make sure that everybody honors the agreements they\u2019ve already made."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s why I brought the leaders to Washington a few days ago."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think they will, and I think we\u2019ll get there."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Don\u2019t be too discouraged."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Let me, Jason, come back to you a minute because there is a big difference in the defense budget."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had 7 billion this year and 10 billion more than the president."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He puts his money in the outyears, and even if he were re-elected, he\u2019d be gone before anything would happen, and nothing is going to happen."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We don\u2019t have modernization now."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If we don\u2019t build more B-2 bombers in California and we lost about 500,000 jobs out in California, because of this devastation, these big, big cuts."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had to make cuts."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We didn\u2019t have the cuts the president promised he\u2019d make and then he doubled."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I think we need to go back and take a look."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re increasing defense reasonably \u2014 not too much, but we are increasing defense some \u2014 because we want to be prepared in case somebody here gets called up, Jason."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I would say I didn\u2019t hear what Yassir Arafat had to say, but I don\u2019t want to \u2014 you know, I think foreign policy, I want to be very careful about, and I\u2019m not here to argue about the President with some ongoing foreign policy matter."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "What I want the President to do, and I think he may have done it, his last statement, call for an unconditional end of the violence and have the parties keep on talking as they should talk and have a resolution."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The last thing we want to do is commit more forces anywhere."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But let\u2019s sort of keep this out of politics because it\u2019s pretty dicey right now."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When the change of government occurred in Israel, the people of Israel were saying we don\u2019t want to abandon the peace process."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We want more security."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Then a lot of mutual distrust developed."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "A lot of things happened which maybe shouldn\u2019t have happened."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When I asked Yassir Arafat and Prime Minister Netanyahu to come to Washington and got them together and they talked alone for three hours, I was convinced that they had to have a chance to make that peace."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Again, I\u2019d say if they asked us to play some reasonable role, I don\u2019t know how I would respond."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It would depend entirely on what they asked us to do, but the real secret there is for them to abide by the agreements they\u2019ve made and find a way to trust each other, and they\u2019re going to have to spend some time and trust each other."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Prime Minister Rabin gave his life believing that that trust could be materialized, and I still think it can be."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Oh, that\u2019s very easy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "My record going back to 1965 in the Congress, the first vote we had was whether or not you should put a little notice on cigarettes."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They may be danger \u2014 I voted I for everything since that time."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "In fact, 1992 we had a bill come before us that all the states had to comply or they\u2019re going to lose certain money."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We sent it to the Clinton Administration for implementation, and they waited three and a half years."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And during that period about 3,000 young kids every day started smoking."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So you add it up."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s about three million."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Not until again in 1996 \u2014 I don\u2019t want anybody to smoke."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "My brother probably died partly because of cigarettes."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I was asked a technical question."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Are they addictive?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Maybe they \u2014 they probably are addictive."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I don\u2019t know."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m not a doctor."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You shouldn\u2019t smoke."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You ought to be glad you quit, Oscar, 30 years."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And it seems to me what we need to do is to talk about not only tobacco but drugs, because drug use between 12- and 17-year-olds has doubled in this administration in the last 44 months."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Marijuana use is up 141percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Cocaine use up 160 percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re your kids."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s all happening in this administration because they cut funding and they cut interdiction."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "When I\u2019m President of the United States, we\u2019re going to use the National Guard and whatever sources we need to stop some of the drugs coming into America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If you stop the drugs, nobody is going to use the drugs; so don\u2019t smoke, don\u2019t drink, don\u2019t use drugs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Just don\u2019t do it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Oscar, the question of what the federal government should do to limit the access of tobacco to young people is one of the biggest differences between Senator Dole and me."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We did propose a regulation six months after I became President under the law he mentioned."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It simply says all these states \u2014 it made it illegal for kids to smoke."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now they have to try harder if they want to keep getting federal funds."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Then we took comments, as we always do, and there were tens of thousands of comments as to how we ought to do it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s what drug it out."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Meanwhile, we started the \u2014 also in \u201993 to look into whether cigarettes were addictive enough for the Federal Food and Drug Administration to ban the ability of cigarette companies to advertise, market and distribute their products to our kids."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "No president had ever taken on the tobacco lobby before."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I did."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Senator Dole opposed me."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "He went down and made a speech to people who were on his side saying that I did the wrong thing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think I did the right thing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "On drugs, I have repeatedly said drugs are wrong and illegal and can kill you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have strengthened enforcement, and everybody in San Diego knows we strengthened control of the border."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have done a lot more, and I hope we get a chance to talk about it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, they also know if they live in San Diego, Mr."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "President, if you\u2019re caught with 125 pounds of marijuana or less, you go back to Mexico."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You\u2019re not prosecuted."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You have a U."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "attorney here that sends `em back home, so I think that\u2019s pretty important."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s a lot of marijuana."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s a big supply."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But don\u2019t get into this smoke screen here Oscar."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The President in the election year decided I ought to do something, I haven\u2019t done anything on drugs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019ve been AWOL for 44 months, so let\u2019s take on smoking, see they haven\u2019t even done it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They haven\u2019t said what\u2019s going to happen, whether they\u2019re going to have it declared addictive."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Once it\u2019s a drug, does it apply only to teenagers or everybody in America?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Nobody should smoke, young or old, but particularly young people should not smoke, but my record is there."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s been there."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019ve voted eight, ten times since 1965."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "First of all, there are two different things."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Social Security and Medicare are entirely different in terms of the financial stabilities."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let\u2019s talk about them separately."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Social Security is stable until, as you pointed out, at least the third decade of the next century."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But we\u2019d like to have a Social Security fund that has about 70 years of life instead of about 30 years of life."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "What we have to do is simply to make some adjustments to take account of the fact that the baby boomers, people like me, are bigger in number than the people that went just before us and the people that come just after us."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I think what we\u2019ll plainly do is what we did in 1983 when Senator Dole served, and this is something I think he did a good job on when he served on the Social Security commission and they made some modest changes in Social Security to make sure that it would be alive and well into the 21st century."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And we will do that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s obvious that there are certain things that have to be done and there are 50 or 60 different options, and a bipartisan commission to take it out of politics, will make recommendations and build support for the people."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Medicare is different."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Medicare needs help now."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I have proposed a budget which would put ten years on the life of the Medicare trust fund."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s more than it\u2019s had a lot of the time in the last years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It would save a lot of money through more managed care, by giving more options, more preventative care and lowering the inflation rate and the prices we\u2019re paying providers without having the kind of big premium increases and out-of-pocket costs that the budget I vetoed would provide."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Then that would give us ten years to do with Medicare what we\u2019re going to do with Social Security; have a bipartisan group look at what we have to do to save it when the baby boomers retire."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But now we can, we ought to pass this budget now and put ten years on it right away so no one has to worry about it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well again, if you\u2019re somebody thinking about the future, I think it\u2019s fair to say that it\u2019ll be \u2014 we\u2019ll work it out."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is a political year, and the President is playing politics with Medicare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "After this year is over, we\u2019ll resolve it just as we did with Social Security in `83."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s a nonpartisan commission."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Ronald Reagan got together with Tip O\u2019Neill and Howard Baker, two Republicans and one Democrat."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They appointed a commission I was on that commission."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We resolved, we rescued Social Security."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We suggested \u2014 I think it has been over a year ago now \u2014 we do the same with Medicare, and the White House called it a gimmick."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Now last week I guess it was Donna Shalala said well we\u2019ll cut Medicare a hundred billion and appoint a commission."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It will probably have to be done by a commission."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Take it out of politics."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I think if I were a senior citizen I would be a little fed up with all these ads scaring seniors, scaring veterans and scaring students about education."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "When you don\u2019t have any ideas, you don\u2019t have any agenda, and all you have is fear, that\u2019s all you can use."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We have ideas in the Dole-Kemp campaign and we will rescue Medicare as we did Social Security."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Their idea was to have the poorest seniors in the country pay $270 more this year."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Their idea was a budget that the that the American Hospital Association said could close 700 hospitals."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Their idea was to charge everybody more out-of-pocket costs in their budget that I vetoed."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Not in an election year, sir."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I told them in early \u201995."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Senator Dole said 30 years ago he was one of 12 people who voted against Medicare and he was proud of it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "A year ago he said, \u201cI was right then."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I knew it wouldn\u2019t work."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "\u201d American seniors have the highest life expectancy in the world."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We need to reform it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Not wreck it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, we\u2019ve taken the first step."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Took it three steps, twice we sent welfare reform to the president and he vetoed it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "On the third time we sent welfare reform to the president he signed it but announced he would change it next year, and the vice president said they were going to do something else through the line item veto which I\u2019ve never understood, but that\u2019s sort of inside baseball."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "What we need to do is make certain we try to return people to work."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I\u2019m standing here as someone who, a long time ago as the county attorney in Russell, Kansas, one of our jobs every month was go through all the welfare checks and sign them."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And three of those checks were my grandparents\u2019."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So I know what it\u2019s like to have to look welfare head-on."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Obviously some people are going to need help."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is the United States of America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You\u2019re not going to go without food and you\u2019re not going to go without medical care."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But at the same time, if you want to get off Medicare, get back in the mainstream, we\u2019re going to provide jobs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to say you have a five-year limit."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You can be on welfare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You got two years to look for a job."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We provided more money for daycare in the bill that passed the senate, was vetoed, then it came back and the president signed pretty much the same bill."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But this is an important issue."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I don\u2019t think we ought to be giving welfare payments to illegal immigrants."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It puts a heavy burden on a state like \u2014 except for emergencies."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It puts a heavy burden on a states like California."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It costs California taxpayers 3 billion dollars a year."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Let me get out of your way here."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s illegal right now and has been for years for illegal immigrants to get welfare benefits."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me say that this is one of the most important issues in the world to me."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I started working on welfare reform in 1980 because I was sick of seeing people trapped in a system that was increasingly isolating them and making their kids more vulnerable to get in trouble."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I\u2019ve been working on it when I was a governor for a long time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When I became president I used the authority I had in this law to get out from certain federal rules to help states move people to work."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We reduced the welfare rolls by 2 million already."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, I\u2019ve got a plan with this new welfare reform law to work with the private sector, to give employees specific tax incentives to hire people off welfare, and to do some other things which will create more jobs in the private sector, at least a million, and move more people from welfare to work."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s very important."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I hope we get a chance to talk about this more."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There\u2019s not a more important issue."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I, I still remember a woman that I met ten years ago who said she wanted to get off welfare so her kids could tell, give an answer when they say, \u201cWhat does your mother do for a job?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "\u201d I met that woman again."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "She\u2019s got four kids."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One\u2019s got a good job, one\u2019s studying to be a doctor."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One\u2019s in technical school, one\u2019s an honor student in high school."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I want to make more people like that woman, Lily Harden, so I\u2019ve got a plan to do it, and it\u2019s just beginning."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well another thing we can do."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We talk about growth."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ve got a great economic package which I hope we will discuss later."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Across-the-board tax cut."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Child credits."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "$500 per child under 18."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Reduce the capital gains rate."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Create more jobs and opportunities for people on and off welfare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We have other provisions."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Less litigation."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The trial lawyers, big supporters of the president."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The trial lawyers, of course they like lawsuits, so every time they have a bill that they want vetoed, the president vetoes it for them."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ve got to understand in America that we\u2019ve got to have growth, create more jobs and more opportunities in the private sector."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The president takes credit for all these people off welfare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The governors did that."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Federal government doesn\u2019t do that."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And the government doesn\u2019t create jobs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re created in the private sector."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "First of all, we have a big plan to reduce the capital gains tax when people sell their homes."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Part of my tax package which is paid for in my balanced budget plan would exempt up to half a million dollars in gains from people when they sell their homes, which I think is the biggest capital gains benefit we could give to most ordinary Americans."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We also have capital gains now for people that invest in new small businesses and hold the investment for five years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It was part of our other economic plan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And these are things I think that will go a long way toward helping America build a stronger economy and a better tax system."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think the most important thing to emphasize, though, is that we also have to help people in other ways to build a strong economy and we can\u2019t have any tax cut that\u2019s not paid for."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One of the big differences between Senator Dole and myself is that I told you how I\u2019m going to pay for every penny of the tax cuts I recommend and we\u2019ve worked hard to bring this deficit down and that\u2019s helped people in the real estate business because the interest rates are lower."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve got home ownership at a 15-year high."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve got this country going in the right direction."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So we can have a tax cut but my priority would be to help the families who need it with child rearing and education and buying a first-time home and helping for health care costs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So from your business, helping in buying a first-time home, exempting the capital gains on the sale of the home would be the most important things that you asked about."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you, Pamela."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Pam, what the president didn\u2019t tell you is all his tax cuts expire the year 2000, but these increases go on forever."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s the liberal approach."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You know, give you a little tax cut, give you a couple of years, then make the tax increases go on forever."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So the net tax increase in his plan\u2019s somewhere between 60 and 80 billion dollars."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We have in the Dole-Kemp economic plan, unless unless your home\u2019s worth over 500,000 dollars."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And if it is, I appreciate it congratulate you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But in any event, no tax."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s a good idea, they saw it, they picked it up and put it in theirs, but it\u2019s only temporary."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Ours are permanent, ours is a good plan."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Create jobs and opportunities."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Capital gains rate, cut it in half, cut it 28 percent to 14 percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are 7 trillion dollars in assets locked up in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If we cut the capital gains rate, I\u2019m told everyday, I had a letter from a former constituent in Kansas saying I want to sell property in California, put it in my business in Kansas, I can\u2019t, because the capital gains rate\u2019s too high."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We need to get the economy going."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019ll help social security."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019ll create more jobs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019ll help people who want to get off welfare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s the American way."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Before Senator Dole left the Senate, he and Mr."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Gingrich also were recommending that we pass these tax cuts only insofar as we could pay for them."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We all assume that the tax cuts will be permanent."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But we have to prove we can pay for them."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "After he left the senate, we abandoned that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s why most experts say that this tax scheme will blow a huge hole in the deficit, raise interest rates and weaken the economy and that will take away all the benefits of the tax cut with a weaker economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s why we have to balance the budget, and I will tell you how I\u2019m going to pay for anything I promise you, line by line."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You should expect that from both of us."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, I think age is very \u2014 you know, wisdom comes from age, experience and intelligence."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And if you have some of each \u2014 and I have some age, some experience and some intelligence \u2014 that adds up to wisdom."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I think it also is a strength."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s an advantage."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I have a lot of young people work in my office, work in my campaign."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is about America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is about, somebody said earlier, one of the first questions, we\u2019re together."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s one America, one nation."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m looking at our economic plan because I\u2019m concerned about the future for young people."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m looking about drugs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The president has been AWOL for four years."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m looking about crime."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He\u2019ll claim credit now for crime going down, but it happens because mayors and governors and others have brought crime down."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Rudy Giuliani, Mayor of New York, brought crime down 25 percent just in New York City."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Of course the president will take credit for that."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "My view is we want to find jobs and opportunities and education."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This year the Republican Congress, as far as student loans went from 24 billion to 36 billion over the next six years."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "A 50 percent increase."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The highest appropriation."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "6 billion dollars for Pell Grants, very, very important."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We also raised the amount of each Pell Grant."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "In our economic plan, the $500 child credit can be used for young people, rolled over and over and over, you, of course not this age, but if you have a child two years old, 7 percent interest would be worth about $18,000 by the time that child was ready for college."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I can only tell you that I don\u2019t think Senator Dole is too old to be president."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s the age of his ideas that I question."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You\u2019re almost not old enough to remember this."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But we tried this before, promising people an election year tax cut that\u2019s not paid for."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You tried it last time you ran."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Tell him you can have everything you got."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And so let me just say this."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Did you hear him say that Congress just voted to increase student loans and scholarships?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They did after he left."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The last budget he led cut Pell Grants, cut student loans."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I vetoed it when they shut the government down."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "My plan would give students a dollar-for-dollar reduction for the cost of a typical community college tuition."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "A $10,000 deduction a year for the cost of college tuition."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We let families save in an IRA, withdraw tax free to pay for the cost of education and it\u2019s all paid for."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "My whole administration is about your future."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s about what the 21st century is going to be like for you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I hope you will look at the ideas in it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "When you don\u2019t have any ideas, I guess you say the other person\u2019s ideas are old."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "As I said earlier, they don\u2019t have any ideas."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Their ideas is to raise taxes and spend more money."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s the liberal philosophy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s what you like, you\u2019ve got a perfect candidate."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "President Clinton came to California in 1992."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He said the centerpiece in my first four years is going to be a middle class tax cut."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Now all you got that tax cut, congratulations."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Because you got a big tax increase."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You got a 265 billion dollar tax increase."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And he stands here and says politicians who make promises like that ought to be ignored."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well he made the promise."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I keep my word, and you will have a tax cut."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It will help you in whatever you\u2019re going to do in the next few years."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "No, ma\u2019am, I don\u2019t."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I am against quotas."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m against giving anybody any kind of preference for something they\u2019re not qualified for."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But because I still believe that there is some discrimination and that not everybody has an opportunity to prove they\u2019re qualified, I favor the right kind of Affirmative Action."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ve done more to eliminate Affirmative Action programs I didn\u2019t think were fair and tighten others up than my predecessors have, since affirmative action\u2019s been around."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But I have also worked hard to give people a chance to prove that they are qualified."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me just give you some examples."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve doubled the number of loans from the small business administration, tripled the number of loans to women business people, no one unqualified, everybody had to meet the standards."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve opened 260,000 new jobs in the military to women since I\u2019ve been president."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But the joint chiefs say we\u2019re stronger and more confident and solid than ever."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me give you another example of what I mean."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "To me, Affirmative Action is making that extra effort."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s sort of like what Senator Dole did when he sponsored the Americans with Disabilities Act and said to certain stores, okay, you have to make it accessible to people in wheelchairs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We weren\u2019t guaranteeing anything, anybody anything except the chance to prove they were qualified, the chance to prove that they could do it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And that\u2019s why I must say I agree with General Colin Powell that we\u2019re not there yet."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We ought to keep making those extra effort Affirmative Action programs, the law and the policy of the land."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, we may not be there yet but we\u2019re not going to get there by giving preferences and quotas."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I supported that route for some time and again I think it gets back to experience."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "A little experience, a little age, a little intelligence."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I noted that nobody was really benefitting except a very small group at the top."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The average person wasn\u2019t benefitting."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "People who had the money were benefiting."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "People who got all the jobs were benefiting."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It seems to me that we ought to support the California civil rights initiative."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It ought to be not based on gender or ethnicity or color."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Or disability."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m disabled."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I shouldn\u2019t have a preference."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I would like to have one in this race, come to think of it, but I don\u2019t get one."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Maybe we can work that out."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I get a 10-point spot."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "No discrimination."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Discrimination ought to be punished but there ought to be equal opportunity."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We ought to reach out, make certain everybody has a chance to participate."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Equal opportunity."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But we cannot guarantee equal results in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s not how America became the greatest country on the face of the earth."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I have never supported quotas."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019ve always been against them."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I don\u2019t favor equal results, but I do favor making sure everybody has a chance to prove they\u2019re competent."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The reason I have opposed that initiative is because I\u2019m afraid it will end those extra effort programs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Again I say, think of the Americans with Disabilities Act."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Make an effort to put a ramp up there so someone in a wheelchair can get up."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You don\u2019t guarantee they get the job."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You guarantee they have a chance to prove they\u2019re competent."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And as I said, this is not a partisan thing with me."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "General Colin Powell said the same thing, he fears the initiative would take away the extra effort programs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "No preferences to unqualified people, no quotas, but don\u2019t give up on making an extra effort until you\u2019re sure everybody has a chance to prove they\u2019re qualified."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well I\u2019m glad you asked."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "What\u2019s your first name?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I first want to say the President didn\u2019t quite give you all of the stuff on the quotas, because the Justice Department had what we called the Piscataway case up in New Jersey."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s pretty clear that was a quota case, and just because one teacher was white and one black and they had the same qualifications, you know they decided who would stay there."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It shouldn\u2019t be that way."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Now, the President can say well he wants to mend it, not end it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are 168 federal programs that allow quotas."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He ended one."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Now, this economic package, Tim, I\u2019m glad you asked, because you look like the type that might be able to benefit from a 15 percent across- the-board tax cut and $500-per-child tax credit, or \u2014 you know, estate tax relief which you\u2019re not interested in right now, but capital gains rate reduction."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If you\u2019re taking care of an elderly parent, you get a $1,000 deduction."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We think that\u2019s very important because a lot of people take care of their parents."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "How do we pay for it?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You can have a constitutional amendment to balance the budget, which the President opposed and defeated."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He twisted arms and got six Democrats to vote with him and lost by one vote."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to balance the budget, by the year 2002."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The President wants to spend 20 percent more in the next six years, and I want to spend 14 percent more and give that 6 percent back to the people."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Remember, it\u2019s your money; it\u2019s not his money."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And it\u2019s not my money."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s your money."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And you shouldn\u2019t have to apologize for wanting to keep all you can of it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But he ought to apologize for wanting to take more and more."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He wants to give you sort of a government tax cut, which really doesn\u2019t mean anything."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You know, one of the responsibilities of growing older, it seems to me, is being able to tell people something they may not want to hear just because it\u2019s true."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "When they had a 250 billion dollar tax scheme, that is half the size of this one."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This one is 550."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They passed the budget."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "They have 270 billion dollars in Medicare cuts the first education cuts in history, cut environmental enforcement by 25 percent, took away the guarantee of quality standards in nursing homes, took away the guarantee of health care for folks with disabilities."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Don\u2019t take my word for this."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The Economist magazine polled lots of economists, seven Nobel prize winners who said if this tax scheme passes, it will require huge cuts, 40 percent, in the environment and law enforcement and education."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It will require bigger cuts in Medicare than I vetoed last time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "My targeted tax cut is for child-rearing, buying a first-time home, paying for health care costs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And it\u2019s paid for, and I\u2019ll tell you how I\u2019ll pay for it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "He won\u2019t tell you because he can\u2019t."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Your targeted tax cut, Mr."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "President, never hits anybody."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s the problem with it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Nobody ever gets it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I must say I\u2019m a little offended by this word \u201cscheme."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "\u201d You talked about it last time, you talked about a risky scheme and Vice President Gore repeated it about ten times in St."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Petersburg."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If I have anything in politics, it\u2019s my word."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "My colleagues, Democrats and Republicans, will tell you that Bob Dole kept his word."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m going to keep my word to you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m going to keep my word to the American people."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to tax \u2014 cut taxes and balance the budget."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re not going to touch Medicare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s going to grow 39 percent, and Social Security is going to grow 34 percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The President doesn\u2019t have any ideas so he\u2019s out trashing ours."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This isn\u2019t going to blow a hole in the deficit."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He promised you a tax cut in 1992, and if you got one, you ought to vote for him."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you, well, first let me say that I signed the Family Leave Act."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It was my very first bill, and I\u2019m very proud of it because it symbolizes what I think we ought to be doing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I don\u2019t take credit for all the good things that have happened in America, but I take credit for what I\u2019ve tried to do to work with others to make good things happen."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Most important good things that happen in America happen in families."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Just about every family I know, the main concern is how am I going to succeed at work and still do right by my children."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Family medical leave has let 12 million families take a little time off for the birth of a child or a family illness without losing their job."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019d like to see it expanded in two ways."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019d like to say you can also take a little time off without losing your job to go to a regular parent-teacher conference or to go to a regular doctor\u2019s appointment with a family member."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019d also like to see the overtime laws change so that we could have some more flex time so that at the discretion of the worker, the worker, if you earn overtime, you could decide when you want that time to be taken, in cash or in time with your family if you\u2019ve got a family problem."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I never go anywhere, it seems like, where I don\u2019t meet somebody who has benefited from a Family Leave Law."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In Longview, Texas the other day, I met a woman who was almost in tears because she had been able to keep her job while spending time with her husband who had cancer."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One of the people who\u2019s here with me today met a woman in the airport saying her son, Jess was able to be present at the birth of her child because of the Family Leave Law."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So yes, I think it should be expanded."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have to help people succeed at home and at work."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, 88 percent of the people \u2014 the President claims 11 million are already covered and only 5 percent \u2014 keep in mind only 5 percent of the employers are affected by the Family Leave Act."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had a better idea."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We didn\u2019t win."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had a better idea."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Now we have a majority and we get a president."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That was a tax credit for the employer."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Instead of the federal government, we had that tax credit, pick up some of the costs, because if you have to hire a replacement worker, that\u2019s a cost."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is the way it ought to work, give more power back to the states and back to the people back to the taxpayers, not always the long arm of the federal government."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But keep in mind this bill covers 5 percent of the employers, and 95 percent of the employers and all those employees they employ are not covered in this act."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And according to Investors Daily, which I read just a couple of days ago, 88 percent of the people he claims credit for are already covered in collective bargaining agreements or other agreements."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had family leave in our office, I\u2019m certain."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I see my friend Senator Mitchell."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "He had family leave."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I work every day with people."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I spend a lot of time in hospitals."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I know what it\u2019s like to be in a hospital."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Sure we want family leave."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But there\u2019s a better way to do it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I only have 30 seconds."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I can\u2019t fix the statistics."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It covers the majority of the work force."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Employers of under 50 are exempted."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The bill originally covered employers of 25 and more, but because of opposition, we went up to 50."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Senator Dole led the opposition to it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "He filibustered it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "He said it was a mistake."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "He said it would hurt the economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve had record numbers of new small businesses and 10 and a half million jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It didn\u2019t hurt the economy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "He still believes it\u2019s a mistake."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I believe it\u2019s right."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You can decide which of us you think are right."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s up to you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, right."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ve lost 357,000 manufacturing jobs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The Bureau of Labor Statistics today said they made a mistake."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s probably going to take a much, much higher figure."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So we talk about all these new jobs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019d better wait and see what the results are."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to do that with a more aggressive trade policy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to do that with an economic package."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to do that with regulatory reform."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You know, regulations cost the average family right here, Democrat or Republican, about $7,000 a year."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "7,000."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s like a tax."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s put a lot of people out of business."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I met a lady in Colorado Springs about seven weeks ago now."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "She had a small business with 63 employees."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "She finally gave it up."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Why?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Because of paperwork and regulation."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Congress passed a paperwork reduction act."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The President exempts the IRS which creates three-fourths of the paperwork."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to have regulatory \u2014 we\u2019re gonna have litigation reform."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You know, I fell off a platform out in California, Chico, a while back."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Before I hit the ground, my cell phone rang and this trial lawyer said, I think we\u2019ve got a case here."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ve got to stop some of these frivolous lawsuits."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re putting people out of business, men and women."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Get the economy going, cut the capital gains rate, create more jobs and opportunities for everybody in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s what we will do."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And my word is good."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I keep my promises."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I don\u2019t break my promises after the election, and I don\u2019t make new promises in an election year."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to get it done."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to grow some of these jobs in America, because we need to get it \u2014 they\u2019re going the wrong way."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let\u2019s look at the facts."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We lost a lot of manufacturing jobs in the 12 years before I became President."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve gained manufacturing jobs since I\u2019ve been President."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019ve negotiated over 200 separate trade agreements."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let\u2019s just take California."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In California, we made 37 billion dollars\u2019 worth of telecommunications equipment eligible for export for the first time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019re selling everything from from \u2014 from telephones to CDs to rice in Japan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019re selling American automobiles in Japan now."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I visited a Chrysler dealership in Japan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019re No."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "1 in automobile manufacturing production and sales around the world again, the first time since 1970s."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Why?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Because we\u2019ve had tough aggressive trade policies, and because we\u2019ve got interest rates down."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have a good, stable economic policy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Because we reduced the deficit four years in a row."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "For the first time in the 20th century the President has done that in all four years and that\u2019s why I don\u2019t want to see us blow a big hole in the deficit with a tax program we can\u2019t pay for, so your interest rates will go up, and you\u2019ll have to pay back in higher interest rates what you allegedly will get in a tax cut, so I say keep working on expanding the markets."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "More than half of these 10 and a half million new jobs are in higher wage areas and we\u2019ll have more manufacturing and sales around the world."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You may think the biggest employer in America is General Motors, but I\u2019ve got news for you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s Manpower Services."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Hiring people temporarily who have lost their jobs and they get to work for 30 days or 60 days."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s a good economy?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I don\u2019t think so."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They\u2019re setting new records this year."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had the worst economy in a century."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had the slowest growth, about 2."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "5 percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The president inherited growth of over 5 percent."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We don\u2019t have the S&L crisis anymore."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Republicans have cut 53 billion dollars in spending, that\u2019s why the budget looked good."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It didn\u2019t look good the first two years when we had a Democratic president and \u00c2 Democratic Congress."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m for it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s my policy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m for it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I believe that any law- abiding, tax-paying citizen who shows up in the morning and doesn\u2019t break the law and doesn\u2019t interfere with his or her neighbors ought to have the ability to work in our country and shouldn\u2019t be subject to unfair discrimination."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m for it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, I have a little time left so let me just say that I get attacked so many times on these questions; it\u2019s hard to answer these things."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Senator Dole just said we had the worst economy in the century."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In February he said we had the best economy in \u00c2 30 years, just February."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I don\u2019t want to respond in kind to all these things."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I could."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I could answer a lot of these things tit for tat."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But I hope we can talk about what we\u2019re going to do in the future."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "No attack ever created a job or educated a child, or helped a family make ends meet."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "No insult ever cleaned up a toxic waste dump or helped an elderly person."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, for four years that\u2019s what I worked on."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If you give me four years more I will work on it some more and I will try to answer these charges, but I prefer to emphasize direct answers to the future and I gave you a direct answer."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, I\u2019m opposed to discrimination in any form but I don\u2019t favor creating special rights for any group."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That would be my answer to this question."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I\u2019m, you know \u2014 there would be special rights for different groups in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I\u2019m totally opposed to discrimination."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I don\u2019t have any policy against hiring anyone; whether it\u2019s lifestyle or whatever, we don\u2019t have any policy of that kind, never have had in my office or will we have in the future."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But as far as special rights, I\u2019m opposed to same-sex marriages, which the President signed well after midnight one morning in the dark of night."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I opposed it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I will get back to the economic package because, again, I think this is very important."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If there\u2019s anything that\u2019s going to change America it\u2019s get the economy growing."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The President inherited a good economy, sure the S&L crisis then were selling assets."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Got a Republican Congress cutting spending finally and he said it\u2019s the best four years ever."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s not true."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We had a 1."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "2 million bankruptcy, set a new record."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Credit card debt has never been higher."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I just told you about this manufacturing job loss which is going to increase."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We need a good strong economic package, let the private sector creates the jobs and they can do it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If you believe that the California economy was better in 1992 than it is today, you should vote for Bob Dole."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I have worked so hard out here to help turn this economy around."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me just give you one tiny example."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In San Diego where we had some defense cutbacks, we funded a project for the University of California San Diego to use airplane composite materials to build lighter, stronger bridges, a little project in a program that Senator Dole opposed."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And that composite now is going to be built around the bridges on the Santa Monica Freeway to help minimize the impact of earthquakes and create more jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s just one tiny example."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Maybe we will talk about some more before it\u2019s over."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, one thing I did was oppose the government takeover health care that President Clinton offered in 1993, which created 17 new taxes and 50 new bureaucracies and price controls, because we were afraid the very thing you mentioned would have happened."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Everybody would have been forced into managed care."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You couldn\u2019t have chosen your own doctor and that would have been the end."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I think right now we got to go back."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I know they\u2019ve appointed a commission to take a look at managed care."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Maybe that\u2019s part of the answer."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But it seems to me if we start to take choices away from people and if we drive them into one type care, eliminate fee-for-service altogether or eliminate the fact you can go to your own doctor, you have to go somewhere else, then I think we\u2019ve taken a giant step backward in the United States of America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We have the best health care delivery system in the world and we want to keep it that way."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s why we opposed the government take over health care plan that President Clinton tried and tried and tried to get through Congress."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Didn\u2019t get it done."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And ended up we had more votes than he had, then they decided to pull the plug."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It was a big, big mistake."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Now whether or not he\u2019ll do that again I\u2019ve heard some of the people say, well, that\u2019s the model we ought to use and if he\u2019s reelected maybe he will come back and try it again."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I hope not."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I hope not in both cases."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But it does seem to me that you\u2019ve raised a very important point that needs to be addressed."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You\u2019re going to have to watch it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Gonna have to take a look at all the managed care going on in California, or we\u2019re going to end up losing our best care that we have in the world."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m just curious."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "How many of you are under managed care plans?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Raise your hand if you\u2019re in managed care plan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "How many of you like it?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Two."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Well, one of the things that I tried to do was to make sure that everybody in the country who was under a managed care plan should at least have three choices of plans, and would have the right to get out without penalty every year."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now that\u2019s not a government takeover."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s like the family of medical-leave law; it just tries to set the rules of the game."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m strongly in favor of a federal bill to repeal any gag rules on providers."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In other words, I believe that doctors should not be able to be kicked out of managed care plans just because they tell the patients what they need and what more expensive care options might be."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If we\u2019re saving money and managing resources better, that\u2019s a good thing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If we\u2019re saving money and depriving people of care, that\u2019s a bad thing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "A good place to start is to say no managed care provider can gag a doctor and kick the doctor out of the managed care plan for the doctor, telling the patient, you need a more expensive test, you need a more expensive procedure, your health requires it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, I don\u2019t have any quarrel with that."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I think that would help."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I think what we want to avoid is falling back into this nationalized health care system that President Clinton wanted to give us in 1993."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If that isn\u2019t a liberal idea, I\u2019ve never heard one."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "17 new taxes, price controls, 50 new bureaucracies."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019d have that trouble all over America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We need to deal with managed care."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It not only happened in California."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s happening in other states that we visit, too."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s a national problem."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Not just a state problem."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "First of all, I think it\u2019s important to make voting more accessible."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s why I strongly supported the Motor Voter law."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There was a big story I think in U."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Today of the millions of people who have now registered because of it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Secondly, I think we need to look at making the elections more accessible."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You know several states now are letting people vote over three weeks."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "A lot of people are busy and it\u2019s hard for them to just get there and vote."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Third thing I think we need is more forums like this, which is one of the reasons I have so strongly supported campaign finance reform."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Because if you want to cut the cost of campaigns, you have to open the airways, because what drives the cost of campaigns are the cost of advertising on television, radio, newspaper, mass mailing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And if you open the airways to more things like this, you see it\u2019s not just you that are participating here."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "For every one of you who stood up here and asked a question tonight, I promise you there\u2019s a 100,000 Americans who said I wish I could have asked that question."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I think we have to change the nature of politics."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The last thing I think we should do is something I have been trying to do since I have been president, is every time I do something in a public way, I try to have a real American citizen there who is directly affected by it so that people can see the connection of what happens way across the country, in Washington with more police on the street, in San Diego, clean up the sewage here in San Diego, doubling the border guards here in Southern California, that there is a connection between what we do way back there and what we do here."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Those are my best ideas about it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, I don\u2019t know of any perfect solution."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I have been in politics for some time, and I worry about the people who don\u2019t vote."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I wonder if it\u2019s our fault, the candidates\u2019 fault."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "People say, \u201cI don\u2019t care."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "One vote doesn\u2019t make a difference."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "\u201d I can give you hundreds of \u2014 you can probably give me 200 cases where one vote made a difference."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I know it made a lot of difference many times in the Congress."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Campaign finance might help."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It might help the contributions from coming in from Indonesia or other foreign countries, rich people in those countries, and then being sent back after the L."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Times discovers it, $250,000."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But maybe there ought to be more debates."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I would be willing to have another debate this year."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We can invite all the candidates."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And talk about the economy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If we don\u2019t get the economy to grow, if we don\u2019t cut taxes, and give people child credits, and cut the capital gains rate, and get this economy growing, we\u2019re going to limp into the next century."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If we grow the economy it\u2019s going to help Social Security."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s going to help jobs."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s going to help everything."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me make one other suggestion, because you\u2019re a teacher, you can have an impact on that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One of the things I think that really frustrates people is that so often political campaigns seem to be more about the politicians that are running than the people."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And there is a connection."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And I think what we have to do is convince people there is a big difference, if you vote one way you will have a Department of Education in the 21st century, if you vote the other way, you won\u2019t."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If you vote one way you will have an expansion of family leave."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If you vote the other way, you will be lucky to save it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But these are important questions."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And people have to decide."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I think that the American people also need to be a little more responsible and think about whether there\u2019s a connection with their lives and what we do in Washington."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Iris."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, we have in our economic pack, \u2014 individual retirement accounts where we think it will encourage savings."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You can also use those accounts for health care or education or a first home."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re doing that precisely, and I think one thing sooner or later we\u2019re going to have to consider is take a look at the Social Security system."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Because we\u2019ve got a lot of people advocating we don\u2019t want to put our money into Social Security."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You have to be very careful of that because you have to protect the people who are already in the pipeline."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s something you might consider."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m not suggesting it will be done, but at least we ought to look at it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s been looked, When I was chairman of the finance committee which handled Social Security we looked at all these options, and one thing we\u2019ve got to make certain, when I used to go home my mother would tell me all I\u2019ve got is my Social Security, don\u2019t touch it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And we didn\u2019t touch it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We preserved it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I\u2019m an optimist."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Your your Social Security is going to be there when you retire."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We will fix it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It will probably happen in the year 2012 or 2015."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "In 1983 we thought we had a 75 -year fix."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It didn\u2019t work."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Much, much less, but at least we fixed it for some time and 37 to 40 million people get their checks on time."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So we need to preserve the system."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And we need to make it stronger."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But we also need to look at some options, whether or not we \u2014 depending on what the options are."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "In fact, they have got a commission right now in Congress, a bipartisan commission, looking at all the different options they will present to the next Congress."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "so I think we will wait, see what they present, take a look at it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Iris, this is one where we have some agreement, I think."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Only about half the people in this country have pension plans."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And Social Security is not enough for a lot of people to live on, or at least is not enough for them to maintain anything like their previous lifestyle."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So we\u2019ve got to figure out how are we going to have more people with pension plans, and pension coverage has been declining as more and more people work for small businesses and fewer people work for big businesses."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So what, what is in my plan and I think it\u2019s almost identical in Senator Dole\u2019s plans is we make more people eligible to save in an IRA and let couples, married couples save more and then they could withdraw from it tax-free if they needed to, for medical emergencies or buy a home or education, but they could also save to supplement retirement."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "In addition to that, we just passed a sweeping small business reform that makes it easier for small business people to take out 401 K plans for themselves and employees and much easier for employees to carry it from job to job."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "My best friend from grade school is a computer software salesman and he told me last time he changed employers it took him nine months to figure out how to transfer his 401K plan."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now none of that will happen anymore."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I hope over the next ten years you will see a big increase over the percentage of people that have pension plans, plus a secure Social Security system."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Did you say you\u2019re unemployed?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "See, the first thing we have to do is get you a job."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And that\u2019s the economic package again."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Create jobs and opportunities."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Reduce the capital gains rate."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Reduce regulatory reform."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Stop some of this senseless litigation and let people work in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I think that\u2019s that\u2019s the thrust we will make."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Obviously if Social Security is a very important program, it should \u2014 it will be preserved."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Democrats or Republicans, it will be preserved."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We want to make certain we protect those in the pipeline just as we did back in 1983 and we did it on a bipartisan basis."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We took it out of politics."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "people get so tired of politics."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We ought to do the same with Medicare."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Maybe we can make a deal here tonight."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me tell you what we have done."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have concluded with Japan 21 \u2014 about to be 22 \u2014 trade agreements now."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And since we did that, in the areas where we concluded, trade agreements or exports to Japan have gone up by 85 percent in the last four years and our trade deficit with Japan has gone down."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Until about five months ago the Japanese economy was in a deep recession."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s coming back now, so they can buy even more American products, and I think it will go down more."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But I\u2019m very \u2014 that\u2019s one of the real success stories here of the work we\u2019ve done."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019re selling Japanese rice from California for the first time."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I visited a Chrysler dealership in Tokyo."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I visited a Jeep plant, oldest plant in America, a plant in Toledo, Ohio, where they\u2019re going to export 41,000 right hand drive Jeeps this year, and they\u2019ve got 700 new jobs because of it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There\u2019s no easy way to do this when you\u2019re dealing with an economy that\u2019s traditionally been more closed than one that\u2019s traditionally been more open."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You have to gut it out, issue by issue by issue."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We agreed in principle on an insurance agreement, and we\u2019re working on three or four other areas now, but the way you have to do it is make sure you\u2019re competitive."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We\u2019re the most competitive country in the world now, and then just fight to open those markets and go try to make the sale, and that\u2019s what our trade ambassador our commerce secretary and all the other people in our administration are trying to do."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, the bottom line is we have to stop exporting jobs here."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are 357, 000 good jobs \u2014 manufacturing jobs, which are lost."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I assume some of those are because of our trading partners."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We didn\u2019t have access to their markets."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We ought to insist on access."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "If we don\u2019t have access to their markets the same way they\u2019ve access our markets, we ought to say, \u201cWait, that\u2019s enough."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Time out."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "When you give us access, we\u2019ll give you access."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "\u201d It\u2019s very hard to get into the Japan market, as everybody knows."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They want to get into our market."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They sell a lot of automobiles here, create a lot of jobs \u2014 those who sell exports."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And that\u2019s very important to the economy, but I think we want to make certain."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I supported the President\u2019s trade policy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But we got to be more aggressive."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Once you have a policy, then you have to go out and be aggressive and enforce that policy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are American jobs that are being lost."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is what Ross Perot complains about."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I\u2019d say to the Reform party, take a look at the Republican party."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re the reform party, and we\u2019re going to make things better, and one of the things we\u2019re going to do is stop exporting jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me say again, we\u2019ve had over 200 separate trade agreements in the last four years."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "By far, the largest number in American history \u2014 not just the big ones you read about, but a lot of smaller ones."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And now what we have to do is to focus on those things we\u2019re real good at and make sure we\u2019re getting a fair deal."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We just had a pretty serious dispute with China because they were copying our CDs, and costing thousands of jobs in places like California."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So we have \u2014 as we said, if you want to keep doing business and selling your products over here, you\u2019re going to have to quit pirating our CDs, and they agreed to do things and verify that they had done it, which will make the problem much better."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "There is not a simple answer."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You have to work on this day in and day out, every month ,every year, every issue, to make sure that we have not only free trade but fair trade."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I\u2019m proud that we\u2019re better off on that than we were four years ago."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Hi, Rod."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well no doubt about it, our founding fathers had a great deal of wisdom."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "In addition to what you mentioned, they also were concerned about this all-powerful central government in Washington, D."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": ", that\u2019d in effect confiscate your property, so \u2014 I carry it in my pocket \u2014 I can\u2019t pull it out or I\u2019d violate the rules \u2014 a copy of the Tenth Amendment which says we ought to return power to the states and the people, the people here."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You ought to make more decisions."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Honor, duty, and country, that\u2019s what America is all about."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Certainly the President of the United States, the highest office in the world, the most important office in the world, has a responsibility to young people, as we talked about earlier."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "To everyone."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "By example."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And when it comes to public ethics, he has a responsibility."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And you have 30-some in your administration, either left or being investigated or in jail or whatever, then you\u2019ve got an ethical problem."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is public ethics; I\u2019m not talking about private ethics."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Talking about public ethics."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "When you have 900 files gathered up by some guy who is a bouncer in a bar and hired a security officer to collect files, in Watergate \u2014 I know a person who went to jail for looking at one file, one FBI file."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are 900 sequestered in the White House."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "900."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "People like you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Why should they be rifling through your files?"
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The president has a great responsibility."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "That\u2019s one that I understand and certainly will carry out."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This is the most religious, great country in history."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And yet, interestingly enough, we have the most religious freedom of any country in the world, including the freedom not to believe."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And now we have all these people just up the road in Los Angeles County, we have people from 150 different racial and ethnic groups and tons of different religions, but the fundamental tenets of virtually every religion are the same, and what I try to do is to support policies that would respect religion and then help parents inculcate those values to their children."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me very briefly give you some examples."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One of my proudest moments was signing the Religious Freedom Restoration Act, that says the government has got to bend over backwards before we interfere with religious practice."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So I changed the Justice Department\u2019s effort to get a church to pay back a man tithe, because he was bankrupt when he gave it."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I have supported character education programs in our schools, drug-free schools programs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I supported giving parents a V-chip on their television so if they don\u2019t want their young kids to watch things they shouldn\u2019t watch, they wouldn\u2019t have to."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That is the kind of thing we have to do, give people like you and our families the power to give those values to our children."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I think it\u2019s \u2014 before I came in, my wife and daughter and I had a prayer."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Because it\u2019s God\u2019s will, whatever happens."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s God\u2019s will, it\u2019ll happen."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "The constitutional amendment for voluntary prayer in school, in my view would be a great idea."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I support it; the president opposes it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It seems to me the president, whoever the president may be, this is one of his highest responsibilities."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "People look to the President of the United States more than any other person in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And that\u2019s the way it\u2019s always been, and that\u2019s the way it always will be."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I want to answer your question, but let me say one other thing."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We don\u2019t need a constitutional amendment for kids to pray, and what I did was to have the justice department and the education department for the first time ever issue a set of guidelines that we gave to every school in America, saying that children could not be interfered with in religious advocacy when they were praying, when they were doing whatever they could do under the constitution, just because they were on a public school ground, and I think anyone who\u2019s experienced this will tell you that our administration has done more than any in years to clarify the freedom of religion in the public square, including in the public schools."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Now, I think I have to let Senator Dole speak for himself."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It wouldn\u2019t be fair for me to do that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I would wind up \u2014 I mean, it\u2019s the last question and I would mischaracterize it to try to make you happy."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me tell you what I feel."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We have a lot of differences in our country, and some of us believe that other people\u2019s decisions are wrong, even immoral."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "But under our constitution, if you show up tomorrow and obey the law, and you work hard and you do what you\u2019re supposed to do, you are entitled to equal treatment."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "That\u2019s the way the system works."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "All over the world, people are being torn apart \u2014 Bosnia, the Middle East, Northern Ireland, Rwanda, Burundi \u2014 you name it \u2014 because of all their differences."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We still have some of that hatred inside us."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You see it in the church burnings."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And one of the things I\u2019ve tried hardest to do is to tell the American people that we have to get beyond that, we have to understand that we\u2019re stronger when we unite around shared values instead of being divided by our differences."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, I hope I made my answer clear."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I said I\u2019m opposed to discrimination."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "You know we\u2019ve suffered discrimination in the disability community."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are 43 million of us."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I can recall cases where people would cross the street rather than meet somebody in a wheelchair."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So we want to end discrimination."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I think that answers itself."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "No discrimination in America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019ve made that clear."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I would just say that it seems to me that that\u2019s the way it ought to be."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We shouldn\u2019t discriminate \u2014 race, color, whatever \u2014 life-style, disability."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And we\u2019re all proud of it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But we\u2019re not there yet."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "What we need is good, strong leadership going in the next century."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I\u2019m sorry we didn\u2019t have a foreign policy question, because just this week Secretary Christopher said, \u201cWell, we really didn\u2019t know much the first couple of years about foreign policy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "\u201d Now that was quite an admission."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It underscores what I had to say in the Hartford debate, that there is really no foreign policy in this administration."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s sort of ad hoc, just whatever comes up, we\u2019ll deal with it."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Unfortunately, we didn\u2019t have more questions on that."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Let me say again, there is no more important responsibility for the president than to say if you believe in the constitution, the Bill of Rights, and the Declaration of Independence, that\u2019s all we need to know."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And you can be part of our America and you can walk across that bridge to the 21st century with us."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And we are not well served when we attack each other in a kind of ad hominem way."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It doesn\u2019t create jobs."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It doesn\u2019t educate children."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It doesn\u2019t solve problems."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "We need to be disagreeing on ideas, honestly, and talking about the future."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The future will be the greatest time in this country\u2019s history if we can beat this division that is bedeviling the whole rest of the world."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Well, let me thank everybody here at the University and, Jim, thank you."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "All the people who may still be watching or viewing."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is what it\u2019s all about."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s not about me."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s not about President Clinton."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s about the process."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s about selecting a president of the United States."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "So we have our differences."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We should have our differences."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Mentioned other parties."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They have their differences."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We all agreed it would be a pretty dull place."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We should have more debates."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Maybe we will have another debate on the economy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But I would just say this."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "This is the highest honor that I have ever had in my life, to think that somebody from Russell, Kansas, somebody who grew up living in a basement apartment, someone whose parents didn\u2019t finish high school, somebody who spent about 39 months in hospitals after World War II, someone who uses a buttonhook every day to get dressed."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Somebody who understands that there\u2019re real Americans out there with real problems, whether soccer moms, or the single parents, the families or the seniors, or people with disabilities, whoever it may be."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "There are some very fundamental differences in this campaign."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "President Clinton opposes term limits, President Clinton opposes a constitutional amendment to balance the budget."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "President Clinton opposes voluntary prayer amendment."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Opposes an amendment to protect the flag of the United States of America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "People give their lives."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Couple of service men here."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "They sacrifice, they give everything for America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We ought to protect the American flag with a constitutional amendment."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "But beyond that we need to address the economy."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I will just say my time is running out here."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "It\u2019s a very proud moment for me."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "What I want the voters to do is to make a decision."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I want them to be proud of their vote in the years ahead."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Proud that they voted for the right candidate."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Proud that they voted hopefully for me."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "And I\u2019ll just make you one promise, my word is good."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Democrats and Republicans said Bob Dole\u2019s word is good."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I keep my word."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "I promise you the economy is going to get better."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going to have a good economic package."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "We\u2019re going into the next century a better America."
+  },
+  {
+   "speaker": "Bob Dole",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you, Jim."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And thank you, ladies and gentlemen, and all the people who are watching."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "One thing I would like to say is I agree with what Senator Dole said."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "It\u2019s a remarkable thing in a country like ours, a man who grew up in Russell, Kansas, and one who was born to a widowed mother in Hope, Arkansas, could wind up running for president."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Could have a chance to serve as president."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "First thing I want to say is thank you for giving me the chance to be president."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This election is about two different visions about how we should go into the 21st Century."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Would we be better off as I believe, working together to give each other the tools we need to make the most of our God-given potential, or are we better off saying, you\u2019re on your own?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Would we be better off building that bridge to the future together so we can all walk across it or saying you can get across yourself?"
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If you don\u2019t agree \u2014 leave this room with anything else tonight and if the people watching us don\u2019t leave with anything else, I hope you will leave with this."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "This is a real important election."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "The world is changing dramatically in how we work and how we live, how we relate to each other, huge changes."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "And the decisions we make will have enormous practical consequences."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "So we\u2019ve talked about our responsibility tonight."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "I want to talk about your responsibility, and your responsibility."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Your responsibility is to show up on November the 5th."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Because you\u2019re going to decide whether we\u2019re going to balance the budget now, but protect Medicare, Medicaid, education and the environment."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "You will decide whether we\u2019re going to keep fighting crime with a Brady Bill, assault weapons and finish putting those 100,000 police."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Whether we\u2019re going to move a million people from welfare to work."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Whether we\u2019re going to give our families more protection for their kids against drugs and tobacco and gangs and guns."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Whether we\u2019re going to give our children a world-class education."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Where every eight-year-old can read."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Every 12-year-old can log in on the Internet."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Every 18-year-old can go to college."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "If we do those things we will build that bridge to the 21st Century and the greatest country in history will be even greater."
+  },
+  {
+   "speaker": "Bill Clinton",
+   "text": "Thank you."
+  }
+ ]
+}

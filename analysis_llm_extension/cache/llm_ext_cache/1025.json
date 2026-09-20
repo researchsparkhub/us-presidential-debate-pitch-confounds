@@ -1,0 +1,4298 @@
+{
+ "debate_id": "1025",
+ "year": "2012",
+ "candidates": [
+  "Mitt Romney",
+  "Barack Obama"
+ ],
+ "results": {
+  "Mitt Romney": "loser",
+  "Barack Obama": "winner"
+ },
+ "winner": "Barack Obama",
+ "n_sentences": 1052,
+ "descriptors": {
+  "Mitt Romney": {
+   "Mean pitch": -0.6844,
+   "Pitch SD (Hz)": -0.3265,
+   "Pitch range (Hz)": -0.2647,
+   "Loudness": 0.2455,
+   "Voice clarity (Praat)": -0.666,
+   "Pause duration": -0.3172,
+   "Pause count": -0.2803,
+   "Mean pause length": -0.3169,
+   "Speech rate": 0.0909,
+   "Articulation rate (w/s)": -0.0596,
+   "Syllable rate": 0.0178,
+   "Articulation rate (syll/s)": -0.1092,
+   "Semitone pitch SD/mean": 0.1521,
+   "Semitone 20-80 pitch range": -0.0944,
+   "Voice clarity (openSMILE)": -0.6449,
+   "Clauses": -0.0587,
+   "Subordinate clauses": -0.0682,
+   "Parse depth": -0.0461,
+   "Dependency length": -0.0538,
+   "Words per sentence": -0.07,
+   "Word length": -0.0078,
+   "Function words": -0.0444,
+   "1st-person pronouns": -0.0257,
+   "2nd-person pronouns": 0.0796,
+   "3rd-person pronouns": -0.0206,
+   "Nouns": 0.0398,
+   "Verbs": -0.0367,
+   "Adjectives": -0.0068,
+   "Adverbs": -0.0375,
+   "Reading ease": 0.0494,
+   "Grade level": -0.0659,
+   "Sentiment": -0.0731,
+   "Positive sentiment": -0.0449,
+   "Negative sentiment": -0.0079
+  },
+  "Barack Obama": {
+   "Mean pitch": 0.8237,
+   "Pitch SD (Hz)": 0.393,
+   "Pitch range (Hz)": 0.3186,
+   "Loudness": -0.2954,
+   "Voice clarity (Praat)": 0.8012,
+   "Pause duration": 0.3816,
+   "Pause count": 0.3372,
+   "Mean pause length": 0.3813,
+   "Speech rate": -0.1093,
+   "Articulation rate (w/s)": 0.0717,
+   "Syllable rate": -0.0215,
+   "Articulation rate (syll/s)": 0.1314,
+   "Semitone pitch SD/mean": -0.183,
+   "Semitone 20-80 pitch range": 0.1136,
+   "Voice clarity (openSMILE)": 0.7758,
+   "Clauses": 0.0708,
+   "Subordinate clauses": 0.0822,
+   "Parse depth": 0.0556,
+   "Dependency length": 0.0649,
+   "Words per sentence": 0.0843,
+   "Word length": 0.0094,
+   "Function words": 0.0535,
+   "1st-person pronouns": 0.0309,
+   "2nd-person pronouns": -0.096,
+   "3rd-person pronouns": 0.0248,
+   "Nouns": -0.048,
+   "Verbs": 0.0443,
+   "Adjectives": 0.0082,
+   "Adverbs": 0.0453,
+   "Reading ease": -0.0595,
+   "Grade level": 0.0794,
+   "Sentiment": 0.0882,
+   "Positive sentiment": 0.0541,
+   "Negative sentiment": 0.0096
+  }
+ },
+ "transcript_turns": [
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you, Jeremy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I appreciate your \u2014 your question, and thank you for being here this evening and to all of those from Nassau County that have come, thank you for your time."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you to Hofstra University and to Candy Crowley for organizing and leading this \u2014 this event."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you, Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President, also for being part of this \u2014 this debate."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Your question \u2014 your question is one that\u2019s being asked by college kids all over this country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I was in Pennsylvania with someone who had just graduated \u2014 this was in Philadelphia \u2014 and she said, \u201cI\u2019ve got my degree."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I can\u2019t find a job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ve got three part- time jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "They\u2019re just barely enough to pay for my food and pay for an apartment."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I can\u2019t begin to pay back my student loans."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d So what we have to do is two things."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have to make sure that we make it easier for kids to afford college."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And also make sure that when they get out of college, there\u2019s a job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "When I was governor of Massachusetts, to get a high school degree, you had to pass an exam."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If you graduated in the top quarter of your airlines, we gave you a John and Abigail Adams scholarship, four years tuition free in the college of your choice in Massachusetts, it\u2019s a public institution."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want to make sure we keep our Pell grant program growing."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019re also going to have our loan program, so that people are able to afford school."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But the key thing is to make sure you can get a job when you get out of school."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And what\u2019s happened over the last four years has been very, very hard for America\u2019s young people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want you to be able to get a job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I know what it takes to get this economy going."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "With half of college kids graduating this year without a college \u2014 excuse me, without a job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And without a college level job, that\u2019s just unacceptable."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And likewise you\u2019ve got more and more debt on your back."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So more debt and less jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m going to change that."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I know what it takes to create good jobs again."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I know what it takes to make sure that you have the kind of opportunity you deserve."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And kids across this country are going to recognize, we\u2019re bringing back an economy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s not going to be like the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The middle-class has been crushed over the last four years, and jobs have been too scarce."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I know what it takes to bring them back, and I\u2019m going to do that, and make sure that when you graduate \u2014 when do you graduate?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "2014."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "When you come out in 2014, I presume I\u2019m going to be president."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m going to make sure you get a job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thanks Jeremy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Yeah, you bet."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Jeremy, first of all, your future is bright."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And the fact that you\u2019re making an investment in higher education is critical."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Not just to you, but to the entire nation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, the most important thing we can do is to make sure that we are creating jobs in this country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But not just jobs, good paying jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Ones that can support a family."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And what I want to do, is build on the five million jobs that we\u2019ve created over the last 30 months in the private sector alone."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And there are a bunch of things we can do to make sure your future is bright."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Number one, I want to build manufacturing jobs in this country again."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now when Governor Romney said we should let Detroit go bankrupt."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said we\u2019re going to bet on American workers and the American auto industry and it\u2019s come surging back."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I want to do that in industries, not just in Detroit, but all across the country and that means we change our tax code so we\u2019re giving incentives to companies that are investing here in the United States and creating jobs here."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It also means we\u2019re helping them and small businesses to export all around the world to new markets."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Number two, we\u2019ve got to make sure that we have the best education system in the world."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And the fact that you\u2019re going to college is great, but I want everybody to get a great education and we\u2019ve worked hard to make sure that student loans are available for folks like you, but I also want to make sure that community colleges are offering slots for workers to get retrained for the jobs that are out there right now and the jobs of the future."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Number three, we\u2019ve got to control our own energy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, not only oil and natural gas, which we\u2019ve been investing in; but also, we\u2019ve got to make sure we\u2019re building the energy source of the future, not just thinking about next year, but ten years from now, 20 years from now."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why we\u2019ve invested in solar and wind and biofuels, energy efficient cars."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve got to reduce our deficit, but we\u2019ve got to do it in a balanced way."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Asking the wealthy to pay a little bit more along with cuts so that we can invest in education like yours."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And let\u2019s take the money that we\u2019ve been spending on war over the last decade to rebuild America, roads, bridges schools."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We do those things, not only is your future going to be bright but America\u2019s future is going to bright as well."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Well what you\u2019re seeing in this country is 23 million people struggling to find a job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And a lot of them, as you say, Candy, have been out of work for a long, long, long time."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president\u2019s policies have been exercised over the last four years and they haven\u2019t put Americans back to work."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have fewer people working today than we had when the president took office."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If the \u2014 the unemployment rate was 7."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "8 percent when he took office, it\u2019s 7."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "8 percent now."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But if you calculated that unemployment rate, taking back the people who dropped out of the workforce, it would be 10."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "7 percent."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have not made the progress we need to make to put people back to work."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s why I put out a five-point plan that gets America 12 million new jobs in four years and rising take-home pay."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s going to help Jeremy get a job when he comes out of school."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s going to help people across the country that are unemployed right now."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And one thing that the president said, which I want to make sure that we understand, he said that I said we should take Detroit bankrupt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And that\u2019s right."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My plan was to have the company go through bankruptcy like 7-Eleven did and Macy\u2019s and Condell Airlines and come out stronger."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I know he keeps saying, you want to take Detroit bankrupt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Well, the president took Detroit bankrupt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You took General Motors bankrupt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You took Chrysler bankrupt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So when you say that I wanted to take the auto industry bankrupt, you actually did."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I think it\u2019s important to know that that was a process that was necessary to get those companies back on their feet, so they could start hiring more people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That was precisely what I recommended and ultimately what happened."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That \u2014 that Detroit \u2014 that Detroit answer\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2026 that Detroit answer\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2026 and the rest of the answer, way off the mark."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The most important thing we can do is to make sure we control our own energy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So here\u2019s what I\u2019ve done since I\u2019ve been president."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We have increased oil production to the highest levels in 16 years."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Natural gas production is the highest it\u2019s been in decades."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We have seen increases in coal production and coal employment."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But what I\u2019ve also said is we can\u2019t just produce traditional source of energy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve also got to look to the future."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why we doubled fuel efficiency standards on cars."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That means that in the middle of the next decade, any car you buy, you\u2019re going to end up going twice as far on a gallon of gas."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why we doubled clean \u2014 clean energy production like wind and solar and biofuels."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And all these things have contributed to us lowering our oil imports to the lowest levels in 16 years."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, I want to build on that."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that means, yes, we still continue to open up new areas for drilling."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We continue to make it a priority for us to go after natural gas."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve got potentially 600,000 jobs and 100 years worth of energy right beneath our feet with natural gas."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we can do it in an environmentally sound way."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But we\u2019ve also got to continue to figure out how we have efficiency energy, because ultimately that\u2019s how we\u2019re going to reduce demand and that\u2019s what\u2019s going to keep gas prices lower."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, Governor Romney will say he\u2019s got an all-of-the-above plan, but basically his plan is to let the oil companies write the energy policies."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So he\u2019s got the oil and gas part, but he doesn\u2019t have the clean energy part."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And if we are only thinking about tomorrow or the next day and not thinking about 10 years from now, we\u2019re not going to control our own economic future."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because China, Germany, they\u2019re making these investments."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I\u2019m not going to cede those jobs of the future to those countries."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I expect those new energy sources to be built right here in the United States."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s going to help Jeremy get a job."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It\u2019s also going to make sure that you\u2019re not paying as much for gas."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Well, let\u2019s look at the president\u2019s policies, all right, as opposed to the rhetoric, because we\u2019ve had four years of policies being played out."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And the president\u2019s right in terms of the additional oil production, but none of it came on federal land."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "As a matter of fact, oil production is down 14 percent this year on federal land, and gas production was down 9 percent."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Why?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Because the president cut in half the number of licenses and permits for drilling on federal lands, and in federal waters."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So where\u2019d the increase come from?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Well a lot of it came from the Bakken Range in North Dakota."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What was his participation there?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The administration brought a criminal action against the people drilling up there for oil, this massive new resource we have."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And what was the cost?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "20 or 25 birds were killed and brought out a migratory bird act to go after them on a criminal basis."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Look, I want to make sure we use our oil, our coal, our gas, our nuclear, our renewables."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I believe very much in our renewable capabilities; ethanol, wind, solar will be an important part of our energy mix."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But what we don\u2019t need is to have the president keeping us from taking advantage of oil, coal and gas."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This has not been Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Oil, or Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Gas, or Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Coal."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Talk to the people that are working in those industries."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I was in coal country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "People grabbed my arms and said, \u201cPlease save my job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d The head of the EPA said, \u201cYou can\u2019t build a coal plant."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You\u2019ll virtually \u2014 it\u2019s virtually impossible given our regulations."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d When the president ran for office, he said if you build a coal plant, you can go ahead, but you\u2019ll go bankrupt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s not the right course for America."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Let\u2019s take advantage of the energy resources we have, as well as the energy sources for the future."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And if we do that, if we do what I\u2019m planning on doing, which is getting us energy independent, North America energy independence within eight years, you\u2019re going to see manufacturing jobs come back."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Because our energy is low cost, that are already beginning to come back because of our abundant energy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ll get America and North America energy independent."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ll do it by more drilling, more permits and licenses."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019re going to bring that pipeline in from Canada."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "How in the world the president said no to that pipeline?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I will never know."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This is about bringing good jobs back for the middle class of America, and that\u2019s what I\u2019m going to do."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "CROWLEY: Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President, let me just see if I can move you to the gist of this question, which is, are we looking at the new normal?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I can tell you that tomorrow morning, a lot of people in Hempstead will wake up and fill up and they will find that the price of gas is over $4 a gallon."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Is it within the purview of the government to bring those prices down, or are we looking at the new normal?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Candy, there\u2019s no doubt that world demand\u2019s gone up, but our production is going up, and we\u2019re using oil more efficiently."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And very little of what Governor Romney just said is true."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve opened up public lands."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019re actually drilling more on public lands than in the previous administration and my \u2014 the previous president was an oil man."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And natural gas isn\u2019t just appearing magically."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019re encouraging it and working with the industry."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And when I hear Governor Romney say he\u2019s a big coal guy, I mean, keep in mind, when \u2014 Governor, when you were governor of Massachusetts, you stood in front of a coal plant and pointed at it and said, \u201cThis plant kills,\u201d and took great pride in shutting it down."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And now suddenly you\u2019re a big champion of coal."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So what I\u2019ve tried to do is be consistent."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "With respect to something like coal, we made the largest investment in clean coal technology, to make sure that even as we\u2019re producing more coal, we\u2019re producing it cleaner and smarter."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Same thing with oil, same thing with natural gas."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And the proof is our oil imports are down to the lowest levels in 20 years."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Oil production is up, natural gas production is up, and, most importantly, we\u2019re also starting to build cars that are more efficient."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that\u2019s creating jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That means those cars can be exported, \u2019cause that\u2019s the demand around the world, and it also means that it\u2019ll save money in your pocketbook."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s the strategy you need, an all-of-the-above strategy, and that\u2019s what we\u2019re going to do in the next four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But that\u2019s not what you\u2019ve done in the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s the problem."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "In the last four years, you cut permits and licenses on federal land and federal waters in half."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Not true, Governor Romney."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So how much did you cut ?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Not true."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "How much did you cut them by, then?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Governor, we have actually produced more oil \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "No, no."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "How much did you cut licenses and permits on federal land and federal waters?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Governor Romney, here\u2019s what we did."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "There were a whole bunch of oil companies."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "No, no, I had a question and the question was how much did you cut them by?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You want me to answer a question \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "How much did you cut them by?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m happy to answer the question."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "All right."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And it is \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Here\u2019s what happened."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You had a whole bunch of oil companies who had leases on public lands that they weren\u2019t using."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So what we said was you can\u2019t just sit on this for 10, 20, 30 years, decide when you want to drill, when you want to produce, when it\u2019s most profitable for you."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "These are public lands."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So if you want to drill on public lands, you use it or you lose it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "OK, \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And so what we did was take away those leases."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we are now reletting them so that we can actually make a profit."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And production on private \u2014 on government land \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Production is up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2014 is down."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "No, it isn\u2019t."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Production on government land of oil is down 14 percent."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Governor \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And production on gas \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It\u2019s just not true."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s absolutely true."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Look, there\u2019s no question but the people recognize that we have not produced more on federal lands and in federal waters."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And coal, coal production is not up; coal jobs are not up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I was just at a coal facility, where some 1,200 people lost their jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The right course for America is to have a true all-of-the-above policy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I don\u2019t think anyone really believes that you\u2019re a person who\u2019s going to be pushing for oil and gas and coal."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You\u2019ll get your chance in a moment."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m still speaking."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And the answer is I don\u2019t believe people think that\u2019s the case \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2014 ."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That wasn\u2019t the question."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "OK."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That was a statement."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I don\u2019t think the American people believe that."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I will fight for oil, coal and natural gas."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And the proof, the proof of whether a strategy is working or not is what the price is that you\u2019re paying at the pump."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If you\u2019re paying less than you paid a year or two ago, why, then, the strategy is working."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But you\u2019re paying more."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "When the president took office, the price of gasoline here in Nassau County was about $1."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "86 a gallon."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Now, it\u2019s $4."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "00 a gallon."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The price of electricity is up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If the president\u2019s energy policies are working, you\u2019re going to see the cost of energy come down."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I will fight to create more energy in this country, to get America energy secure."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And part of that is bringing in a pipeline of oil from Canada, taking advantage of the oil and coal we have here, drilling offshore in Alaska, drilling offshore in Virginia where the people want it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Those things will get us the energy we need."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well, think about what the governor \u2014 think about what the governor just said."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He said when I took office, the price of gasoline was $1."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Why is that?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because the economy was on the verge of collapse, because we were about to go through the worst recession since the Great Depression, as a consequence of some of the same policies that Governor Romney\u2019s now promoting."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So, it\u2019s conceivable that Governor Romney could bring down gas prices because with his policies, we might be back in that same mess."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "What I want to do is to create an economy that is strong, and at the same time produce energy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And with respect to this pipeline that Governor Romney keeps on talking about, we\u2019ve \u2014 we\u2019ve built enough pipeline to wrap around the entire earth once."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So, I\u2019m all for pipelines."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m all for oil production."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "What I\u2019m not for is us ignoring the other half of the equation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So, for example, on wind energy, when Governor Romney says \u201cthese are imaginary jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d When you\u2019ve got thousands of people right now in Iowa, right now in Colorado, who are working, creating wind power with good-paying manufacturing jobs, and the Republican senator in that \u2014 in Iowa is all for it, providing tax breaks to help this work and Governor Romney says I\u2019m opposed."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019d get rid of it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not an energy strategy for the future."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we need to win that future."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I intend to win it as President of the United States."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He gets the first \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He actually got \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He actually got the first question."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So I get the last question \u2014 last answer \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Candy, Candy \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Candy, I don\u2019t have a policy of stopping wind jobs in Iowa and that \u2014 they\u2019re not phantom jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "They\u2019re real jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I appreciate wind jobs in Iowa and across our country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I appreciate the jobs in coal and oil and gas."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m going to make sure \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2014 we\u2019re taking advantage of our energy resources."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019ll bring back manufacturing to America."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019re going to get through a very aggressive energy policy, 31/2 million more jobs in this country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s critical to our future."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Candy, it\u2019s not going to \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Used to being interrupted."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Hi, Mary."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You\u2019re doing great."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you very much."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And let me tell you, you\u2019re absolutely right about part of that, which is I want to bring the rates down, I want to simplify the tax code, and I want to get middle- income taxpayers to have lower taxes."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And the reason I want middle-income taxpayers to have lower taxes is because middle-income taxpayers have been buried over the past four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You\u2019ve seen, as middle-income people in this country, incomes go down $4,300 a family, even as gasoline prices have gone up $2,000."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Health insurance premiums, up $2,500."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Food prices up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Utility prices up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The middle-income families in America have been crushed over the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So I want to get some relief to middle-income families."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s part \u2014 that\u2019s part one."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Now, how about deductions?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2018Cause I\u2019m going to bring rates down across the board for everybody, but I\u2019m going to limit deductions and exemptions and credits, particularly for people at the high end, because I am not going to have people at the high end pay less than they\u2019re paying now."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The top 5 percent of taxpayers will continue to pay 60 percent of the income tax the nation collects."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So that\u2019ll stay the same."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Middle-income people are going to get a tax break."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And so, in terms of bringing down deductions, one way of doing that would be say everybody gets \u2014 I\u2019ll pick a number \u2014 $25,000 of deductions and credits, and you can decide which ones to use."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Your home mortgage interest deduction, charity, child tax credit, and so forth, you can use those as part of filling that bucket, if you will, of deductions."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But your rate comes down and the burden also comes down on you for one more reason, and that is every middle-income taxpayer no longer will pay any tax on interest, dividends or capital gains."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "No tax on your savings."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That makes life a lot easier."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If you\u2019re getting interest from a bank, if you\u2019re getting a statement from a mutual fund or any other kind of investment you have, you don\u2019t have to worry about filing taxes on that, because there\u2019ll be no taxes for anybody making $200,000."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "00 per year and less, on your interest, dividends and capital gains."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Why am I lowering taxes on the middle-class?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Because under the last four years, they\u2019ve been buried."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I want to help people in the middle-class."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I will not \u2014 I will not under any circumstances, reduce the share that\u2019s being paid by the highest income taxpayers."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I will not, under any circumstances increase taxes on the middle-class."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president\u2019s spending, the president\u2019s borrowing will cost this nation to have to raise taxes on the American people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Not just at the high end."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "A recent study has shown the people in the middle-class will see $4,000."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "00 per year in higher taxes as a result of the spending and borrowing of this administration."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I will not let that happen."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want to get us on track to a balanced budget, and I\u2019m going to reduce the tax burden on middle income families."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And what\u2019s that going to do?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s going to help those families, and it\u2019s going to create incentives to start growing jobs again in this country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "My philosophy on taxes has been simple."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that is, I want to give middle-class families and folks who are striving to get into the middle-class some relief."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because they have been hit hard over the last decade."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Over the last 15, over the last 20 years."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So four years ago I stood on a stage just like this one."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Actually it was a town hall, and I said I would cut taxes for middle- class families, and that\u2019s what I\u2019ve done, by $3,600."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said I would cut taxes for small businesses, who are the drivers and engines of growth."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we\u2019ve cut them 18 times."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I want to continue those tax cuts for middle-class families, and for small business."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But what I\u2019ve also said is, if we\u2019re serious about reducing the deficit, if this is genuinely a moral obligation to the next generation, then in addition to some tough spending cuts, we\u2019ve also got to make sure that the wealthy do a little bit more."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So what I\u2019ve said is, your first $250,000."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "00 worth of income, no change."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that means 98 percent of American families, 97 percent of small businesses, they will not see a tax increase."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m ready to sign that bill right now."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The only reason it\u2019s not happening is because Governor Romney\u2019s allies in Congress have held the 98 percent hostage because they want tax breaks for the top 2 percent."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But what I\u2019ve also says is for above $250,000, we can go back to the tax rates we had when Bill Clinton was president."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We created 23 million new jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s part of what took us from deficits to surplus."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It will be good for our economy and it will be good for job creation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, Governor Romney has a different philosophy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He was on 60 Minutes just two weeks ago and he was asked: Is it fair for somebody like you, making $20 million a year, to pay a lower tax rate than a nurse or a bus driver, somebody making $50,000 year?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And he said, \u201cYes, I think that\u2019s fair."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d Not only that, he said, \u201cI think that\u2019s what grows the economy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d Well, I fundamentally disagree with that."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I think what grows the economy is when you get that tax credit that we put in place for your kids going to college."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I think that grows the economy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I think what grows the economy is when we make sure small businesses are getting a tax credit for hiring veterans who fought for our country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That grows our economy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So we just have a different theory."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And when Governor Romney stands here, after a year of campaigning, when during a Republican primary he stood on stage and said \u201cI\u2019m going to give tax cuts\u201d \u2014 he didn\u2019t say tax rate cuts, he said \u201ctax cuts to everybody,\u201d including the top 1 percent, you should believe him because that\u2019s been his history."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that\u2019s exactly the kind of top-down economics that is not going to work if we want a strong middle class and an economy that\u2019s striving for everybody."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "No, it\u2019s not settled."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Look, the cost of lowering rates for everybody across the board, 20 percent."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Along with what he also wants to do in terms of eliminating the estate tax, along what he wants to do in terms of corporates, changes in the tax code, it costs about $5 trillion."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Governor Romney then also wants to spend $2 trillion on additional military programs even though the military\u2019s not asking for them."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s $7 trillion."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He also wants to continue the Bush tax cuts for the wealthiest Americans."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s another trillion dollars \u2014 that\u2019s $8 trillion."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, what he says is he\u2019s going to make sure that this doesn\u2019t add to the deficit and he\u2019s going to cut middleclass taxes."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But when he\u2019s asked, how are you going to do it, which deductions, which loopholes are you going to close?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He can\u2019t tell you."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The \u2014 the fact that he only has to pay 14 percent on his taxes when a lot of you are paying much higher."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He\u2019s already taken that off the board, capital gains are going to continue to be at a low rate so we \u2014 we\u2019re not going to get money that way."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We haven\u2019t heard from the governor any specifics beyond Big Bird and eliminating funding for Planned Parenthood in terms of how he pays for that."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, Governor Romney was a very successful investor."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "If somebody came to you, Governor, with a plan that said, here, I want to spend $7 or $8 trillion, and then we\u2019re going to pay for it, but we can\u2019t tell you until maybe after the election how we\u2019re going to do it, you wouldn\u2019t take such a sketchy deal and neither should you, the American people, because the math doesn\u2019t add up."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And \u2014 and what\u2019s at stake here is one of two things, either Candy \u2014 this blows up the deficit because keep in mind, this is just to pay for the additional spending that he\u2019s talking about, $7 trillion \u2013 $8 trillion before we even get to the deficit we already have."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Or, alternatively, it\u2019s got to be paid for, not only by closing deductions for wealthy individuals, that \u2014 that will pay for about 4 percent reduction in tax rates."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You\u2019re going to be paying for it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You\u2019re going to lose some deductions, and you can\u2019t buy the sales pitch."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Nobody who\u2019s looked at it that\u2019s serious, actually believes it adds up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I \u2014 I\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Well of course they add up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I \u2014 I was \u2014 I was someone who ran businesses for 25 years, and balanced the budget."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I ran the Olympics and balanced the budget."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I ran the \u2014 the state of Massachusetts as a governor, to the extent any governor does, and balanced the budget all four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "When we\u2019re talking about math that doesn\u2019t add up, how about $4 trillion of deficits over the last four years, $5 trillion?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s math that doesn\u2019t add up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have \u2014 we have a president talking about someone\u2019s plan in a way that\u2019s completely foreign to what my real plan is."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And then we have his own record, which is we have four consecutive years where he said when he was running for office, he would cut the deficit in half."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Instead he\u2019s doubled it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019ve gone from $10 trillion of national debt, to $16 trillion of national debt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If the president were reelected, we\u2019d go to almost $20 trillion of national debt."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This puts us on a road to Greece."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I know what it takes to balance budgets."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ve done it my entire life."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So for instance when he says, \u201cYours is a $5 trillion cut."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d Well, no it\u2019s not."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Because I\u2019m offsetting some of the reductions with holding down some of the deductions."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I just described \u2014 I just described to you, Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President \u2014 I just described to you precisely how I\u2019d do it which is with a single number that people can put \u2014 and they can put they\u2019re \u2014 they\u2019re deductions and credits\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Great."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Looking forward to it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And it\u2019s Katherine Fenton, who has a question for you."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well, Katherine, that\u2019s a great question."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And, you know, I was raised by a single mom who had to put herself through school while looking after two kids."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And she worked hard every day and made a lot of sacrifices to make sure we got everything we needed."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "My grandmother, she started off as a secretary in a bank."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "She never got a college education, even though she was smart as a whip."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And she worked her way up to become a vice president of a local bank, but she hit the glass ceiling."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "She trained people who would end up becoming her bosses during the course of her career."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "She didn\u2019t complain."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not what you did in that generation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And this is one of the reasons why one of the first \u2014 the first bill I signed was something called the Lily Ledbetter bill."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And it\u2019s named after this amazing woman who had been doing the same job as a man for years, found out that she was getting paid less, and the Supreme Court said that she couldn\u2019t bring suit because she should have found about it earlier, whereas she had no way of finding out about it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So we fixed that."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that\u2019s an example of the kind of advocacy that we need, because women are increasingly the breadwinners in the family."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "This is not just a women\u2019s issue, this is a family issue, this is a middle-class issue, and that\u2019s why we\u2019ve got to fight for it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It also means that we\u2019ve got to make sure that young people like yourself are able to afford a college education."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Earlier, Governor Romney talked about he wants to make Pell Grants and other education accessible for young people."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well, the truth of the matter is, is that that\u2019s exactly what we\u2019ve done."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve expanded Pell Grants for millions of people, including millions of young women, all across the country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We did it by taking $60 billion that was going to banks and lenders as middlemen for the student loan program, and we said, let\u2019s just cut out the middleman."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Let\u2019s give the money directly to students."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And as a consequence, we\u2019ve seen millions of young people be able to afford college, and that\u2019s going to make sure that young women are going to be able to compete in that marketplace."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But we\u2019ve got to enforce the laws, which is what we are doing, and we\u2019ve also got to make sure that in every walk of life we do not tolerate discrimination."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s been one of the hallmarks of my administration."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m going to continue to push on this issue for the next four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And important topic, and one which I learned a great deal about, particularly as I was serving as governor of my state, because I had the chance to pull together a cabinet and all the applicants seemed to be men."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I \u2014 and I went to my staff, and I said, \u201cHow come all the people for these jobs are \u2014 are all men."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d They said, \u201cWell, these are the people that have the qualifications."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d And I said, \u201cWell, gosh, can\u2019t we \u2014 can\u2019t we find some \u2014 some women that are also qualified?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And \u2014 and so we \u2014 we took a concerted effort to go out and find women who had backgrounds that could be qualified to become members of our cabinet."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I went to a number of women\u2019s groups and said, \u201cCan you help us find folks,\u201d and they brought us whole binders full of women."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I was proud of the fact that after I staffed my Cabinet and my senior staff, that the University of New York in Albany did a survey of all 50 states, and concluded that mine had more women in senior leadership positions than any other state in America."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Now one of the reasons I was able to get so many good women to be part of that team was because of our recruiting effort."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But number two, because I recognized that if you\u2019re going to have women in the workforce that sometimes you need to be more flexible."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My chief of staff, for instance, had two kids that were still in school."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "She said, I can\u2019t be here until 7 or 8 o\u2019clock at night."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I need to be able to get home at 5 o\u2019clock so I can be there for making dinner for my kids and being with them when they get home from school."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So we said fine."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Let\u2019s have a flexible schedule so you can have hours that work for you."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019re going to have to have employers in the new economy, in the economy I\u2019m going to bring to play, that are going to be so anxious to get good workers they\u2019re going to be anxious to hire women."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "In the \u2014 in the last women have lost 580,000 jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s the net of what\u2019s happened in the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019re still down 580,000 jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I mentioned 31/2 million women, more now in poverty than four years ago."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What we can do to help young women and women of all ages is to have a strong economy, so strong that employers that are looking to find good employees and bringing them into their workforce and adapting to a flexible work schedule that gives women opportunities that they would otherwise not be able to afford."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This is what I have done."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s what I look forward to doing and I know what it takes to make an economy work, and I know what a working economy looks like."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And an economy with 7."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "8 percent unemployment is not a real strong economy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "An economy that has 23 million people looking for work is not a strong economy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "An economy with 50 percent of kids graduating from college that can\u2019t finds a job, or a college level job, that\u2019s not what we have to have."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "CROWLEY: Governor?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m going to help women in America get good work by getting a stronger economy and by supporting women in the workforce."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Katherine, I just want to point out that when Governor Romney\u2019s campaign was asked about the Lilly Ledbetter bill, whether he supported it?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He said, \u201cI\u2019ll get back to you."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d And that\u2019s not the kind of advocacy that women need in any economy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, there are some other issues that have a bearing on how women succeed in the workplace."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "For example, their healthcare."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You know a major difference in this campaign is that Governor Romney feels comfortable having politicians in Washington decide the health care choices that women are making."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I think that\u2019s a mistake."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "In my health care bill, I said insurance companies need to provide contraceptive coverage to everybody who is insured."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because this is not just a \u2014 a health issue, it\u2019s an economic issue for women."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It makes a difference."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "This is money out of that family\u2019s pocket."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Governor Romney not only opposed it, he suggested that in fact employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not the kind of advocacy that women need."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When Governor Romney says that we should eliminate funding for Planned Parenthood, there are millions of women all across the country, who rely on Planned Parenthood for, not just contraceptive care, they rely on it for mammograms, for cervical cancer screenings."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s a pocketbook issue for women and families all across the country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And it makes a difference in terms of how well and effectively women are able to work."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When we talk about child care, and the credits that we\u2019re providing."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That makes a difference in whether they can go out there and \u2014 and earn a living for their family."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "These are not just women\u2019s issues."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "These are family issues."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "These are economic issues."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And one of the things that makes us grow as an economy is when everybody participates and women are getting the same fair deal as men are."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I\u2019ve got two daughters and I want to make sure that they have the same opportunities that anybody\u2019s sons have."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s part of what I\u2019m fighting for as president of the United States."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I appreciate that question."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I just want to make sure that, I think I was supposed to get that last answer, but I want to point out that that I don\u2019t believe\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I don\u2019t think so, Candy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2026 I don\u2019t believe\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I want to make sure our timekeepers are working here."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The time \u2014 the time\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019d just note that I don\u2019t believe that bureaucrats in Washington should tell someone whether they can use contraceptives or not."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I don\u2019t believe employers should tell someone whether they could have contraceptive care of not."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Every woman in America should have access to contraceptives."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And \u2014 and the \u2014 and the president\u2019s statement of my policy is completely and totally wrong."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Governor\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Let me come back and \u2014 and answer your question."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President Bush and I are \u2014 are different people and these are different times and that\u2019s why my five point plan is so different than what he would have done."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I mean for instance, we can now, by virtue of new technology actually get all the energy we need in North America without having to go to the \u2014 the Arabs or the Venezuelans or anyone else."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That wasn\u2019t true in his time, that\u2019s why my policy starts with a very robust policy to get all that energy in North America \u2014 become energy secure."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Number two, trade \u2014 I\u2019ll crack down on China, President Bush didn\u2019t."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m also going to dramatically expand trade in Latin America."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s been growing about 12 percent per year over a long period of time."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want to add more free trade agreements so we\u2019ll have more trade."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Number three, I\u2019m going to get us to a balanced budget."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President Bush didn\u2019t."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President Obama was right, he said that that was outrageous to have deficits as high as half a trillion dollars under the Bush years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He was right, but then he put in place deficits twice that size for every one of his four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And his forecast for the next four years is more deficits, almost that large."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So that\u2019s the next area I\u2019m different than President Bush."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And then let\u2019s take the last one, championing small business."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Our party has been focused too long."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I came through small business."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I understand how hard it is to start a small business."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s why everything I\u2019ll do is designed to help small businesses grow and add jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want to keep their taxes down on small business."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want regulators to see their job as encouraging small enterprise, not crushing it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And the thing I find the most troubling about Obama Care, well it\u2019s a long list, but one of the things I find most troubling is that when you go out and talk to small businesses and ask them what they think about it, they tell you it keeps them from hiring more people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My priority is jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I know how to make that happen."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And President Bush has a very different path for a very different time."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My path is designed in getting small businesses to grow and hire people."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well, first of all, I think it\u2019s important to tell you that we did come in during some tough times."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We were losing 800,000 jobs a month when I started."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But we had been digging our way out of policies that were misplaced and focused on the top doing very well and middle class folks not doing well."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, we\u2019ve seen 30 consecutive \u2014 31 consecutive months of job growth; 5."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "2 million new jobs created."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And the plans that I talked about will create even more."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But when Governor Romney says that he has a very different economic plan, the centerpiece of his economic plan are tax cuts."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s what took us from surplus to deficit."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When he talks about getting tough on China, keep in mind that Governor Romney invested in companies that were pioneers of outsourcing to China, and is currently investing in countries \u2014 in companies that are building surveillance equipment for China to spy on its own folks."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s \u2014 Governor, you\u2019re the last person who\u2019s going to get tough on China."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And what we\u2019ve done when it comes to trade is not only sign three trade deals to open up new markets, but we\u2019ve also set up a task force for trade that goes after anybody who is taking advantage of American workers or businesses and not creating a level playing field."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve brought twice as many cases against unfair trading practices than the previous administration and we\u2019ve won every single one that\u2019s been decided."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When I said that we had to make sure that China was not flooding our domestic market with cheap tires, Governor Romney said I was being protectionist; that it wouldn\u2019t be helpful to American workers."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well, in fact we saved 1,000 jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that\u2019s the kind of tough trade actions that are required."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But the last point I want to make is this."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You know, there are some things where Governor Romney is different from George Bush."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "George Bush didn\u2019t propose turning Medicare into a voucher."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "George Bush embraced comprehensive immigration reform."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He didn\u2019t call for self-deportation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "George Bush never suggested that we eliminate funding for Planned Parenthood, so there are differences between Governor Romney and George Bush, but they\u2019re not on economic policy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "In some ways, he\u2019s gone to a more extreme place when it comes to social policy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I think that\u2019s a mistake."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not how we\u2019re going to move our economy forward."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well, we\u2019ve gone through a tough four years."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "There\u2019s no doubt about it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But four years ago, I told the American people and I told you I would cut taxes for middle class families."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I did."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I told you I\u2019d cut taxes for small businesses, and I have."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said that I\u2019d end the war in Iraq, and I did."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said we\u2019d refocus attention on those who actually attacked us on 9/11, and we have gone after Al Qaeda\u2019s leadership like never before and Osama bin Laden is dead."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said that we would put in place health care reform to make sure that insurance companies can\u2019t jerk you around and if you don\u2019t have health insurance, that you\u2019d have a chance to get affordable insurance, and I have."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I committed that I would rein in the excesses of Wall Street, and we passed the toughest Wall Street reforms since the 1930s."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve created five million jobs, and gone from 800 jobs a month being lost, and we are making progress."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We saved an auto industry that was on the brink of collapse."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, does that mean you\u2019re not struggling?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Absolutely not."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "A lot of us are."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that\u2019s why the plan that I\u2019ve put forward for manufacturing and education, and reducing our deficit in a sensible way, using the savings from ending wars, to rebuild America and putting people back to work."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Making sure that we are controlling our own energy, but not only the energy of today, but also the energy of the future."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "All of those things will make a difference, so the point is the commitments I\u2019ve made, I\u2019ve kept."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And those that I haven\u2019t been able to keep, it\u2019s not for lack of trying and we\u2019re going to get it done in a second term."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But, you should pay attention to this campaign, because Governor Romney has made some commitments as well."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I suspect he\u2019ll keep those too."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You know when members of the Republican Congress say, \u201cWe\u2019re going to sign a no tax pledge, so that we don\u2019t ask a dime for millionaires and billionaires to reduce our deficit so we can still invest in education, and helping kids go to college."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He said, \u201cMe too."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d When they said, \u201cWe\u2019re going to cut Planned Parenthood funding."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d He said, \u201cMe too."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d When he said, \u201cWe\u2019re going to repeal Obamacare."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "First thing I\u2019m going to do,\u201d despite the fact that it\u2019s the same health care plan that he passed in Massachusetts and is working well."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He said, \u201cMe too."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d That is not the kind of leadership that you need, but you should expect that those are promises he\u2019s going to keep."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2026the choice in this election is going to be whose promises are going to be more likely to help you in your life?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Make sure your kids can go to college."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Make sure that you are getting a good paying job, making sure that Medicare and Social Security\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2026will be there for you."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I think you know better."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I think you know that these last four years haven\u2019t been so good as the president just described and that you don\u2019t feel like your confident that the next four years are going to be much better either."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I can tell you that if you were to elect President Obama, you know what you\u2019re going to get."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You\u2019re going to get a repeat of the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We just can\u2019t afford four more years like the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He said that by now we\u2019d have unemployment at 5."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "4 percent."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The difference between where it is and 5."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "4 percent is 9 million Americans without work."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I wasn\u2019t the one that said 5."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "4 percent."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This was the president\u2019s plan."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Didn\u2019t get there."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He said he would have by now put forward a plan to reform Medicare and Social Security, because he pointed out they\u2019re on the road to bankruptcy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He would reform them."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He\u2019d get that done."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He hasn\u2019t even made a proposal on either one."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He said in his first year he\u2019d put out an immigration plan that would deal with our immigration challenges."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Didn\u2019t even file it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This is a president who has not been able to do what he said he\u2019d do."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He said that he\u2019d cut in half the deficit."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He hasn\u2019t done that either."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "In fact, he doubled it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He said that by now middle-income families would have a reduction in their health insurance premiums by $2,500 a year."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s gone up by $2,500 a year."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And if Obamacare is passed, or implemented \u2014 it\u2019s already been passed \u2014 if it\u2019s implemented fully, it\u2019ll be another $2,500 on top."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The middle class is getting crushed under the policies of a president who has not understood what it takes to get the economy working again."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He keeps saying, \u201cLook, I\u2019ve created 5 million jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d That\u2019s after losing 5 million jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The entire record is such that the unemployment has not been reduced in this country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The unemployment, the number of people who are still looking for work, is still 23 million Americans."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "There are more people in poverty, one out of six people in poverty."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "How about food stamps?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "When he took office, 32 million people were on food stamps."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Today, 47 million people are on food stamps."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "How about the growth of the economy?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s growing more slowly this year than last year, and more slowly last year than the year before."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president wants to do well."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I understand."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But the policies he\u2019s put in place from Obamacare to Dodd-Frank to his tax policies to his regulatory policies, these policies combined have not let this economy take off and grow like it could have."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You might say, \u201cWell, you got an example of one that worked better?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d Yeah, in the Reagan recession where unemployment hit 10."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "8 percent, between that period \u2014 the end of that recession and the equivalent of time to today, Ronald Reagan\u2019s recovery created twice as many jobs as this president\u2019s recovery."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Five million jobs doesn\u2019t even keep up with our population growth."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And the only reason the unemployment rate seems a little lower today is because of all the people that have dropped out of the workforce."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president has tried, but his policies haven\u2019t worked."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He\u2019s great as a \u2014 as a \u2014 as a speaker and describing his plans and his vision."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s wonderful, except we have a record to look at."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And that record shows he just hasn\u2019t been able to cut the deficit, to put in place reforms for Medicare and Social Security to preserve them, to get us the rising incomes we need."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Median income is down $4,300 a family and 23 million Americans out of work."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s what this election is about."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s about who can get the middle class in this country a bright and prosperous future and assure our kids the kind of hope and optimism they deserve."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "This is for Governor Romney?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Is it Loraina?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Lorraine?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Lorraine."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Good, thanks."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Lorraine?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Did I get that right?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Good."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you for your question."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And let me step back and tell you what I would like to do with our immigration policy broadly and include an answer to your question."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But first of all, this is a nation of immigrants."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We welcome people coming to this country as immigrants."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My dad was born in Mexico of American parents; Ann\u2019s dad was born in Wales and is a first-generation American."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We welcome legal immigrants into this country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want our legal system to work better."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want it to be streamlined."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want it to be clearer."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I don\u2019t think you have to \u2014 shouldn\u2019t have to hire a lawyer to figure out how to get into this country legally."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I also think that we should give visas to people \u2014 green cards, rather, to people who graduate with skills that we need."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "People around the world with accredited degrees in science and math get a green card stapled to their diploma, come to the U."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "of A."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We should make sure our legal system works."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Number two, we\u2019re going to have to stop illegal immigration."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "There are 4 million people who are waiting in line to get here legally."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Those who\u2019ve come here illegally take their place."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So I will not grant amnesty to those who have come here illegally."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What I will do is I\u2019ll put in place an employment verification system and make sure that employers that hire people who have come here illegally are sanctioned for doing so."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I won\u2019t put in place magnets for people coming here illegally."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So for instance, I would not give driver\u2019s licenses to those that have come here illegally as the president would."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The kids of those that came here illegally, those kids, I think, should have a pathway to become a permanent resident of the United States and military service, for instance, is one way they would have that kind of pathway to become a permanent resident."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Now when the president ran for office, he said that he\u2019d put in place, in his first year, a piece of legislation \u2014 he\u2019d file a bill in his first year that would reform our \u2014 our immigration system, protect legal immigration, stop illegal immigration."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He didn\u2019t do it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He had a Democrat House, a Democrat Senate, super majority in both Houses."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Why did he fail to even promote legislation that would have provided an answer for those that want to come legally and for those that are here illegally today?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What\u2019s a question I think the \u2014 the president will have a chance to answer right now."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Good, I look forward to it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Was \u2014 Lorranna \u2014 Lorraine \u2014 we are a nation of immigrants."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I mean we\u2019re just a few miles away from Ellis Island."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We all understand what this country has become because talent from all around the world wants to come here."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "People are willing to take risks."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "People who want to build on their dreams and make sure their kids have an even bigger dreams than they have."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But we\u2019re also a nation of laws."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So what I\u2019ve said is we need to fix a broken immigration system and I\u2019ve done everything that I can on my own and sought cooperation from Congress to make sure that we fix the system."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The first thing we did was to streamline the legal immigration system, to reduce the backlog, make it easier, simpler and cheaper for people who are waiting in line, obeying the law to make sure that they can come here and contribute to our country and that\u2019s good for our economic growth."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "They\u2019ll start new businesses."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "They\u2019ll make things happen to create jobs here in the United States."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Number two, we do have to deal with our border so we put more border patrol on the \u2014 any time in history and the flow of undocumented works across the border is actually lower than it\u2019s been in 40 years."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "What I\u2019ve also said is if we\u2019re going to go after folks who are here illegally, we should do it smartly and go after folks who are criminals, gang bangers, people who are hurting the community, not after students, not after folks who are here just because they\u2019re trying to figure out how to feed their families."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that\u2019s what we\u2019ve done."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And what I\u2019ve also said is for young people who come here, brought here often times by their parents."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Had gone to school here, pledged allegiance to the flag."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Think of this as their country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Understand themselves as Americans in every way except having papers."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we should make sure that we give them a pathway to citizenship."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And that\u2019s what I\u2019ve done administratively."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, Governor Romney just said, you know he wants to help those young people too, but during the Republican primary, he said, \u201cI will veto the DREAM Act\u201d, that would allow these young people to have access."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d His main strategy during the Republican primary was to say, \u201cWe\u2019re going to encourage self-deportation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d Making life so miserable on folks that they\u2019ll leave."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "He called the Arizona law a model for the nation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Part of the Arizona law said that law enforcement officers could stop folks because they suspected maybe they looked like they might be undocumented workers and check their papers."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You know what?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "If my daughter or yours looks to somebody like they\u2019re not a citizen, I don\u2019t want \u2014 I don\u2019t want to empower somebody like that."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So, we can fix this system in a comprehensive way."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And when Governor Romney says, the challenge is, \u201cWell Obama didn\u2019t try."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u201d That\u2019s not true."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I have sat down with Democrats and Republicans at the beginning of my term."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I said, let\u2019s fix this system."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Including Senators previously who had supported it on the Republican side."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But it\u2019s very hard for Republican\u2019s in Congress to support comprehensive immigration reform, if their standard bearer has said that, this is not something I\u2019m interested in supporting."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Yes."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "No, let \u2014 let \u2014 let me go back and speak to the points that the president made and \u2014 and \u2014 and let\u2019s get them correct."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I did not say that the Arizona law was a model for the nation in that aspect."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I said that the E-Verify portion of the Arizona law, which is \u2014 which is the portion of the law which says that employers could be able to determine whether someone is here illegally or not illegally, that that was a model for the nation."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s number one."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Number two, I asked the president a question I think Hispanics and immigrants all over the nation have asked."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He was asked this on Univision the other day."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Why, when you said you\u2019d filed legislation in your first year didn\u2019t you do it?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And he didn\u2019t answer."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He \u2014 he doesn\u2019t answer that question."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He said the standard bearer wasn\u2019t for it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m glad you thought I was a standard bearer four years ago, but I wasn\u2019t."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Four years ago you said in your first year you would file legislation."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "In his first year, I was just getting \u2014 licking my wounds from having been beaten by John McCain, all right."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I was not the standard bearer."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My \u2014 my view is that this president should have honored his promise to do as he said."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Now, let me mention one other thing, and that is self-deportation says let people make their own choice."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What I was saying is, we\u2019re not going to round up 12 million people, undocumented illegals, and take them out of the nation."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Instead let people make their own choice."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And if they \u2014 if they find that \u2014 that they can\u2019t get the benefits here that they want and they can\u2019t \u2014 and they can\u2019t find the job they want, then they\u2019ll make a decision to go a place where \u2014 where they have better opportunities."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But I\u2019m not in favor of rounding up people and \u2014 and \u2014 and taking them out of this country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I am in favor, as the president has said, and I agree with him, which is that if people have committed crimes we got to get them out of this country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Let me mention something else the president said."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It was a moment ago and I didn\u2019t get a chance to, when he was describing Chinese investments and so forth."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Candy?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Hold on a second."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President, I\u2019m still speaking."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President, let me finish."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ve gotta continue."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Just going to make a point."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Any investments I have over the last eight years have been managed by a blind trust."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I understand they do include investments outside the United States, including in \u2014 in Chinese companies."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President, have you looked at your pension?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Have you looked at your pension?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019ve got to say\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "President, have you looked at your pension?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You know, I \u2014 I don\u2019t look at my pension."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It\u2019s not as big as yours so it doesn\u2019t take as long."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Well, let me give you some advice."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I don\u2019t check it that often."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Let me give you some advice."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Look at your pension."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You also have investments in Chinese companies."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You also have investments outside the United States."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You also have investments through a Cayman\u2019s trust."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I thought we were talking about immigration."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I do want to make sure that\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I do want to make sure that \u2014 I do want to make sure that we just understand something."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Governor Romney says he wasn\u2019t referring to Arizona as a model for the nation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "His top adviser on immigration is the guy who designed the Arizona law, the entirety of it; not E-Verify, the whole thing."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s his policy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And it\u2019s a bad policy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And it won\u2019t help us grow."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Look, when we think about immigration, we have to understand there are folks all around the world who still see America as the land of promise."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And they provide us energy and they provide us innovation and they start companies like Intel and Google."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we want to encourage that."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, we\u2019ve got to make sure that we do it in a smart way and a comprehensive way, and we make the legal system better."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But when we make this into a divisive political issue, and when we don\u2019t have bipartisan support \u2014 I can deliver, Governor, a whole bunch of Democrats to get comprehensive immigration reform done, and we can\u2019t\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ll get it done."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ll get it done."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "First year\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2026 we can\u2019t \u2014 we have not seen Republicans serious about this issue at all."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And it\u2019s time for them to get serious on it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "This used to be a bipartisan issue."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "OK."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Hi, Kerry."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m sorry."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "What\u2019s your name?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Great to see you."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Ah."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Well, let me first of all talk about our diplomats, because they serve all around the world and do an incredible job in a very dangerous situation."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And these aren\u2019t just representatives of the United States, they are my representatives."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I send them there, oftentimes into harm\u2019s way."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I know these folks and I know their families."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So nobody is more concerned about their safety and security than I am."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So as soon as we found out that the Benghazi consulate was being overrun, I was on the phone with my national security team and I gave them three instructions."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Number one, beef up our security and procedures, not just in Libya, but at every embassy and consulate in the region."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Number two, investigate exactly what happened, regardless of where the facts lead us, to make sure folks are held accountable and it doesn\u2019t happen again."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And number three, we are going to find out who did this and we\u2019re going to hunt them down, because one of the things that I\u2019ve said throughout my presidency is when folks mess with Americans, we go after them."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now Governor Romney had a very different response."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "While we were still dealing with our diplomats being threatened, Governor Romney put out a press release, trying to make political points, and that\u2019s not how a commander in chief operates."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You don\u2019t turn national security into a political issue."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Certainly not right when it\u2019s happening."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And people \u2014 not everybody agrees with some of the decisions I\u2019ve made."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But when it comes to our national security, I mean what I say."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said I\u2019d end the war in Libya \u2014 in \u2014 in Iraq, and I did."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said that we\u2019d go after al-Qaeda and bin Laden, we have."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I said we\u2019d transition out of Afghanistan, and start making sure that Afghans are responsible for their own security, that\u2019s what I\u2019m doing."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And when it comes to this issue, when I say that we are going to find out exactly what happened, everybody will be held accountable."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I am ultimately responsible for what\u2019s taking place there because these are my folks, and I\u2019m the one who has to greet those coffins when they come home."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You know that I mean what I say."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you Kerry for your question, it\u2019s an important one."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And \u2014 and I \u2014 I think the president just said correctly that the buck does stop at his desk and \u2014 and he takes responsibility for \u2014 for that \u2014 for the failure in providing those security resources, and \u2014 and those terrible things may well happen from time to time."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I \u2014 I\u2019m \u2014 I feel very deeply sympathetic for the families of those who lost loved ones."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And today there\u2019s a memorial service for one of those that was lost in this tragedy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We \u2014 we think of their families and care for them deeply."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "There were other issues associated with this \u2014 with this tragedy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "There were many days that passed before we knew whether this was a spontaneous demonstration, or actually whether it was a terrorist attack."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And there was no demonstration involved."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It was a terrorist attack and it took a long time for that to be told to the American people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Whether there was some misleading, or instead whether we just didn\u2019t know what happened, you have to ask yourself why didn\u2019t we know five days later when the ambassador to the United Nations went on TV to say that this was a demonstration."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "How could we have not known?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But I find more troubling than this, that on \u2014 on the day following the assassination of the United States ambassador, the first time that\u2019s happened since 1979, when \u2014 when we have four Americans killed there, when apparently we didn\u2019t know what happened, that the president, the day after that happened, flies to Las Vegas for a political fund-raiser, then the next day to Colorado for another event, other political event."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I think these \u2014 these actions taken by a president and a leader have symbolic significance and perhaps even material significance in that you\u2019d hope that during that time we could call in the people who were actually eyewitnesses."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We\u2019ve read their accounts now about what happened."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It was very clear this was not a demonstration."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This was an attack by terrorists."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And this calls into question the president\u2019s whole policy in the Middle East."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Look what\u2019s happening in Syria, in Egypt, now in Libya."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Consider the distance between ourselves and \u2014 and Israel, the president said that \u2014 that he was going to put daylight between us and Israel."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have Iran four years closer to a nuclear bomb."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Syria \u2014 Syria\u2019s not just a tragedy of 30,000 civilians being killed by a military, but also a strategic \u2014 strategically significant player for America."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president\u2019s policies throughout the Middle East began with an apology tour and \u2014 and \u2014 and pursue a strategy of leading from behind, and this strategy is unraveling before our very eyes."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Secretary Clinton has done an extraordinary job."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But she works for me."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m the president and I\u2019m always responsible, and that\u2019s why nobody\u2019s more interested in finding out exactly what happened than I do."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The day after the attack, governor, I stood in the Rose Garden and I told the American people in the world that we are going to find out exactly what happened."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That this was an act of terror and I also said that we\u2019re going to hunt down those who committed this crime."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And then a few days later, I was there greeting the caskets coming into Andrews Air Force Base and grieving with the families."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And the suggestion that anybody in my team, whether the Secretary of State, our U."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Ambassador, anybody on my team would play politics or mislead when we\u2019ve lost four of our own, governor, is offensive."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not what we do."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not what I do as president, that\u2019s not what I do as Commander in Chief."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Yes, I \u2014 I\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I \u2014 I think interesting the president just said something which \u2014 which is that on the day after the attack he went into the Rose Garden and said that this was an act of terror."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s what I said."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "You said in the Rose Garden the day after the attack, it was an act of terror."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It was not a spontaneous demonstration, is that what you\u2019re saying?"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Please proceed governor."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want to make sure we get that for the record because it took the president 14 days before he called the attack in Benghazi an act of terror."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Get the transcript."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Can you say that a little louder, Candy?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This \u2014 the administration \u2014 the administration indicated this was a reaction to a video and was a spontaneous reaction."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It took them a long time to say this was a terrorist act by a terrorist group."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And to suggest \u2014 am I incorrect in that regard, on Sunday, the \u2014 your secretary \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Candy?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Excuse me."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The ambassador of the United Nations went on the Sunday television shows and spoke about how \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Candy, I\u2019m \u2014"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2014 this was a spontaneous \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m happy to have a longer conversation \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2014 about foreign policy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "OK."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I\u2019m happy to do that, too."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I just want to make sure that \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2014 all of these wonderful folks are going to have a chance to get some of their questions answered."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019re a nation that believes in the Second Amendment, and I believe in the Second Amendment."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve got a long tradition of hunting and sportsmen and people who want to make sure they can protect themselves."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But there have been too many instances during the course of my presidency, where I\u2019ve had to comfort families who have lost somebody."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Most recently out in Aurora."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "You know, just a couple of weeks ago, actually, probably about a month, I saw a mother, who I had met at the bedside of her son, who had been shot in that theater."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And her son had been shot through the head."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we spent some time, and we said a prayer and, remarkably, about two months later, this young man and his mom showed up, and he looked unbelievable, good as new."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But there were a lot of families who didn\u2019t have that good fortune and whose sons or daughters or husbands didn\u2019t survive."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So my belief is that, , we have to enforce the laws we\u2019ve already got, make sure that we\u2019re keeping guns out of the hands of criminals, those who are mentally ill."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019ve done a much better job in terms of background checks, but we\u2019ve got more to do when it comes to enforcement."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But I also share your belief that weapons that were designed for soldiers in war theaters don\u2019t belong on our streets."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And so what I\u2019m trying to do is to get a broader conversation about how do we reduce the violence generally."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Part of it is seeing if we can get an assault weapons ban reintroduced."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But part of it is also looking at other sources of the violence."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because frankly, in my home town of Chicago, there\u2019s an awful lot of violence and they\u2019re not using AK-47s."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "They\u2019re using cheap hand guns."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And so what can we do to intervene, to make sure that young people have opportunity; that our schools are working; that if there\u2019s violence on the streets, that working with faith groups and law enforcement, we can catch it before it gets out of control."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And so what I want is a \u2014 is a comprehensive strategy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Part of it is seeing if we can get automatic weapons that kill folks in amazing numbers out of the hands of criminals and the mentally ill."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But part of it is also going deeper and seeing if we can get into these communities and making sure we catch violent impulses before they occur."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Yeah, I\u2019m not in favor of new pieces of legislation on \u2014 on guns and taking guns away or making certain guns illegal."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We, of course, don\u2019t want to have automatic weapons, and that\u2019s already illegal in this country to have automatic weapons."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What I believe is we have to do, as the president mentioned towards the end of his remarks there, which is to make enormous efforts to enforce the gun laws that we have, and to change the culture of violence that we have."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And you ask how \u2014 how are we going to do that?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And there are a number of things."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He mentioned good schools."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I totally agree."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We were able to drive our schools to be number one in the nation in my state."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I believe if we do a better job in education, we\u2019ll \u2014 we\u2019ll give people the \u2014 the hope and opportunity they deserve and perhaps less violence from that."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But let me mention another thing."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And that is parents."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We need moms and dads, helping to raise kids."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Wherever possible the \u2014 the benefit of having two parents in the home, and that\u2019s not always possible."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "A lot of great single moms, single dads."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But gosh to tell our kids that before they have babies, they ought to think about getting married to someone, that\u2019s a great idea."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Because if there\u2019s a two parent family, the prospect of living in poverty goes down dramatically."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The opportunities that the child will \u2014 will be able to achieve increase dramatically."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So we can make changes in the way our culture works to help bring people away from violence and give them opportunity, and bring them in the American system."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The \u2014 the greatest failure we\u2019ve had with regards to \u2014 to gun violence in some respects is what \u2014 what is known as Fast and Furious."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Which was a program under this administration, and how it worked exactly I think we don\u2019t know precisely, where thousands of automatic, and AK-47 type weapons were \u2014 were given to people that ultimately gave them to \u2014 to drug lords."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "They used those weapons against \u2014 against their own citizens and killed Americans with them."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And this was a \u2014 this was a program of the government."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "For what purpose it was put in place, I can\u2019t imagine."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But it\u2019s one of the great tragedies related to violence in our society which has occurred during this administration."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Which I think the American people would like to understand fully, it\u2019s been investigated to a degree, but \u2014 but the administration has carried out executive privilege to prevent all of the information from coming out."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019d like to understand who it was that did this, what the idea was behind it, why it led to the violence, thousands of guns going to Mexican drug lords."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "OBAMA: Candy?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Well, Candy, actually, in my state, the pro-gun folks and the anti-gun folks came together and put together a piece of legislation."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And it\u2019s referred to as an assault weapon ban, but it had, at the signing of the bill, both the pro-gun and the anti-gun people came together, because it provided opportunities for both that both wanted."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "There were hunting opportunities, for instance, that haven\u2019t previously been available and so forth, so it was a mutually agreed- upon piece of legislation."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s what we need more of, Candy."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What we have right now in Washington is a place that\u2019s gridlocked."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have \u2014"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Candy?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2014 we haven\u2019t had the leadership in Washington to work on a bipartisan basis."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I was able to do that in my state and bring these two together."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The \u2014 first of all, I think Governor Romney was for an assault weapons ban before he was against it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And he said that the reason he changed his mind was, in part, because he was seeking the endorsement of the National Rifle Association."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "So that\u2019s on the record."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But I think that one area we agree on is the important of parents and the importance of schools, because I do believe that if our young people have opportunity, then they are less likely to engage in these kinds of violent acts."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019re not going to eliminate everybody who is mentally disturbed and we have got to make sure they don\u2019t get weapons."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But we can make a difference in terms ensuring that every young person in America, regardless of where they come from, what they look like, have a chance to succeed."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And, Candy, we haven\u2019t had a chance to talk about education much, but I think it is very important to understand that the reforms we\u2019ve put in place, working with 46 governors around the country, are seeing schools that are some of the ones that are the toughest for kids starting to succeed."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We\u2019re starting to see gains in math and science."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When it comes to community colleges, we are setting up programs, including with Nassau Community College, to retrain workers, including young people who may have dropped out of school but now are getting another chance, training them for the jobs that exist right now."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And in fact, employers are looking for skilled workers."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And so we\u2019re matching them up."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Giving them access to higher education."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "As I said, we have made sure that millions of young people are able to get an education that they weren\u2019t able to get before."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But \u2014 but it\u2019ll \u2014 it\u2019ll \u2014 it\u2019ll be\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2026 just one second."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because \u2014 because this is important."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "This is part of the choice in this election."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When Governor Romney was asked whether teachers, hiring more teachers was important to growing our economy, Governor Romney said that doesn\u2019t grow our economy."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When \u2014 when he was asked would class size\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I understand."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But this will make a difference in terms of whether or not we can move this economy forward for these young people\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "\u2026 and reduce our violence."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Boy, great question and important question, because you\u2019re absolutely right."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The place where we\u2019ve seen manufacturing go has been China."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "China is now the largest manufacturer in the world."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It used to be the United States of America."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "A lot of good people have lost jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "A half a million manufacturing jobs have been lost in the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s total over the last four years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "One of the reasons for that is that people think it\u2019s more attractive in some cases to go offshore than to stay here."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have made it less attractive for enterprises to stay here than to go offshore from time to time."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "What I will do as president is make sure it\u2019s more attractive to come to America again."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "This is the way we\u2019re going to create jobs in this country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "It\u2019s not by trickle-down government, saying we\u2019re going to take more money from people and hire more government workers, raise more taxes, put in place more regulations."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Trickle-down government has never worked here, has never worked anywhere."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want to make America the most attractive place in the world for entrepreneurs, for small business, for big business, to invest and grow in America."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Now, we\u2019re going to have to make sure that as we trade with other nations that they play by the rules."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And China hasn\u2019t."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "One of the reasons \u2014 or one of the ways they don\u2019t play by the rules is artificially holding down the value of their currency."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Because if they put their currency down low, that means their prices on their goods are low."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And that makes them advantageous in the marketplace."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We lose sales."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And manufacturers here in the U."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "making the same products can\u2019t compete."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "China has been a currency manipulator for years and years and years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And the president has a regular opportunity to label them as a currency manipulator, but refuses to do so."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "On day one, I will label China a currency manipulator, which will allow me as president to be able to put in place, if necessary, tariffs where I believe that they are taking unfair advantage of our manufacturers."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So we\u2019re going to make sure that people we trade with around the world play by the rules."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "But let me \u2014 let me not just stop there."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Don\u2019t forget, what\u2019s key to bringing back jobs here is not just finding someone else to punish, and I\u2019m going to be strict with people who we trade with to make sure they \u2014 they follow the law and play by the rules, but it\u2019s also to make America the most attractive place in the world for businesses of all kinds."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s why I want to down the tax rates on small employers, big employers, so they want to be here."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Canada\u2019s tax rate on companies is now 15 percent."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Ours is 35 percent."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "So if you\u2019re starting a business, where would you rather start it?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We have to be competitive if we\u2019re going to create more jobs here."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Regulations have quadrupled."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The rate of regulations quadrupled under this president."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I talk to small businesses across the country."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "They say, \u201cWe feel like we\u2019re under attack from our own government."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u201d I want to make sure that regulators see their job as encouraging small business, not crushing it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And there\u2019s no question but that Obamacare has been an extraordinary deterrent to enterprises of all kinds hiring people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My priority is making sure that we get more people hired."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If we have more people hired, if we get back manufacturing jobs, if we get back all kinds of jobs into this country, then you\u2019re going to see rising incomes again."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The reason incomes are down is because unemployment is so high."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I know what it takes to get this to happen, and my plan will do that, and one part of it is to make sure that we keep China playing by the rules."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "OK."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "We need to create jobs here."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And both Governor Romney and I agree actually that we should lower our corporate tax rate."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "It\u2019s too high."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But there\u2019s a difference in terms of how we would do it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I want to close loopholes that allow companies to deduct expenses when they move to China; that allow them to profit offshore and not have to get taxed, so they have tax advantages offshore."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "All those changes in our tax code would make a difference."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, Governor Romney actually wants to expand those tax breaks."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "One of his big ideas when it comes to corporate tax reform would be to say, if you invest overseas, you make profits overseas, you don\u2019t have to pay U."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "taxes."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But, of course, if you\u2019re a small business or a mom-and-pop business or a big business starting up here, you\u2019ve got to pay even the reduced rate that Governor Romney\u2019s talking about."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And it\u2019s estimated that that will create 800,000 new jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The problem is they\u2019ll be in china."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Or India."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Or Germany."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not the way we\u2019re going to create jobs here."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "The way we\u2019re going to create jobs here is not just to change our tax code, but also to double our exports."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we are on pace to double our exports, one of the commitments I made when I was president."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s creating tens of thousands of jobs all across the country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why we\u2019ve kept on pushing trade deals, but trade deals that make sure that American workers and American businesses are getting a good deal."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Now, Governor Romney talked about China, as I already indicated."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "In the private sector, Governor Romney\u2019s company invested in what were called pioneers of outsourcing."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not my phrase."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s what reporters called it."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And as far as currency manipulation, the currency has actually gone up 11 percent since I\u2019ve been president because we have pushed them hard."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And we\u2019ve put unprecedented trade pressure on China."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why exports have significantly increased under my presidency."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s going to help to create jobs here."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The answer is very straightforward."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We can compete with anyone in the world as long as the playing field is level."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "China\u2019s been cheating over the years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "One by holding down the value of their currency."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Number two, by stealing our intellectual property; our designs, our patents, our technology."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "There\u2019s even an Apple store in China that\u2019s a counterfeit Apple store, selling counterfeit goods."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "They hack into our computers."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We will have to have people play on a fair basis, that\u2019s number one."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Number two, we have to make America the most attractive place for entrepreneurs, for people who want to expand their business."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "That\u2019s what brings jobs in."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president\u2019s characterization of my tax plan\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2026is completely\u2026is completely\u2026"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "\u2026is completely false."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Let me tell you\u2026"
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Candy, there are some jobs that are not going to come back."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because they are low wage, low skill jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I want high wage, high skill jobs."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why we have to emphasize manufacturing."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why we have to invest in advanced manufacturing."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why we\u2019ve got to make sure that we\u2019ve got the best science and research in the world."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And when we talk about deficits, if we\u2019re adding to our deficit for tax cuts for folks who don\u2019t need them, and we\u2019re cutting investments in research and science that will create the next Apple, create the next new innovation that will sell products around the world, we will lose that race."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "If we\u2019re not training engineers to make sure that they are equipped here in this country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Then companies won\u2019t come here."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Those investments are what\u2019s going to help to make sure that we continue to lead this world economy, not just next year, but 10 years from now, 50 years from now, 100 years from now."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Government does not create jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Government does not create jobs."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Barry?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Where is Barry?"
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "Thank you, and that\u2019s an opportunity for me, and I appreciate it."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "In the nature of a campaign, it seems that some campaigns are focused on attacking a person rather than prescribing their own future and the things they\u2019d like to do."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "In the course of that, I think the president\u2019s campaign has tried to characterize me as \u2014 as someone who\u2019s very different than who I am."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I care about 100 percent of the American people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I want 100 percent of the American people to have a bright and prosperous future."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I care about our kids."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I understand what it takes to make a bright and prosperous future for America again."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I spent my life in the private sector, not in government."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019m a guy who wants to help with the experience I have, the American people."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "My \u2014 my passion probably flows from the fact that I believe in God."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And I believe we\u2019re all children of the same God."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I believe we have a responsibility to care for one another."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I \u2014 I served as a missionary for my church."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I served as a pastor in my congregation for about 10 years."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ve sat across the table from people who were out of work and worked with them to try and find new work or to help them through tough times."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I went to the Olympics when they were in trouble to try and get them on track."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And as governor of my state, I was able to get 100 percent of my people insured, all my kids, about 98 percent of the adults."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I was able also to get our schools ranked number one in the nation, so 100 percent of our kids would have a bright opportunity for a future."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I understand that I can get this country on track again."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We don\u2019t have to settle for what we\u2019re going through."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We don\u2019t have to settle for gasoline at four bucks."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We don\u2019t have to settle for unemployment at a chronically high level."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We don\u2019t have to settle for 47 million people on food stamps."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We don\u2019t have to settle for 50 percent of kids coming out of college not able to get work."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "We don\u2019t have to settle for 23 million people struggling to find a good job."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "If I become president, I\u2019ll get America working again."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I will get us on track to a balanced budget."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president hasn\u2019t."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I will."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ll make sure we can reform Medicare and Social Security to preserve them for coming \u2014 coming generations."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "The president said he would."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "He didn\u2019t."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I\u2019ll get our incomes up."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "And by the way, I\u2019ve done these things."
+  },
+  {
+   "speaker": "Mitt Romney",
+   "text": "I served as governor and showed I could get them done."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Barry, I think a lot of this campaign, maybe over the last four years, has been devoted to this nation that I think government creates jobs, that that somehow is the answer."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s not what I believe."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I believe that the free enterprise system is the greatest engine of prosperity the world\u2019s ever known."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I believe in self-reliance and individual initiative and risk takers being rewarded."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But I also believe that everybody should have a fair shot and everybody should do their fair share and everybody should play by the same rules, because that\u2019s how our economy\u2019s grown."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s how we built the world\u2019s greatest middle class."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And \u2014 and that is part of what\u2019s at stake in this election."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "There\u2019s a fundamentally different vision about how we move our country forward."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "I believe Governor Romney is a good man."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Loves his family, cares about his faith."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "But I also believe that when he said behind closed doors that 47 percent of the country considered themselves victims who refuse personal responsibility, think about who he was talking about."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Folks on Social Security who\u2019ve worked all their lives."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Veterans who\u2019ve sacrificed for this country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Students who are out there trying to hopefully advance their own dreams, but also this country\u2019s dreams."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Soldiers who are overseas fighting for us right now."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "People who are working hard every day, paying payroll tax, gas taxes, but don\u2019t make enough income."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I want to fight for them."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s what I\u2019ve been doing for the last four years."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Because if they succeed, I believe the country succeeds."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "When my grandfather fought in World War II and he came back and he got a G."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "Bill and that allowed him to go to college, that wasn\u2019t a handout."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That was something that advanced the entire country."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "And I want to make sure that the next generation has those same opportunities."
+  },
+  {
+   "speaker": "Barack Obama",
+   "text": "That\u2019s why I\u2019m asking for your vote and that\u2019s why I\u2019m asking for another four years."
+  }
+ ]
+}

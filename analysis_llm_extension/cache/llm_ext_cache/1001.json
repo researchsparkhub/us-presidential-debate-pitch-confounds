@@ -1,0 +1,3418 @@
+{
+ "debate_id": "1001",
+ "year": "1988",
+ "candidates": [
+  "George H. W. Bush",
+  "Michael Dukakis"
+ ],
+ "results": {
+  "George H. W. Bush": "winner",
+  "Michael Dukakis": "loser"
+ },
+ "winner": "George H. W. Bush",
+ "n_sentences": 832,
+ "descriptors": {
+  "George H. W. Bush": {
+   "Mean pitch": -0.1062,
+   "Pitch SD (Hz)": -0.1231,
+   "Pitch range (Hz)": -0.1901,
+   "Loudness": 0.2236,
+   "Voice clarity (Praat)": -0.0132,
+   "Pause duration": -0.1333,
+   "Pause count": -0.1367,
+   "Mean pause length": -0.1371,
+   "Speech rate": -0.1668,
+   "Articulation rate (w/s)": -0.1986,
+   "Syllable rate": -0.1153,
+   "Articulation rate (syll/s)": -0.2691,
+   "Semitone pitch SD/mean": -0.1949,
+   "Semitone 20-80 pitch range": -0.0027,
+   "Voice clarity (openSMILE)": -0.1268,
+   "Clauses": -0.0297,
+   "Subordinate clauses": -0.1087,
+   "Parse depth": -0.1226,
+   "Dependency length": -0.085,
+   "Words per sentence": -0.1265,
+   "Word length": -0.0563,
+   "Function words": 0.0714,
+   "1st-person pronouns": 0.0622,
+   "2nd-person pronouns": -0.0235,
+   "3rd-person pronouns": 0.0267,
+   "Nouns": 0.0047,
+   "Verbs": -0.0014,
+   "Adjectives": -0.0349,
+   "Adverbs": 0.022,
+   "Reading ease": 0.1212,
+   "Grade level": -0.1457,
+   "Sentiment": 0.0239,
+   "Positive sentiment": 0.0082,
+   "Negative sentiment": -0.1061
+  },
+  "Michael Dukakis": {
+   "Mean pitch": 0.1191,
+   "Pitch SD (Hz)": 0.1381,
+   "Pitch range (Hz)": 0.2132,
+   "Loudness": -0.2513,
+   "Voice clarity (Praat)": 0.0148,
+   "Pause duration": 0.1499,
+   "Pause count": 0.1536,
+   "Mean pause length": 0.1541,
+   "Speech rate": 0.1875,
+   "Articulation rate (w/s)": 0.2233,
+   "Syllable rate": 0.121,
+   "Articulation rate (syll/s)": 0.3024,
+   "Semitone pitch SD/mean": 0.2191,
+   "Semitone 20-80 pitch range": 0.003,
+   "Voice clarity (openSMILE)": 0.1425,
+   "Clauses": 0.0312,
+   "Subordinate clauses": 0.1141,
+   "Parse depth": 0.1287,
+   "Dependency length": 0.0892,
+   "Words per sentence": 0.1327,
+   "Word length": 0.0591,
+   "Function words": -0.075,
+   "1st-person pronouns": -0.0653,
+   "2nd-person pronouns": 0.0247,
+   "3rd-person pronouns": -0.028,
+   "Nouns": -0.0049,
+   "Verbs": 0.0015,
+   "Adjectives": 0.0366,
+   "Adverbs": -0.0231,
+   "Reading ease": -0.1272,
+   "Grade level": 0.1529,
+   "Sentiment": -0.0251,
+   "Positive sentiment": -0.0086,
+   "Negative sentiment": 0.1113
+  }
+ },
+ "transcript_turns": [
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think we\u2019ve seen a deterioration of values."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think for a while as a nation we condoned those things we should have condemned."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "For a while, as I recall, it even seems to me that there was talk of legalizing or decriminalizing marijuana and other drugs, and I think that\u2019s all wrong."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So we\u2019ve seen a deterioration in values, and one of the things that I think we should do about it in terms of cause is to instill values into the young people in our schools."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We got away, we got into this feeling that value- free education was the thing."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I don\u2019t believe that at all I do believe there are fundamental rights and wrongs as far as use."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And, of course, as far as the how we make it better, yes, we can do better on interdiction."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But we\u2019ve got to do a lot better on education, and we have to do, be tougher on those who commit crimes."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve got to get after the users more."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We have to change this whole culture."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You know, I saw a movie \u2013 \u201cCrocodile Dundee."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "\u201d And I saw the cocaine scene treated with humor, as though this was a humorous little incident."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And it\u2019s bad."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Everybody ought to be in this thing."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Entertainment industry, people involved in the schools, education."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And it isn\u2019t a Republican or a Democrat or a liberal problem."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But we have got to instill values in these young people."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I have put forward a many-point drug program that includes what I would do as president of the United States; in terms of doing better on interdiction; and in terms of better in the neighborhoods."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I think we\u2019re all in this together, and my plea to the American people is values in the schools."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I agree with Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush that values are important."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But it\u2019s important that our leaders demonstrate those values from the top."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That means those of us who are elected to positions of political leadership have to reflect those values ourselves."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Here we are with a government that\u2019s been dealing with a drug-running Panamanian dictator."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve been dealing with him; he\u2019s been dealing drugs to our kids."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Governors like me and others have been trying to deal with the consequences."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I remember being in a high school in my own state as we were organizing something we call the Governor\u2019s Alliance Against Drugs, and a young 16 year old girl coming up to me, desperate, addicted, dependent, saying, Governor, I need help."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019re providing that young woman with help."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I want to be a president of the United States who makes sure that we never again do business with a drug-running Panamanian dictator, that we never again funnel aid to the contras through convicted drug dealers."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Values begin at the top, in the White House."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Those are the values I want to bring to the presidency and to the White House beginning in January of 1989."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m saying that those of us who are elected to positions of political leadership, Jim, have a special responsibility, not only to come up with programs, and I have outlined in detail the very important, very strong program of enforcement as well as drug education prevention."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush is right \u2013 the two go hand in hand."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But if our government itself is doing business with people who we know are engaged in drug profiteering and drug trafficking, if we don\u2019t understand that that sends out a very, very bad message to our young people, it\u2019s a little difficult for me to understand just how we can reach out to that youngster that I talked about and to young people like her all over the country, and say to them we want to help you."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Now, I\u2019ve outlined in great detail a program for being tough on enforcement at home and abroad, doubling the number of drug enforcement agents, having a hemispheric summit soon after the 20th of January when we bring our democratic neighbors and allies together here in this hemisphere and go to work together."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But we also have to take demand seriously."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You know, we have five percent of the world\u2019s population in this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019re consuming 50 percent of the world\u2019s cocaine."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Doing better in the neighborhoods."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I think we\u2019re all in this together, and my plea to the American people is values in the schools."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I agree with Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush that values are important."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But it\u2019s important that our leaders demonstrate those values from the top."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That means those of us who are elected to positions of political leadership have to reflect those values ourselves."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Here we are with a government that\u2019s been dealing with a drug-running Panamanian dictator."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve been dealing with him; he\u2019s been dealing drugs to our kids."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Governors like me and others have been trying to deal with the consequences."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I remember being in a high school in my own state as we were organizing something we call the Governor\u2019s Alliance Against Drugs, and a young 16 year old girl coming up to me, desperate, addicted, dependent, saying, Governor, I need help."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019re providing that young woman with help."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I want to be a president of the United States who makes sure that we never again do business with a drug-running Panamanian dictator, that we never again funnel aid to the contras through convicted drug dealers."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Values begin at the top, in the White House."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Those are the values I want to bring to the presidency and to the White House beginning in January of 1989."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m saying that those of us who are elected to positions of political leadership, Jim, have a special responsibility, not only to come up with programs, and I have outlined in detail the very important, very strong program of enforcement as well as drug education prevention."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush is right \u2013 the two go hand in hand."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But if our government itself is doing business with people who we know are engaged in drug profiteering and drug trafficking, if we don\u2019t understand that that sends out a very, very bad message to our young people, it\u2019s a little difficult for me to understand just how we can reach out to that youngster that I talked about and to young people like her all over the country, and say to them we want to help you."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Now, I\u2019ve outlined in great detail a program for being tough on enforcement at home and abroad, doubling the number of drug enforcement agents, having a hemispheric summit soon after the 20th of January when we bring our democratic neighbors and allies together here in this hemisphere and go to work together."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But we also have to take demand seriously."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You know, we have five percent of the world\u2019s population in this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019re consuming 50 percent of the world\u2019s cocaine."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And in my state I\u2019m proud to say we\u2019ve organized a drug education and prevention program which the Federal Drug Enforcement Administration says is a model for the country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019re helping youngsters; we\u2019re reaching out to them."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And we\u2019re beginning with drug education and prevention beginning in the early elementary grades in every elementary school in our state, and that\u2019s the kind of effort we need in every elementary school in the United States of America."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And we\u2019ve got to begin early, in the first, second and third grade, before our youngsters begin to experiment with these very, very dangerous substances."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I guess the question I would ask of Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush is how we instill those values, how we create this environment for the drug free schools that we want in this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "If he or representatives of the administration are either with or involving people like Noriega in our foreign policy, or don\u2019t pursue that connection in a way that makes it possible for us to cut it off and to be an example to our kids all over the country."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, the other day my opponent was given a briefing by the CIA."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I asked for and received the same briefing."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I am very careful in public life about dealing with classified information."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And what I\u2019m about to say is unclassified."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Seven administrations were dealing with Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Noriega."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It was the Reagan-Bush administration that brought this man to justice."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And as the governor of Massachusetts knows, there was no evidence that governor \u2013 that Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Noriega was involved in drugs, no hard evidence until we indicted him."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so I think it\u2019s about time we get this Noriega matter in perspective."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Panama is a friendly country."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I went down there and talked to the president of Panama about cleaning up their money laundering, and Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Noriega was there, but there was no evidence at that time, and when the evidence was there, we indicted him."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we want to bring him to justice."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so call off all those pickets out there that are trying to tear down seven different administrations."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Yes, I\u2019ve been very specific about those, John."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And let me lay out for you my own strategy for bring that deficit down, because as a chief executive that\u2019s balanced ten budgets in a row, I\u2019ve had to make those tough decisions and those tough choices."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "First, I\u2019ve suggested that there are certain weapons systems which we don\u2019t need and we can\u2019t afford."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush has been critical of me for that, but I think those are the kinds of tough choices you have to make."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019ve also suggested that there are weapons systems that we should proceed on, and I\u2019ve outlined those in detail."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Secondly, we\u2019ve got to invest in economic growth in this country, in every part of this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Building that kind of growth expands revenues and helps to bring down that deficit."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Thirdly, we have to bring interest rates down, and we will as we come up with a good, solid plan with the Congress for bringing that deficit down."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And, finally, we\u2019ve got to go out there and collect billions and billions of dollars in taxes owed that aren\u2019t being paid to this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s very unfair to the average taxpayer who pays his taxes and pays them on time to permit these monies to go uncollected."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019ve also suggested that on the domestic side there are areas where we can make some cuts."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We ought to be able to come up with an agricultural policy in this country that gives our farm families a fair price and a decent future without spending $20-25 billion a year, which is what we\u2019ve been doing under this administration."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We can help people to live better lives, and at the same time save money by helping hundreds of thousands of families on welfare to get off or welfare, and to become productive citizens again."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The thing I don\u2019t understand about Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush\u2019s approach to this is how he could possibly be serious about bringing that deficit down given what he says he wants to do."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He seems to want to spend a great deal of money on just about every weapon system; he says he\u2019s against new taxes, although he\u2019s broken that pledge at least times in the last year that I know of; he wants to give the wealthiest taxpayers in this country a five year, $40 billion tax break."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He also wants to spend a lot of money on additional programs."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "If he keeps this up, he\u2019s going to be the Joe Isuzu of American politics."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I hope you won\u2019t take my five seconds away from me."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I will say this \u2013"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "If he\u2019s serious about what he\u2019s saying, then the only place he can go to balance that budget is to raid the Social Security Trust Fund, and he tried that in 1985, and I think he\u2019s going to try it again."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Is this the time to unleash our one-liners?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That answer was about as clear as Boston harbor."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let me help the governor."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "There are so many things there, I don\u2019t quite know where to begin."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "When you cut capital gains, you put people to work."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "John Kennedy proposed cutting capital gains."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Paul Tsongas, a liberal senator from Massachusetts said the dumbest thing I did was to oppose the capital gains cut."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s not going to cost the government money."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s going to increase revenues to the federal government, and it\u2019s going to create jobs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So that\u2019s one of the things that I think makes a big difference between us."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Massachusetts doesn\u2019t have an enormous defense budget, but nevertheless, the governor raised taxes five different times."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That happens to be a fact."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so let\u2019s kind of stay on the issue, and I have made a specific proposal for what I call a flexible freeze."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And it permits \u2013 economists on the East Coast and West think it\u2019s good \u2013 it permits the president to sort out the priorities, and we continue to grow because I will not raise taxes."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think it\u2019s the Republican Party and my concern to bring it down."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And presidential leadership that I want to provide in this area will bring it down, but we\u2019ve got to get the Democrats \u2013 Congress under control."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "They do all the spending, they appropriate every dime and tell us how to spend every dime."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019d like to ask the Governor to join in getting for the president what 43 governors have, the line-item veto."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He has to operate in Massachusetts under a balanced budget proviso."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I would like a balanced budget amendment."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But the dynamics of the economy \u2013 we cut the taxes and revenues are up by 25 percent in three years."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So the problem is \u2013 it\u2019s not that the working is being taxed too little or the person working out \u2013 the woman working in some factory being taxed too little."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It is that we are continuing to spend too much."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So, my formula says grow at the rate of inflation."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Permit the president to set the priorities on where we do the spending."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And remember the Federal deficit has come down $70 billion in one year, in 1987."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And if we \u2013 and the \u2013 actually this year Congress is doing a little better in controlling the growth of spending."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Spending was only up something like 4 percent."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So, it isn\u2019t that we\u2019re taking too little \u2013 from taxpayer \u2013 we\u2019re spending too much still."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And the formula I\u2019ve given you works, we\u2019ve put it through a good economic model, we\u2019ve got good economists on the West Coast, Michael Boskin and Marty Feldstein up there who\u2019s a very respected economist in the \u2013 Massachusetts."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And they agree, that if we can do what I\u2019ve said, we can get it down without going and socking the American taxpayer once again."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Capital gains, one more point on that, please let\u2019s learn from history."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "A capital gains differential will increase jobs, increase risk taking, increase revenues to the Federal Government."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, I hope all of those Americans out there who are watching us, listening to us and trying to make up their mind about which one of us ought to be president of the United States listen to the Vice President very carefully."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "What he\u2019s proposing after over a trillion in new debt which has been added in the Federal debt in the course of the past eight years, an IOU our children and grandchildren will be paying for years, is a tax cut for the wealthiest one percent of the people in this country, an average of about $30,000 that we\u2019re going to give to people making $200,000 a year."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Why that\u2019s more than the average teacher makes."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve had enough of that, ladies and gentlemen."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve run up more debt in the last eight years than under all the presidents from George Washington to Jimmy Carter combined."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s time for a chief executive who can make tough choices, can work with the Congress, can get that deficit down and begin to build a strong fiscal foundation under this country."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "One thing I will not do is sock every business in the country and, thus, throw some people out of work."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to keep this economic recovery going."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "More Americans at work today than any time in history, a greater percentage of the work force."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "What I will do is permit people to buy into Medicaid."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I believe that\u2019s the answer."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I am proud to have been part of an administration that past the first catastrophic health bill."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And in that there are some Medicaid provisions that will be very helpful to the very kind of people we\u2019re talking about here."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But we\u2019ve got to keep going forward without killing off the engine and throwing people out of work."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So, the answer lies, it seems to me, in full enforcement of the catastrophic program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It lies to me in flexibility in Medicaid so people at the lowest end can buy in there and get their needs covered and then it also \u2013 I do not want to see us mandate across the board that every company has to do this, because I really think that marginal operators are going to go say, \u201cWe can\u2019t make it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "\u201d And I think then you\u2019re going to see that people are put out of work."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "All these programs \u2013 and this cost on his \u2013 is \u2013 was \u2013 I saw an estimate, I\u2019d love to know what he thinks, $35 \u2013 $40 billion \u2013 and it seems to me that somebody pays that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "There isn\u2019t any such thing as something free out there."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It either gets passed along as increased prices or it gets passed along by people being put out of work so the business can continue to compete."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So, I think we ought to do it in the Medicaid system."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think we ought to do it by full enforcement of the catastrophic health insurance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think we ought to do it by everybody doing what they can do out of conscience."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s a terrible problems in terms of flexibility on private insurance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I just don\u2019t want to mandate it and risk putting this \u2013 setting the recovery back."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But, George, that\u2019s no answer."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You don\u2019t like the answer, but it\u2019s an answer."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, no, it\u2019s no answer to those 37 million people, most of them members of working families who don\u2019t have a dime of health insurance and don\u2019t know how to pay the bills if their kids get sick at night."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I was in Houston on Tuesday meeting with a group of good citizens, working citizens."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "All of them with little or no health insurance."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "One of them was a father who had been laid off a few months ago and lost his health insurance."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Has an 11 year old son and can\u2019t let that son compete in sports and Little League, because he\u2019s afraid he\u2019s going to get hurt and he won\u2019t be able to provide health insurance to pay those bills."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "My state just became the only state in the nation to provide for universal health care and we did it with the support of the business community and labor and the health care community and with virtually everybody in the state."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The fact of the matter is that employers who today are insuring their employees are paying the freight, because they\u2019re paying for those who aren\u2019t."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And I think it\u2019s time that when you got a job in this country it came with health insurance."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s the way we\u2019re going to provide basic health security for all of the citizens of this country of ours."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, Anne, let me just say before I answer your question that I didn\u2019t know that the Vice President attacked our program in Massachusetts."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I hope he hasn\u2019t."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Because has won the support of a great many people all over the state and I think it\u2019s a model for what I hope we can do across the country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But when I proposed my plan this past Tuesday, he or one of his spokesmen called it socialized medicine."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The last time the Vice President used that phrase, I suspect he remembers it, don\u2019t you?"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It was in 1964 and that\u2019s what he called Medicare."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, he was wrong then and he\u2019s wrong now."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Let me say this about AIDS."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s the single most important public health crisis, single most important public health emergency we\u2019ve had in our lifetimes and I think there are a number of things we have to do including supporting legislation which is now moving through the Congress, which will commit this nation to the resources to find a cure which will provide broad education and prevention, which will provide sensitive and caring treatment for the victims of AIDS."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think we have to demonstrate some flexibility and I think the FDA is attempting to do so now in trying to make it possible for new and experimental drugs to be available to people who are at risk at AIDS and I would hope that we could bring that kind of a policy to bear beginning in January."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And I would encourage the current administration to proceed with that kind of flexibility where it\u2019s appropriate and where it\u2019s done carefully and responsibly."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But we have not had the kind of leadership we should have had."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "In this particular area, I think the Vice President and I are in general agreement on what we have to do."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The special Federal commission made good solid recommendations."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think we\u2019re both supportive of them and I would strongly lead in that area as I have in my state as Governor."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, we\u2019re on the right track."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The NIH is doing a good job in research."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The Surgeon General is doing a good job in encouraging the proper kind of education."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I notice that the Governor did not mention any testing."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But we got to have a knowledge base."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Testing should be confidential, but we have to have a knowledge."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We can\u2019t simply stick our heads in the sands in terms of testing."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m Chairman of the President\u2019s Task Force on Regulatory Relief and we are working with the FDA and they have sped up bringing drugs to market that can help."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And you got to be careful here, because there\u2019s a safety factor, but I think these things \u2013 and then also I am one who believes we\u2019ve got to go the extra mile in clean \u2013 being sure that that blood supply is pure."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We cannot have a lack of confidence in the blood supply when it comes to operations and surgery and things of this nature."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So, research, speeding the drugs to market, testing, blood supply are very important elements of this."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Passionless?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, I don\u2019t question his passion."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I question \u2013 and I don\u2019t question his concern about the war in Vietnam."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He introduced or supported legislation back then that suggested that kids of Massachusetts should be exempt from going overseas in that war."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, that\u2019s a certain passion that in my view it\u2019s misguided passion."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He \u2013 we have a big difference on issues."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You see, last year in the primary, he expressed his passion."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He said, \u201cI am a strong liberal Democrat\u201d \u2013 August, \u201987."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Then he said, \u201cI am a card-carrying member of the ACLU."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "\u201d That was what he said."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He is out there on out of the mainstream."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He is very passionate."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "My argument with the governor is, do we want this country to go that far left."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I wish we had time to let me explain."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I salute him for his passion."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We just have a big difference on where this country should be led, and in what direction it ought to go."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Nothings wrong with it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But just take a look at the positions of the ACLU."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But, Peter, please understand, the liberals do not like me talking about liberal They don\u2019t like it when I say that he says he\u2019s a card carrying member."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, if that quote was wrong, he can repudiate it, right here."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019ve seen it authoritatively written twice, and if I\u2019ve done him an injustice, and he didn\u2019t say it, I\u2019m very, very sorry."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I don\u2019t agree with a lot of \u2013 most of the positions of the ACLU."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I simply don\u2019t want to see the ratings on movies."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want my ten year old grandchild to go into an X-rated movie."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I like those ratings systems."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t think they\u2019re right to try to take the tax exemption away from the Catholic Church."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want to see the kiddie pornographic laws repealed; I don\u2019t want to see \u201cunder God\u201d come out from our currency."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, these are all positions of the ACLU."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I don\u2019t agree with them."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He has every right to exercise his passion, as what he said, a strong, progressive liberal."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t agree with that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I come from a different point."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think I\u2019m more in touch with the mainstream of America."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "They raised the same thing with me on the Pledge of Allegiance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You see, I\u2019d have found a way to sign that bill."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Governor Thompson of Illinois did."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m not questioning his patriotism."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He goes out and says the man is questioning my patriotism."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And then all the liberal columnists join in."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I am not."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I am questioning his judgment on these matters, or where he\u2019s coming from He has every right to do it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I believe that\u2019s not what the American people want, and when he said, when he said at the convention, ideology doesn\u2019t matter, just competence, he was moving away from his own record, from what his passion has been over the years."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And that\u2019s all I\u2019m trying to do, is put it in focus."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I hope people don\u2019t think that I\u2019m questioning his patriotism when I say he used his words to describe his participation in that organization."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, I hope this is the first and last time I have to say this."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Of course, the vice president is questioning my patriotism."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I don\u2019t think there\u2019s any question about that, and I resent it."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I resent it."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "My parents came to this country as immigrants."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "They taught me that this was the greatest country in the world."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m in public service because I love this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I believe in it."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And nobody\u2019s going to question my patriotism as the vice president has now repeatedly."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The fact of the matter is if the Pledge of Allegiance was the acid test of one\u2019s patriotism\u2013the vice president\u2019s been the presiding officer in the United States Senate for the past seven and a half years."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "To the best of my knowledge he\u2019s never once suggested that a session of the Senate begin with the Pledge of Allegiance."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush, I don\u2019t question your patriotism."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "When you\u2019re attacked for your military record, I immediately said it was inappropriate, it had no place in this campaign, and I rejected it."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I would hope that from this point on, we get to the issues that affect the vast majority of Americans, jobs, schools, health care, housing, the environment."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Those are the concerns of the people that are watching us tonight."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Not labels that we attach to each other, questions about each other\u2019s patriotism and loyalty."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see the McKinney Act fully funded."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I believe that that would help in terms of shelter."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see \u2013 when I talked at our convention about a thousand points of light, I was talking about the enormous numbers of shelters and organizations that help."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The governor\u2019s wife has been very active in the homeless."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "My campaign chairman, Secretary Jim Baker\u2019s wife."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "This isn\u2019t government."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "These are people that care, that are trying to give of themselves."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The government has a role."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It is to fully fund the McKinney Act."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "There are certain army bases that the act calls for that can be used in certain cases to shelter people when it\u2019s rough."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so I think that we\u2019re on the right track."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t see this, incidentally, as a Democrat or a Republican or a liberal or conservative idea."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I see an involvement by a thousand points of light."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I see the funding that is required, and I hope the Congress will fully fund this bill."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "They gave it a great deal of conscience and a great deal of work."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we\u2019re on the track on this one."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But \u2013 and I, look, mental \u2013 that was a little overstated it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019d say around 30 percent."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think maybe we could look back over our shoulders and wonder whether it was right to let all those mental patients out."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Maybe we need to do a better job in mental clinics to help them."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Because there is a major problem there."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "A lot of them are mentally sick."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we\u2019ve got to attend to them."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But fully, my short range answer is fully fund that McKinney Act."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, this is another fundamental difference that I have with the vice president, just as I do in the case of health care for 37 million members of working families in this country who don\u2019t have health insurance."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The problem, Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush, is that you\u2019ve cut back by 90 percent on our commitment to affordable housing for families of low and moderate income."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And when you do that, you\u2019ve have homeless families."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We didn\u2019t have two and a half million, or three million homeless people living on streets and in doorways in this country ten years ago."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve got to begin to get back to the business of building and rehabilitating housing for families of low and moderate income in this country; housing for young families that they can look forward some day to buy."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve got communities in this country increasingly where our own kids can\u2019t afford to live in the communities that they grew up in."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s an essential commitment."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And I think the housing community is ready."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But it\u2019s going to take a president who\u2019s committed to housing, who\u2019s had experience in building and rehabilitating housing who understands that affordable housing for families of low and moderate income, for young families, first time home buyers, is an essential part of the American dream."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And while I\u2019m all for the McKinney bill, that, by itself, simply won\u2019t do."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve got to have a president that can lead on this issue, that can work with the Congress, and I\u2019m prepared to do so."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "This is one of the most important priorities that faces this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, I certainly hope not."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And it\u2019s all a question of what our priorities are."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush talked about values."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I agree with him."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "What are our values?"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Isn\u2019t providing housing for families of low and moderate income, isn\u2019t it making possible for young families, first time home buyers to own their own home some day something that\u2019s part of the American dream?"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think so."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You know, back after World War II when we had hundreds of thousands of GIs who came back from the war, we didn\u2019t sit around."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We went out and built housing."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The government was very much involved; so was the housing industry; so was the banking industry; so were housing advocates; so were non-profit agencies; so were governors and mayors and people all over this country who believe deeply in home ownership and affordable housing."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Now, that\u2019s the kind of leadership that I want to provide as president of the United States."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "This isn\u2019t a question of a little charity for the homeless."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "This is a question of organizing the housing community."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019ve talked to bankers and builders and developers, the housing advocates, community development agencies, and they want leadership from Washington."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Washington, by itself, can\u2019t do it all."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We shouldn\u2019t expect that."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But governors are ready; mayors are ready."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Builders and community leaders are ready."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It will require some funds, John."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And we ought to be prepared to provide those funds."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But that, too, will require some choices."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush wants to spend billions and trillions on Star Wars."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, that\u2019s a choice we have to make, isn\u2019t it?"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Do we spend money on that weapon system in the billions and trillions, or is providing some decent and affordable housing for families of this country something that is at least as important and probably more so."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Because it\u2019s so essential to our economic strength and to our future."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Now, that\u2019s the kind of presidency I believe in."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And simply to say, well, the McKinney bill will do it just doesn\u2019t do."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We need a president who will lead on this issue, who has had experience on this issue."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s the kind of priority that will be at the top of our list beginning in January of 1989."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think the governor is blurring housing and the homeless."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let\u2019s talk about housing which the question was."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "When you talk to those bankers, did they discuss where interest rates were when your party controlled the White House?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Ten days before I took the oath of office as president they were 21 and a half percent."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, how does that grab you for increasing housing?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Housing is up."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We are serving a million more families now."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But we\u2019re not going to do it in that old Democratic, liberal way of trying to build more bricks and mortars."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Go out and take a look at St."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Louis at some of that effort."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It is wrong."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I favor home ownership."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see more vouchers."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see control of some of these projects, and I want to keep the interest rates down."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "They\u2019re half, now of what they were when we came into office, and with my policy of getting this deficit under control, they\u2019ll be a lot less."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But if we spend and spend and spend, that is going to wrap up the housing market, and we\u2019ll go right back to the days of the misery index and malaise that President Reagan and I have overcome \u2013 thank God for the United States on that one."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "No, I don\u2019t think there is."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "There are two very different issues here, and they\u2019ve got to be dealt with separately."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m opposed to the death penalty."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think everybody knows that."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m also very tough on violent crime."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And that\u2019s one of the reasons why my state has cut crime by more than any other industrial state in America."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s one of the reasons why we have the lowest murder rate of any industrial state in the country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s one of the reasons why we have a drug education and prevention program that is reaching out and helping youngsters all over our state, the kind of thing I want to do as president of the United States."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You know, the vice president says he wants to impose the death penalty on drug traffickers, and yet his administration has a federal furlough program which is one of the most permissive in the country, which gave last year 7,000 furloughs to drug traffickers and drug pushers, the same people that he says he now wants to execute."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The issue of abortion is a very difficult issue, one that I think that we all have to wrestle with, we have to come to terms with."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I don\u2019t favor abortion."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I don\u2019t think it\u2019s a good thing."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I don\u2019t think most people do."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The question is who makes the decision."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And I think it has to be the woman, in the exercise of her own conscience and religious beliefs, that makes that decision."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, the Massachusetts furlough program was unique."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It was the only one in the nation that furloughed murderers who had not served enough time to be eligible for parole."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The federal program doesn\u2019t do that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "No other state programs do that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I favor the death penalty."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I know it\u2019s tough and honest people can disagree."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But when a narcotics wrapped up guy goes in and murders a police officer, I think they ought to pay with their life."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I do believe it would be inhibiting."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so I am not going to furlough men like Willie Horton, and I would meet with their, the victims of his last escapade, the rape and the brutalization of the family down there in Maryland."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Maryland would not extradite Willie Horton, the man who was furloughed, the murderer, because they didn\u2019t want him to be furloughed again."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so we have a fundamental difference on this one."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think most people know my position on the sanctity of life."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I favor adoption."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I do not favor abortion."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I haven\u2019t sorted out the penalties."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I do know, I do know that I oppose abortion."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I favor adoption."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And if we can get this law changed, everybody should make the extraordinary effort to take these kids that are unwanted and sometimes aborted, take the \u2013 let them come to birth, and then put them in a family where they will be loved."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And you see, yes, my position has evolved."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And it\u2019s continuing to evolve, and it\u2019s evolving in favor of life."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I have had a couple of exceptions that I support \u2013 rape, incest and the life of the mother."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Sometimes people feel a little uncomfortable talking about this, but it\u2019s much clearer for me now."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "As I\u2019ve seen abortions sometimes used as a birth control device, for heavens sakes."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "See the millions of these killings accumulate, and this is one where you can have an honest difference of opinion."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We certainly do."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But no, I\u2019m for the sanctity of life, and once that illegality is established, then we can come to grips with the penalty side, and of course there\u2019s got to be some penalties to enforce the law, whatever they may be."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, I think what the vice president is saying is that he\u2019s prepared to brand a woman a criminal for making this decision."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s as simple as that."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I don\u2019t think it\u2019s enough to come before the American people who are watching us tonight and say, well, I haven\u2019t sorted it out."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "This is a very, very difficult and fundamental decision that all of us have to make."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And what he is saying, if I understand him correctly, is that he\u2019s prepared to brand a woman a criminal for making this choice."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I just \u2013"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Let me finish."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Let me simply say that I think it has to be the woman in the exercise of her own conscience and religious beliefs that makes that decision, and I think that\u2019s the right approach, the right decision, and I would hope by this time that Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush had sorted out this issue and come to terms with it as I have."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I respect his right to disagree with me."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I think it\u2019s important that we have a position, that we take it, and we state it to the American people."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "One of the reasons, and I first would like to know which programs you\u2019re talking about, and then we could talk on the merits of the programs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But, you see, my fundamental philosophy is give local and state government as much control as possible."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That might be the explanation, if you tell me the program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I do strongly support the WIC program."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think it is good."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think part of the answer to this haunting of these children that are out there and suffering lies in extension of Medicaid, to challenge the states, and maybe we\u2019re going to have to enforce more on the states in terms of Medicaid taking care of these."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But, Peter, so much of it is, gets into a whole other phase of things."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The neighborhood, the kind of environment people are growing up in, and that leads me to the programs I\u2019m talking about in terms of education."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think that part of it is the crime infested neighborhoods, and that\u2019s why I\u2019m a strong believer in trying to control crimes in the neighborhood, why I was so pleased to be endorsed by the policemen on the beat, the Boston Police Department the other day."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I think they understand my commitment to helping them in the neighborhoods."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And so it\u2019s a combination of these things."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But do not erode out of the system the thousand points of light."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The people that are out there trying to help these kids, the programs like cities and schools, the work that Barbara Bush is doing so people can learn to read in this country and then go on and break this cycle of poverty."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m for Head Start and moving that up."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I\u2019ve already made a proposal \u2013 and yes, it will cost some money."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I favor that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So these are the combination of things I want, and the fact that I don\u2019t think the federal government can endorse a $35 billion program does not mean I have less compassion than the person who endorses such a program."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, I must have been living through a different eight years then the ones the vice president\u2019s been living through, because this administration has cut and slashed and cut and slashed programs for children, for nutrition, for the kinds of things that can help these youngsters to live better lives."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s cut federal aid to education; it\u2019s cut Pell grants and loans to close the door to college opportunity on youngsters all over this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And that, too, is a major difference between the vice president and me."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Let me just give you one other example."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We have a great many people, hundreds of thousands of people living on public assistance in this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The 50 governors of this nation have proposed to the Congress that we help those families to get off of welfare, help those youngsters, help their mothers to become independent and self-sufficient."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s taken months and months and months to get Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush and the administration to support that legislation, and they\u2019re still resisting."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s the way you help people."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Being haunted, a thousand points of light \u2013 I don\u2019t know what that means."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I know what strong political leadership is."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I know what\u2019s happened over the course of the past eight years."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "These programs have been cut and slashed and butchered, and they\u2019ve hurt kids all over this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, I said a few minutes ago, Peter, that you could improve the lives of families and youngsters and save money at the same time."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Welfare reform is one way to do it."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "If we invest in job training, in child care for those youngsters, in some extended health benefits so that that mother and her kids don\u2019t lose their health benefits when she goes to work, we can help literally hundreds of thousands, if not millions of families, to get off of welfare, to become independent and self-sufficient, to be taxpaying citizens, and to improve their lives, the quality of lives, their futures, and the futures of those children."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s just one example of how you can save money and improve the quality of life at the same time."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "In my own state, for example, we now have that universal health care system, which the vice president opposes, I think very unwisely."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "One of the greatest barriers to opportunity for a family and for those children is the threat that they mat lose their health insurance."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Think about that father down there in Houston who has to tell his youngster that he can\u2019t play little league ball that he can\u2019t go out on the ball field because he\u2019s afraid he\u2019s going to get hurt."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And yet, Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush says well, I don\u2019t think we ought to expect business to provide health insurance for their employees, when responsible employers, a majority of employers in this country do and are paying more for their insurance to reimburse hospitals for free care on account of people that are not insured, that have to go to that hospital."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "So these are the ways that you help families, you help youngsters to live better lives, and more decent lives."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Were ready to go to work at the state and local level, all of us."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I know the private sector is."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "People are all over the country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But it takes presidential leadership."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It takes a commitment to being involved and the leading."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And that\u2019s the kind of presidency I want to lead."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "What troubles me is that when I talk of the voluntary sector and a thousand points of light and a thousand different ways to help on these problems, the man has just said he doesn\u2019t understand what I\u2019m talking about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "This is the problem I have with the big spending liberals."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "They think the only way to do it is for the federal government to do it all."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The fact happens to be that education spending is up by the federal government; it is up."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It is not down."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But here\u2019s the point he misses."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The federal government spends seven percent of the total on education, and the rest of the state governments and local governments and the thousand points of lightened I\u2019m talking about private schools and private church schools and things of this nature\u2013are putting up 93 percent."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But the federal spending for education is up, and I want to be the education president, because I want to see us do better."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019re putting more money per child into education, and we are not performing as we should."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve gotten away fro values and the fundamentals."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I would like to urge the school superintendents and the others around the country to stand up now and keep us moving forward on a path towards real excellence."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we can do it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But it\u00cf\u20acs not going to be dedicated by some federal bureaucracy in Washington, D."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Of course not."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Of course that\u2019s a charge that\u2019s always made against any governor who runs for the presidency."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think it was one of the things that Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush said about Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Reagan back in 1980."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Remember that, George?"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And yet some of our finest presidents, some of our strongest international leaders were governors-Franklin Roosevelt, Woodrow Wilson, Theodore Roosevelt."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Its not the amount of time you spend in Washington."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s not the length of your resume."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s your strength, it\u2019s your values, it\u2019s the quality of the people you pick."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s your understanding of the forces of change that are sweeping the world, and whether or not you\u2019re in a position to provide leadership to make those forces of change work for us and not against us."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The vice president has a long resume."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But it didn\u2019t stop him from endorsing the sale of arms to the Ayatollah."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And we now know that he was not out of the loop; he was in meeting after meeting listening to Secretary Shultz and Secretary Weinberger opposing that, and yet he supported it."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "His experience didn\u2019t prevent him from participating or involving or in some way being involved in the relationship between this government and Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Noriega and drug trafficking in Panama."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He went to Philippines in the early 80\u00cf\u20acs and commended Ferdinand Macros for his commitment to democracy."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And he continues to support a failed policy in Central America which is getting worse and worse, and which has in fact increased Cuban and Soviet influence in that region."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "So I don\u2019t believe that the fact you\u2019ve got that long resume or had that experience is the real question."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The question is values; the question is strength, the question is your willingness to provide the kind of leadership that must be provided."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m ready to provide that leadership."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I want to be the commander in chief of this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think it take fresh leadership now, and an understanding of those forces of change to provide the kind of strength that we need, and perhaps the vice president can explain what he was doing when he supported the trading of arms to terrorist nation, and his involvement in Panama and that endorsement of Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Macros."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I don\u2019t think it\u2019s just experience that makes the difference."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s strength; it\u2019s values."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, I thought the question was about defense."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The governor was for a nuclear freeze that would have locked in a thousand Soviet intermediate nuclear force weapons and zero for the West."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And because we didn\u2019t listen to the freeze advocates, and strengthen the defense of this country, we now have the first arms control agreement in the nuclear age."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, we\u2019re sitting down and talking to the Soviets about strategic arms, and he wants to do away with the Midgetman and the MX, the modernization or our nuclear capability."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That is not the way you deal with the Soviets."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019ve met Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Gorbachev."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Met Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Shevardnadze and talked substance with him the other day."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "These people are tough."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But now we have a chance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I few have experience and now how to handle it, but please do not go back to the days when the military was as weak as they could be, when the morale was down, and when we were the laughing stock around the world."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And now we are back, because we have strengthened the defenses of this country, and believe me, I don\u2019t want to see us return to those days."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "As to Ferdinand Marcos, he isn\u2019t there any more."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It was under our administration that Mrs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Aquino came in."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But I\u2019ll tell you what I was thinking of."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I flew a combat mission, my last one was over Manila."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he was down there fighting against imperialism."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he had just-"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he just lifted martial law."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he just called for new elections."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And all of those things happened because the Philippines do crave democracy."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And out he goes."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t think it\u2019s a question of eliminating."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I can tell him some I\u2019m against."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "A-6F, for example."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "DIVAD."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I can go on and on."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Minuteman III, penetration systems."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I mean, there\u2019s plenty of them that I oppose, but what I am not going to do, when we are negotiating with the Soviet Union, sitting down talking to Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Gorbachev about how we achieve a 50 percent reduction in our strategic weapons, I\u2019m not going to give away a couple of aces I that very tough card game."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m simply not going to do that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And under me, when I lead this country, the secretary of defense is going to have to make the choices, between how we keep, how we protect the survivability of our nuclear deployment on the Midgetman missile, or on the Minuteman, whatever it is."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019re going to have to-the MX."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019re going to have to do that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s Christmas."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Wouldn\u2019t it be nice to be perfect?"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I hope it isn\u2019t Christmas when you make that decision."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "wouldn\u2019t it be nice to be the ice man so you never make a mistake?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "These are the-my answer is do not make these unilateral cuts, and everybody now realizes that peace through strength works, and so this is where I have a big difference."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Of course we\u2019re going to have to make some determination on this, and we\u2019re going to have to make it on the convention forces."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But now we\u2019ve got a very good concept called competitive strategies."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We will do what we do best."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s a strategy that we\u2019ve been working on for a couple of years."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It is going to take us to much better advantage in conventional forces."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But look, let me sum it up."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to be the president that gets conventional forces balance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to be the one to banish chemical and biological weapons from the face of the earth."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But you have to have a little bit of experience to know where to start."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think I\u2019ve had that."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, first let me say with respect to the freeze, that back in the spring of 1982 Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush was a lot more sympathetic to the freeze than he seems to be today."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "As a matter of fact, he said it was not and should not be subject to partisan demagoguery because it was too important for the United States or for the world."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I didn\u2019t hear, John, exactly where he was going to cut and what he was going to do."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I know this, we have serious financial problems in this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve piled up over a trillion dollars in debt and the next president of the United States is going to have to make some choices."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush wants to spend billions on Star Wars."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He apparently wants to spend billions on the MX on railroad cars, a weapons system we don\u2019t need and can\u2019t afford."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I thought the administration was opposed to the Midgetman."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I thought the administration was at the negotiating table in Geneva suggesting that we ban mobile missile systems entirely."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But those are the choices the next president of the United States is going to have to make."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m for the Stealth, I\u2019m for the D-5, I\u2019m for going ahead with the advance Cruise missile."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I don\u2019t think we need these other systems."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I don\u2019t think we need them to remain strong."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve got to move ahead with the strategic arms negotiation process, with the comprehensive test ban treaty and with negotiations leading to conventional force reduction in Europe with deeper cuts on the Soviet side and Senator Bentsen and I will pursue that policy."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "What I think we ought to do is take a look at perestroika and glasnost, welcome them, but keep our eyes open."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Be cautious."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Because the Soviet change is not fully established yet."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Yes, I think it\u2019s fine to do business with them."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And, so, I\u2019m encouraged with what I see when I talk to Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "\u2014 what I hear when I talk to Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Gorbachev and Mr."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Shevardnadze, but can they pull it off."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And when they have a \u2013they a \u2013deals that are good for us, as China started to do\u2013the changes in China since Barbara and I lived there is absolutely amazing, in terms of incentive, in partnership and things of this nature."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And now the Soviet Union seems to be walking down that same path."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We should encourage that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We ought to say this is good."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But where I differ with my opponent is I am not going to make unilateral cuts in our strategic defend systems or support some freeze when they have superiority."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m not going to do that, because I think the jury is still out on the Soviet experiment."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And the interesting place-one of the things that fascinates me about this perestroika and glasnost is wheats going to happen in Eastern Europe."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You see the turmoil in Poland today."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I think we have enormous opportunity for trade."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want to go back to the Carter grain embargo on the Soviets."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We are once again reliable suppliers and I would never use food as a political tool like our predecessors did."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But this is an exciting time."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But all I\u2019m suggesting is let\u2019s not be na\u00c3\u00afve in dealing with the Soviets and make a lot of unilateral cuts hoping against hope that they will match our bid."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Look at the INF treaty."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And if we haven\u2019t learned from the negotiating history on that, we\u2019ll never learn."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The freeze people were wrong."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The Reagan-Bush administration was right."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It was a very different George Bush who was talking much more sympathetically about the freeze in the spring of 1982 than he is today."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And you were right then, George, when you said it was no time for partisan demagoguery."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Nobody is suggesting that we unilaterally disarm or somehow reduce our strength, of course not."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "What we\u2019re talking about is a combination of a strong and effective and credible nuclear deterrent."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Strong, well-equipped, well-trained, well-maintained conventional forces."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And at the same time a willingness to move forward steadily, thoughtfully cautiously."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We have serious differences with the Soviet Union."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We have very fundamental differences about human rights, democracy and our basic system, our basic view of human beings and of what life is all about."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But there are opportunities there now."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Senator Bentsen and I have a plan for the 1990\u00cf\u20acs and beyond."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush and Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Quayle do not."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And we want to pursue that plan in a way which will bring down the level of nuclear armament, will build a more stable and more peaceful world while making choices here at home."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Let\u2019s not forget that our national security and our economic security go hand in hand."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We cannot be strong militarily when we\u2019re teeter-tottering on top of a mountain of debt which has been created in the past eight years."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s why we need a Democratic administration in Washington in 1989."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "No, there\u2019s been no change of heart."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I said from the beginning that we ought to continue research into the strategic system at about the level that was added in 1983, that\u2019s about a billion dollars a year."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I don\u2019t know of any reputable scientist who believed that this system, at least as originally conceived could possibly work, this notion of some kind of astrodome over ourselves that could protect us from enemy attack."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It makes real sense."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And as a matter of fact, the system that the administration is now talking about is very different from the one that was originally proposed in 1983."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "So, I\u2019m for continued research, but I also want strong conventional forces."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Now, the other day, Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush said, \u00e2\u2030\u00a5Well, if we continue with Star War-Star Wars-we have to cut some place."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "\u00e2\u2030\u00a4 He hasn\u2019t told us where."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We know where they\u2019re cutting."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We know where you\u2019re cutting right now."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You\u2019re cutting into the fiber and muscle of our conventional forces."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You\u2019re cutting back on maintenance and equipment."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "An Air Force General not too long ago in Europe who said that pretty soon we\u2019d have airplanes without engines, tank commanders who can\u2019t drive their tanks more than three-quarters of a mile, because they don\u2019t have enough fuel."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Coast Guard cutters tied up at the dock this summer, not patrolling."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "They\u2019re supposed to be our first line of defense against drugs and the war against drugs, because they don\u2019t have enough fuel."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You have to make choices."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019re not making those choices."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And to spend billions and billions of dollars as Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush apparently wants to, although, he, himself has been all over the lot on this issue lately-on Star Wars-in my judgment makes no sense at all."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We need a strong, credible, effective nuclear deterrent."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We have 13,000 strategic nuclear warheads right now on land, on sea and in the air, enough to blow up the Soviet Union forty times over."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "They have about 12,000."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "So, we\u2019ve got to move forward with those negotiations, get the level of strategic weapons down."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But to continue to commit billions to this system makes no sense at all and I think Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush has been reconsidering his position over the course of the past few weeks."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s-at least that\u2019s what I read."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Maybe he\u2019ll tell us where he stand on it tonight."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I\u2019m not reconsidering my position."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Two questions: How do you deter nuclear attack without modernizing our nuclear forces when the Soviets are modernizing and how come you spend-willing to spend a dime on something that you consider a fantasy and a fraud."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Those are two hypo-rhetorical questions."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He is the man on conventional forces that wants to eliminate two carrier battle groups."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The armed forces, the conventional forces of the United States have never been more ready."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Every single one of the Joint Chiefs will testify to the fact that readiness is in an historic high."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And secondly, in terms of the cutting of the Coast Guard, the Democratic controlled Congress, so please help us with that, who cut $70 million from the Coast Guard out of the interdiction effort on narcotics."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He\u2019s got to get this thing more clear."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Why do you spend a billion dollars on something you think is a fantasy and a fraud?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I will fully research it, go forward as fast as we can."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve set up the levels of funding and when it is deployable, I will deploy it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That is my position on SDI and it\u2019s never wavered a bit."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Peter, it\u2019s one of the most agonizing decisions a president has to make."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "These are American citizens, we care deeply about them."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Their families care deeply about them, want them back and understandably so and we want to do everything we can to bring them back."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But if there\u2019s one thing we also understand it is that you cannot make concessions to terrorists, ever, ever."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Because if you do, it\u2019s an open invitation to other terrorists to take hostages and to blackmail us."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And that\u2019s the tragedy of the Iran/Contra scandal."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "As a matter of fact, Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush was the Chairman of a task force on international terrorism which issued a report shortly before that decision was made and said, and rightly so, that we never ever can make concessions to terrorists and hostage takers."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And, yet, after sitting through meeting after meeting, he endorsed that decision, endorsed the sale of arms to the Ayatollah in exchange for hostages, one of the most tragic, one of the most mistaken foreign policy decisions we\u2019ve ever made in this country and I dare say encouraged others to take hostages as we now know."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "So, there can be no concessions under any circumstances, because if we do it\u2019s an open invitation to others to do the same."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve got to be tough on international terrorism."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve got to treat it as international crime."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve got to attack at all points, we\u2019ve go to use undercover operations."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We have to be prepared to use military force against terrorist base camps, we have to work closely with our allies to make sure that they\u2019re working with us and we with them and we can give no quarter when it comes to breaking the back of international terrorism."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Yes, we should make every effort to try to help those hostages come home, but it can never be because we make concessions."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That was a tragic mistake that we made, a mistake that Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush made and others made and it should never ever be made again."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I wrote the anti-terrorist report for this government."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It is the best anti-terrorist report written."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Yes, we shouldn\u2019t trade arms for hostages."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But we have made vast improvements in our anti-terrorism."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, it\u2019s fine to say that sometimes you have to hit base camps, but when the president saw this state sponsored-fingerprints of Muammar Khadaffi on the loss of American life, he hit Libya."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And my opponent was unwilling to support that action."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s not true."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s not true."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And since that action, terrorist action against the United States citizens have gone down."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s not true."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I have long ago said I supported the president on this other matter."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I\u2019ve said mistakes were made."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Clearly nobody\u2019s going to think the president started out thinking he was going to trade arms for hostages."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "That is a very serious charge against the president."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The matter has been thoroughly looked into."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But the point is sometimes the action-"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "\u2013 has to be taken by the Federal Government and when we took action, it had a favorable response."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You\u2019re judged by the whole record."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You\u2019re judged by the entire record."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Are we closer to peace?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Are we doing better in anti-terrorism?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Should we have listened to my opponent who wanted to send the UN into the Persian Gulf or in spite of the mistakes of the past, are we doing better there?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "How is our credibility with the GCC countries on the Western side of the Gulf."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Is Iran talking to Iraq about peace?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "You judge on the record."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Are the Soviets coming out of Afghanistan?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "How does it look in a program he called or some one of these marvelous Boston adjective up there and-about Angola-now, we have a chance-several Bostonians don\u2019t like it, but the rest of the country will understand."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now we have a chance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now we have a chance."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And, so, I think that I\u2019d leave it right there and say that you judge on the whole record."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And let me say this-all he can talk about-he goes around ranting about Noriega."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Now, I\u2019ve told you what the intelligence briefing he received said about that."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "He can talk about Iran/Contra and also-I\u2019ll make a deal with you, I will take the blame for those two incidents if you give me half the credit for all the good things that have happened in world peace since Ronald Reagan and I took over from the Carter administration."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I still have a couple of minutes left."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And there is a difference principle \u2013"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "It\u2019s only on yellow here."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Wait a minute."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Jim \u2013"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I said I wasn\u2019t perfect."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Where was I?"
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "25th of December, Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Vice President."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I finished."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He can have another ten seconds if he wants, Jim."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, the matter of judgment is very important."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And I think it\u2019s important to understand what happened here."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "A report on international terrorism chaired by the Vice President was released and made some very specific recommendations about how to deal with terrorism."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "They were ignored."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The Vice President ignored them."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He says mistakes were made."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Very serious mistakes in judgment were made."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He says, \u00e2\u2030\u00a5Well, let\u2019s concede that the administration has been doing business with Noriega."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Has made him a part of our foreign policy and has been funneling aid to Contras through convicted drug dealers."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "\u00e2\u2030\u00a4 I think those are very very serious questions of judgment, which those of you who are watching us here tonight have a right to judge and review."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019re not going to make those kinds of mistakes."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You cannot make concessions to terrorists."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "If you do, you invite the taking of more hostages."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "That\u2019s a basic principle."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It was ignored in that case and it was a very very serious mistake in judgment."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I see a young man that was elected to the Senate twice, to the House of Representatives twice."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I see a man who is young and I am putting my confidence in a whole generation of people that are in their 30\u00cf\u20acs and 40\u00cf\u20acs."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I see a man that took the leadership in the Job Training Partnership Act and that retrains people in this highly competitive changing society we\u2019re in, so if a person loses his hob he is retrained for a benefit-for a-work that will be productive and he won\u2019t have to go on one of these many programs that the liberal-talking about."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I see a young man who is a knowledgeable-in defense and there are three people on our ticket that are knowledgeable-in the whole-in the race-knowledgeable in defense and Dan Quayle is one of them and I am one of them."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I believe that he will be outstanding."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he took a tremendous pounding and everybody now knows that he took a very unfair pounding."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I\u2019d like each person to say did I jump to conclusions running down rumors that were so outrageous and so brutal."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he\u2019s kept his head up."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he will do very very well."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he has my full confidence and he\u2019ll have the confidence of people that are in their 30\u00cf\u20acs and 40\u00cf\u20acs and more."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "So, judge the man on his record not on the-lot of rumors and innuendo and trying to fool around with his name."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "My opponent says J."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Danforth Quayle."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Do you know who J."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Danforth was, he was a man who gave his life in World War II, so ridiculing a person\u2019s name is a little beneath this process."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And he\u2019ll do very well when we get into the debates."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, when it comes to ridicule, George, you win a gold medal."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think we can agree on that in the course of this campaign."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Just the facts."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But did I-did I sense a desire that maybe Lloyd Bentsen ought to be your running mate when you said there are three people on your ticket?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "No, I think the debate ought to be between you and Lloyd."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think the American people have a right to judge us on this question, on how we picked a running mate, a person who is a heartbeat away from the presidency."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I picked Lloyd Bentsen, distinguished, strong, mature, a leader in the Senate, somebody whose qualifications nobody has questioned."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush picked Dan Quayle."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I doubt very much that Dan Quayle was the best qualified person for that job."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And as a matter of fact, I think for most people the notion of President Quayle is a very very troubling thought."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I did indeed."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, John, I\u2019m a man that\u2019s been a chief executive for ten years."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019ve picked a lot of people."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019ve picked cabinets."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019ve named judges."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I know that the people you pick make an enormous difference in your ability to govern and I set high standards."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I try to meet them and I insist that people who work for me meet them, if they don\u2019t, they don\u2019t stick around very long."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I didn\u2019t pick Lloyd Bentsen because he was a clone of Mike Dukakis."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I picked him because he was somebody who would be a strong Vice President, somebody who would be an active Vice President."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Somebody who would come to me if somebody came up with a crazy idea that we ought to trade arms to the Ayatollah for hostages and say, \u00e2\u2030\u00a5Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "President, that\u2019s wrong."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We shouldn\u2019t do that."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "\u00e2\u2030\u00a4 That\u2019s the kind of Vice President I want."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "He, himself, has said, and rightly so, that he\u2019ll be a strong Vice President."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "When the Vice President makes a decision, that will be his decision."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And I\u2019m very very proud of that choice."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And I didn\u2019t pick him because he agreed with me on everything."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You know, Sam Rayburn once said that if two people agree on everything then only one person is doing the thinking."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The fact is I\u2019ve picked somebody who not only will be a great Vice President, but if, God forbid, something happens to the president, could step into that office and do so with distinction and with strength and with leadership."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I doubt very much."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I doubt very much that Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush\u2019s selection for the Vice Presidency of the United States meets that test."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Well, I-we obviously have a difference."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I believe it does meet the test."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ll have an opportunity to see the two of them in action in a friendly forum, wonderful friendly fashion like this."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I had hoped this had been a little friendlier evening."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I wanted to hitchhike a ride home in his tank with him."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But now we\u2019ve got the lines too carefully drawn here."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But you talk about judgment."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I mean, what kind of judgment-I mean, jumping all over the president on his decision on one area of farm policy."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "What kind of judgment sense has your chief education adviser now in jail in Massachusetts?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I mean, there\u2019s-I don\u2019t think this is a fair argument."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But nevertheless, I support my nominee for Vice President and he\u2019ll do an outstanding job."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Well, I think we have to go to work on the problem of Third World debt and we\u2019ve got to assist those Third World countries in dealing with this massive debt which they currently-which they have incurred and which is burdening them and which if we don\u2019t do something about it and assist them along with other nations around the world, we\u2019ll destroy their economies, destroy their future."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And at the same time will destroy markets that are important to our farmers."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I also believe we need an agricultural policy which doesn\u2019t cost us 15 to 20 to 25 billion dollars a year that it\u2019s been costing us over the course of the past three or four years under this administration."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think it\u2019s going to require good, solid credit policies."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And thanks to the Congress we now have an agricultural credit bill which is helping and improving the situation with at least some of our farmers."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I think it\u2019s going to require a combination of supply management and reasonable price supports to make sure that our farmers get a decent price and I think it also is going to require an administration that understand that there are tremendous opportunities out there for the development of new uses for agricultural products, new uses which can help us to clean up our environment at the same time."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bio-degradable plastics-plastic-gasohol, which the Vice President has been involved in, road de-icers made from corn products."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I mean, there are enormous opportunities out there to expand markets and to build a strong future for our farmers."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "But I don\u2019t think there\u2019s anything mutually exclusive or contradictory about building a strong farm economy in this country and assisting our family farms and providing a good strong future for rural communities and for rural America and at the same time working on Third World debt."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "As a matter of fact, Mexico, itself, is one of our biggest agricultural customers, so in the sense that we can work to help Mexico rebuild and expand and deal with these very serious economic problems we help our farmers at the same time."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I oppose supply management and production controls."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I support the farm bill, the 1985 farm bill and spending is moving in the right direction."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to expand our markets abroad and that\u2019s why I\u2019ve called for that first economic summit to be on agriculture."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I will not go back to the way the Democrats did it and used food as a political weapon and throw a grain embargo on the farmers in this country."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see rural redevelopment and I have been out front in favor of alternate sources of energy and one of them is gasohol and comes from using your corn and I think we can do better in terms of biodegradable for a lot of product, so I\u2019m optimistic about the agricultural economy."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "In terms of the Third World, I support the Baker plan."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see market economies spring up all around the world and to the degree they do, we are succeeding."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I don\u2019t want to see the banks let off the hook."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I would oppose that, but I think were on the right track in agriculture and I am very very encouraged."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But let\u2019s not go back to that-what they call supply management and production control, that\u2019ll simply price us out of the international market."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Let\u2019s try to expand our markets abroad."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I talked in New Orleans about a gentler and kinder nation and I have made specific proposals on education and the environment and on ethics and energy and how we do better in battling crime in our country."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But there are two main focal points of this election."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Opportunity and peace."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to keep this expansion going."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Yes, we want change but we are the change."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I am the change."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I don\u2019t want to go back to malaise and misery index."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And, so, opportunity."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Keep America at work."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "The best poverty program is a job with dignity in the private sector."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And in terms of peace, we are on the right track."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve achieved an arms control agreement that our critics thought was never possible and I want to build on it."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see us finalize that START agreement and I want it to be the one to finally lead the world to banishing chemical and biological weapons."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "I want to see asymmetrical reductions in conventional forces."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And then it gets down to a question of values."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "We\u2019ve had a chance to spell out our differences on the Pledge of Allegiance here tonight and on tough sentencing of drug king pins and this kind of thing."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And I do favor the death penalty."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "And we\u2019ve got a wide array of differences on those."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "But in the final analysis-in the final analysis, the person goes into that voting booth, they\u2019re going to say, \u00e2\u2030\u00a5Who has the values I believe in?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Who has the experience that we trust?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Who has the integrity and stability to get the job done?"
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "\u00e2\u2030\u00a4 My fellow Americans, I am that man and I ask for your support."
+  },
+  {
+   "speaker": "George H. W. Bush",
+   "text": "Thank you very much."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "This has been an extraordinary 18 months for Kitty and me and for our family."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We\u2019ve had an opportunity to campaign all over this country and to meet with so many of you in communities and states and regions to get to know you."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m more optimistic today than I was when I began about this nation providing we have the kind of leadership in Washington that can work with you, that can build partnerships, that can build jobs in every part of this country, not certain parts of this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "You know, my friends, my parents came to this country as immigrants like millions and millions of Americans before them and since, seeking opportunities, seeking the American dream."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "They made sure their sons understood that this was the greatest country in the world, that those of us especially who were the sons and daughters of immigrants had a special responsibility to give something to the country that had opened up its arms to our parents and given so much to them."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I believe in the American dream."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "I\u2019m a product of it and I want to help that dream come true for every single citizen in this land, with a good job and good wages, with good schools in every part of this country and every community in this country."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "With decent and affordable housing that our people can buy and own and live in, so that we end the shame of hopelessness in America."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "With decent and affordable healthcare for all working families."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Yes, it\u2019s a tough problem as Mr."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Bush says, but it\u00cf\u20acs not an insolvable problem."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "It\u2019s one that we will solve and must solve, with a clean and wholesome environment and with a strong America that\u2019s strong militarily and economically as we must be, an America that provides strong international leadership because we\u2019re true to our values."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We have an opportunity working together to build that future, to build a better America, to build a best America, because the best America doesn\u2019t hide."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We compete."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The best America."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We invest."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The best America doesn\u2019t leave some of its citizens behind."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "We live-we bring everybody along."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "And the best America is not behind us."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "The best America is yet to come."
+  },
+  {
+   "speaker": "Michael Dukakis",
+   "text": "Thank you very much."
+  }
+ ]
+}
