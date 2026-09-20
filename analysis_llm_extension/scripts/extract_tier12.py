@@ -32,6 +32,7 @@ not a guarantee of reliability, and reliability is assessed after the fact by
 duration stratification exactly as done for HNR in the main paper.
 """
 import sys, time, csv, warnings
+from pathlib import Path
 import numpy as np
 import librosa
 import opensmile
@@ -39,10 +40,11 @@ from scipy import stats
 
 warnings.filterwarnings("ignore")
 
-PROJECT = "/Users/lavanya/debate_analysis"
+HERE = Path(__file__).resolve().parent
+PROJECT = str(HERE.parent.parent)
 MASTER = f"{PROJECT}/outputs/master_sentences.csv"
-AUDIO_DIR = "/Users/lavanya/debate_audio_project/audio"
-OUT = "/private/tmp/claude-501/-Users-lavanya-debate-analysis/c2e6601f-99ec-4364-9a03-d6e1384a7237/scratchpad/tier12_features.csv"
+AUDIO_DIR = f"{PROJECT}/data/audio"  # see DATA_AVAILABILITY.md
+OUT = str(HERE.parent / "results" / "tier12_features.csv")
 EXCLUDE_DEBATES = {"1034", "1036"}
 SR = 16000
 MIN_VOICED_FRAMES = 10

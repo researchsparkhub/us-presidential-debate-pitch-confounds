@@ -27,7 +27,7 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 ALIGN_DIR = PROJECT / "02_alignment"
 TURNS_CSV = ALIGN_DIR / "mfa_turns.csv"
 RETURNED_DIR = ALIGN_DIR / "verification_packets" / "returned"

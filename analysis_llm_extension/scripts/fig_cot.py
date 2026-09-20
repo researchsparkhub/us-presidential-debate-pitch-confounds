@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """Figure for the CoT-vs-Direct discourse-tagging comparison (extension #2)."""
 import json
+from pathlib import Path
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+
+HERE = Path(__file__).resolve().parent
 
 WIN = "#2a78d6"; LOSE = "#eb6834"
 INK = "#0b0b0b"; SEC = "#52514e"; GRID = "#d8d7d2"
@@ -15,8 +18,8 @@ plt.rcParams.update({
     "savefig.bbox": "tight", "savefig.pad_inches": 0.02,
 })
 
-r = json.load(open("cot_results.json"))
-OUT = "/Users/lavanya/debate_analysis/report/figures/fig_cot.pdf"
+r = json.load(open(HERE.parent / "results" / "cot_results.json"))
+OUT = HERE.parent.parent / "report" / "figures" / "fig_cot.pdf"
 
 
 def despine(ax, keep=("left", "bottom")):

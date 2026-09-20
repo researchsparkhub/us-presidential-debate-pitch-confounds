@@ -30,7 +30,7 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 ALIGN_DIR = PROJECT / "02_alignment"
 WHISPER_DIR = PROJECT / "data" / "whisper_aligned"
 

@@ -29,7 +29,7 @@ import numpy as np
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 MASTER_CSV = PROJECT / "outputs" / "master_sentences.csv"
 ACOUSTIC_CSV = PROJECT / "outputs" / "acoustic_features.csv"
 SUPP_CSV = PROJECT / "outputs" / "acoustic_features_supplementary.csv"

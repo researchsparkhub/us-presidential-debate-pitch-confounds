@@ -37,7 +37,7 @@ import pandas as pd
 import soundfile as sf
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 ALIGN_DIR = PROJECT / "02_alignment"
 AUDIO_DIR = PROJECT / "data" / "audio"
 TURNS_CSV = ALIGN_DIR / "mfa_turns.csv"

@@ -14,11 +14,11 @@ import numpy as np
 from scipy.stats import binomtest
 
 HERE = Path(__file__).resolve().parent
-PRED = HERE / "crossmodal_predictions.jsonl"
-PROBE = HERE / "crossmodal_contamination.jsonl"
-CACHE = HERE / "llm_ext_cache"
+PRED = HERE.parent / "results" / "crossmodal_predictions.jsonl"
+PROBE = HERE.parent / "results" / "crossmodal_contamination.jsonl"
+CACHE = HERE.parent / "cache" / "llm_ext_cache"
 
-FRIENDLY_NAMES = json.loads((HERE / "names.json").read_text()) if (HERE / "names.json").exists() else None
+FRIENDLY_NAMES = json.loads((HERE.parent / "results" / "names.json").read_text()) if (HERE.parent / "results" / "names.json").exists() else None
 
 
 def load_jsonl(p):
@@ -214,7 +214,7 @@ def main():
                 measure_counts[cite["item"]] += 1
     results["descriptor_citation_frequency"] = dict(measure_counts.most_common())
 
-    out = HERE / "crossmodal_results.json"
+    out = HERE.parent / "results" / "crossmodal_results.json"
     out.write_text(json.dumps(results, indent=2, default=str))
     print(f"[write] {out}")
 

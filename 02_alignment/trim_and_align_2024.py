@@ -22,8 +22,8 @@ Strategy:
      (so it's in ORIGINAL-audio coords, like all other TextGrids).
   8. Save mfa_corpus/<id>/<id>_trim_offset.json so downstream knows.
 
-Run:
-    /Users/lavanya/debate_audio_project/venv_review/bin/python trim_and_align_2024.py
+Run (from the repo's own venv; MFA itself runs via `conda run -n aligner` below):
+    python 02_alignment/trim_and_align_2024.py
 
 Prerequisites:
   - ffmpeg installed (brew install ffmpeg)
@@ -42,7 +42,7 @@ from pathlib import Path
 
 from rapidfuzz import fuzz
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 ALIGN_DIR = PROJECT / "02_alignment"
 WHISPER_DIR = PROJECT / "data" / "whisper_aligned"
 CORPUS_DIR = ALIGN_DIR / "mfa_corpus"

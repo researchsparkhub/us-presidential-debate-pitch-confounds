@@ -36,7 +36,7 @@ import soundfile as sf
 warnings.filterwarnings("ignore")
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 MASTER_CSV = PROJECT / "outputs" / "master_sentences.csv"
 AUDIO_DIR = PROJECT / "data" / "audio"
 OUT_CSV = PROJECT / "outputs" / "acoustic_features.csv"

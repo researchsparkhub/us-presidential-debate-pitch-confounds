@@ -26,7 +26,7 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 DEBATES_CSV = PROJECT / "data" / "metadata" / "debates.csv"
 AUDIO_DIR = PROJECT / "data" / "audio"
 TRANSCRIPT_DIR = PROJECT / "data" / "transcripts"

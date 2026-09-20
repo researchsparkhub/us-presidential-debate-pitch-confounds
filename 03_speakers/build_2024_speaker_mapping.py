@@ -28,8 +28,8 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
-OLD_DIARIZATION_CSV = Path("/Users/lavanya/debate_audio_project/Week_4_speaker diarization/output/segments_raw.csv")
+PROJECT = Path(__file__).resolve().parent.parent
+OLD_DIARIZATION_CSV = PROJECT / "data" / "diarization" / "segments_raw.csv"
 ALIGN_DIR = PROJECT / "02_alignment"
 META_DIR = PROJECT / "data" / "metadata"
 OUT_CSV = META_DIR / "cluster_to_speaker_2024.csv"

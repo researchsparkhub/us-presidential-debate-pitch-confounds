@@ -23,7 +23,7 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 MFA_OUTPUT_DIR = PROJECT / "02_alignment" / "mfa_output"
 CORPUS_DIR = PROJECT / "02_alignment" / "mfa_corpus"
 WORDS_CSV = PROJECT / "02_alignment" / "mfa_words.csv"

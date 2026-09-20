@@ -7,6 +7,8 @@
 *.mov
 data/audio
 data/whisper_aligned
+data/diarization
+data/raw
 02_alignment/mfa_corpus/
 02_alignment/mfa_corpus_pilot/
 02_alignment/mfa_corpus_1003_retry/

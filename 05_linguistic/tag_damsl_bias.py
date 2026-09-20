@@ -28,7 +28,7 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parents[1]
 MASTER_CSV = PROJECT / "outputs" / "master_sentences.csv"
 LING_CSV = PROJECT / "outputs" / "linguistic_features.csv"
 OUT_CSV = PROJECT / "outputs" / "damsl_bias_tags.csv"

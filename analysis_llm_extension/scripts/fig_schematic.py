@@ -3,10 +3,13 @@
 contours sharing the same sentence-level sweep, differing only in how much
 local wobble sits on top of it. Purely illustrative (synthetic data), makes
 the quantity legible to a non-specialist reader."""
+from pathlib import Path
 import numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+
+HERE = Path(__file__).resolve().parent
 
 WIN = "#2a78d6"; LOSE = "#eb6834"
 INK = "#0b0b0b"; SEC = "#52514e"; GRID = "#d8d7d2"
@@ -57,6 +60,6 @@ axes[0].set_ylabel("Pitch (semitones, illustrative)")
 axes[0].legend(frameon=False, fontsize=6.2, loc="upper right")
 
 plt.tight_layout()
-OUT = "/Users/lavanya/debate_analysis/report/figures/fig_schematic.pdf"
+OUT = HERE.parent.parent / "report" / "figures" / "fig_schematic.pdf"
 plt.savefig(OUT)
 print(f"[write] {OUT}")

@@ -45,10 +45,10 @@ from pathlib import Path
 import anthropic
 
 HERE = Path(__file__).resolve().parent
-CACHE_DIR = HERE / "llm_ext_cache"
-PROMPT_MD = Path("/Users/lavanya/debate_analysis/Sahana Project/crossmodal_prompt.md")
-PRED_OUT = HERE / "crossmodal_predictions.jsonl"
-PROBE_OUT = HERE / "crossmodal_contamination.jsonl"
+CACHE_DIR = HERE.parent / "cache" / "llm_ext_cache"
+PROMPT_MD = HERE.parent.parent / "Sahana Project" / "crossmodal_prompt.md"
+PRED_OUT = HERE.parent / "results" / "crossmodal_predictions.jsonl"
+PROBE_OUT = HERE.parent / "results" / "crossmodal_contamination.jsonl"
 
 MODEL = "claude-opus-4-8"
 N_REPEATS = 3

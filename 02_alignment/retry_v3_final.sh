@@ -106,8 +106,9 @@ run_one() {
   wait "$watchdog" 2>/dev/null
 
   # Post-process trimmed outputs: shift TextGrid into original-audio coords
+  # (stdlib only — json/re/pathlib — so the system/venv python3 is enough)
   if [[ "$wav_name" == *"_trimmed.wav" && -f "${out_dir}/${did}/${did}.TextGrid" ]]; then
-    /Users/lavanya/debate_audio_project/venv_review/bin/python - <<PY
+    python3 - <<PY
 import json, re
 from pathlib import Path
 tg_path = Path("${out_dir}/${did}/${did}.TextGrid")

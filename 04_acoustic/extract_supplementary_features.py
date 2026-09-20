@@ -42,7 +42,7 @@ import syllapy
 warnings.filterwarnings("ignore")
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 MASTER_CSV = PROJECT / "outputs" / "master_sentences.csv"
 ACOUSTIC_CSV = PROJECT / "outputs" / "acoustic_features.csv"   # for speech_duration
 AUDIO_DIR = PROJECT / "data" / "audio"

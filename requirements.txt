@@ -30,6 +30,11 @@ empath
 sentence-transformers
 syllapy
 rapidfuzz
+textstat
+
+# Speech recognition and diarization (Stage 2 alignment; see DATA_AVAILABILITY.md)
+openai-whisper
+pyannote.audio
 
 # LLM-based annotation and cross-modal prediction
 anthropic==0.120.2

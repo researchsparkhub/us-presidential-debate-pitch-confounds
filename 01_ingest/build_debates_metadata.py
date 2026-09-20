@@ -12,16 +12,24 @@ Run:
 
 from __future__ import annotations
 
+import os
 import re
 from pathlib import Path
 
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
-INVENTORY_XLSX = (
-    Path("/Users/lavanya/debate_audio_project/Week_4_speaker diarization")
-    / "Week_1_debate_inventory__1988_2020__with_transcript___video_search_URLs.xlsx"
+PROJECT = Path(__file__).resolve().parent.parent
+# Source inventory spreadsheet used to build debates.csv. This lives outside
+# the repo (it's a working file from the audio-collection project, not
+# redistributed data); override with DEBATE_INVENTORY_XLSX if yours is
+# elsewhere. debates.csv itself is already checked into the repo, so this
+# script only needs to be re-run if the inventory changes.
+INVENTORY_XLSX = Path(
+    os.environ.get(
+        "DEBATE_INVENTORY_XLSX",
+        str(PROJECT / "data" / "raw" / "Week_1_debate_inventory__1988_2020__with_transcript___video_search_URLs.xlsx"),
+    )
 )
 OUT_CSV = PROJECT / "data" / "metadata" / "debates.csv"
 

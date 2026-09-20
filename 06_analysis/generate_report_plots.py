@@ -39,7 +39,7 @@ sns.set_palette("colorblind")
 WINNER_COLOR = "#2E7D32"   # green
 LOSER_COLOR = "#C62828"    # red
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parents[1]
 OUT = PROJECT / "outputs"
 FIG_DIR = PROJECT / "report" / "figures"
 FIG_DIR.mkdir(parents=True, exist_ok=True)

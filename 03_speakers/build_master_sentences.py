@@ -8,7 +8,7 @@ Inputs:
     02_alignment/mfa_corpus/<id>/<id>_trim_offset.json (2024 debate-window bounds)
     data/metadata/debates.csv                     (winner/loser per candidate)
     data/metadata/cluster_to_speaker_2024.csv    (pyannote cluster → candidate, for 1034/1036)
-    <old project>/Week_4_speaker diarization/output/segments_raw.csv (pyannote segments)
+    data/diarization/segments_raw.csv             (pyannote segments)
 
 Output:
     outputs/master_sentences.csv  — one row per sentence, schema documented below.
@@ -24,11 +24,11 @@ from pathlib import Path
 import pandas as pd
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent
 ALIGN_DIR = PROJECT / "02_alignment"
 META_CSV = PROJECT / "data" / "metadata" / "debates.csv"
 CLUSTER_MAP_CSV = PROJECT / "data" / "metadata" / "cluster_to_speaker_2024.csv"
-PYANNOTE_SEGS_CSV = Path("/Users/lavanya/debate_audio_project/Week_4_speaker diarization/output/segments_raw.csv")
+PYANNOTE_SEGS_CSV = PROJECT / "data" / "diarization" / "segments_raw.csv"
 OUT_CSV = PROJECT / "outputs" / "master_sentences.csv"
 
 TEXT_ALIGNED = ALIGN_DIR / "text_aligned_sentences.csv"

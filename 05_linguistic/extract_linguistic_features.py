@@ -67,7 +67,7 @@ import pandas as pd
 warnings.filterwarnings("ignore")
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parents[1]
 MASTER_CSV = PROJECT / "outputs" / "master_sentences.csv"
 OUT_CSV = PROJECT / "outputs" / "linguistic_features.csv"
 OUT_EMB = PROJECT / "outputs" / "linguistic_embeddings.parquet"

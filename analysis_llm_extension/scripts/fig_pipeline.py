@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Corpus construction pipeline, boxes+arrows, same palette/style as the rest
 of the paper's figures."""
+from pathlib import Path
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
+
+HERE = Path(__file__).resolve().parent
 
 WIN = "#2a78d6"
 INK = "#0b0b0b"; SEC = "#52514e"
@@ -50,6 +53,6 @@ for i in range(n - 1):
                 arrowprops=dict(arrowstyle="-|>", color=SEC, lw=1.1))
 
 plt.tight_layout()
-OUT = "/Users/lavanya/debate_analysis/report/figures/fig_pipeline.pdf"
+OUT = HERE.parent.parent / "report" / "figures" / "fig_pipeline.pdf"
 plt.savefig(OUT)
 print(f"[write] {OUT}")

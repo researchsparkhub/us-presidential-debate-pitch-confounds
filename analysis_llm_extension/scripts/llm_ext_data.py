@@ -26,7 +26,7 @@ import json
 from pathlib import Path
 from statistics import mean, stdev
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parent.parent.parent
 MASTER = PROJECT / "outputs" / "master_sentences.csv"
 ACOUSTIC = PROJECT / "outputs" / "acoustic_features.csv"
 ACOUSTIC_SUPP = PROJECT / "outputs" / "acoustic_features_supplementary.csv"

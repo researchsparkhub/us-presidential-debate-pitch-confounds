@@ -37,7 +37,7 @@ from sklearn.preprocessing import StandardScaler
 warnings.filterwarnings("ignore")
 
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
+PROJECT = Path(__file__).resolve().parents[1]
 OUT_DIR = PROJECT / "outputs"
 MASTER = OUT_DIR / "master_sentences.csv"
 ACOUSTIC = OUT_DIR / "acoustic_features.csv"

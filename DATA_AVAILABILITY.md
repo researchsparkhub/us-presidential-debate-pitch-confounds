@@ -40,17 +40,51 @@ that would otherwise contain them.
    save it as `data/audio/<debate_audio_id>.wav` (matching the ID column in
    `debates.csv`). `data/audio/` is gitignored, so this step happens on
    your own machine after cloning.
-4. **Run the pipeline** from `data/metadata/debates.csv` onward, following
-   the sequence in the top-level `README.md`. Stage 2
-   (`02_alignment/prepare_mfa_corpus.py`, `run_mfa.sh`) is the first stage
-   that touches audio and requires a working
-   [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
-   installation (see Appendix C of the paper for the exact acoustic model
-   and dictionary used).
+4. **Generate the Whisper alignment.** Several stage-2 scripts
+   (`whisper_canonical.py`, `align_via_whisper.py`, `trim_and_align_2024.py`)
+   read word-level timing from `data/whisper_aligned/<debate_audio_id>.json`.
+   This repository does not include a script that produces that file, since
+   it depends on the audio above; generate it yourself with
+   [Whisper](https://github.com/openai/whisper) or
+   [WhisperX](https://github.com/m-bain/whisperX) (`openai-whisper` is listed
+   in `requirements.txt`) and write its `word_segments` output (each with
+   `start`, `end`, `word`) to that path.
+5. **Install Montreal Forced Aligner.** `02_alignment/run_mfa.sh` and the
+   `retry_*.sh` scripts assume a conda environment named exactly `aligner`
+   with [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
+   installed, using the `english_us_arpa` acoustic model and pronunciation
+   dictionary (see Appendix C of the paper):
+   ```bash
+   conda create -n aligner -c conda-forge montreal-forced-aligner
+   conda activate aligner
+   mfa model download acoustic english_us_arpa
+   mfa model download dictionary english_us_arpa
+   ```
+   `retry_v3_final.sh` additionally uses macOS's `caffeinate` to prevent
+   sleep during long runs; on Linux, drop that wrapper and run the inner
+   command directly.
+6. **Run the pipeline** from `data/metadata/debates.csv` onward, following
+   the sequence in the top-level `README.md`.
 
 If you only need the derived measurements the paper's statistics run on —
 not the audio itself — everything you need is already in `outputs/`; you
-do not need to source the audio at all.
+do not need to source the audio, run Whisper, or install MFA at all.
+
+## Other external inputs
+
+- **2024 speaker diarization.** `03_speakers/build_2024_speaker_mapping.py`
+  and `build_master_sentences.py` read a diarization CSV at
+  `data/diarization/segments_raw.csv` (columns: `debate_audio_id`,
+  `start_sec`, `end_sec`, `diarized_speaker`), produced with
+  [pyannote.audio](https://github.com/pyannote/pyannote-audio) (listed in
+  `requirements.txt`) for the two 2024 debates only. This is not needed to
+  reproduce the paper's core 1988–2020 analysis.
+- **Debate inventory spreadsheet.** `01_ingest/build_debates_metadata.py`
+  builds `data/metadata/debates.csv` from a source spreadsheet. Since
+  `debates.csv` is already included in this repository, you do not need
+  this input unless you are rebuilding the metadata from scratch; if you
+  are, point the script at your spreadsheet with the
+  `DEBATE_INVENTORY_XLSX` environment variable.
 
 ## LLM-based stages
 
@@ -59,6 +93,16 @@ and `analysis_llm_extension/scripts/run_cot_tagging.py` call the Anthropic
 API and expect an `ANTHROPIC_API_KEY` environment variable. No key is
 included in this repository. The exact model, prompts and schemas used are
 specified in the paper's Appendix G and in `Sahana Project/`.
+
+## `analysis_llm_extension/` layout
+
+Scripts live in `analysis_llm_extension/scripts/`; the data they read and
+write lives in the sibling directories `analysis_llm_extension/results/`
+(JSON/CSV results already shipped in this repo) and
+`analysis_llm_extension/cache/llm_ext_cache/` (cached per-debate API
+responses). Running a script from a different working directory is fine —
+each script resolves these paths relative to its own location, not the
+current directory.
 
 ## Questions
 

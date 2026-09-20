@@ -35,17 +35,18 @@ from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-sys.path.insert(0, "/Users/lavanya/debate_analysis/05_linguistic")
+HERE = Path(__file__).resolve().parent
+PROJECT = HERE.parent.parent
+
+sys.path.insert(0, str(PROJECT / "05_linguistic"))
 import anthropic
 from tag_llm import SYSTEM, DAMSL_CODES, BEADS_CODES, MODEL, CHUNK, MAX_TOKENS  # noqa: E402
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
 MASTER = PROJECT / "outputs" / "master_sentences.csv"
 PROMPT_MD = PROJECT / "Sahana Project" / "cot_tagging_prompt.md"
-HERE = Path(__file__).resolve().parent
-SAMPLE_CSV = HERE / "cot_sample_ids.csv"
+SAMPLE_CSV = HERE.parent / "results" / "cot_sample_ids.csv"
 OUT_PARTIAL = HERE / "cot_tags_partial.csv"
-OUT_CSV = HERE / "cot_tags.csv"
+OUT_CSV = HERE.parent / "results" / "cot_tags.csv"
 
 EXCLUDE_DEBATES = {"1034", "1036"}
 SAMPLE_FRACTION = 0.124  # ~3,000 of 24,193

@@ -9,7 +9,7 @@
 #             make figures    # regenerate figures from CSVs
 
 PAPER := dap_report
-PYTHON := /Users/lavanya/debate_audio_project/venv_review/bin/python
+PYTHON := python3
 
 .PHONY: all clean figures view
 

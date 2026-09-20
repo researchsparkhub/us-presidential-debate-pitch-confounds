@@ -13,8 +13,8 @@ from pathlib import Path
 
 csv.field_size_limit(10 ** 7)
 
-PROJECT = Path("/Users/lavanya/debate_analysis")
 HERE = Path(__file__).resolve().parent
+PROJECT = HERE.parent.parent
 
 DAMSL_MAP = [("damsl_Q_W", "Q-W"), ("damsl_YNQ", "YNQ"), ("damsl_Q_RHET", "Q-RHET"),
              ("damsl_OQ", "OQ"), ("damsl_SEEP", "SEEP"), ("damsl_S", "S"),
@@ -99,13 +99,13 @@ def tagset(row, field):
 
 
 def main():
-    sample_ids = [r["sentence_id"] for r in load_csv(HERE / "cot_sample_ids.csv")]
+    sample_ids = [r["sentence_id"] for r in load_csv(HERE.parent / "results" / "cot_sample_ids.csv")]
     sample_set = set(sample_ids)
     rule = {r["sentence_id"]: r for r in load_csv(PROJECT / "outputs" / "damsl_bias_tags.csv")
             if r["sentence_id"] in sample_set}
     direct = {r["sentence_id"]: r for r in load_csv(PROJECT / "outputs" / "llm_tags.csv")
               if r["sentence_id"] in sample_set}
-    cot = {r["sentence_id"]: r for r in load_csv(HERE / "cot_tags.csv")
+    cot = {r["sentence_id"]: r for r in load_csv(HERE.parent / "results" / "cot_tags.csv")
            if r["sentence_id"] in sample_set}
 
     ids = [s for s in sample_ids if s in rule and s in direct and s in cot]
@@ -162,7 +162,7 @@ def main():
     def avg_n(store, field):
         return sum(int(store[s].get("n_" + field.split("_")[0] + "_tags", 0) or 0) for s in ids) / len(ids)
 
-    out = HERE / "cot_results.json"
+    out = HERE.parent / "results" / "cot_results.json"
     out.write_text(json.dumps(results, indent=2, default=str))
     print(f"[write] {out}")
 

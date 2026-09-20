@@ -18,14 +18,16 @@ the main paper's methodology exactly:
     measures from each other
 """
 import csv, json, warnings, itertools
+from pathlib import Path
 import numpy as np, pandas as pd
 warnings.filterwarnings("ignore")
 import statsmodels.api as sm
 from statsmodels.stats.meta_analysis import combine_effects
 from scipy.stats import binomtest, pearsonr
 
-D = "/Users/lavanya/debate_analysis/outputs/"
-SCRATCH = "/private/tmp/claude-501/-Users-lavanya-debate-analysis/c2e6601f-99ec-4364-9a03-d6e1384a7237/scratchpad/"
+HERE = Path(__file__).resolve().parent
+D = str(HERE.parent.parent / "outputs") + "/"
+SCRATCH = str(HERE.parent / "results") + "/"
 EX = {"1034", "1036"}
 
 master = {}
