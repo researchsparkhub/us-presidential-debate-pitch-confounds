@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Speaker Identity or Communicative Style? Pitch, Prediction, and Speaker Confounds in U.S. Presidential Debates, 1988-2020"
+type: software
+authors:
+  - family-names: Prahallad
+    given-names: Lavanya
+    affiliation: "LTRC, IIIT Hyderabad"
+  - family-names: Mamidi
+    given-names: Radhika
+    affiliation: "LTRC, IIIT Hyderabad"
+repository-code: "https://github.com/researchsparkhub/us-presidential-debate-pitch-confounds"
+license: MIT
+date-released: 2026-09-20
+keywords:
+  - political discourse analysis
+  - prosody
+  - pitch
+  - speaker confound
+  - presidential debates
+  - measurement validity
+  - large language models

@@ -120,5 +120,26 @@ case, contact the authors.
 
 ## Citation
 
-If you use this code or data, please cite the paper (full citation in
-`report/`).
+<!--
+DOI badge slot: once a release of this repository is archived on Zenodo
+(https://zenodo.org/account/settings/github/ -> toggle this repo -> cut a
+GitHub release), Zenodo mints a DOI and gives you a badge snippet to paste
+here, e.g.:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+-->
+
+If you use this code or data, please cite:
+
+```bibtex
+@article{prahallad2026speaker,
+  author  = {Prahallad, Lavanya and Mamidi, Radhika},
+  title   = {Speaker Identity or Communicative Style? Pitch, Prediction, and
+             Speaker Confounds in {U.S.} Presidential Debates, 1988--2020},
+  year    = {2026},
+  note    = {Code and data: \url{https://github.com/researchsparkhub/us-presidential-debate-pitch-confounds}}
+}
+```
+
+A machine-readable citation is also provided in
+[`CITATION.cff`](CITATION.cff) — GitHub uses this to populate the "Cite
+this repository" button in the sidebar of this repo.
