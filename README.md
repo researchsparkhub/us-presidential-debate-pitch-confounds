@@ -1,7 +1,8 @@
 # Speaker Identity or Communicative Style? Pitch, Prediction, and Speaker Confounds in U.S. Presidential Debates, 1988–2020
 
 Code and derived data for the paper by Lavanya Prahallad and Radhika Mamidi
-(LTRC, IIIT Hyderabad). The paper is in `report/`.
+(LTRC, IIIT Hyderabad). This repository covers the data-processing pipeline
+and analysis only; the paper itself is not part of this repository.
 
 The study asks whether linguistic and vocal properties distinguish
 candidates whose tickets went on to win a U.S. presidential election from
@@ -22,26 +23,21 @@ speaking, or which debate this is, not how winners communicate.
 04_acoustic/           Acoustic feature extraction (Praat, openSMILE)
 05_linguistic/         Linguistic/semantic/discourse feature extraction,
                        DAMSL + BEADS discourse tagging (rule-based and LLM)
-06_analysis/           Statistical analysis and report figures
+06_analysis/           Statistical analysis and figures
 analysis_llm_extension/  Cross-modal LLM winner-prediction experiment
                           (transcript/descriptor conditions, contamination
                           probe, grounding check) and cached model outputs
-Sahana Project/         Discourse-annotation build scripts, prompts, codebook,
-                        and inter-annotator-agreement analysis (cited by the
-                        paper's Appendix G and E)
 data/
   metadata/            Debate/candidate/outcome table
   transcripts/         Official debate transcripts (plain text)
-outputs/                Per-sentence feature tables and figures used in the paper
-report/                 The paper (journal and IEEE-style versions), figures,
-                        bibliography
+outputs/                Per-sentence derived feature tables and figures
 ```
 
 ## Getting the data
 
 - **Already in this repo**: debate/candidate/outcome metadata
   (`data/metadata/debates.csv`), official transcripts (`data/transcripts/`),
-  and every derived feature table the paper's statistics actually run on
+  and every derived feature table the analysis actually runs on
   (`outputs/`). If you want to reproduce the *analysis*, you already have
   everything you need — skip straight to the "Reproducing the analysis"
   section below.
@@ -64,8 +60,8 @@ python -m spacy download en_core_web_sm
 ```
 
 The LLM-based stages (discourse tagging, cross-modal prediction) additionally
-require an `ANTHROPIC_API_KEY` environment variable — see
-`DATA_AVAILABILITY.md`.
+require an `ANTHROPIC_API_KEY` environment variable, and prompt files that
+are not included in this repository — see `DATA_AVAILABILITY.md`.
 
 ## Reproducing the analysis
 
@@ -73,8 +69,8 @@ Everything from `data/metadata/debates.csv` and `outputs/` onward needs no
 audio:
 
 ```bash
-python 06_analysis/winner_loser_analysis.py   # the paper's statistical results
-python 06_analysis/generate_report_plots.py   # the paper's figures
+python 06_analysis/winner_loser_analysis.py   # the statistical results
+python 06_analysis/generate_report_plots.py   # the figures
 ```
 
 ## Reproducing the full pipeline from raw audio
@@ -93,23 +89,16 @@ python 05_linguistic/extract_linguistic_features.py
 python 06_analysis/winner_loser_analysis.py
 ```
 
-Tool versions and parameter settings for every stage are listed in the
-paper's Appendix C; the LLM prompts and schemas used for discourse tagging
-and cross-modal prediction are in `Sahana Project/` and
-`analysis_llm_extension/`, and specified in full in Appendix G.
+Tool versions and parameter settings for every stage are documented inline
+in each script's module docstring.
 
 ## Not included
 
-An earlier, superseded draft of this work (a different corpus scope, before
-the analysis settled on the 24-debate window) is not included here to avoid
-two versions of the paper circulating with different numbers.
-
-## The paper
-
-`report/debate_analysis_report_journal.tex` is the current, actively
-maintained version (Springer Nature journal format); build with
-`pdflatex` + `bibtex` (see `report/Makefile`). `report/dap_report.tex` is
-an earlier report frozen for historical reference.
+This repository is scoped to data and code only: the paper, its
+supplementary material, and the discourse-annotation prompts/build project
+are maintained elsewhere and are not part of this repository. An earlier,
+superseded draft of the analysis (a different corpus scope, before it
+settled on the 24-debate window) is likewise not included.
 
 ## License
 

@@ -18,19 +18,20 @@ data/raw
 02_alignment/retry_workdir_v3/
 02_alignment/verification_packets/
 
-# ---- Internal working notes (not part of the public release) ----
+# ---- Not part of this repository's scope: this repo is data + code only ----
+# The paper, its supplementary material, and the discourse-annotation
+# build project live elsewhere; kept locally, never tracked here.
 HANDOFF.md
-report/decisions.md
-report/findings.md
-report/reviews.md
-report/spec.md
+report/
+Sahana Project/
+supplementary/
+Springer_Nature/
 backups/
 
-# ---- Stale archives (superseded by report/) ----
+# ---- Stale archives (superseded by report/, kept locally only) ----
 report.tar.gz
 report.zip
 report_v1.tar.gz
-report/*.bak
 
 # ---- Superseded/alternate draft (different corpus scope; see HANDOFF/memory) ----
 Lavanya_version/

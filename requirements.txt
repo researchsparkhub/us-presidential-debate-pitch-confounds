@@ -1,5 +1,5 @@
 # Consolidated dependencies for the full pipeline (01_ingest through
-# 06_analysis, analysis_llm_extension, Sahana Project). Versions match
+# 06_analysis, analysis_llm_extension). Versions match
 # analysis_llm_extension/requirements.txt where both list the same package;
 # packages below that are not version-pinned were not pinned in the
 # original working environment and should be installed at a recent version

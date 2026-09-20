@@ -7,21 +7,24 @@
 | `data/metadata/debates.csv` | One row per candidate per debate: `debate_audio_id`, `debate_id`, `year`, `debate_type` (Presidential / Vice Presidential), `debate_number`, `date`, `speaker`, `party`, `election_winner`, `winning_party`, `result`. |
 | `data/transcripts/<debate_audio_id>.txt` | Official debate transcript, plain text. |
 | `outputs/*.csv`, `outputs/*.parquet` | Per-sentence derived feature tables (linguistic, semantic, discourse, acoustic) that the paper's analysis runs on directly. |
-| `01_ingest/` … `06_analysis/`, `analysis_llm_extension/`, `Sahana Project/` | Every script used to go from raw audio + transcript to the tables above. |
+| `01_ingest/` … `06_analysis/`, `analysis_llm_extension/` | Every script used to go from raw audio + transcript to the tables above. |
 
-The paper's core analysis (24 debates, 1988–2020) uses only the rows where
+The core analysis (24 debates, 1988–2020) uses only the rows where
 `debate_type = Presidential`; `debates.csv` also lists Vice Presidential
 debates and 2024, which are part of the broader ingested metadata but not
-part of the analytical corpus (see `report/`, Section on Corpus Scope).
+part of the analytical corpus.
 
 ## What is not included, and why
 
 **Raw and intermediate audio is not included.** These are broadcast
-recordings of televised debates; we do not hold redistribution rights, and
-the paper's own data statement (Appendix I) states this explicitly. This
+recordings of televised debates; we do not hold redistribution rights. This
 repository's `.gitignore` excludes every `.wav`/`.m4a`/`.mp3`/`.mp4` file
 and the intermediate alignment working directories under `02_alignment/`
 that would otherwise contain them.
+
+**The paper, its supplementary material, and the discourse-annotation
+prompts/build project are not included.** This repository is scoped to
+data and code for the pipeline only.
 
 ## How to obtain the audio and reproduce the acoustic pipeline
 
@@ -53,7 +56,7 @@ that would otherwise contain them.
    `retry_*.sh` scripts assume a conda environment named exactly `aligner`
    with [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
    installed, using the `english_us_arpa` acoustic model and pronunciation
-   dictionary (see Appendix C of the paper):
+   dictionary:
    ```bash
    conda create -n aligner -c conda-forge montreal-forced-aligner
    conda activate aligner
@@ -66,9 +69,9 @@ that would otherwise contain them.
 6. **Run the pipeline** from `data/metadata/debates.csv` onward, following
    the sequence in the top-level `README.md`.
 
-If you only need the derived measurements the paper's statistics run on —
-not the audio itself — everything you need is already in `outputs/`; you
-do not need to source the audio, run Whisper, or install MFA at all.
+If you only need the derived measurements the analysis runs on — not the
+audio itself — everything you need is already in `outputs/`; you do not
+need to source the audio, run Whisper, or install MFA at all.
 
 ## Other external inputs
 
@@ -78,7 +81,7 @@ do not need to source the audio, run Whisper, or install MFA at all.
   `start_sec`, `end_sec`, `diarized_speaker`), produced with
   [pyannote.audio](https://github.com/pyannote/pyannote-audio) (listed in
   `requirements.txt`) for the two 2024 debates only. This is not needed to
-  reproduce the paper's core 1988–2020 analysis.
+  reproduce the core 1988–2020 analysis.
 - **Debate inventory spreadsheet.** `01_ingest/build_debates_metadata.py`
   builds `data/metadata/debates.csv` from a source spreadsheet. Since
   `debates.csv` is already included in this repository, you do not need
@@ -91,8 +94,24 @@ do not need to source the audio, run Whisper, or install MFA at all.
 `05_linguistic/tag_llm.py`, `analysis_llm_extension/scripts/run_crossmodal.py`,
 and `analysis_llm_extension/scripts/run_cot_tagging.py` call the Anthropic
 API and expect an `ANTHROPIC_API_KEY` environment variable. No key is
-included in this repository. The exact model, prompts and schemas used are
-specified in the paper's Appendix G and in `Sahana Project/`.
+included in this repository.
+
+**These three scripts also expect prompt files that are not included in
+this repository**, since the discourse-annotation prompts/build project is
+out of scope here:
+
+| Script | Expects |
+|---|---|
+| `05_linguistic/tag_llm.py` | a `tagging_prompt.md` file one directory above the script (system prompt, codebook and JSON schema for direct DAMSL+BEADS tagging) |
+| `analysis_llm_extension/scripts/run_cot_tagging.py` | a `cot_tagging_prompt.md` file (the chain-of-thought variant) |
+| `analysis_llm_extension/scripts/run_crossmodal.py` | a `crossmodal_prompt.md` file (system prompt, both JSON schemas, the contamination-probe prompt, and the closed evidence vocabularies for cross-modal winner prediction) |
+
+Running these three scripts as-is against a fresh clone will fail on a
+missing file until you supply your own prompt files at those paths. The
+already-generated outputs of running them are still included in this
+repository (`outputs/damsl_bias_tags.csv`, `analysis_llm_extension/results/`,
+`analysis_llm_extension/cache/llm_ext_cache/`), so no other stage of the
+pipeline is affected.
 
 ## `analysis_llm_extension/` layout
 
@@ -107,5 +126,5 @@ current directory.
 ## Questions
 
 If you are a reviewer, replicator, or would like access to the underlying
-audio for research purposes, contact the corresponding author
-(see `report/`).
+audio or prompt files for research purposes, contact the corresponding
+author (see `CITATION.cff`).
