@@ -1,0 +1,32 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\pagestyle{empty}
+\begin{document}
+
+\begin{center}
+\textbf{\large Online Resource 4}
+\end{center}
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{lrr}
+\toprule
+Input             & Outcome accuracy & Exact debate identified \\
+\midrule
+Descriptors only  & $13/24$          & $0/24$ \\
+Transcript only   & $24/24$          & $24/24$ \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+\noindent\textbf{Caption.} The language model's debate-level accuracy
+(majority vote over $3$ re-randomised repeats) beside how often a separate,
+question-free probe identifies the actual debate from the same input. These
+are the same two numbers plotted in Figure~4 of the main text
+(``Transcript-Only and Descriptor-Only Judgments'' / ``Contamination
+Probe'').
+
+\end{document}

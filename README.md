@@ -2,7 +2,11 @@
 
 Code and derived data for the paper by Lavanya Prahallad and Radhika Mamidi
 (LTRC, IIIT Hyderabad). This repository covers the data-processing pipeline
-and analysis only; the paper itself is not part of this repository.
+and analysis only; the paper itself is not part of this repository. The
+exception is [`paper_supplement/`](paper_supplement/): the paper's
+Electronic Supplementary Material (its four "Online Resource" files, cited
+as such in the manuscript text), hosted here since they are journal
+submission artifacts rather than pipeline code or data.
 
 The study asks whether linguistic and vocal properties distinguish
 candidates whose tickets went on to win a U.S. presidential election from
@@ -94,11 +98,13 @@ in each script's module docstring.
 
 ## Not included
 
-This repository is scoped to data and code only: the paper, its
-supplementary material, and the discourse-annotation prompts/build project
-are maintained elsewhere and are not part of this repository. An earlier,
-superseded draft of the analysis (a different corpus scope, before it
-settled on the 24-debate window) is likewise not included.
+This repository is scoped to data and code only: the paper itself, its main
+appendix material, and the discourse-annotation prompts/build project are
+maintained elsewhere and are not part of this repository — the sole
+exception is `paper_supplement/`, the four journal-submitted Online
+Resource files (see above). An earlier, superseded draft of the analysis (a
+different corpus scope, before it settled on the 24-debate window) is
+likewise not included.
 
 ## License
 
