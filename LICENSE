@@ -1,25 +1,3 @@
-Copyright (c) 2026 Lavanya Prahallad, Radhika Mamidi
-
-Except where otherwise noted below, the contents of this repository (source
-code, derived data tables, figures, and documentation) are licensed under the
-Creative Commons Attribution 4.0 International License (CC BY 4.0).
-To view a copy of this license, visit
-https://creativecommons.org/licenses/by/4.0/
-The full legal code is reproduced below.
-
-Third-party material excluded from this license:
-  - Debate audio, which is referenced but not included (see
-    DATA_AVAILABILITY.md), remains the property of its original broadcasters.
-  - Debate transcript text (data/transcripts/, and transcript excerpts
-    reproduced in cached outputs) originates from the Commission on
-    Presidential Debates and other public sources and remains subject to its
-    original terms. It is redistributed here for research purposes only.
-
-Attribution: if you reuse this work, please cite it as described in
-CITATION.cff and README.md.
-
-=======================================================================
-
 Attribution 4.0 International
 
 =======================================================================
