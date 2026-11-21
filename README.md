@@ -108,10 +108,15 @@ likewise not included.
 
 ## License
 
-Code is released under the MIT License (see `LICENSE`). The derived,
-per-sentence feature tables in `outputs/` and `data/` are intended for
-reuse with attribution; if you need an explicit data license for your use
-case, contact the authors.
+This repository — code, derived per-sentence feature tables in `outputs/`
+and `data/`, figures, and documentation — is licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+You may share and adapt it for any purpose, provided you give appropriate
+credit (see [Citation](#citation)). The full license text is in `LICENSE`.
+
+Third-party material is excluded: debate audio (not included; see
+`DATA_AVAILABILITY.md`) and debate transcript text in `data/transcripts/`
+remain subject to their original sources' terms.
 
 ## Citation
 
